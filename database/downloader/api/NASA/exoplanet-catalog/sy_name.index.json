@@ -1,0 +1,14131 @@
+{
+	"sy_names": [
+		{
+			"sy_name": "11 Com"
+		},
+		{
+			"sy_name": "11 UMi"
+		},
+		{
+			"sy_name": "14 And"
+		},
+		{
+			"sy_name": "14 Her"
+		},
+		{
+			"sy_name": "16 Cyg"
+		},
+		{
+			"sy_name": "17 Sco"
+		},
+		{
+			"sy_name": "18 Del"
+		},
+		{
+			"sy_name": "1RXS J160929.1-210524"
+		},
+		{
+			"sy_name": "24 Boo"
+		},
+		{
+			"sy_name": "24 Sex"
+		},
+		{
+			"sy_name": "2MASS J01033563-5515561"
+		},
+		{
+			"sy_name": "2MASS J01225093-2439505"
+		},
+		{
+			"sy_name": "2MASS J02192210-3925225"
+		},
+		{
+			"sy_name": "2MASS J0249-0557"
+		},
+		{
+			"sy_name": "2MASS J03590986+2009361"
+		},
+		{
+			"sy_name": "2MASS J04372171+2651014"
+		},
+		{
+			"sy_name": "2MASS J04414489+2301513"
+		},
+		{
+			"sy_name": "2MASS J11011926-7732383"
+		},
+		{
+			"sy_name": "2MASS J11550485-7919108"
+		},
+		{
+			"sy_name": "2MASS J12073346-3932539"
+		},
+		{
+			"sy_name": "2MASS J16262785-2625152"
+		},
+		{
+			"sy_name": "2MASS J19383260+4603591"
+		},
+		{
+			"sy_name": "2MASS J21252752-8138278"
+		},
+		{
+			"sy_name": "2MASS J22362452+4751425"
+		},
+		{
+			"sy_name": "2MASS J22501512+2325342"
+		},
+		{
+			"sy_name": "4 UMa"
+		},
+		{
+			"sy_name": "47 UMa"
+		},
+		{
+			"sy_name": "51 Eri"
+		},
+		{
+			"sy_name": "51 Peg"
+		},
+		{
+			"sy_name": "55 Cnc"
+		},
+		{
+			"sy_name": "6 Lyn"
+		},
+		{
+			"sy_name": "61 Vir"
+		},
+		{
+			"sy_name": "7 CMa"
+		},
+		{
+			"sy_name": "70 Vir"
+		},
+		{
+			"sy_name": "75 Cet"
+		},
+		{
+			"sy_name": "8 UMi"
+		},
+		{
+			"sy_name": "81 Cet"
+		},
+		{
+			"sy_name": "91 Aqr"
+		},
+		{
+			"sy_name": "AB Aur"
+		},
+		{
+			"sy_name": "AB Pic"
+		},
+		{
+			"sy_name": "AF Lep"
+		},
+		{
+			"sy_name": "AT2021ueyL"
+		},
+		{
+			"sy_name": "AU Mic"
+		},
+		{
+			"sy_name": "BD+03 2562"
+		},
+		{
+			"sy_name": "BD+05 4868"
+		},
+		{
+			"sy_name": "BD+14 4559"
+		},
+		{
+			"sy_name": "BD+15 2375"
+		},
+		{
+			"sy_name": "BD+15 2940"
+		},
+		{
+			"sy_name": "BD+20 2457"
+		},
+		{
+			"sy_name": "BD+20 274"
+		},
+		{
+			"sy_name": "BD+20 594"
+		},
+		{
+			"sy_name": "BD+37 3172"
+		},
+		{
+			"sy_name": "BD+42 2315"
+		},
+		{
+			"sy_name": "BD+45 564"
+		},
+		{
+			"sy_name": "BD+48 738"
+		},
+		{
+			"sy_name": "BD+48 740"
+		},
+		{
+			"sy_name": "BD+49 828"
+		},
+		{
+			"sy_name": "BD+55 362"
+		},
+		{
+			"sy_name": "BD+60 1417"
+		},
+		{
+			"sy_name": "BD+63 1405"
+		},
+		{
+			"sy_name": "BD-06 1339"
+		},
+		{
+			"sy_name": "BD-08 2823"
+		},
+		{
+			"sy_name": "BD-10 3166"
+		},
+		{
+			"sy_name": "BD-11 4672"
+		},
+		{
+			"sy_name": "BD-13 2130"
+		},
+		{
+			"sy_name": "BD-14 3065"
+		},
+		{
+			"sy_name": "BD-17 63"
+		},
+		{
+			"sy_name": "BD-210397"
+		},
+		{
+			"sy_name": "BEBOP-3"
+		},
+		{
+			"sy_name": "BEBOP-4"
+		},
+		{
+			"sy_name": "Barnard's star"
+		},
+		{
+			"sy_name": "CD Cet"
+		},
+		{
+			"sy_name": "CD-35 2722"
+		},
+		{
+			"sy_name": "CFBDSIR J145829+101343"
+		},
+		{
+			"sy_name": "CFHTWIR-Oph 98"
+		},
+		{
+			"sy_name": "CHXR 73"
+		},
+		{
+			"sy_name": "CI Tau"
+		},
+		{
+			"sy_name": "COCONUTS-2"
+		},
+		{
+			"sy_name": "CT Cha"
+		},
+		{
+			"sy_name": "CWISEP J193518.59-154620.3"
+		},
+		{
+			"sy_name": "CoRoT-1"
+		},
+		{
+			"sy_name": "CoRoT-10"
+		},
+		{
+			"sy_name": "CoRoT-11"
+		},
+		{
+			"sy_name": "CoRoT-12"
+		},
+		{
+			"sy_name": "CoRoT-13"
+		},
+		{
+			"sy_name": "CoRoT-14"
+		},
+		{
+			"sy_name": "CoRoT-16"
+		},
+		{
+			"sy_name": "CoRoT-17"
+		},
+		{
+			"sy_name": "CoRoT-18"
+		},
+		{
+			"sy_name": "CoRoT-19"
+		},
+		{
+			"sy_name": "CoRoT-2"
+		},
+		{
+			"sy_name": "CoRoT-20"
+		},
+		{
+			"sy_name": "CoRoT-21"
+		},
+		{
+			"sy_name": "CoRoT-22"
+		},
+		{
+			"sy_name": "CoRoT-23"
+		},
+		{
+			"sy_name": "CoRoT-24"
+		},
+		{
+			"sy_name": "CoRoT-25"
+		},
+		{
+			"sy_name": "CoRoT-26"
+		},
+		{
+			"sy_name": "CoRoT-27"
+		},
+		{
+			"sy_name": "CoRoT-28"
+		},
+		{
+			"sy_name": "CoRoT-29"
+		},
+		{
+			"sy_name": "CoRoT-3"
+		},
+		{
+			"sy_name": "CoRoT-30"
+		},
+		{
+			"sy_name": "CoRoT-31"
+		},
+		{
+			"sy_name": "CoRoT-32"
+		},
+		{
+			"sy_name": "CoRoT-35"
+		},
+		{
+			"sy_name": "CoRoT-36"
+		},
+		{
+			"sy_name": "CoRoT-4"
+		},
+		{
+			"sy_name": "CoRoT-5"
+		},
+		{
+			"sy_name": "CoRoT-6"
+		},
+		{
+			"sy_name": "CoRoT-7"
+		},
+		{
+			"sy_name": "CoRoT-8"
+		},
+		{
+			"sy_name": "CoRoT-9"
+		},
+		{
+			"sy_name": "DE CVn"
+		},
+		{
+			"sy_name": "DENIS-P J082303.1-491201"
+		},
+		{
+			"sy_name": "DH Tau"
+		},
+		{
+			"sy_name": "DMPP-1"
+		},
+		{
+			"sy_name": "DMPP-2"
+		},
+		{
+			"sy_name": "DMPP-3"
+		},
+		{
+			"sy_name": "DMPP-4"
+		},
+		{
+			"sy_name": "DMPP-6"
+		},
+		{
+			"sy_name": "DMPP-7"
+		},
+		{
+			"sy_name": "DMPP-8"
+		},
+		{
+			"sy_name": "DMPP-9"
+		},
+		{
+			"sy_name": "DP Leo"
+		},
+		{
+			"sy_name": "DS Tuc"
+		},
+		{
+			"sy_name": "EPIC 201170410"
+		},
+		{
+			"sy_name": "EPIC 201238110"
+		},
+		{
+			"sy_name": "EPIC 201427007"
+		},
+		{
+			"sy_name": "EPIC 201497682"
+		},
+		{
+			"sy_name": "EPIC 201595106"
+		},
+		{
+			"sy_name": "EPIC 201757695"
+		},
+		{
+			"sy_name": "EPIC 201841433"
+		},
+		{
+			"sy_name": "EPIC 206024342"
+		},
+		{
+			"sy_name": "EPIC 206032309"
+		},
+		{
+			"sy_name": "EPIC 206042996"
+		},
+		{
+			"sy_name": "EPIC 206215704"
+		},
+		{
+			"sy_name": "EPIC 206317286"
+		},
+		{
+			"sy_name": "EPIC 211822797"
+		},
+		{
+			"sy_name": "EPIC 211945201"
+		},
+		{
+			"sy_name": "EPIC 212297394"
+		},
+		{
+			"sy_name": "EPIC 212424622"
+		},
+		{
+			"sy_name": "EPIC 212499991"
+		},
+		{
+			"sy_name": "EPIC 212587672"
+		},
+		{
+			"sy_name": "EPIC 212624936"
+		},
+		{
+			"sy_name": "EPIC 212737443"
+		},
+		{
+			"sy_name": "EPIC 220492298"
+		},
+		{
+			"sy_name": "EPIC 220674823"
+		},
+		{
+			"sy_name": "EPIC 228836835"
+		},
+		{
+			"sy_name": "EPIC 229004835"
+		},
+		{
+			"sy_name": "EPIC 246851721"
+		},
+		{
+			"sy_name": "EPIC 248847494"
+		},
+		{
+			"sy_name": "EPIC 249893012"
+		},
+		{
+			"sy_name": "FU Tau"
+		},
+		{
+			"sy_name": "G 192-15"
+		},
+		{
+			"sy_name": "G 196-3"
+		},
+		{
+			"sy_name": "G 261-6"
+		},
+		{
+			"sy_name": "G 264-012"
+		},
+		{
+			"sy_name": "G 268-110"
+		},
+		{
+			"sy_name": "G 9-40"
+		},
+		{
+			"sy_name": "GJ 1002"
+		},
+		{
+			"sy_name": "GJ 1061"
+		},
+		{
+			"sy_name": "GJ 1132"
+		},
+		{
+			"sy_name": "GJ 1148"
+		},
+		{
+			"sy_name": "GJ 1151"
+		},
+		{
+			"sy_name": "GJ 1214"
+		},
+		{
+			"sy_name": "GJ 1252"
+		},
+		{
+			"sy_name": "GJ 1265"
+		},
+		{
+			"sy_name": "GJ 1289"
+		},
+		{
+			"sy_name": "GJ 143"
+		},
+		{
+			"sy_name": "GJ 15"
+		},
+		{
+			"sy_name": "GJ 160.2"
+		},
+		{
+			"sy_name": "GJ 163"
+		},
+		{
+			"sy_name": "GJ 179"
+		},
+		{
+			"sy_name": "GJ 180"
+		},
+		{
+			"sy_name": "GJ 2030"
+		},
+		{
+			"sy_name": "GJ 2056"
+		},
+		{
+			"sy_name": "GJ 2126"
+		},
+		{
+			"sy_name": "GJ 229"
+		},
+		{
+			"sy_name": "GJ 238"
+		},
+		{
+			"sy_name": "GJ 251"
+		},
+		{
+			"sy_name": "GJ 27.1"
+		},
+		{
+			"sy_name": "GJ 273"
+		},
+		{
+			"sy_name": "GJ 3021"
+		},
+		{
+			"sy_name": "GJ 3082"
+		},
+		{
+			"sy_name": "GJ 3090"
+		},
+		{
+			"sy_name": "GJ 3138"
+		},
+		{
+			"sy_name": "GJ 317"
+		},
+		{
+			"sy_name": "GJ 328"
+		},
+		{
+			"sy_name": "GJ 3293"
+		},
+		{
+			"sy_name": "GJ 3323"
+		},
+		{
+			"sy_name": "GJ 3341"
+		},
+		{
+			"sy_name": "GJ 3378"
+		},
+		{
+			"sy_name": "GJ 338"
+		},
+		{
+			"sy_name": "GJ 341"
+		},
+		{
+			"sy_name": "GJ 3470"
+		},
+		{
+			"sy_name": "GJ 3473"
+		},
+		{
+			"sy_name": "GJ 3512"
+		},
+		{
+			"sy_name": "GJ 357"
+		},
+		{
+			"sy_name": "GJ 3634"
+		},
+		{
+			"sy_name": "GJ 367"
+		},
+		{
+			"sy_name": "GJ 3779"
+		},
+		{
+			"sy_name": "GJ 3929"
+		},
+		{
+			"sy_name": "GJ 393"
+		},
+		{
+			"sy_name": "GJ 3942"
+		},
+		{
+			"sy_name": "GJ 3988"
+		},
+		{
+			"sy_name": "GJ 3998"
+		},
+		{
+			"sy_name": "GJ 411"
+		},
+		{
+			"sy_name": "GJ 414"
+		},
+		{
+			"sy_name": "GJ 422"
+		},
+		{
+			"sy_name": "GJ 4274"
+		},
+		{
+			"sy_name": "GJ 4276"
+		},
+		{
+			"sy_name": "GJ 433"
+		},
+		{
+			"sy_name": "GJ 436"
+		},
+		{
+			"sy_name": "GJ 463"
+		},
+		{
+			"sy_name": "GJ 480"
+		},
+		{
+			"sy_name": "GJ 486"
+		},
+		{
+			"sy_name": "GJ 504"
+		},
+		{
+			"sy_name": "GJ 508.2"
+		},
+		{
+			"sy_name": "GJ 514"
+		},
+		{
+			"sy_name": "GJ 536"
+		},
+		{
+			"sy_name": "GJ 581"
+		},
+		{
+			"sy_name": "GJ 625"
+		},
+		{
+			"sy_name": "GJ 649"
+		},
+		{
+			"sy_name": "GJ 667"
+		},
+		{
+			"sy_name": "GJ 674"
+		},
+		{
+			"sy_name": "GJ 676"
+		},
+		{
+			"sy_name": "GJ 682"
+		},
+		{
+			"sy_name": "GJ 685"
+		},
+		{
+			"sy_name": "GJ 687"
+		},
+		{
+			"sy_name": "GJ 720"
+		},
+		{
+			"sy_name": "GJ 724"
+		},
+		{
+			"sy_name": "GJ 740"
+		},
+		{
+			"sy_name": "GJ 806"
+		},
+		{
+			"sy_name": "GJ 832"
+		},
+		{
+			"sy_name": "GJ 849"
+		},
+		{
+			"sy_name": "GJ 86"
+		},
+		{
+			"sy_name": "GJ 876"
+		},
+		{
+			"sy_name": "GJ 887"
+		},
+		{
+			"sy_name": "GJ 896"
+		},
+		{
+			"sy_name": "GJ 900"
+		},
+		{
+			"sy_name": "GJ 9066"
+		},
+		{
+			"sy_name": "GJ 9404"
+		},
+		{
+			"sy_name": "GJ 96"
+		},
+		{
+			"sy_name": "GJ 9689"
+		},
+		{
+			"sy_name": "GJ 9773"
+		},
+		{
+			"sy_name": "GJ 9827"
+		},
+		{
+			"sy_name": "GPX-1"
+		},
+		{
+			"sy_name": "GQ Lup"
+		},
+		{
+			"sy_name": "GSC 06214-00210"
+		},
+		{
+			"sy_name": "GU Psc"
+		},
+		{
+			"sy_name": "Gaia-1"
+		},
+		{
+			"sy_name": "Gaia-2"
+		},
+		{
+			"sy_name": "Gaia-4"
+		},
+		{
+			"sy_name": "Gaia-5"
+		},
+		{
+			"sy_name": "Gaia22dkvL"
+		},
+		{
+			"sy_name": "Gl 378"
+		},
+		{
+			"sy_name": "Gl 410"
+		},
+		{
+			"sy_name": "Gl 49"
+		},
+		{
+			"sy_name": "Gl 686"
+		},
+		{
+			"sy_name": "Gl 725"
+		},
+		{
+			"sy_name": "Gliese 12"
+		},
+		{
+			"sy_name": "HAT-P-1"
+		},
+		{
+			"sy_name": "HAT-P-11"
+		},
+		{
+			"sy_name": "HAT-P-12"
+		},
+		{
+			"sy_name": "HAT-P-13"
+		},
+		{
+			"sy_name": "HAT-P-14"
+		},
+		{
+			"sy_name": "HAT-P-15"
+		},
+		{
+			"sy_name": "HAT-P-16"
+		},
+		{
+			"sy_name": "HAT-P-17"
+		},
+		{
+			"sy_name": "HAT-P-18"
+		},
+		{
+			"sy_name": "HAT-P-19"
+		},
+		{
+			"sy_name": "HAT-P-2"
+		},
+		{
+			"sy_name": "HAT-P-20"
+		},
+		{
+			"sy_name": "HAT-P-21"
+		},
+		{
+			"sy_name": "HAT-P-22"
+		},
+		{
+			"sy_name": "HAT-P-23"
+		},
+		{
+			"sy_name": "HAT-P-24"
+		},
+		{
+			"sy_name": "HAT-P-25"
+		},
+		{
+			"sy_name": "HAT-P-26"
+		},
+		{
+			"sy_name": "HAT-P-27"
+		},
+		{
+			"sy_name": "HAT-P-28"
+		},
+		{
+			"sy_name": "HAT-P-29"
+		},
+		{
+			"sy_name": "HAT-P-3"
+		},
+		{
+			"sy_name": "HAT-P-30"
+		},
+		{
+			"sy_name": "HAT-P-31"
+		},
+		{
+			"sy_name": "HAT-P-32"
+		},
+		{
+			"sy_name": "HAT-P-33"
+		},
+		{
+			"sy_name": "HAT-P-34"
+		},
+		{
+			"sy_name": "HAT-P-35"
+		},
+		{
+			"sy_name": "HAT-P-36"
+		},
+		{
+			"sy_name": "HAT-P-37"
+		},
+		{
+			"sy_name": "HAT-P-38"
+		},
+		{
+			"sy_name": "HAT-P-39"
+		},
+		{
+			"sy_name": "HAT-P-4"
+		},
+		{
+			"sy_name": "HAT-P-40"
+		},
+		{
+			"sy_name": "HAT-P-41"
+		},
+		{
+			"sy_name": "HAT-P-42"
+		},
+		{
+			"sy_name": "HAT-P-43"
+		},
+		{
+			"sy_name": "HAT-P-44"
+		},
+		{
+			"sy_name": "HAT-P-45"
+		},
+		{
+			"sy_name": "HAT-P-46"
+		},
+		{
+			"sy_name": "HAT-P-49"
+		},
+		{
+			"sy_name": "HAT-P-5"
+		},
+		{
+			"sy_name": "HAT-P-50"
+		},
+		{
+			"sy_name": "HAT-P-51"
+		},
+		{
+			"sy_name": "HAT-P-52"
+		},
+		{
+			"sy_name": "HAT-P-53"
+		},
+		{
+			"sy_name": "HAT-P-54"
+		},
+		{
+			"sy_name": "HAT-P-55"
+		},
+		{
+			"sy_name": "HAT-P-56"
+		},
+		{
+			"sy_name": "HAT-P-57"
+		},
+		{
+			"sy_name": "HAT-P-58"
+		},
+		{
+			"sy_name": "HAT-P-59"
+		},
+		{
+			"sy_name": "HAT-P-6"
+		},
+		{
+			"sy_name": "HAT-P-60"
+		},
+		{
+			"sy_name": "HAT-P-61"
+		},
+		{
+			"sy_name": "HAT-P-62"
+		},
+		{
+			"sy_name": "HAT-P-63"
+		},
+		{
+			"sy_name": "HAT-P-64"
+		},
+		{
+			"sy_name": "HAT-P-65"
+		},
+		{
+			"sy_name": "HAT-P-66"
+		},
+		{
+			"sy_name": "HAT-P-67"
+		},
+		{
+			"sy_name": "HAT-P-68"
+		},
+		{
+			"sy_name": "HAT-P-69"
+		},
+		{
+			"sy_name": "HAT-P-7"
+		},
+		{
+			"sy_name": "HAT-P-70"
+		},
+		{
+			"sy_name": "HAT-P-8"
+		},
+		{
+			"sy_name": "HAT-P-9"
+		},
+		{
+			"sy_name": "HATS-1"
+		},
+		{
+			"sy_name": "HATS-10"
+		},
+		{
+			"sy_name": "HATS-11"
+		},
+		{
+			"sy_name": "HATS-12"
+		},
+		{
+			"sy_name": "HATS-13"
+		},
+		{
+			"sy_name": "HATS-14"
+		},
+		{
+			"sy_name": "HATS-15"
+		},
+		{
+			"sy_name": "HATS-16"
+		},
+		{
+			"sy_name": "HATS-17"
+		},
+		{
+			"sy_name": "HATS-18"
+		},
+		{
+			"sy_name": "HATS-2"
+		},
+		{
+			"sy_name": "HATS-22"
+		},
+		{
+			"sy_name": "HATS-23"
+		},
+		{
+			"sy_name": "HATS-24"
+		},
+		{
+			"sy_name": "HATS-25"
+		},
+		{
+			"sy_name": "HATS-26"
+		},
+		{
+			"sy_name": "HATS-27"
+		},
+		{
+			"sy_name": "HATS-28"
+		},
+		{
+			"sy_name": "HATS-29"
+		},
+		{
+			"sy_name": "HATS-3"
+		},
+		{
+			"sy_name": "HATS-30"
+		},
+		{
+			"sy_name": "HATS-31"
+		},
+		{
+			"sy_name": "HATS-32"
+		},
+		{
+			"sy_name": "HATS-33"
+		},
+		{
+			"sy_name": "HATS-34"
+		},
+		{
+			"sy_name": "HATS-35"
+		},
+		{
+			"sy_name": "HATS-36"
+		},
+		{
+			"sy_name": "HATS-37"
+		},
+		{
+			"sy_name": "HATS-38"
+		},
+		{
+			"sy_name": "HATS-39"
+		},
+		{
+			"sy_name": "HATS-4"
+		},
+		{
+			"sy_name": "HATS-40"
+		},
+		{
+			"sy_name": "HATS-41"
+		},
+		{
+			"sy_name": "HATS-42"
+		},
+		{
+			"sy_name": "HATS-43"
+		},
+		{
+			"sy_name": "HATS-44"
+		},
+		{
+			"sy_name": "HATS-45"
+		},
+		{
+			"sy_name": "HATS-46"
+		},
+		{
+			"sy_name": "HATS-47"
+		},
+		{
+			"sy_name": "HATS-48"
+		},
+		{
+			"sy_name": "HATS-49"
+		},
+		{
+			"sy_name": "HATS-5"
+		},
+		{
+			"sy_name": "HATS-50"
+		},
+		{
+			"sy_name": "HATS-51"
+		},
+		{
+			"sy_name": "HATS-52"
+		},
+		{
+			"sy_name": "HATS-53"
+		},
+		{
+			"sy_name": "HATS-54"
+		},
+		{
+			"sy_name": "HATS-55"
+		},
+		{
+			"sy_name": "HATS-56"
+		},
+		{
+			"sy_name": "HATS-57"
+		},
+		{
+			"sy_name": "HATS-58"
+		},
+		{
+			"sy_name": "HATS-59"
+		},
+		{
+			"sy_name": "HATS-6"
+		},
+		{
+			"sy_name": "HATS-60"
+		},
+		{
+			"sy_name": "HATS-61"
+		},
+		{
+			"sy_name": "HATS-62"
+		},
+		{
+			"sy_name": "HATS-63"
+		},
+		{
+			"sy_name": "HATS-64"
+		},
+		{
+			"sy_name": "HATS-65"
+		},
+		{
+			"sy_name": "HATS-66"
+		},
+		{
+			"sy_name": "HATS-67"
+		},
+		{
+			"sy_name": "HATS-68"
+		},
+		{
+			"sy_name": "HATS-69"
+		},
+		{
+			"sy_name": "HATS-7"
+		},
+		{
+			"sy_name": "HATS-70"
+		},
+		{
+			"sy_name": "HATS-71"
+		},
+		{
+			"sy_name": "HATS-72"
+		},
+		{
+			"sy_name": "HATS-74"
+		},
+		{
+			"sy_name": "HATS-75"
+		},
+		{
+			"sy_name": "HATS-76"
+		},
+		{
+			"sy_name": "HATS-77"
+		},
+		{
+			"sy_name": "HATS-8"
+		},
+		{
+			"sy_name": "HATS-9"
+		},
+		{
+			"sy_name": "HD 100508"
+		},
+		{
+			"sy_name": "HD 100546"
+		},
+		{
+			"sy_name": "HD 100655"
+		},
+		{
+			"sy_name": "HD 100777"
+		},
+		{
+			"sy_name": "HD 10180"
+		},
+		{
+			"sy_name": "HD 101930"
+		},
+		{
+			"sy_name": "HD 102117"
+		},
+		{
+			"sy_name": "HD 102195"
+		},
+		{
+			"sy_name": "HD 102272"
+		},
+		{
+			"sy_name": "HD 102329"
+		},
+		{
+			"sy_name": "HD 102843"
+		},
+		{
+			"sy_name": "HD 102888"
+		},
+		{
+			"sy_name": "HD 102956"
+		},
+		{
+			"sy_name": "HD 103197"
+		},
+		{
+			"sy_name": "HD 103720"
+		},
+		{
+			"sy_name": "HD 103774"
+		},
+		{
+			"sy_name": "HD 103891"
+		},
+		{
+			"sy_name": "HD 103949"
+		},
+		{
+			"sy_name": "HD 104067"
+		},
+		{
+			"sy_name": "HD 10442"
+		},
+		{
+			"sy_name": "HD 104985"
+		},
+		{
+			"sy_name": "HD 105618"
+		},
+		{
+			"sy_name": "HD 105779"
+		},
+		{
+			"sy_name": "HD 106252"
+		},
+		{
+			"sy_name": "HD 106270"
+		},
+		{
+			"sy_name": "HD 106315"
+		},
+		{
+			"sy_name": "HD 10647"
+		},
+		{
+			"sy_name": "HD 106515"
+		},
+		{
+			"sy_name": "HD 106906"
+		},
+		{
+			"sy_name": "HD 10697"
+		},
+		{
+			"sy_name": "HD 107148"
+		},
+		{
+			"sy_name": "HD 108147"
+		},
+		{
+			"sy_name": "HD 108202"
+		},
+		{
+			"sy_name": "HD 108236"
+		},
+		{
+			"sy_name": "HD 108341"
+		},
+		{
+			"sy_name": "HD 108863"
+		},
+		{
+			"sy_name": "HD 108874"
+		},
+		{
+			"sy_name": "HD 109246"
+		},
+		{
+			"sy_name": "HD 109271"
+		},
+		{
+			"sy_name": "HD 109286"
+		},
+		{
+			"sy_name": "HD 109749"
+		},
+		{
+			"sy_name": "HD 10975"
+		},
+		{
+			"sy_name": "HD 109833"
+		},
+		{
+			"sy_name": "HD 109988"
+		},
+		{
+			"sy_name": "HD 110014"
+		},
+		{
+			"sy_name": "HD 110067"
+		},
+		{
+			"sy_name": "HD 110082"
+		},
+		{
+			"sy_name": "HD 110113"
+		},
+		{
+			"sy_name": "HD 11112"
+		},
+		{
+			"sy_name": "HD 111232"
+		},
+		{
+			"sy_name": "HD 111591"
+		},
+		{
+			"sy_name": "HD 111998"
+		},
+		{
+			"sy_name": "HD 112300"
+		},
+		{
+			"sy_name": "HD 112570"
+		},
+		{
+			"sy_name": "HD 112640"
+		},
+		{
+			"sy_name": "HD 113337"
+		},
+		{
+			"sy_name": "HD 113538"
+		},
+		{
+			"sy_name": "HD 113996"
+		},
+		{
+			"sy_name": "HD 114082"
+		},
+		{
+			"sy_name": "HD 114386"
+		},
+		{
+			"sy_name": "HD 114729"
+		},
+		{
+			"sy_name": "HD 114783"
+		},
+		{
+			"sy_name": "HD 11505"
+		},
+		{
+			"sy_name": "HD 11506"
+		},
+		{
+			"sy_name": "HD 115954"
+		},
+		{
+			"sy_name": "HD 116029"
+		},
+		{
+			"sy_name": "HD 117207"
+		},
+		{
+			"sy_name": "HD 11755"
+		},
+		{
+			"sy_name": "HD 117618"
+		},
+		{
+			"sy_name": "HD 118203"
+		},
+		{
+			"sy_name": "HD 11964"
+		},
+		{
+			"sy_name": "HD 11977"
+		},
+		{
+			"sy_name": "HD 120084"
+		},
+		{
+			"sy_name": "HD 121504"
+		},
+		{
+			"sy_name": "HD 12235"
+		},
+		{
+			"sy_name": "HD 122562"
+		},
+		{
+			"sy_name": "HD 124330"
+		},
+		{
+			"sy_name": "HD 12484"
+		},
+		{
+			"sy_name": "HD 125271"
+		},
+		{
+			"sy_name": "HD 125390"
+		},
+		{
+			"sy_name": "HD 125595"
+		},
+		{
+			"sy_name": "HD 125612"
+		},
+		{
+			"sy_name": "HD 12648"
+		},
+		{
+			"sy_name": "HD 126525"
+		},
+		{
+			"sy_name": "HD 12661"
+		},
+		{
+			"sy_name": "HD 126614"
+		},
+		{
+			"sy_name": "HD 128311"
+		},
+		{
+			"sy_name": "HD 128356"
+		},
+		{
+			"sy_name": "HD 128717"
+		},
+		{
+			"sy_name": "HD 129445"
+		},
+		{
+			"sy_name": "HD 130322"
+		},
+		{
+			"sy_name": "HD 131496"
+		},
+		{
+			"sy_name": "HD 13167"
+		},
+		{
+			"sy_name": "HD 13189"
+		},
+		{
+			"sy_name": "HD 132406"
+		},
+		{
+			"sy_name": "HD 132563"
+		},
+		{
+			"sy_name": "HD 133131"
+		},
+		{
+			"sy_name": "HD 134060"
+		},
+		{
+			"sy_name": "HD 134606"
+		},
+		{
+			"sy_name": "HD 134987"
+		},
+		{
+			"sy_name": "HD 135344"
+		},
+		{
+			"sy_name": "HD 135625"
+		},
+		{
+			"sy_name": "HD 135694"
+		},
+		{
+			"sy_name": "HD 135872"
+		},
+		{
+			"sy_name": "HD 136118"
+		},
+		{
+			"sy_name": "HD 136352"
+		},
+		{
+			"sy_name": "HD 136418"
+		},
+		{
+			"sy_name": "HD 136925"
+		},
+		{
+			"sy_name": "HD 13724"
+		},
+		{
+			"sy_name": "HD 137388"
+		},
+		{
+			"sy_name": "HD 137496"
+		},
+		{
+			"sy_name": "HD 13808"
+		},
+		{
+			"sy_name": "HD 13908"
+		},
+		{
+			"sy_name": "HD 13931"
+		},
+		{
+			"sy_name": "HD 139357"
+		},
+		{
+			"sy_name": "HD 1397"
+		},
+		{
+			"sy_name": "HD 14067"
+		},
+		{
+			"sy_name": "HD 141004"
+		},
+		{
+			"sy_name": "HD 141399"
+		},
+		{
+			"sy_name": "HD 141937"
+		},
+		{
+			"sy_name": "HD 142"
+		},
+		{
+			"sy_name": "HD 142022"
+		},
+		{
+			"sy_name": "HD 142245"
+		},
+		{
+			"sy_name": "HD 142415"
+		},
+		{
+			"sy_name": "HD 143105"
+		},
+		{
+			"sy_name": "HD 143361"
+		},
+		{
+			"sy_name": "HD 143811"
+		},
+		{
+			"sy_name": "HD 144899"
+		},
+		{
+			"sy_name": "HD 145377"
+		},
+		{
+			"sy_name": "HD 145457"
+		},
+		{
+			"sy_name": "HD 145934"
+		},
+		{
+			"sy_name": "HD 1461"
+		},
+		{
+			"sy_name": "HD 147018"
+		},
+		{
+			"sy_name": "HD 147379"
+		},
+		{
+			"sy_name": "HD 147513"
+		},
+		{
+			"sy_name": "HD 14787"
+		},
+		{
+			"sy_name": "HD 147873"
+		},
+		{
+			"sy_name": "HD 148156"
+		},
+		{
+			"sy_name": "HD 148164"
+		},
+		{
+			"sy_name": "HD 148427"
+		},
+		{
+			"sy_name": "HD 149026"
+		},
+		{
+			"sy_name": "HD 149143"
+		},
+		{
+			"sy_name": "HD 150010"
+		},
+		{
+			"sy_name": "HD 1502"
+		},
+		{
+			"sy_name": "HD 150706"
+		},
+		{
+			"sy_name": "HD 151450"
+		},
+		{
+			"sy_name": "HD 152079"
+		},
+		{
+			"sy_name": "HD 152581"
+		},
+		{
+			"sy_name": "HD 152843"
+		},
+		{
+			"sy_name": "HD 15337"
+		},
+		{
+			"sy_name": "HD 153950"
+		},
+		{
+			"sy_name": "HD 154088"
+		},
+		{
+			"sy_name": "HD 154345"
+		},
+		{
+			"sy_name": "HD 154391"
+		},
+		{
+			"sy_name": "HD 154672"
+		},
+		{
+			"sy_name": "HD 154857"
+		},
+		{
+			"sy_name": "HD 155193"
+		},
+		{
+			"sy_name": "HD 155358"
+		},
+		{
+			"sy_name": "HD 156098"
+		},
+		{
+			"sy_name": "HD 156279"
+		},
+		{
+			"sy_name": "HD 156411"
+		},
+		{
+			"sy_name": "HD 156668"
+		},
+		{
+			"sy_name": "HD 156846"
+		},
+		{
+			"sy_name": "HD 158038"
+		},
+		{
+			"sy_name": "HD 158259"
+		},
+		{
+			"sy_name": "HD 158996"
+		},
+		{
+			"sy_name": "HD 15906"
+		},
+		{
+			"sy_name": "HD 159243"
+		},
+		{
+			"sy_name": "HD 159868"
+		},
+		{
+			"sy_name": "HD 1605"
+		},
+		{
+			"sy_name": "HD 160691"
+		},
+		{
+			"sy_name": "HD 161178"
+		},
+		{
+			"sy_name": "HD 16141"
+		},
+		{
+			"sy_name": "HD 16175"
+		},
+		{
+			"sy_name": "HD 162020"
+		},
+		{
+			"sy_name": "HD 163607"
+		},
+		{
+			"sy_name": "HD 16417"
+		},
+		{
+			"sy_name": "HD 164509"
+		},
+		{
+			"sy_name": "HD 164595"
+		},
+		{
+			"sy_name": "HD 164604"
+		},
+		{
+			"sy_name": "HD 164922"
+		},
+		{
+			"sy_name": "HD 165131"
+		},
+		{
+			"sy_name": "HD 165155"
+		},
+		{
+			"sy_name": "HD 1666"
+		},
+		{
+			"sy_name": "HD 166724"
+		},
+		{
+			"sy_name": "HD 167042"
+		},
+		{
+			"sy_name": "HD 16760"
+		},
+		{
+			"sy_name": "HD 167677"
+		},
+		{
+			"sy_name": "HD 167768"
+		},
+		{
+			"sy_name": "HD 168009"
+		},
+		{
+			"sy_name": "HD 168443"
+		},
+		{
+			"sy_name": "HD 168746"
+		},
+		{
+			"sy_name": "HD 168863"
+		},
+		{
+			"sy_name": "HD 1690"
+		},
+		{
+			"sy_name": "HD 16905"
+		},
+		{
+			"sy_name": "HD 169142"
+		},
+		{
+			"sy_name": "HD 169830"
+		},
+		{
+			"sy_name": "HD 170469"
+		},
+		{
+			"sy_name": "HD 17092"
+		},
+		{
+			"sy_name": "HD 171028"
+		},
+		{
+			"sy_name": "HD 171238"
+		},
+		{
+			"sy_name": "HD 17156"
+		},
+		{
+			"sy_name": "HD 173416"
+		},
+		{
+			"sy_name": "HD 174205"
+		},
+		{
+			"sy_name": "HD 175167"
+		},
+		{
+			"sy_name": "HD 175541"
+		},
+		{
+			"sy_name": "HD 175607"
+		},
+		{
+			"sy_name": "HD 17674"
+		},
+		{
+			"sy_name": "HD 176986"
+		},
+		{
+			"sy_name": "HD 177565"
+		},
+		{
+			"sy_name": "HD 177830"
+		},
+		{
+			"sy_name": "HD 178911"
+		},
+		{
+			"sy_name": "HD 179079"
+		},
+		{
+			"sy_name": "HD 179949"
+		},
+		{
+			"sy_name": "HD 180053"
+		},
+		{
+			"sy_name": "HD 18015"
+		},
+		{
+			"sy_name": "HD 180314"
+		},
+		{
+			"sy_name": "HD 180617"
+		},
+		{
+			"sy_name": "HD 180902"
+		},
+		{
+			"sy_name": "HD 181234"
+		},
+		{
+			"sy_name": "HD 181342"
+		},
+		{
+			"sy_name": "HD 181433"
+		},
+		{
+			"sy_name": "HD 181720"
+		},
+		{
+			"sy_name": "HD 183263"
+		},
+		{
+			"sy_name": "HD 183579"
+		},
+		{
+			"sy_name": "HD 184010"
+		},
+		{
+			"sy_name": "HD 18438"
+		},
+		{
+			"sy_name": "HD 185269"
+		},
+		{
+			"sy_name": "HD 185283"
+		},
+		{
+			"sy_name": "HD 18599"
+		},
+		{
+			"sy_name": "HD 187085"
+		},
+		{
+			"sy_name": "HD 187123"
+		},
+		{
+			"sy_name": "HD 18742"
+		},
+		{
+			"sy_name": "HD 188015"
+		},
+		{
+			"sy_name": "HD 188641"
+		},
+		{
+			"sy_name": "HD 189567"
+		},
+		{
+			"sy_name": "HD 189733"
+		},
+		{
+			"sy_name": "HD 190007"
+		},
+		{
+			"sy_name": "HD 190228"
+		},
+		{
+			"sy_name": "HD 190360"
+		},
+		{
+			"sy_name": "HD 190647"
+		},
+		{
+			"sy_name": "HD 190984"
+		},
+		{
+			"sy_name": "HD 191806"
+		},
+		{
+			"sy_name": "HD 191939"
+		},
+		{
+			"sy_name": "HD 192263"
+		},
+		{
+			"sy_name": "HD 192310"
+		},
+		{
+			"sy_name": "HD 192699"
+		},
+		{
+			"sy_name": "HD 194490"
+		},
+		{
+			"sy_name": "HD 195019"
+		},
+		{
+			"sy_name": "HD 196050"
+		},
+		{
+			"sy_name": "HD 196067"
+		},
+		{
+			"sy_name": "HD 19615"
+		},
+		{
+			"sy_name": "HD 196885"
+		},
+		{
+			"sy_name": "HD 197037"
+		},
+		{
+			"sy_name": "HD 19994"
+		},
+		{
+			"sy_name": "HD 20003"
+		},
+		{
+			"sy_name": "HD 200964"
+		},
+		{
+			"sy_name": "HD 202206"
+		},
+		{
+			"sy_name": "HD 202696"
+		},
+		{
+			"sy_name": "HD 202772"
+		},
+		{
+			"sy_name": "HD 203030"
+		},
+		{
+			"sy_name": "HD 20329"
+		},
+		{
+			"sy_name": "HD 203387"
+		},
+		{
+			"sy_name": "HD 2039"
+		},
+		{
+			"sy_name": "HD 204313"
+		},
+		{
+			"sy_name": "HD 204941"
+		},
+		{
+			"sy_name": "HD 205158"
+		},
+		{
+			"sy_name": "HD 205739"
+		},
+		{
+			"sy_name": "HD 206255"
+		},
+		{
+			"sy_name": "HD 206610"
+		},
+		{
+			"sy_name": "HD 206893"
+		},
+		{
+			"sy_name": "HD 207496"
+		},
+		{
+			"sy_name": "HD 20782"
+		},
+		{
+			"sy_name": "HD 207832"
+		},
+		{
+			"sy_name": "HD 207897"
+		},
+		{
+			"sy_name": "HD 20794"
+		},
+		{
+			"sy_name": "HD 208487"
+		},
+		{
+			"sy_name": "HD 208527"
+		},
+		{
+			"sy_name": "HD 20868"
+		},
+		{
+			"sy_name": "HD 208897"
+		},
+		{
+			"sy_name": "HD 209458"
+		},
+		{
+			"sy_name": "HD 210193"
+		},
+		{
+			"sy_name": "HD 210277"
+		},
+		{
+			"sy_name": "HD 210702"
+		},
+		{
+			"sy_name": "HD 211403"
+		},
+		{
+			"sy_name": "HD 211810"
+		},
+		{
+			"sy_name": "HD 211970"
+		},
+		{
+			"sy_name": "HD 212301"
+		},
+		{
+			"sy_name": "HD 212771"
+		},
+		{
+			"sy_name": "HD 213240"
+		},
+		{
+			"sy_name": "HD 213472"
+		},
+		{
+			"sy_name": "HD 213519"
+		},
+		{
+			"sy_name": "HD 213885"
+		},
+		{
+			"sy_name": "HD 21411"
+		},
+		{
+			"sy_name": "HD 214823"
+		},
+		{
+			"sy_name": "HD 215152"
+		},
+		{
+			"sy_name": "HD 21520"
+		},
+		{
+			"sy_name": "HD 215497"
+		},
+		{
+			"sy_name": "HD 216435"
+		},
+		{
+			"sy_name": "HD 216437"
+		},
+		{
+			"sy_name": "HD 216520"
+		},
+		{
+			"sy_name": "HD 216536"
+		},
+		{
+			"sy_name": "HD 216770"
+		},
+		{
+			"sy_name": "HD 21693"
+		},
+		{
+			"sy_name": "HD 217107"
+		},
+		{
+			"sy_name": "HD 217786"
+		},
+		{
+			"sy_name": "HD 217958"
+		},
+		{
+			"sy_name": "HD 218566"
+		},
+		{
+			"sy_name": "HD 219077"
+		},
+		{
+			"sy_name": "HD 219134"
+		},
+		{
+			"sy_name": "HD 219139"
+		},
+		{
+			"sy_name": "HD 219415"
+		},
+		{
+			"sy_name": "HD 219666"
+		},
+		{
+			"sy_name": "HD 219828"
+		},
+		{
+			"sy_name": "HD 220074"
+		},
+		{
+			"sy_name": "HD 220197"
+		},
+		{
+			"sy_name": "HD 220689"
+		},
+		{
+			"sy_name": "HD 220773"
+		},
+		{
+			"sy_name": "HD 220842"
+		},
+		{
+			"sy_name": "HD 221287"
+		},
+		{
+			"sy_name": "HD 221416"
+		},
+		{
+			"sy_name": "HD 221420"
+		},
+		{
+			"sy_name": "HD 221585"
+		},
+		{
+			"sy_name": "HD 222076"
+		},
+		{
+			"sy_name": "HD 222155"
+		},
+		{
+			"sy_name": "HD 222237"
+		},
+		{
+			"sy_name": "HD 222582"
+		},
+		{
+			"sy_name": "HD 224018"
+		},
+		{
+			"sy_name": "HD 224538"
+		},
+		{
+			"sy_name": "HD 224693"
+		},
+		{
+			"sy_name": "HD 22496"
+		},
+		{
+			"sy_name": "HD 22532"
+		},
+		{
+			"sy_name": "HD 22781"
+		},
+		{
+			"sy_name": "HD 22946"
+		},
+		{
+			"sy_name": "HD 23079"
+		},
+		{
+			"sy_name": "HD 23127"
+		},
+		{
+			"sy_name": "HD 231701"
+		},
+		{
+			"sy_name": "HD 233604"
+		},
+		{
+			"sy_name": "HD 233832"
+		},
+		{
+			"sy_name": "HD 23472"
+		},
+		{
+			"sy_name": "HD 235088"
+		},
+		{
+			"sy_name": "HD 23596"
+		},
+		{
+			"sy_name": "HD 238090"
+		},
+		{
+			"sy_name": "HD 238914"
+		},
+		{
+			"sy_name": "HD 240210"
+		},
+		{
+			"sy_name": "HD 240237"
+		},
+		{
+			"sy_name": "HD 24040"
+		},
+		{
+			"sy_name": "HD 24064"
+		},
+		{
+			"sy_name": "HD 24085"
+		},
+		{
+			"sy_name": "HD 25015"
+		},
+		{
+			"sy_name": "HD 25171"
+		},
+		{
+			"sy_name": "HD 25463"
+		},
+		{
+			"sy_name": "HD 25723"
+		},
+		{
+			"sy_name": "HD 25912"
+		},
+		{
+			"sy_name": "HD 260655"
+		},
+		{
+			"sy_name": "HD 26161"
+		},
+		{
+			"sy_name": "HD 2638"
+		},
+		{
+			"sy_name": "HD 2685"
+		},
+		{
+			"sy_name": "HD 27442"
+		},
+		{
+			"sy_name": "HD 27631"
+		},
+		{
+			"sy_name": "HD 27894"
+		},
+		{
+			"sy_name": "HD 27969"
+		},
+		{
+			"sy_name": "HD 28109"
+		},
+		{
+			"sy_name": "HD 28185"
+		},
+		{
+			"sy_name": "HD 28192"
+		},
+		{
+			"sy_name": "HD 28254"
+		},
+		{
+			"sy_name": "HD 284149"
+		},
+		{
+			"sy_name": "HD 28471"
+		},
+		{
+			"sy_name": "HD 285507"
+		},
+		{
+			"sy_name": "HD 285968"
+		},
+		{
+			"sy_name": "HD 28678"
+		},
+		{
+			"sy_name": "HD 29021"
+		},
+		{
+			"sy_name": "HD 290327"
+		},
+		{
+			"sy_name": "HD 29399"
+		},
+		{
+			"sy_name": "HD 2952"
+		},
+		{
+			"sy_name": "HD 29985"
+		},
+		{
+			"sy_name": "HD 30177"
+		},
+		{
+			"sy_name": "HD 30562"
+		},
+		{
+			"sy_name": "HD 30669"
+		},
+		{
+			"sy_name": "HD 307842"
+		},
+		{
+			"sy_name": "HD 30856"
+		},
+		{
+			"sy_name": "HD 31253"
+		},
+		{
+			"sy_name": "HD 31527"
+		},
+		{
+			"sy_name": "HD 3167"
+		},
+		{
+			"sy_name": "HD 32518"
+		},
+		{
+			"sy_name": "HD 32963"
+		},
+		{
+			"sy_name": "HD 330075"
+		},
+		{
+			"sy_name": "HD 331093"
+		},
+		{
+			"sy_name": "HD 33142"
+		},
+		{
+			"sy_name": "HD 332231"
+		},
+		{
+			"sy_name": "HD 33283"
+		},
+		{
+			"sy_name": "HD 33564"
+		},
+		{
+			"sy_name": "HD 33844"
+		},
+		{
+			"sy_name": "HD 34445"
+		},
+		{
+			"sy_name": "HD 35759"
+		},
+		{
+			"sy_name": "HD 35843"
+		},
+		{
+			"sy_name": "HD 360"
+		},
+		{
+			"sy_name": "HD 36384"
+		},
+		{
+			"sy_name": "HD 3651"
+		},
+		{
+			"sy_name": "HD 37124"
+		},
+		{
+			"sy_name": "HD 37605"
+		},
+		{
+			"sy_name": "HD 3765"
+		},
+		{
+			"sy_name": "HD 38283"
+		},
+		{
+			"sy_name": "HD 38529"
+		},
+		{
+			"sy_name": "HD 38801"
+		},
+		{
+			"sy_name": "HD 39091"
+		},
+		{
+			"sy_name": "HD 39194"
+		},
+		{
+			"sy_name": "HD 39855"
+		},
+		{
+			"sy_name": "HD 40307"
+		},
+		{
+			"sy_name": "HD 40956"
+		},
+		{
+			"sy_name": "HD 40979"
+		},
+		{
+			"sy_name": "HD 41004"
+		},
+		{
+			"sy_name": "HD 4113"
+		},
+		{
+			"sy_name": "HD 42012"
+		},
+		{
+			"sy_name": "HD 4203"
+		},
+		{
+			"sy_name": "HD 4208"
+		},
+		{
+			"sy_name": "HD 42618"
+		},
+		{
+			"sy_name": "HD 4308"
+		},
+		{
+			"sy_name": "HD 4313"
+		},
+		{
+			"sy_name": "HD 43197"
+		},
+		{
+			"sy_name": "HD 43691"
+		},
+		{
+			"sy_name": "HD 44219"
+		},
+		{
+			"sy_name": "HD 45184"
+		},
+		{
+			"sy_name": "HD 45350"
+		},
+		{
+			"sy_name": "HD 45364"
+		},
+		{
+			"sy_name": "HD 45652"
+		},
+		{
+			"sy_name": "HD 457"
+		},
+		{
+			"sy_name": "HD 46375"
+		},
+		{
+			"sy_name": "HD 47186"
+		},
+		{
+			"sy_name": "HD 4732"
+		},
+		{
+			"sy_name": "HD 47366"
+		},
+		{
+			"sy_name": "HD 47536"
+		},
+		{
+			"sy_name": "HD 4760"
+		},
+		{
+			"sy_name": "HD 48265"
+		},
+		{
+			"sy_name": "HD 48948"
+		},
+		{
+			"sy_name": "HD 4917"
+		},
+		{
+			"sy_name": "HD 49674"
+		},
+		{
+			"sy_name": "HD 50499"
+		},
+		{
+			"sy_name": "HD 50554"
+		},
+		{
+			"sy_name": "HD 51608"
+		},
+		{
+			"sy_name": "HD 52265"
+		},
+		{
+			"sy_name": "HD 5278"
+		},
+		{
+			"sy_name": "HD 5319"
+		},
+		{
+			"sy_name": "HD 5388"
+		},
+		{
+			"sy_name": "HD 55696"
+		},
+		{
+			"sy_name": "HD 5583"
+		},
+		{
+			"sy_name": "HD 5608"
+		},
+		{
+			"sy_name": "HD 564"
+		},
+		{
+			"sy_name": "HD 56414"
+		},
+		{
+			"sy_name": "HD 56957"
+		},
+		{
+			"sy_name": "HD 5891"
+		},
+		{
+			"sy_name": "HD 59686"
+		},
+		{
+			"sy_name": "HD 60292"
+		},
+		{
+			"sy_name": "HD 60532"
+		},
+		{
+			"sy_name": "HD 6061"
+		},
+		{
+			"sy_name": "HD 62364"
+		},
+		{
+			"sy_name": "HD 62509"
+		},
+		{
+			"sy_name": "HD 62549"
+		},
+		{
+			"sy_name": "HD 63433"
+		},
+		{
+			"sy_name": "HD 63454"
+		},
+		{
+			"sy_name": "HD 63765"
+		},
+		{
+			"sy_name": "HD 63935"
+		},
+		{
+			"sy_name": "HD 64114"
+		},
+		{
+			"sy_name": "HD 64121"
+		},
+		{
+			"sy_name": "HD 6434"
+		},
+		{
+			"sy_name": "HD 65216"
+		},
+		{
+			"sy_name": "HD 66141"
+		},
+		{
+			"sy_name": "HD 66428"
+		},
+		{
+			"sy_name": "HD 67087"
+		},
+		{
+			"sy_name": "HD 6718"
+		},
+		{
+			"sy_name": "HD 68402"
+		},
+		{
+			"sy_name": "HD 68475"
+		},
+		{
+			"sy_name": "HD 6860"
+		},
+		{
+			"sy_name": "HD 68988"
+		},
+		{
+			"sy_name": "HD 69123"
+		},
+		{
+			"sy_name": "HD 69830"
+		},
+		{
+			"sy_name": "HD 70573"
+		},
+		{
+			"sy_name": "HD 70642"
+		},
+		{
+			"sy_name": "HD 7199"
+		},
+		{
+			"sy_name": "HD 72490"
+		},
+		{
+			"sy_name": "HD 72659"
+		},
+		{
+			"sy_name": "HD 72892"
+		},
+		{
+			"sy_name": "HD 73256"
+		},
+		{
+			"sy_name": "HD 73267"
+		},
+		{
+			"sy_name": "HD 73344"
+		},
+		{
+			"sy_name": "HD 73526"
+		},
+		{
+			"sy_name": "HD 73534"
+		},
+		{
+			"sy_name": "HD 73583"
+		},
+		{
+			"sy_name": "HD 74156"
+		},
+		{
+			"sy_name": "HD 7449"
+		},
+		{
+			"sy_name": "HD 74698"
+		},
+		{
+			"sy_name": "HD 75289"
+		},
+		{
+			"sy_name": "HD 75302"
+		},
+		{
+			"sy_name": "HD 75784"
+		},
+		{
+			"sy_name": "HD 75898"
+		},
+		{
+			"sy_name": "HD 76700"
+		},
+		{
+			"sy_name": "HD 76920"
+		},
+		{
+			"sy_name": "HD 77338"
+		},
+		{
+			"sy_name": "HD 77946"
+		},
+		{
+			"sy_name": "HD 79181"
+		},
+		{
+			"sy_name": "HD 7924"
+		},
+		{
+			"sy_name": "HD 79498"
+		},
+		{
+			"sy_name": "HD 80606"
+		},
+		{
+			"sy_name": "HD 80653"
+		},
+		{
+			"sy_name": "HD 80869"
+		},
+		{
+			"sy_name": "HD 80883"
+		},
+		{
+			"sy_name": "HD 80913"
+		},
+		{
+			"sy_name": "HD 81040"
+		},
+		{
+			"sy_name": "HD 81688"
+		},
+		{
+			"sy_name": "HD 81817"
+		},
+		{
+			"sy_name": "HD 82886"
+		},
+		{
+			"sy_name": "HD 82943"
+		},
+		{
+			"sy_name": "HD 8326"
+		},
+		{
+			"sy_name": "HD 83443"
+		},
+		{
+			"sy_name": "HD 8535"
+		},
+		{
+			"sy_name": "HD 85390"
+		},
+		{
+			"sy_name": "HD 8574"
+		},
+		{
+			"sy_name": "HD 86065"
+		},
+		{
+			"sy_name": "HD 86081"
+		},
+		{
+			"sy_name": "HD 86226"
+		},
+		{
+			"sy_name": "HD 86264"
+		},
+		{
+			"sy_name": "HD 86728"
+		},
+		{
+			"sy_name": "HD 8673"
+		},
+		{
+			"sy_name": "HD 86950"
+		},
+		{
+			"sy_name": "HD 87646"
+		},
+		{
+			"sy_name": "HD 87816"
+		},
+		{
+			"sy_name": "HD 87883"
+		},
+		{
+			"sy_name": "HD 88072"
+		},
+		{
+			"sy_name": "HD 88133"
+		},
+		{
+			"sy_name": "HD 88986"
+		},
+		{
+			"sy_name": "HD 89307"
+		},
+		{
+			"sy_name": "HD 89345"
+		},
+		{
+			"sy_name": "HD 89744"
+		},
+		{
+			"sy_name": "HD 89839"
+		},
+		{
+			"sy_name": "HD 90156"
+		},
+		{
+			"sy_name": "HD 9174"
+		},
+		{
+			"sy_name": "HD 92788"
+		},
+		{
+			"sy_name": "HD 93083"
+		},
+		{
+			"sy_name": "HD 93351"
+		},
+		{
+			"sy_name": "HD 93385"
+		},
+		{
+			"sy_name": "HD 93963"
+		},
+		{
+			"sy_name": "HD 9446"
+		},
+		{
+			"sy_name": "HD 94771"
+		},
+		{
+			"sy_name": "HD 94834"
+		},
+		{
+			"sy_name": "HD 94890"
+		},
+		{
+			"sy_name": "HD 95086"
+		},
+		{
+			"sy_name": "HD 95089"
+		},
+		{
+			"sy_name": "HD 95127"
+		},
+		{
+			"sy_name": "HD 95338"
+		},
+		{
+			"sy_name": "HD 95544"
+		},
+		{
+			"sy_name": "HD 95872"
+		},
+		{
+			"sy_name": "HD 96063"
+		},
+		{
+			"sy_name": "HD 96127"
+		},
+		{
+			"sy_name": "HD 96167"
+		},
+		{
+			"sy_name": "HD 96700"
+		},
+		{
+			"sy_name": "HD 96992"
+		},
+		{
+			"sy_name": "HD 97037"
+		},
+		{
+			"sy_name": "HD 97048"
+		},
+		{
+			"sy_name": "HD 97658"
+		},
+		{
+			"sy_name": "HD 98219"
+		},
+		{
+			"sy_name": "HD 98649"
+		},
+		{
+			"sy_name": "HD 98736"
+		},
+		{
+			"sy_name": "HD 99109"
+		},
+		{
+			"sy_name": "HD 99283"
+		},
+		{
+			"sy_name": "HD 99492"
+		},
+		{
+			"sy_name": "HD 99706"
+		},
+		{
+			"sy_name": "HIP 103768"
+		},
+		{
+			"sy_name": "HIP 104436"
+		},
+		{
+			"sy_name": "HIP 105854"
+		},
+		{
+			"sy_name": "HIP 107772"
+		},
+		{
+			"sy_name": "HIP 107773"
+		},
+		{
+			"sy_name": "HIP 109384"
+		},
+		{
+			"sy_name": "HIP 109600"
+		},
+		{
+			"sy_name": "HIP 111909"
+		},
+		{
+			"sy_name": "HIP 113103"
+		},
+		{
+			"sy_name": "HIP 114933"
+		},
+		{
+			"sy_name": "HIP 116454"
+		},
+		{
+			"sy_name": "HIP 12961"
+		},
+		{
+			"sy_name": "HIP 13642 A"
+		},
+		{
+			"sy_name": "HIP 14810"
+		},
+		{
+			"sy_name": "HIP 15799"
+		},
+		{
+			"sy_name": "HIP 18606"
+		},
+		{
+			"sy_name": "HIP 19976"
+		},
+		{
+			"sy_name": "HIP 21152"
+		},
+		{
+			"sy_name": "HIP 34222"
+		},
+		{
+			"sy_name": "HIP 35173"
+		},
+		{
+			"sy_name": "HIP 35965"
+		},
+		{
+			"sy_name": "HIP 38594"
+		},
+		{
+			"sy_name": "HIP 39017"
+		},
+		{
+			"sy_name": "HIP 41378"
+		},
+		{
+			"sy_name": "HIP 4845"
+		},
+		{
+			"sy_name": "HIP 48714"
+		},
+		{
+			"sy_name": "HIP 5158"
+		},
+		{
+			"sy_name": "HIP 54373"
+		},
+		{
+			"sy_name": "HIP 54515"
+		},
+		{
+			"sy_name": "HIP 54597"
+		},
+		{
+			"sy_name": "HIP 55507"
+		},
+		{
+			"sy_name": "HIP 56640"
+		},
+		{
+			"sy_name": "HIP 56998"
+		},
+		{
+			"sy_name": "HIP 57274"
+		},
+		{
+			"sy_name": "HIP 5763"
+		},
+		{
+			"sy_name": "HIP 5957"
+		},
+		{
+			"sy_name": "HIP 62039"
+		},
+		{
+			"sy_name": "HIP 63242"
+		},
+		{
+			"sy_name": "HIP 64797 A"
+		},
+		{
+			"sy_name": "HIP 65"
+		},
+		{
+			"sy_name": "HIP 65407"
+		},
+		{
+			"sy_name": "HIP 65426"
+		},
+		{
+			"sy_name": "HIP 65891"
+		},
+		{
+			"sy_name": "HIP 66074"
+		},
+		{
+			"sy_name": "HIP 67522"
+		},
+		{
+			"sy_name": "HIP 67537"
+		},
+		{
+			"sy_name": "HIP 67851"
+		},
+		{
+			"sy_name": "HIP 70849"
+		},
+		{
+			"sy_name": "HIP 70950"
+		},
+		{
+			"sy_name": "HIP 71135"
+		},
+		{
+			"sy_name": "HIP 74890"
+		},
+		{
+			"sy_name": "HIP 75092"
+		},
+		{
+			"sy_name": "HIP 77358"
+		},
+		{
+			"sy_name": "HIP 77900"
+		},
+		{
+			"sy_name": "HIP 78530"
+		},
+		{
+			"sy_name": "HIP 79098"
+		},
+		{
+			"sy_name": "HIP 79431"
+		},
+		{
+			"sy_name": "HIP 81208"
+		},
+		{
+			"sy_name": "HIP 81375"
+		},
+		{
+			"sy_name": "HIP 8152"
+		},
+		{
+			"sy_name": "HIP 83020 A"
+		},
+		{
+			"sy_name": "HIP 84988"
+		},
+		{
+			"sy_name": "HIP 8541"
+		},
+		{
+			"sy_name": "HIP 86057"
+		},
+		{
+			"sy_name": "HIP 86221"
+		},
+		{
+			"sy_name": "HIP 90988"
+		},
+		{
+			"sy_name": "HIP 91258"
+		},
+		{
+			"sy_name": "HIP 94235"
+		},
+		{
+			"sy_name": "HIP 948"
+		},
+		{
+			"sy_name": "HIP 9618"
+		},
+		{
+			"sy_name": "HIP 97166"
+		},
+		{
+			"sy_name": "HIP 97233"
+		},
+		{
+			"sy_name": "HIP 99770"
+		},
+		{
+			"sy_name": "HN Lib"
+		},
+		{
+			"sy_name": "HN Peg"
+		},
+		{
+			"sy_name": "HR 2562"
+		},
+		{
+			"sy_name": "HR 5183"
+		},
+		{
+			"sy_name": "HR 810"
+		},
+		{
+			"sy_name": "HR 858"
+		},
+		{
+			"sy_name": "HR 8799"
+		},
+		{
+			"sy_name": "HS Psc"
+		},
+		{
+			"sy_name": "HU Aqr"
+		},
+		{
+			"sy_name": "IC 4651 9122"
+		},
+		{
+			"sy_name": "ISO-Oph 96"
+		},
+		{
+			"sy_name": "ITG 15"
+		},
+		{
+			"sy_name": "K2-10"
+		},
+		{
+			"sy_name": "K2-100"
+		},
+		{
+			"sy_name": "K2-101"
+		},
+		{
+			"sy_name": "K2-102"
+		},
+		{
+			"sy_name": "K2-104"
+		},
+		{
+			"sy_name": "K2-105"
+		},
+		{
+			"sy_name": "K2-107"
+		},
+		{
+			"sy_name": "K2-108"
+		},
+		{
+			"sy_name": "K2-11"
+		},
+		{
+			"sy_name": "K2-110"
+		},
+		{
+			"sy_name": "K2-111"
+		},
+		{
+			"sy_name": "K2-113"
+		},
+		{
+			"sy_name": "K2-114"
+		},
+		{
+			"sy_name": "K2-115"
+		},
+		{
+			"sy_name": "K2-116"
+		},
+		{
+			"sy_name": "K2-117"
+		},
+		{
+			"sy_name": "K2-118"
+		},
+		{
+			"sy_name": "K2-119"
+		},
+		{
+			"sy_name": "K2-12"
+		},
+		{
+			"sy_name": "K2-121"
+		},
+		{
+			"sy_name": "K2-122"
+		},
+		{
+			"sy_name": "K2-123"
+		},
+		{
+			"sy_name": "K2-124"
+		},
+		{
+			"sy_name": "K2-125"
+		},
+		{
+			"sy_name": "K2-126"
+		},
+		{
+			"sy_name": "K2-127"
+		},
+		{
+			"sy_name": "K2-128"
+		},
+		{
+			"sy_name": "K2-129"
+		},
+		{
+			"sy_name": "K2-13"
+		},
+		{
+			"sy_name": "K2-130"
+		},
+		{
+			"sy_name": "K2-131"
+		},
+		{
+			"sy_name": "K2-132"
+		},
+		{
+			"sy_name": "K2-133"
+		},
+		{
+			"sy_name": "K2-136"
+		},
+		{
+			"sy_name": "K2-137"
+		},
+		{
+			"sy_name": "K2-138"
+		},
+		{
+			"sy_name": "K2-139"
+		},
+		{
+			"sy_name": "K2-14"
+		},
+		{
+			"sy_name": "K2-140"
+		},
+		{
+			"sy_name": "K2-141"
+		},
+		{
+			"sy_name": "K2-146"
+		},
+		{
+			"sy_name": "K2-147"
+		},
+		{
+			"sy_name": "K2-148"
+		},
+		{
+			"sy_name": "K2-149"
+		},
+		{
+			"sy_name": "K2-15"
+		},
+		{
+			"sy_name": "K2-150"
+		},
+		{
+			"sy_name": "K2-151"
+		},
+		{
+			"sy_name": "K2-152"
+		},
+		{
+			"sy_name": "K2-153"
+		},
+		{
+			"sy_name": "K2-154"
+		},
+		{
+			"sy_name": "K2-155"
+		},
+		{
+			"sy_name": "K2-156"
+		},
+		{
+			"sy_name": "K2-157"
+		},
+		{
+			"sy_name": "K2-158"
+		},
+		{
+			"sy_name": "K2-159"
+		},
+		{
+			"sy_name": "K2-16"
+		},
+		{
+			"sy_name": "K2-160"
+		},
+		{
+			"sy_name": "K2-161"
+		},
+		{
+			"sy_name": "K2-162"
+		},
+		{
+			"sy_name": "K2-163"
+		},
+		{
+			"sy_name": "K2-164"
+		},
+		{
+			"sy_name": "K2-165"
+		},
+		{
+			"sy_name": "K2-166"
+		},
+		{
+			"sy_name": "K2-167"
+		},
+		{
+			"sy_name": "K2-168"
+		},
+		{
+			"sy_name": "K2-169"
+		},
+		{
+			"sy_name": "K2-17"
+		},
+		{
+			"sy_name": "K2-170"
+		},
+		{
+			"sy_name": "K2-171"
+		},
+		{
+			"sy_name": "K2-172"
+		},
+		{
+			"sy_name": "K2-173"
+		},
+		{
+			"sy_name": "K2-174"
+		},
+		{
+			"sy_name": "K2-175"
+		},
+		{
+			"sy_name": "K2-176"
+		},
+		{
+			"sy_name": "K2-177"
+		},
+		{
+			"sy_name": "K2-178"
+		},
+		{
+			"sy_name": "K2-179"
+		},
+		{
+			"sy_name": "K2-18"
+		},
+		{
+			"sy_name": "K2-180"
+		},
+		{
+			"sy_name": "K2-181"
+		},
+		{
+			"sy_name": "K2-182"
+		},
+		{
+			"sy_name": "K2-183"
+		},
+		{
+			"sy_name": "K2-184"
+		},
+		{
+			"sy_name": "K2-185"
+		},
+		{
+			"sy_name": "K2-186"
+		},
+		{
+			"sy_name": "K2-187"
+		},
+		{
+			"sy_name": "K2-188"
+		},
+		{
+			"sy_name": "K2-189"
+		},
+		{
+			"sy_name": "K2-19"
+		},
+		{
+			"sy_name": "K2-190"
+		},
+		{
+			"sy_name": "K2-191"
+		},
+		{
+			"sy_name": "K2-192"
+		},
+		{
+			"sy_name": "K2-193"
+		},
+		{
+			"sy_name": "K2-194"
+		},
+		{
+			"sy_name": "K2-195"
+		},
+		{
+			"sy_name": "K2-196"
+		},
+		{
+			"sy_name": "K2-197"
+		},
+		{
+			"sy_name": "K2-198"
+		},
+		{
+			"sy_name": "K2-199"
+		},
+		{
+			"sy_name": "K2-200"
+		},
+		{
+			"sy_name": "K2-201"
+		},
+		{
+			"sy_name": "K2-2016-BLG-0005L"
+		},
+		{
+			"sy_name": "K2-202"
+		},
+		{
+			"sy_name": "K2-203"
+		},
+		{
+			"sy_name": "K2-204"
+		},
+		{
+			"sy_name": "K2-205"
+		},
+		{
+			"sy_name": "K2-206"
+		},
+		{
+			"sy_name": "K2-207"
+		},
+		{
+			"sy_name": "K2-208"
+		},
+		{
+			"sy_name": "K2-209"
+		},
+		{
+			"sy_name": "K2-21"
+		},
+		{
+			"sy_name": "K2-210"
+		},
+		{
+			"sy_name": "K2-211"
+		},
+		{
+			"sy_name": "K2-212"
+		},
+		{
+			"sy_name": "K2-213"
+		},
+		{
+			"sy_name": "K2-214"
+		},
+		{
+			"sy_name": "K2-215"
+		},
+		{
+			"sy_name": "K2-216"
+		},
+		{
+			"sy_name": "K2-217"
+		},
+		{
+			"sy_name": "K2-218"
+		},
+		{
+			"sy_name": "K2-219"
+		},
+		{
+			"sy_name": "K2-22"
+		},
+		{
+			"sy_name": "K2-220"
+		},
+		{
+			"sy_name": "K2-221"
+		},
+		{
+			"sy_name": "K2-222"
+		},
+		{
+			"sy_name": "K2-223"
+		},
+		{
+			"sy_name": "K2-224"
+		},
+		{
+			"sy_name": "K2-225"
+		},
+		{
+			"sy_name": "K2-226"
+		},
+		{
+			"sy_name": "K2-227"
+		},
+		{
+			"sy_name": "K2-228"
+		},
+		{
+			"sy_name": "K2-229"
+		},
+		{
+			"sy_name": "K2-230"
+		},
+		{
+			"sy_name": "K2-231"
+		},
+		{
+			"sy_name": "K2-232"
+		},
+		{
+			"sy_name": "K2-233"
+		},
+		{
+			"sy_name": "K2-237"
+		},
+		{
+			"sy_name": "K2-238"
+		},
+		{
+			"sy_name": "K2-239"
+		},
+		{
+			"sy_name": "K2-24"
+		},
+		{
+			"sy_name": "K2-240"
+		},
+		{
+			"sy_name": "K2-241"
+		},
+		{
+			"sy_name": "K2-242"
+		},
+		{
+			"sy_name": "K2-243"
+		},
+		{
+			"sy_name": "K2-244"
+		},
+		{
+			"sy_name": "K2-245"
+		},
+		{
+			"sy_name": "K2-246"
+		},
+		{
+			"sy_name": "K2-247"
+		},
+		{
+			"sy_name": "K2-248"
+		},
+		{
+			"sy_name": "K2-249"
+		},
+		{
+			"sy_name": "K2-25"
+		},
+		{
+			"sy_name": "K2-250"
+		},
+		{
+			"sy_name": "K2-251"
+		},
+		{
+			"sy_name": "K2-252"
+		},
+		{
+			"sy_name": "K2-253"
+		},
+		{
+			"sy_name": "K2-254"
+		},
+		{
+			"sy_name": "K2-255"
+		},
+		{
+			"sy_name": "K2-257"
+		},
+		{
+			"sy_name": "K2-258"
+		},
+		{
+			"sy_name": "K2-259"
+		},
+		{
+			"sy_name": "K2-26"
+		},
+		{
+			"sy_name": "K2-260"
+		},
+		{
+			"sy_name": "K2-261"
+		},
+		{
+			"sy_name": "K2-263"
+		},
+		{
+			"sy_name": "K2-264"
+		},
+		{
+			"sy_name": "K2-265"
+		},
+		{
+			"sy_name": "K2-266"
+		},
+		{
+			"sy_name": "K2-268"
+		},
+		{
+			"sy_name": "K2-269"
+		},
+		{
+			"sy_name": "K2-27"
+		},
+		{
+			"sy_name": "K2-270"
+		},
+		{
+			"sy_name": "K2-271"
+		},
+		{
+			"sy_name": "K2-272"
+		},
+		{
+			"sy_name": "K2-273"
+		},
+		{
+			"sy_name": "K2-274"
+		},
+		{
+			"sy_name": "K2-275"
+		},
+		{
+			"sy_name": "K2-276"
+		},
+		{
+			"sy_name": "K2-277"
+		},
+		{
+			"sy_name": "K2-278"
+		},
+		{
+			"sy_name": "K2-279"
+		},
+		{
+			"sy_name": "K2-28"
+		},
+		{
+			"sy_name": "K2-280"
+		},
+		{
+			"sy_name": "K2-281"
+		},
+		{
+			"sy_name": "K2-282"
+		},
+		{
+			"sy_name": "K2-283"
+		},
+		{
+			"sy_name": "K2-284"
+		},
+		{
+			"sy_name": "K2-285"
+		},
+		{
+			"sy_name": "K2-286"
+		},
+		{
+			"sy_name": "K2-287"
+		},
+		{
+			"sy_name": "K2-288"
+		},
+		{
+			"sy_name": "K2-289"
+		},
+		{
+			"sy_name": "K2-29"
+		},
+		{
+			"sy_name": "K2-290"
+		},
+		{
+			"sy_name": "K2-291"
+		},
+		{
+			"sy_name": "K2-292"
+		},
+		{
+			"sy_name": "K2-293"
+		},
+		{
+			"sy_name": "K2-294"
+		},
+		{
+			"sy_name": "K2-295"
+		},
+		{
+			"sy_name": "K2-3"
+		},
+		{
+			"sy_name": "K2-30"
+		},
+		{
+			"sy_name": "K2-308"
+		},
+		{
+			"sy_name": "K2-31"
+		},
+		{
+			"sy_name": "K2-315"
+		},
+		{
+			"sy_name": "K2-316"
+		},
+		{
+			"sy_name": "K2-317"
+		},
+		{
+			"sy_name": "K2-318"
+		},
+		{
+			"sy_name": "K2-319"
+		},
+		{
+			"sy_name": "K2-32"
+		},
+		{
+			"sy_name": "K2-320"
+		},
+		{
+			"sy_name": "K2-321"
+		},
+		{
+			"sy_name": "K2-322"
+		},
+		{
+			"sy_name": "K2-323"
+		},
+		{
+			"sy_name": "K2-324"
+		},
+		{
+			"sy_name": "K2-325"
+		},
+		{
+			"sy_name": "K2-326"
+		},
+		{
+			"sy_name": "K2-329"
+		},
+		{
+			"sy_name": "K2-33"
+		},
+		{
+			"sy_name": "K2-330"
+		},
+		{
+			"sy_name": "K2-331"
+		},
+		{
+			"sy_name": "K2-332"
+		},
+		{
+			"sy_name": "K2-333"
+		},
+		{
+			"sy_name": "K2-334"
+		},
+		{
+			"sy_name": "K2-335"
+		},
+		{
+			"sy_name": "K2-336"
+		},
+		{
+			"sy_name": "K2-337"
+		},
+		{
+			"sy_name": "K2-338"
+		},
+		{
+			"sy_name": "K2-339"
+		},
+		{
+			"sy_name": "K2-34"
+		},
+		{
+			"sy_name": "K2-340"
+		},
+		{
+			"sy_name": "K2-341"
+		},
+		{
+			"sy_name": "K2-342"
+		},
+		{
+			"sy_name": "K2-343"
+		},
+		{
+			"sy_name": "K2-344"
+		},
+		{
+			"sy_name": "K2-345"
+		},
+		{
+			"sy_name": "K2-346"
+		},
+		{
+			"sy_name": "K2-347"
+		},
+		{
+			"sy_name": "K2-348"
+		},
+		{
+			"sy_name": "K2-349"
+		},
+		{
+			"sy_name": "K2-35"
+		},
+		{
+			"sy_name": "K2-350"
+		},
+		{
+			"sy_name": "K2-351"
+		},
+		{
+			"sy_name": "K2-352"
+		},
+		{
+			"sy_name": "K2-353"
+		},
+		{
+			"sy_name": "K2-354"
+		},
+		{
+			"sy_name": "K2-355"
+		},
+		{
+			"sy_name": "K2-356"
+		},
+		{
+			"sy_name": "K2-357"
+		},
+		{
+			"sy_name": "K2-358"
+		},
+		{
+			"sy_name": "K2-36"
+		},
+		{
+			"sy_name": "K2-365"
+		},
+		{
+			"sy_name": "K2-366"
+		},
+		{
+			"sy_name": "K2-367"
+		},
+		{
+			"sy_name": "K2-368"
+		},
+		{
+			"sy_name": "K2-369"
+		},
+		{
+			"sy_name": "K2-37"
+		},
+		{
+			"sy_name": "K2-370"
+		},
+		{
+			"sy_name": "K2-371"
+		},
+		{
+			"sy_name": "K2-372"
+		},
+		{
+			"sy_name": "K2-373"
+		},
+		{
+			"sy_name": "K2-374"
+		},
+		{
+			"sy_name": "K2-375"
+		},
+		{
+			"sy_name": "K2-376"
+		},
+		{
+			"sy_name": "K2-377"
+		},
+		{
+			"sy_name": "K2-378"
+		},
+		{
+			"sy_name": "K2-379"
+		},
+		{
+			"sy_name": "K2-38"
+		},
+		{
+			"sy_name": "K2-380"
+		},
+		{
+			"sy_name": "K2-381"
+		},
+		{
+			"sy_name": "K2-382"
+		},
+		{
+			"sy_name": "K2-383"
+		},
+		{
+			"sy_name": "K2-384"
+		},
+		{
+			"sy_name": "K2-385"
+		},
+		{
+			"sy_name": "K2-386"
+		},
+		{
+			"sy_name": "K2-387"
+		},
+		{
+			"sy_name": "K2-388"
+		},
+		{
+			"sy_name": "K2-389"
+		},
+		{
+			"sy_name": "K2-39"
+		},
+		{
+			"sy_name": "K2-390"
+		},
+		{
+			"sy_name": "K2-391"
+		},
+		{
+			"sy_name": "K2-392"
+		},
+		{
+			"sy_name": "K2-393"
+		},
+		{
+			"sy_name": "K2-394"
+		},
+		{
+			"sy_name": "K2-395"
+		},
+		{
+			"sy_name": "K2-396"
+		},
+		{
+			"sy_name": "K2-397"
+		},
+		{
+			"sy_name": "K2-398"
+		},
+		{
+			"sy_name": "K2-4"
+		},
+		{
+			"sy_name": "K2-400"
+		},
+		{
+			"sy_name": "K2-401"
+		},
+		{
+			"sy_name": "K2-402"
+		},
+		{
+			"sy_name": "K2-403"
+		},
+		{
+			"sy_name": "K2-404"
+		},
+		{
+			"sy_name": "K2-405"
+		},
+		{
+			"sy_name": "K2-406"
+		},
+		{
+			"sy_name": "K2-407"
+		},
+		{
+			"sy_name": "K2-408"
+		},
+		{
+			"sy_name": "K2-409"
+		},
+		{
+			"sy_name": "K2-411"
+		},
+		{
+			"sy_name": "K2-412"
+		},
+		{
+			"sy_name": "K2-413"
+		},
+		{
+			"sy_name": "K2-414"
+		},
+		{
+			"sy_name": "K2-415"
+		},
+		{
+			"sy_name": "K2-416"
+		},
+		{
+			"sy_name": "K2-417"
+		},
+		{
+			"sy_name": "K2-419"
+		},
+		{
+			"sy_name": "K2-42"
+		},
+		{
+			"sy_name": "K2-43"
+		},
+		{
+			"sy_name": "K2-44"
+		},
+		{
+			"sy_name": "K2-45"
+		},
+		{
+			"sy_name": "K2-46"
+		},
+		{
+			"sy_name": "K2-47"
+		},
+		{
+			"sy_name": "K2-48"
+		},
+		{
+			"sy_name": "K2-49"
+		},
+		{
+			"sy_name": "K2-5"
+		},
+		{
+			"sy_name": "K2-50"
+		},
+		{
+			"sy_name": "K2-52"
+		},
+		{
+			"sy_name": "K2-53"
+		},
+		{
+			"sy_name": "K2-54"
+		},
+		{
+			"sy_name": "K2-55"
+		},
+		{
+			"sy_name": "K2-57"
+		},
+		{
+			"sy_name": "K2-58"
+		},
+		{
+			"sy_name": "K2-59"
+		},
+		{
+			"sy_name": "K2-6"
+		},
+		{
+			"sy_name": "K2-60"
+		},
+		{
+			"sy_name": "K2-61"
+		},
+		{
+			"sy_name": "K2-62"
+		},
+		{
+			"sy_name": "K2-63"
+		},
+		{
+			"sy_name": "K2-64"
+		},
+		{
+			"sy_name": "K2-65"
+		},
+		{
+			"sy_name": "K2-66"
+		},
+		{
+			"sy_name": "K2-68"
+		},
+		{
+			"sy_name": "K2-69"
+		},
+		{
+			"sy_name": "K2-7"
+		},
+		{
+			"sy_name": "K2-70"
+		},
+		{
+			"sy_name": "K2-71"
+		},
+		{
+			"sy_name": "K2-72"
+		},
+		{
+			"sy_name": "K2-73"
+		},
+		{
+			"sy_name": "K2-74"
+		},
+		{
+			"sy_name": "K2-75"
+		},
+		{
+			"sy_name": "K2-77"
+		},
+		{
+			"sy_name": "K2-79"
+		},
+		{
+			"sy_name": "K2-8"
+		},
+		{
+			"sy_name": "K2-80"
+		},
+		{
+			"sy_name": "K2-81"
+		},
+		{
+			"sy_name": "K2-83"
+		},
+		{
+			"sy_name": "K2-84"
+		},
+		{
+			"sy_name": "K2-85"
+		},
+		{
+			"sy_name": "K2-86"
+		},
+		{
+			"sy_name": "K2-87"
+		},
+		{
+			"sy_name": "K2-88"
+		},
+		{
+			"sy_name": "K2-89"
+		},
+		{
+			"sy_name": "K2-9"
+		},
+		{
+			"sy_name": "K2-90"
+		},
+		{
+			"sy_name": "K2-91"
+		},
+		{
+			"sy_name": "K2-95"
+		},
+		{
+			"sy_name": "K2-97"
+		},
+		{
+			"sy_name": "K2-98"
+		},
+		{
+			"sy_name": "K2-99"
+		},
+		{
+			"sy_name": "KELT-1"
+		},
+		{
+			"sy_name": "KELT-10"
+		},
+		{
+			"sy_name": "KELT-11"
+		},
+		{
+			"sy_name": "KELT-12"
+		},
+		{
+			"sy_name": "KELT-14"
+		},
+		{
+			"sy_name": "KELT-15"
+		},
+		{
+			"sy_name": "KELT-16"
+		},
+		{
+			"sy_name": "KELT-17"
+		},
+		{
+			"sy_name": "KELT-18"
+		},
+		{
+			"sy_name": "KELT-19"
+		},
+		{
+			"sy_name": "KELT-2"
+		},
+		{
+			"sy_name": "KELT-20"
+		},
+		{
+			"sy_name": "KELT-21"
+		},
+		{
+			"sy_name": "KELT-23"
+		},
+		{
+			"sy_name": "KELT-24"
+		},
+		{
+			"sy_name": "KELT-3"
+		},
+		{
+			"sy_name": "KELT-4"
+		},
+		{
+			"sy_name": "KELT-6"
+		},
+		{
+			"sy_name": "KELT-7"
+		},
+		{
+			"sy_name": "KELT-8"
+		},
+		{
+			"sy_name": "KELT-9"
+		},
+		{
+			"sy_name": "KIC 10001893"
+		},
+		{
+			"sy_name": "KIC 10068024"
+		},
+		{
+			"sy_name": "KIC 10525077"
+		},
+		{
+			"sy_name": "KIC 3526061"
+		},
+		{
+			"sy_name": "KIC 3558849"
+		},
+		{
+			"sy_name": "KIC 5437945"
+		},
+		{
+			"sy_name": "KIC 5479689"
+		},
+		{
+			"sy_name": "KIC 7917485"
+		},
+		{
+			"sy_name": "KIC 8121913"
+		},
+		{
+			"sy_name": "KIC 9663113"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-0212L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-1105L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-1107L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-1337L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-1397L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-1820L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-1836L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-2142L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-2321L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-2364L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-2397L"
+		},
+		{
+			"sy_name": "KMT-2016-BLG-2605L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-0165L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-0428L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-0673L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-0849L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-1003L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-1038L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-1057L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-1146L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-1194L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-2197L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-2331L"
+		},
+		{
+			"sy_name": "KMT-2017-BLG-2509L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-0029L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-0030L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-0087L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-0247L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-0748L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-0885L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-1025L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-1292L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-1743L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-1976L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-1988L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-1990L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-1996L"
+		},
+		{
+			"sy_name": "KMT-2018-BLG-2602L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-0253L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-0297L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-0298L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-0335L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-0371L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-0414L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-0578L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-0842L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-0953L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-1042L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-1216L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-1339L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-1367L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-1552L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-1715L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-1806L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-1953L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-2783L"
+		},
+		{
+			"sy_name": "KMT-2019-BLG-2974L"
+		},
+		{
+			"sy_name": "KMT-2020-BLG-0202L"
+		},
+		{
+			"sy_name": "KMT-2020-BLG-0414L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0119L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0171L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0192L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0240L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0320L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0322L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0712L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0736L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0748L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0852L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0909L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-0912L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1077L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1105L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1150L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1253L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1303L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1372L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1391L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1547L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1554L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1689L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1770L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-1898L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-2010L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-2294L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-2478L"
+		},
+		{
+			"sy_name": "KMT-2021-BLG-2609L"
+		},
+		{
+			"sy_name": "KMT-2022-BLG-0303L"
+		},
+		{
+			"sy_name": "KMT-2022-BLG-0371L"
+		},
+		{
+			"sy_name": "KMT-2022-BLG-0440L"
+		},
+		{
+			"sy_name": "KMT-2022-BLG-1013L"
+		},
+		{
+			"sy_name": "KMT-2022-BLG-1551L"
+		},
+		{
+			"sy_name": "KMT-2022-BLG-1790L"
+		},
+		{
+			"sy_name": "KMT-2022-BLG-1818L"
+		},
+		{
+			"sy_name": "KMT-2022-BLG-2076L"
+		},
+		{
+			"sy_name": "KMT-2022-BLG-2286L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-0119L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-0416L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-0466L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-0469L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-0548L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-0735L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-0830L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-0949L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-1431L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-1454L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-1642L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-1743L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-1866L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-1896L"
+		},
+		{
+			"sy_name": "KMT-2023-BLG-2209L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-0176L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-0349L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-0404L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-1005L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-1044L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-1209L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-1281L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-1870L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-2005L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-2059L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-2087L"
+		},
+		{
+			"sy_name": "KMT-2024-BLG-2242L"
+		},
+		{
+			"sy_name": "KMT-2025-BLG-0121L"
+		},
+		{
+			"sy_name": "KMT-2025-BLG-0481L"
+		},
+		{
+			"sy_name": "KMT-2025-BLG-1616L"
+		},
+		{
+			"sy_name": "KOI-12"
+		},
+		{
+			"sy_name": "KOI-1257"
+		},
+		{
+			"sy_name": "KOI-13"
+		},
+		{
+			"sy_name": "KOI-134"
+		},
+		{
+			"sy_name": "KOI-142"
+		},
+		{
+			"sy_name": "KOI-1599"
+		},
+		{
+			"sy_name": "KOI-1783"
+		},
+		{
+			"sy_name": "KOI-217"
+		},
+		{
+			"sy_name": "KOI-2513"
+		},
+		{
+			"sy_name": "KOI-3503"
+		},
+		{
+			"sy_name": "KOI-351"
+		},
+		{
+			"sy_name": "KOI-3680"
+		},
+		{
+			"sy_name": "KOI-4777"
+		},
+		{
+			"sy_name": "KOI-4978"
+		},
+		{
+			"sy_name": "KOI-55"
+		},
+		{
+			"sy_name": "KOI-7368"
+		},
+		{
+			"sy_name": "KOI-7892"
+		},
+		{
+			"sy_name": "KOI-7913"
+		},
+		{
+			"sy_name": "KOI-94"
+		},
+		{
+			"sy_name": "KOI-984"
+		},
+		{
+			"sy_name": "KPS-1"
+		},
+		{
+			"sy_name": "Kapteyn"
+		},
+		{
+			"sy_name": "Kepler-10"
+		},
+		{
+			"sy_name": "Kepler-100"
+		},
+		{
+			"sy_name": "Kepler-1000"
+		},
+		{
+			"sy_name": "Kepler-1001"
+		},
+		{
+			"sy_name": "Kepler-1002"
+		},
+		{
+			"sy_name": "Kepler-1003"
+		},
+		{
+			"sy_name": "Kepler-1004"
+		},
+		{
+			"sy_name": "Kepler-1005"
+		},
+		{
+			"sy_name": "Kepler-1006"
+		},
+		{
+			"sy_name": "Kepler-1007"
+		},
+		{
+			"sy_name": "Kepler-1008"
+		},
+		{
+			"sy_name": "Kepler-1009"
+		},
+		{
+			"sy_name": "Kepler-101"
+		},
+		{
+			"sy_name": "Kepler-1010"
+		},
+		{
+			"sy_name": "Kepler-1011"
+		},
+		{
+			"sy_name": "Kepler-1012"
+		},
+		{
+			"sy_name": "Kepler-1013"
+		},
+		{
+			"sy_name": "Kepler-1014"
+		},
+		{
+			"sy_name": "Kepler-1015"
+		},
+		{
+			"sy_name": "Kepler-1016"
+		},
+		{
+			"sy_name": "Kepler-1017"
+		},
+		{
+			"sy_name": "Kepler-1018"
+		},
+		{
+			"sy_name": "Kepler-1019"
+		},
+		{
+			"sy_name": "Kepler-102"
+		},
+		{
+			"sy_name": "Kepler-1020"
+		},
+		{
+			"sy_name": "Kepler-1021"
+		},
+		{
+			"sy_name": "Kepler-1022"
+		},
+		{
+			"sy_name": "Kepler-1023"
+		},
+		{
+			"sy_name": "Kepler-1024"
+		},
+		{
+			"sy_name": "Kepler-1025"
+		},
+		{
+			"sy_name": "Kepler-1026"
+		},
+		{
+			"sy_name": "Kepler-1027"
+		},
+		{
+			"sy_name": "Kepler-1028"
+		},
+		{
+			"sy_name": "Kepler-1029"
+		},
+		{
+			"sy_name": "Kepler-103"
+		},
+		{
+			"sy_name": "Kepler-1030"
+		},
+		{
+			"sy_name": "Kepler-1031"
+		},
+		{
+			"sy_name": "Kepler-1032"
+		},
+		{
+			"sy_name": "Kepler-1033"
+		},
+		{
+			"sy_name": "Kepler-1034"
+		},
+		{
+			"sy_name": "Kepler-1035"
+		},
+		{
+			"sy_name": "Kepler-1036"
+		},
+		{
+			"sy_name": "Kepler-1037"
+		},
+		{
+			"sy_name": "Kepler-1038"
+		},
+		{
+			"sy_name": "Kepler-1039"
+		},
+		{
+			"sy_name": "Kepler-104"
+		},
+		{
+			"sy_name": "Kepler-1040"
+		},
+		{
+			"sy_name": "Kepler-1041"
+		},
+		{
+			"sy_name": "Kepler-1042"
+		},
+		{
+			"sy_name": "Kepler-1043"
+		},
+		{
+			"sy_name": "Kepler-1044"
+		},
+		{
+			"sy_name": "Kepler-1045"
+		},
+		{
+			"sy_name": "Kepler-1046"
+		},
+		{
+			"sy_name": "Kepler-1047"
+		},
+		{
+			"sy_name": "Kepler-1048"
+		},
+		{
+			"sy_name": "Kepler-1049"
+		},
+		{
+			"sy_name": "Kepler-105"
+		},
+		{
+			"sy_name": "Kepler-1050"
+		},
+		{
+			"sy_name": "Kepler-1051"
+		},
+		{
+			"sy_name": "Kepler-1052"
+		},
+		{
+			"sy_name": "Kepler-1053"
+		},
+		{
+			"sy_name": "Kepler-1054"
+		},
+		{
+			"sy_name": "Kepler-1055"
+		},
+		{
+			"sy_name": "Kepler-1056"
+		},
+		{
+			"sy_name": "Kepler-1057"
+		},
+		{
+			"sy_name": "Kepler-1058"
+		},
+		{
+			"sy_name": "Kepler-1059"
+		},
+		{
+			"sy_name": "Kepler-106"
+		},
+		{
+			"sy_name": "Kepler-1060"
+		},
+		{
+			"sy_name": "Kepler-1061"
+		},
+		{
+			"sy_name": "Kepler-1062"
+		},
+		{
+			"sy_name": "Kepler-1063"
+		},
+		{
+			"sy_name": "Kepler-1064"
+		},
+		{
+			"sy_name": "Kepler-1065"
+		},
+		{
+			"sy_name": "Kepler-1066"
+		},
+		{
+			"sy_name": "Kepler-1067"
+		},
+		{
+			"sy_name": "Kepler-1068"
+		},
+		{
+			"sy_name": "Kepler-1069"
+		},
+		{
+			"sy_name": "Kepler-107"
+		},
+		{
+			"sy_name": "Kepler-1070"
+		},
+		{
+			"sy_name": "Kepler-1071"
+		},
+		{
+			"sy_name": "Kepler-1072"
+		},
+		{
+			"sy_name": "Kepler-1073"
+		},
+		{
+			"sy_name": "Kepler-1074"
+		},
+		{
+			"sy_name": "Kepler-1075"
+		},
+		{
+			"sy_name": "Kepler-1076"
+		},
+		{
+			"sy_name": "Kepler-1077"
+		},
+		{
+			"sy_name": "Kepler-1078"
+		},
+		{
+			"sy_name": "Kepler-1079"
+		},
+		{
+			"sy_name": "Kepler-108"
+		},
+		{
+			"sy_name": "Kepler-1080"
+		},
+		{
+			"sy_name": "Kepler-1081"
+		},
+		{
+			"sy_name": "Kepler-1082"
+		},
+		{
+			"sy_name": "Kepler-1083"
+		},
+		{
+			"sy_name": "Kepler-1084"
+		},
+		{
+			"sy_name": "Kepler-1085"
+		},
+		{
+			"sy_name": "Kepler-1086"
+		},
+		{
+			"sy_name": "Kepler-1087"
+		},
+		{
+			"sy_name": "Kepler-1088"
+		},
+		{
+			"sy_name": "Kepler-1089"
+		},
+		{
+			"sy_name": "Kepler-109"
+		},
+		{
+			"sy_name": "Kepler-1090"
+		},
+		{
+			"sy_name": "Kepler-1091"
+		},
+		{
+			"sy_name": "Kepler-1092"
+		},
+		{
+			"sy_name": "Kepler-1093"
+		},
+		{
+			"sy_name": "Kepler-1094"
+		},
+		{
+			"sy_name": "Kepler-1095"
+		},
+		{
+			"sy_name": "Kepler-1096"
+		},
+		{
+			"sy_name": "Kepler-1097"
+		},
+		{
+			"sy_name": "Kepler-1098"
+		},
+		{
+			"sy_name": "Kepler-1099"
+		},
+		{
+			"sy_name": "Kepler-11"
+		},
+		{
+			"sy_name": "Kepler-110"
+		},
+		{
+			"sy_name": "Kepler-1100"
+		},
+		{
+			"sy_name": "Kepler-1101"
+		},
+		{
+			"sy_name": "Kepler-1102"
+		},
+		{
+			"sy_name": "Kepler-1103"
+		},
+		{
+			"sy_name": "Kepler-1104"
+		},
+		{
+			"sy_name": "Kepler-1105"
+		},
+		{
+			"sy_name": "Kepler-1106"
+		},
+		{
+			"sy_name": "Kepler-1107"
+		},
+		{
+			"sy_name": "Kepler-1108"
+		},
+		{
+			"sy_name": "Kepler-1109"
+		},
+		{
+			"sy_name": "Kepler-111"
+		},
+		{
+			"sy_name": "Kepler-1110"
+		},
+		{
+			"sy_name": "Kepler-1111"
+		},
+		{
+			"sy_name": "Kepler-1112"
+		},
+		{
+			"sy_name": "Kepler-1113"
+		},
+		{
+			"sy_name": "Kepler-1114"
+		},
+		{
+			"sy_name": "Kepler-1115"
+		},
+		{
+			"sy_name": "Kepler-1116"
+		},
+		{
+			"sy_name": "Kepler-1117"
+		},
+		{
+			"sy_name": "Kepler-1118"
+		},
+		{
+			"sy_name": "Kepler-1119"
+		},
+		{
+			"sy_name": "Kepler-112"
+		},
+		{
+			"sy_name": "Kepler-1120"
+		},
+		{
+			"sy_name": "Kepler-1121"
+		},
+		{
+			"sy_name": "Kepler-1122"
+		},
+		{
+			"sy_name": "Kepler-1123"
+		},
+		{
+			"sy_name": "Kepler-1124"
+		},
+		{
+			"sy_name": "Kepler-1125"
+		},
+		{
+			"sy_name": "Kepler-1126"
+		},
+		{
+			"sy_name": "Kepler-1127"
+		},
+		{
+			"sy_name": "Kepler-1128"
+		},
+		{
+			"sy_name": "Kepler-1129"
+		},
+		{
+			"sy_name": "Kepler-113"
+		},
+		{
+			"sy_name": "Kepler-1130"
+		},
+		{
+			"sy_name": "Kepler-1131"
+		},
+		{
+			"sy_name": "Kepler-1132"
+		},
+		{
+			"sy_name": "Kepler-1133"
+		},
+		{
+			"sy_name": "Kepler-1134"
+		},
+		{
+			"sy_name": "Kepler-1135"
+		},
+		{
+			"sy_name": "Kepler-1136"
+		},
+		{
+			"sy_name": "Kepler-1137"
+		},
+		{
+			"sy_name": "Kepler-1138"
+		},
+		{
+			"sy_name": "Kepler-1139"
+		},
+		{
+			"sy_name": "Kepler-114"
+		},
+		{
+			"sy_name": "Kepler-1140"
+		},
+		{
+			"sy_name": "Kepler-1141"
+		},
+		{
+			"sy_name": "Kepler-1142"
+		},
+		{
+			"sy_name": "Kepler-1143"
+		},
+		{
+			"sy_name": "Kepler-1144"
+		},
+		{
+			"sy_name": "Kepler-1145"
+		},
+		{
+			"sy_name": "Kepler-1146"
+		},
+		{
+			"sy_name": "Kepler-1147"
+		},
+		{
+			"sy_name": "Kepler-1148"
+		},
+		{
+			"sy_name": "Kepler-1149"
+		},
+		{
+			"sy_name": "Kepler-115"
+		},
+		{
+			"sy_name": "Kepler-1150"
+		},
+		{
+			"sy_name": "Kepler-1151"
+		},
+		{
+			"sy_name": "Kepler-1152"
+		},
+		{
+			"sy_name": "Kepler-1153"
+		},
+		{
+			"sy_name": "Kepler-1154"
+		},
+		{
+			"sy_name": "Kepler-1155"
+		},
+		{
+			"sy_name": "Kepler-1156"
+		},
+		{
+			"sy_name": "Kepler-1157"
+		},
+		{
+			"sy_name": "Kepler-1158"
+		},
+		{
+			"sy_name": "Kepler-1159"
+		},
+		{
+			"sy_name": "Kepler-116"
+		},
+		{
+			"sy_name": "Kepler-1160"
+		},
+		{
+			"sy_name": "Kepler-1161"
+		},
+		{
+			"sy_name": "Kepler-1162"
+		},
+		{
+			"sy_name": "Kepler-1163"
+		},
+		{
+			"sy_name": "Kepler-1164"
+		},
+		{
+			"sy_name": "Kepler-1165"
+		},
+		{
+			"sy_name": "Kepler-1166"
+		},
+		{
+			"sy_name": "Kepler-1167"
+		},
+		{
+			"sy_name": "Kepler-1168"
+		},
+		{
+			"sy_name": "Kepler-1169"
+		},
+		{
+			"sy_name": "Kepler-117"
+		},
+		{
+			"sy_name": "Kepler-1170"
+		},
+		{
+			"sy_name": "Kepler-1171"
+		},
+		{
+			"sy_name": "Kepler-1172"
+		},
+		{
+			"sy_name": "Kepler-1173"
+		},
+		{
+			"sy_name": "Kepler-1174"
+		},
+		{
+			"sy_name": "Kepler-1175"
+		},
+		{
+			"sy_name": "Kepler-1176"
+		},
+		{
+			"sy_name": "Kepler-1177"
+		},
+		{
+			"sy_name": "Kepler-1178"
+		},
+		{
+			"sy_name": "Kepler-1179"
+		},
+		{
+			"sy_name": "Kepler-118"
+		},
+		{
+			"sy_name": "Kepler-1180"
+		},
+		{
+			"sy_name": "Kepler-1181"
+		},
+		{
+			"sy_name": "Kepler-1182"
+		},
+		{
+			"sy_name": "Kepler-1183"
+		},
+		{
+			"sy_name": "Kepler-1184"
+		},
+		{
+			"sy_name": "Kepler-1185"
+		},
+		{
+			"sy_name": "Kepler-1186"
+		},
+		{
+			"sy_name": "Kepler-1187"
+		},
+		{
+			"sy_name": "Kepler-1188"
+		},
+		{
+			"sy_name": "Kepler-1189"
+		},
+		{
+			"sy_name": "Kepler-119"
+		},
+		{
+			"sy_name": "Kepler-1190"
+		},
+		{
+			"sy_name": "Kepler-1191"
+		},
+		{
+			"sy_name": "Kepler-1192"
+		},
+		{
+			"sy_name": "Kepler-1193"
+		},
+		{
+			"sy_name": "Kepler-1194"
+		},
+		{
+			"sy_name": "Kepler-1195"
+		},
+		{
+			"sy_name": "Kepler-1196"
+		},
+		{
+			"sy_name": "Kepler-1197"
+		},
+		{
+			"sy_name": "Kepler-1198"
+		},
+		{
+			"sy_name": "Kepler-1199"
+		},
+		{
+			"sy_name": "Kepler-12"
+		},
+		{
+			"sy_name": "Kepler-120"
+		},
+		{
+			"sy_name": "Kepler-1200"
+		},
+		{
+			"sy_name": "Kepler-1201"
+		},
+		{
+			"sy_name": "Kepler-1202"
+		},
+		{
+			"sy_name": "Kepler-1203"
+		},
+		{
+			"sy_name": "Kepler-1204"
+		},
+		{
+			"sy_name": "Kepler-1205"
+		},
+		{
+			"sy_name": "Kepler-1206"
+		},
+		{
+			"sy_name": "Kepler-1207"
+		},
+		{
+			"sy_name": "Kepler-1208"
+		},
+		{
+			"sy_name": "Kepler-1209"
+		},
+		{
+			"sy_name": "Kepler-121"
+		},
+		{
+			"sy_name": "Kepler-1210"
+		},
+		{
+			"sy_name": "Kepler-1211"
+		},
+		{
+			"sy_name": "Kepler-1212"
+		},
+		{
+			"sy_name": "Kepler-1213"
+		},
+		{
+			"sy_name": "Kepler-1214"
+		},
+		{
+			"sy_name": "Kepler-1215"
+		},
+		{
+			"sy_name": "Kepler-1216"
+		},
+		{
+			"sy_name": "Kepler-1217"
+		},
+		{
+			"sy_name": "Kepler-1218"
+		},
+		{
+			"sy_name": "Kepler-1219"
+		},
+		{
+			"sy_name": "Kepler-122"
+		},
+		{
+			"sy_name": "Kepler-1220"
+		},
+		{
+			"sy_name": "Kepler-1221"
+		},
+		{
+			"sy_name": "Kepler-1222"
+		},
+		{
+			"sy_name": "Kepler-1223"
+		},
+		{
+			"sy_name": "Kepler-1224"
+		},
+		{
+			"sy_name": "Kepler-1225"
+		},
+		{
+			"sy_name": "Kepler-1226"
+		},
+		{
+			"sy_name": "Kepler-1227"
+		},
+		{
+			"sy_name": "Kepler-1228"
+		},
+		{
+			"sy_name": "Kepler-1229"
+		},
+		{
+			"sy_name": "Kepler-123"
+		},
+		{
+			"sy_name": "Kepler-1230"
+		},
+		{
+			"sy_name": "Kepler-1231"
+		},
+		{
+			"sy_name": "Kepler-1232"
+		},
+		{
+			"sy_name": "Kepler-1233"
+		},
+		{
+			"sy_name": "Kepler-1234"
+		},
+		{
+			"sy_name": "Kepler-1235"
+		},
+		{
+			"sy_name": "Kepler-1236"
+		},
+		{
+			"sy_name": "Kepler-1237"
+		},
+		{
+			"sy_name": "Kepler-1238"
+		},
+		{
+			"sy_name": "Kepler-1239"
+		},
+		{
+			"sy_name": "Kepler-124"
+		},
+		{
+			"sy_name": "Kepler-1240"
+		},
+		{
+			"sy_name": "Kepler-1241"
+		},
+		{
+			"sy_name": "Kepler-1242"
+		},
+		{
+			"sy_name": "Kepler-1243"
+		},
+		{
+			"sy_name": "Kepler-1244"
+		},
+		{
+			"sy_name": "Kepler-1245"
+		},
+		{
+			"sy_name": "Kepler-1246"
+		},
+		{
+			"sy_name": "Kepler-1247"
+		},
+		{
+			"sy_name": "Kepler-1248"
+		},
+		{
+			"sy_name": "Kepler-1249"
+		},
+		{
+			"sy_name": "Kepler-125"
+		},
+		{
+			"sy_name": "Kepler-1250"
+		},
+		{
+			"sy_name": "Kepler-1251"
+		},
+		{
+			"sy_name": "Kepler-1252"
+		},
+		{
+			"sy_name": "Kepler-1253"
+		},
+		{
+			"sy_name": "Kepler-1254"
+		},
+		{
+			"sy_name": "Kepler-1255"
+		},
+		{
+			"sy_name": "Kepler-1256"
+		},
+		{
+			"sy_name": "Kepler-1257"
+		},
+		{
+			"sy_name": "Kepler-1258"
+		},
+		{
+			"sy_name": "Kepler-1259"
+		},
+		{
+			"sy_name": "Kepler-126"
+		},
+		{
+			"sy_name": "Kepler-1260"
+		},
+		{
+			"sy_name": "Kepler-1261"
+		},
+		{
+			"sy_name": "Kepler-1262"
+		},
+		{
+			"sy_name": "Kepler-1263"
+		},
+		{
+			"sy_name": "Kepler-1264"
+		},
+		{
+			"sy_name": "Kepler-1265"
+		},
+		{
+			"sy_name": "Kepler-1266"
+		},
+		{
+			"sy_name": "Kepler-1267"
+		},
+		{
+			"sy_name": "Kepler-1268"
+		},
+		{
+			"sy_name": "Kepler-1269"
+		},
+		{
+			"sy_name": "Kepler-127"
+		},
+		{
+			"sy_name": "Kepler-1270"
+		},
+		{
+			"sy_name": "Kepler-1271"
+		},
+		{
+			"sy_name": "Kepler-1272"
+		},
+		{
+			"sy_name": "Kepler-1273"
+		},
+		{
+			"sy_name": "Kepler-1274"
+		},
+		{
+			"sy_name": "Kepler-1275"
+		},
+		{
+			"sy_name": "Kepler-1276"
+		},
+		{
+			"sy_name": "Kepler-1277"
+		},
+		{
+			"sy_name": "Kepler-1278"
+		},
+		{
+			"sy_name": "Kepler-1279"
+		},
+		{
+			"sy_name": "Kepler-128"
+		},
+		{
+			"sy_name": "Kepler-1280"
+		},
+		{
+			"sy_name": "Kepler-1281"
+		},
+		{
+			"sy_name": "Kepler-1282"
+		},
+		{
+			"sy_name": "Kepler-1283"
+		},
+		{
+			"sy_name": "Kepler-1284"
+		},
+		{
+			"sy_name": "Kepler-1285"
+		},
+		{
+			"sy_name": "Kepler-1286"
+		},
+		{
+			"sy_name": "Kepler-1287"
+		},
+		{
+			"sy_name": "Kepler-1288"
+		},
+		{
+			"sy_name": "Kepler-1289"
+		},
+		{
+			"sy_name": "Kepler-129"
+		},
+		{
+			"sy_name": "Kepler-1290"
+		},
+		{
+			"sy_name": "Kepler-1291"
+		},
+		{
+			"sy_name": "Kepler-1292"
+		},
+		{
+			"sy_name": "Kepler-1293"
+		},
+		{
+			"sy_name": "Kepler-1294"
+		},
+		{
+			"sy_name": "Kepler-1295"
+		},
+		{
+			"sy_name": "Kepler-1296"
+		},
+		{
+			"sy_name": "Kepler-1297"
+		},
+		{
+			"sy_name": "Kepler-1298"
+		},
+		{
+			"sy_name": "Kepler-1299"
+		},
+		{
+			"sy_name": "Kepler-130"
+		},
+		{
+			"sy_name": "Kepler-1300"
+		},
+		{
+			"sy_name": "Kepler-1301"
+		},
+		{
+			"sy_name": "Kepler-1302"
+		},
+		{
+			"sy_name": "Kepler-1303"
+		},
+		{
+			"sy_name": "Kepler-1304"
+		},
+		{
+			"sy_name": "Kepler-1305"
+		},
+		{
+			"sy_name": "Kepler-1306"
+		},
+		{
+			"sy_name": "Kepler-1307"
+		},
+		{
+			"sy_name": "Kepler-1308"
+		},
+		{
+			"sy_name": "Kepler-1309"
+		},
+		{
+			"sy_name": "Kepler-131"
+		},
+		{
+			"sy_name": "Kepler-1310"
+		},
+		{
+			"sy_name": "Kepler-1311"
+		},
+		{
+			"sy_name": "Kepler-1312"
+		},
+		{
+			"sy_name": "Kepler-1313"
+		},
+		{
+			"sy_name": "Kepler-1314"
+		},
+		{
+			"sy_name": "Kepler-1315"
+		},
+		{
+			"sy_name": "Kepler-1316"
+		},
+		{
+			"sy_name": "Kepler-1317"
+		},
+		{
+			"sy_name": "Kepler-1318"
+		},
+		{
+			"sy_name": "Kepler-1319"
+		},
+		{
+			"sy_name": "Kepler-132"
+		},
+		{
+			"sy_name": "Kepler-1320"
+		},
+		{
+			"sy_name": "Kepler-1321"
+		},
+		{
+			"sy_name": "Kepler-1322"
+		},
+		{
+			"sy_name": "Kepler-1323"
+		},
+		{
+			"sy_name": "Kepler-1324"
+		},
+		{
+			"sy_name": "Kepler-1325"
+		},
+		{
+			"sy_name": "Kepler-1326"
+		},
+		{
+			"sy_name": "Kepler-1327"
+		},
+		{
+			"sy_name": "Kepler-1328"
+		},
+		{
+			"sy_name": "Kepler-1329"
+		},
+		{
+			"sy_name": "Kepler-133"
+		},
+		{
+			"sy_name": "Kepler-1330"
+		},
+		{
+			"sy_name": "Kepler-1331"
+		},
+		{
+			"sy_name": "Kepler-1332"
+		},
+		{
+			"sy_name": "Kepler-1333"
+		},
+		{
+			"sy_name": "Kepler-1334"
+		},
+		{
+			"sy_name": "Kepler-1335"
+		},
+		{
+			"sy_name": "Kepler-1336"
+		},
+		{
+			"sy_name": "Kepler-1337"
+		},
+		{
+			"sy_name": "Kepler-1338"
+		},
+		{
+			"sy_name": "Kepler-1339"
+		},
+		{
+			"sy_name": "Kepler-134"
+		},
+		{
+			"sy_name": "Kepler-1340"
+		},
+		{
+			"sy_name": "Kepler-1341"
+		},
+		{
+			"sy_name": "Kepler-1342"
+		},
+		{
+			"sy_name": "Kepler-1343"
+		},
+		{
+			"sy_name": "Kepler-1344"
+		},
+		{
+			"sy_name": "Kepler-1345"
+		},
+		{
+			"sy_name": "Kepler-1346"
+		},
+		{
+			"sy_name": "Kepler-1347"
+		},
+		{
+			"sy_name": "Kepler-1348"
+		},
+		{
+			"sy_name": "Kepler-1349"
+		},
+		{
+			"sy_name": "Kepler-135"
+		},
+		{
+			"sy_name": "Kepler-1350"
+		},
+		{
+			"sy_name": "Kepler-1351"
+		},
+		{
+			"sy_name": "Kepler-1352"
+		},
+		{
+			"sy_name": "Kepler-1353"
+		},
+		{
+			"sy_name": "Kepler-1354"
+		},
+		{
+			"sy_name": "Kepler-1355"
+		},
+		{
+			"sy_name": "Kepler-1356"
+		},
+		{
+			"sy_name": "Kepler-1357"
+		},
+		{
+			"sy_name": "Kepler-1358"
+		},
+		{
+			"sy_name": "Kepler-1359"
+		},
+		{
+			"sy_name": "Kepler-136"
+		},
+		{
+			"sy_name": "Kepler-1360"
+		},
+		{
+			"sy_name": "Kepler-1361"
+		},
+		{
+			"sy_name": "Kepler-1362"
+		},
+		{
+			"sy_name": "Kepler-1363"
+		},
+		{
+			"sy_name": "Kepler-1364"
+		},
+		{
+			"sy_name": "Kepler-1365"
+		},
+		{
+			"sy_name": "Kepler-1366"
+		},
+		{
+			"sy_name": "Kepler-1367"
+		},
+		{
+			"sy_name": "Kepler-1368"
+		},
+		{
+			"sy_name": "Kepler-1369"
+		},
+		{
+			"sy_name": "Kepler-137"
+		},
+		{
+			"sy_name": "Kepler-1370"
+		},
+		{
+			"sy_name": "Kepler-1371"
+		},
+		{
+			"sy_name": "Kepler-1372"
+		},
+		{
+			"sy_name": "Kepler-1373"
+		},
+		{
+			"sy_name": "Kepler-1374"
+		},
+		{
+			"sy_name": "Kepler-1375"
+		},
+		{
+			"sy_name": "Kepler-1376"
+		},
+		{
+			"sy_name": "Kepler-1377"
+		},
+		{
+			"sy_name": "Kepler-1378"
+		},
+		{
+			"sy_name": "Kepler-1379"
+		},
+		{
+			"sy_name": "Kepler-138"
+		},
+		{
+			"sy_name": "Kepler-1380"
+		},
+		{
+			"sy_name": "Kepler-1381"
+		},
+		{
+			"sy_name": "Kepler-1382"
+		},
+		{
+			"sy_name": "Kepler-1383"
+		},
+		{
+			"sy_name": "Kepler-1384"
+		},
+		{
+			"sy_name": "Kepler-1385"
+		},
+		{
+			"sy_name": "Kepler-1386"
+		},
+		{
+			"sy_name": "Kepler-1387"
+		},
+		{
+			"sy_name": "Kepler-1388"
+		},
+		{
+			"sy_name": "Kepler-1389"
+		},
+		{
+			"sy_name": "Kepler-139"
+		},
+		{
+			"sy_name": "Kepler-1390"
+		},
+		{
+			"sy_name": "Kepler-1391"
+		},
+		{
+			"sy_name": "Kepler-1392"
+		},
+		{
+			"sy_name": "Kepler-1393"
+		},
+		{
+			"sy_name": "Kepler-1394"
+		},
+		{
+			"sy_name": "Kepler-1395"
+		},
+		{
+			"sy_name": "Kepler-1396"
+		},
+		{
+			"sy_name": "Kepler-1397"
+		},
+		{
+			"sy_name": "Kepler-1398"
+		},
+		{
+			"sy_name": "Kepler-1399"
+		},
+		{
+			"sy_name": "Kepler-14"
+		},
+		{
+			"sy_name": "Kepler-140"
+		},
+		{
+			"sy_name": "Kepler-1400"
+		},
+		{
+			"sy_name": "Kepler-1401"
+		},
+		{
+			"sy_name": "Kepler-1402"
+		},
+		{
+			"sy_name": "Kepler-1403"
+		},
+		{
+			"sy_name": "Kepler-1404"
+		},
+		{
+			"sy_name": "Kepler-1405"
+		},
+		{
+			"sy_name": "Kepler-1406"
+		},
+		{
+			"sy_name": "Kepler-1407"
+		},
+		{
+			"sy_name": "Kepler-1408"
+		},
+		{
+			"sy_name": "Kepler-1409"
+		},
+		{
+			"sy_name": "Kepler-141"
+		},
+		{
+			"sy_name": "Kepler-1410"
+		},
+		{
+			"sy_name": "Kepler-1411"
+		},
+		{
+			"sy_name": "Kepler-1412"
+		},
+		{
+			"sy_name": "Kepler-1413"
+		},
+		{
+			"sy_name": "Kepler-1414"
+		},
+		{
+			"sy_name": "Kepler-1415"
+		},
+		{
+			"sy_name": "Kepler-1416"
+		},
+		{
+			"sy_name": "Kepler-1417"
+		},
+		{
+			"sy_name": "Kepler-1418"
+		},
+		{
+			"sy_name": "Kepler-1419"
+		},
+		{
+			"sy_name": "Kepler-142"
+		},
+		{
+			"sy_name": "Kepler-1420"
+		},
+		{
+			"sy_name": "Kepler-1421"
+		},
+		{
+			"sy_name": "Kepler-1422"
+		},
+		{
+			"sy_name": "Kepler-1423"
+		},
+		{
+			"sy_name": "Kepler-1424"
+		},
+		{
+			"sy_name": "Kepler-1425"
+		},
+		{
+			"sy_name": "Kepler-1426"
+		},
+		{
+			"sy_name": "Kepler-1427"
+		},
+		{
+			"sy_name": "Kepler-1428"
+		},
+		{
+			"sy_name": "Kepler-1429"
+		},
+		{
+			"sy_name": "Kepler-143"
+		},
+		{
+			"sy_name": "Kepler-1430"
+		},
+		{
+			"sy_name": "Kepler-1431"
+		},
+		{
+			"sy_name": "Kepler-1432"
+		},
+		{
+			"sy_name": "Kepler-1433"
+		},
+		{
+			"sy_name": "Kepler-1434"
+		},
+		{
+			"sy_name": "Kepler-1435"
+		},
+		{
+			"sy_name": "Kepler-1436"
+		},
+		{
+			"sy_name": "Kepler-1437"
+		},
+		{
+			"sy_name": "Kepler-1438"
+		},
+		{
+			"sy_name": "Kepler-1439"
+		},
+		{
+			"sy_name": "Kepler-144"
+		},
+		{
+			"sy_name": "Kepler-1440"
+		},
+		{
+			"sy_name": "Kepler-1441"
+		},
+		{
+			"sy_name": "Kepler-1442"
+		},
+		{
+			"sy_name": "Kepler-1443"
+		},
+		{
+			"sy_name": "Kepler-1444"
+		},
+		{
+			"sy_name": "Kepler-1445"
+		},
+		{
+			"sy_name": "Kepler-1446"
+		},
+		{
+			"sy_name": "Kepler-1447"
+		},
+		{
+			"sy_name": "Kepler-1448"
+		},
+		{
+			"sy_name": "Kepler-1449"
+		},
+		{
+			"sy_name": "Kepler-145"
+		},
+		{
+			"sy_name": "Kepler-1450"
+		},
+		{
+			"sy_name": "Kepler-1451"
+		},
+		{
+			"sy_name": "Kepler-1452"
+		},
+		{
+			"sy_name": "Kepler-1453"
+		},
+		{
+			"sy_name": "Kepler-1454"
+		},
+		{
+			"sy_name": "Kepler-1455"
+		},
+		{
+			"sy_name": "Kepler-1456"
+		},
+		{
+			"sy_name": "Kepler-1457"
+		},
+		{
+			"sy_name": "Kepler-1458"
+		},
+		{
+			"sy_name": "Kepler-1459"
+		},
+		{
+			"sy_name": "Kepler-146"
+		},
+		{
+			"sy_name": "Kepler-1460"
+		},
+		{
+			"sy_name": "Kepler-1461"
+		},
+		{
+			"sy_name": "Kepler-1462"
+		},
+		{
+			"sy_name": "Kepler-1463"
+		},
+		{
+			"sy_name": "Kepler-1464"
+		},
+		{
+			"sy_name": "Kepler-1465"
+		},
+		{
+			"sy_name": "Kepler-1466"
+		},
+		{
+			"sy_name": "Kepler-1467"
+		},
+		{
+			"sy_name": "Kepler-1468"
+		},
+		{
+			"sy_name": "Kepler-1469"
+		},
+		{
+			"sy_name": "Kepler-147"
+		},
+		{
+			"sy_name": "Kepler-1470"
+		},
+		{
+			"sy_name": "Kepler-1471"
+		},
+		{
+			"sy_name": "Kepler-1472"
+		},
+		{
+			"sy_name": "Kepler-1473"
+		},
+		{
+			"sy_name": "Kepler-1474"
+		},
+		{
+			"sy_name": "Kepler-1475"
+		},
+		{
+			"sy_name": "Kepler-1476"
+		},
+		{
+			"sy_name": "Kepler-1477"
+		},
+		{
+			"sy_name": "Kepler-1478"
+		},
+		{
+			"sy_name": "Kepler-1479"
+		},
+		{
+			"sy_name": "Kepler-148"
+		},
+		{
+			"sy_name": "Kepler-1480"
+		},
+		{
+			"sy_name": "Kepler-1481"
+		},
+		{
+			"sy_name": "Kepler-1482"
+		},
+		{
+			"sy_name": "Kepler-1483"
+		},
+		{
+			"sy_name": "Kepler-1484"
+		},
+		{
+			"sy_name": "Kepler-1485"
+		},
+		{
+			"sy_name": "Kepler-1486"
+		},
+		{
+			"sy_name": "Kepler-1487"
+		},
+		{
+			"sy_name": "Kepler-1488"
+		},
+		{
+			"sy_name": "Kepler-1489"
+		},
+		{
+			"sy_name": "Kepler-149"
+		},
+		{
+			"sy_name": "Kepler-1490"
+		},
+		{
+			"sy_name": "Kepler-1491"
+		},
+		{
+			"sy_name": "Kepler-1492"
+		},
+		{
+			"sy_name": "Kepler-1493"
+		},
+		{
+			"sy_name": "Kepler-1494"
+		},
+		{
+			"sy_name": "Kepler-1495"
+		},
+		{
+			"sy_name": "Kepler-1496"
+		},
+		{
+			"sy_name": "Kepler-1497"
+		},
+		{
+			"sy_name": "Kepler-1498"
+		},
+		{
+			"sy_name": "Kepler-1499"
+		},
+		{
+			"sy_name": "Kepler-15"
+		},
+		{
+			"sy_name": "Kepler-150"
+		},
+		{
+			"sy_name": "Kepler-1500"
+		},
+		{
+			"sy_name": "Kepler-1501"
+		},
+		{
+			"sy_name": "Kepler-1502"
+		},
+		{
+			"sy_name": "Kepler-1503"
+		},
+		{
+			"sy_name": "Kepler-1504"
+		},
+		{
+			"sy_name": "Kepler-1505"
+		},
+		{
+			"sy_name": "Kepler-1506"
+		},
+		{
+			"sy_name": "Kepler-1507"
+		},
+		{
+			"sy_name": "Kepler-1508"
+		},
+		{
+			"sy_name": "Kepler-1509"
+		},
+		{
+			"sy_name": "Kepler-151"
+		},
+		{
+			"sy_name": "Kepler-1510"
+		},
+		{
+			"sy_name": "Kepler-1511"
+		},
+		{
+			"sy_name": "Kepler-1512"
+		},
+		{
+			"sy_name": "Kepler-1513"
+		},
+		{
+			"sy_name": "Kepler-1514"
+		},
+		{
+			"sy_name": "Kepler-1515"
+		},
+		{
+			"sy_name": "Kepler-1516"
+		},
+		{
+			"sy_name": "Kepler-1517"
+		},
+		{
+			"sy_name": "Kepler-1518"
+		},
+		{
+			"sy_name": "Kepler-1519"
+		},
+		{
+			"sy_name": "Kepler-152"
+		},
+		{
+			"sy_name": "Kepler-1520"
+		},
+		{
+			"sy_name": "Kepler-1521"
+		},
+		{
+			"sy_name": "Kepler-1522"
+		},
+		{
+			"sy_name": "Kepler-1523"
+		},
+		{
+			"sy_name": "Kepler-1524"
+		},
+		{
+			"sy_name": "Kepler-1525"
+		},
+		{
+			"sy_name": "Kepler-1526"
+		},
+		{
+			"sy_name": "Kepler-1527"
+		},
+		{
+			"sy_name": "Kepler-1528"
+		},
+		{
+			"sy_name": "Kepler-1529"
+		},
+		{
+			"sy_name": "Kepler-153"
+		},
+		{
+			"sy_name": "Kepler-1530"
+		},
+		{
+			"sy_name": "Kepler-1531"
+		},
+		{
+			"sy_name": "Kepler-1532"
+		},
+		{
+			"sy_name": "Kepler-1533"
+		},
+		{
+			"sy_name": "Kepler-1534"
+		},
+		{
+			"sy_name": "Kepler-1535"
+		},
+		{
+			"sy_name": "Kepler-1536"
+		},
+		{
+			"sy_name": "Kepler-1537"
+		},
+		{
+			"sy_name": "Kepler-1538"
+		},
+		{
+			"sy_name": "Kepler-1539"
+		},
+		{
+			"sy_name": "Kepler-154"
+		},
+		{
+			"sy_name": "Kepler-1540"
+		},
+		{
+			"sy_name": "Kepler-1541"
+		},
+		{
+			"sy_name": "Kepler-1542"
+		},
+		{
+			"sy_name": "Kepler-1543"
+		},
+		{
+			"sy_name": "Kepler-1544"
+		},
+		{
+			"sy_name": "Kepler-1545"
+		},
+		{
+			"sy_name": "Kepler-1546"
+		},
+		{
+			"sy_name": "Kepler-1547"
+		},
+		{
+			"sy_name": "Kepler-1548"
+		},
+		{
+			"sy_name": "Kepler-1549"
+		},
+		{
+			"sy_name": "Kepler-155"
+		},
+		{
+			"sy_name": "Kepler-1550"
+		},
+		{
+			"sy_name": "Kepler-1551"
+		},
+		{
+			"sy_name": "Kepler-1552"
+		},
+		{
+			"sy_name": "Kepler-1553"
+		},
+		{
+			"sy_name": "Kepler-1554"
+		},
+		{
+			"sy_name": "Kepler-1555"
+		},
+		{
+			"sy_name": "Kepler-1556"
+		},
+		{
+			"sy_name": "Kepler-1557"
+		},
+		{
+			"sy_name": "Kepler-1558"
+		},
+		{
+			"sy_name": "Kepler-1559"
+		},
+		{
+			"sy_name": "Kepler-156"
+		},
+		{
+			"sy_name": "Kepler-1560"
+		},
+		{
+			"sy_name": "Kepler-1561"
+		},
+		{
+			"sy_name": "Kepler-1562"
+		},
+		{
+			"sy_name": "Kepler-1563"
+		},
+		{
+			"sy_name": "Kepler-1564"
+		},
+		{
+			"sy_name": "Kepler-1565"
+		},
+		{
+			"sy_name": "Kepler-1566"
+		},
+		{
+			"sy_name": "Kepler-1567"
+		},
+		{
+			"sy_name": "Kepler-1568"
+		},
+		{
+			"sy_name": "Kepler-1569"
+		},
+		{
+			"sy_name": "Kepler-157"
+		},
+		{
+			"sy_name": "Kepler-1570"
+		},
+		{
+			"sy_name": "Kepler-1571"
+		},
+		{
+			"sy_name": "Kepler-1572"
+		},
+		{
+			"sy_name": "Kepler-1573"
+		},
+		{
+			"sy_name": "Kepler-1574"
+		},
+		{
+			"sy_name": "Kepler-1575"
+		},
+		{
+			"sy_name": "Kepler-1576"
+		},
+		{
+			"sy_name": "Kepler-1577"
+		},
+		{
+			"sy_name": "Kepler-1578"
+		},
+		{
+			"sy_name": "Kepler-1579"
+		},
+		{
+			"sy_name": "Kepler-158"
+		},
+		{
+			"sy_name": "Kepler-1580"
+		},
+		{
+			"sy_name": "Kepler-1581"
+		},
+		{
+			"sy_name": "Kepler-1582"
+		},
+		{
+			"sy_name": "Kepler-1583"
+		},
+		{
+			"sy_name": "Kepler-1584"
+		},
+		{
+			"sy_name": "Kepler-1585"
+		},
+		{
+			"sy_name": "Kepler-1586"
+		},
+		{
+			"sy_name": "Kepler-1587"
+		},
+		{
+			"sy_name": "Kepler-1588"
+		},
+		{
+			"sy_name": "Kepler-1589"
+		},
+		{
+			"sy_name": "Kepler-159"
+		},
+		{
+			"sy_name": "Kepler-1590"
+		},
+		{
+			"sy_name": "Kepler-1591"
+		},
+		{
+			"sy_name": "Kepler-1592"
+		},
+		{
+			"sy_name": "Kepler-1593"
+		},
+		{
+			"sy_name": "Kepler-1594"
+		},
+		{
+			"sy_name": "Kepler-1595"
+		},
+		{
+			"sy_name": "Kepler-1596"
+		},
+		{
+			"sy_name": "Kepler-1597"
+		},
+		{
+			"sy_name": "Kepler-1598"
+		},
+		{
+			"sy_name": "Kepler-1599"
+		},
+		{
+			"sy_name": "Kepler-16"
+		},
+		{
+			"sy_name": "Kepler-160"
+		},
+		{
+			"sy_name": "Kepler-1600"
+		},
+		{
+			"sy_name": "Kepler-1601"
+		},
+		{
+			"sy_name": "Kepler-1602"
+		},
+		{
+			"sy_name": "Kepler-1603"
+		},
+		{
+			"sy_name": "Kepler-1604"
+		},
+		{
+			"sy_name": "Kepler-1605"
+		},
+		{
+			"sy_name": "Kepler-1606"
+		},
+		{
+			"sy_name": "Kepler-1607"
+		},
+		{
+			"sy_name": "Kepler-1608"
+		},
+		{
+			"sy_name": "Kepler-1609"
+		},
+		{
+			"sy_name": "Kepler-161"
+		},
+		{
+			"sy_name": "Kepler-1610"
+		},
+		{
+			"sy_name": "Kepler-1611"
+		},
+		{
+			"sy_name": "Kepler-1612"
+		},
+		{
+			"sy_name": "Kepler-1613"
+		},
+		{
+			"sy_name": "Kepler-1614"
+		},
+		{
+			"sy_name": "Kepler-1615"
+		},
+		{
+			"sy_name": "Kepler-1616"
+		},
+		{
+			"sy_name": "Kepler-1617"
+		},
+		{
+			"sy_name": "Kepler-1618"
+		},
+		{
+			"sy_name": "Kepler-1619"
+		},
+		{
+			"sy_name": "Kepler-162"
+		},
+		{
+			"sy_name": "Kepler-1620"
+		},
+		{
+			"sy_name": "Kepler-1621"
+		},
+		{
+			"sy_name": "Kepler-1622"
+		},
+		{
+			"sy_name": "Kepler-1623"
+		},
+		{
+			"sy_name": "Kepler-1624"
+		},
+		{
+			"sy_name": "Kepler-1625"
+		},
+		{
+			"sy_name": "Kepler-1626"
+		},
+		{
+			"sy_name": "Kepler-1627"
+		},
+		{
+			"sy_name": "Kepler-1628"
+		},
+		{
+			"sy_name": "Kepler-1629"
+		},
+		{
+			"sy_name": "Kepler-163"
+		},
+		{
+			"sy_name": "Kepler-1630"
+		},
+		{
+			"sy_name": "Kepler-1631"
+		},
+		{
+			"sy_name": "Kepler-1632"
+		},
+		{
+			"sy_name": "Kepler-1633"
+		},
+		{
+			"sy_name": "Kepler-1634"
+		},
+		{
+			"sy_name": "Kepler-1635"
+		},
+		{
+			"sy_name": "Kepler-1636"
+		},
+		{
+			"sy_name": "Kepler-1637"
+		},
+		{
+			"sy_name": "Kepler-1638"
+		},
+		{
+			"sy_name": "Kepler-1639"
+		},
+		{
+			"sy_name": "Kepler-164"
+		},
+		{
+			"sy_name": "Kepler-1640"
+		},
+		{
+			"sy_name": "Kepler-1641"
+		},
+		{
+			"sy_name": "Kepler-1642"
+		},
+		{
+			"sy_name": "Kepler-1643"
+		},
+		{
+			"sy_name": "Kepler-1644"
+		},
+		{
+			"sy_name": "Kepler-1645"
+		},
+		{
+			"sy_name": "Kepler-1646"
+		},
+		{
+			"sy_name": "Kepler-1647"
+		},
+		{
+			"sy_name": "Kepler-1649"
+		},
+		{
+			"sy_name": "Kepler-165"
+		},
+		{
+			"sy_name": "Kepler-1650"
+		},
+		{
+			"sy_name": "Kepler-1651"
+		},
+		{
+			"sy_name": "Kepler-1652"
+		},
+		{
+			"sy_name": "Kepler-1653"
+		},
+		{
+			"sy_name": "Kepler-1654"
+		},
+		{
+			"sy_name": "Kepler-1655"
+		},
+		{
+			"sy_name": "Kepler-1656"
+		},
+		{
+			"sy_name": "Kepler-166"
+		},
+		{
+			"sy_name": "Kepler-1660"
+		},
+		{
+			"sy_name": "Kepler-1661"
+		},
+		{
+			"sy_name": "Kepler-1663"
+		},
+		{
+			"sy_name": "Kepler-1664"
+		},
+		{
+			"sy_name": "Kepler-1665"
+		},
+		{
+			"sy_name": "Kepler-1666"
+		},
+		{
+			"sy_name": "Kepler-1667"
+		},
+		{
+			"sy_name": "Kepler-1668"
+		},
+		{
+			"sy_name": "Kepler-1669"
+		},
+		{
+			"sy_name": "Kepler-167"
+		},
+		{
+			"sy_name": "Kepler-1670"
+		},
+		{
+			"sy_name": "Kepler-1671"
+		},
+		{
+			"sy_name": "Kepler-1672"
+		},
+		{
+			"sy_name": "Kepler-1673"
+		},
+		{
+			"sy_name": "Kepler-1674"
+		},
+		{
+			"sy_name": "Kepler-1675"
+		},
+		{
+			"sy_name": "Kepler-1676"
+		},
+		{
+			"sy_name": "Kepler-1677"
+		},
+		{
+			"sy_name": "Kepler-1678"
+		},
+		{
+			"sy_name": "Kepler-1679"
+		},
+		{
+			"sy_name": "Kepler-168"
+		},
+		{
+			"sy_name": "Kepler-1680"
+		},
+		{
+			"sy_name": "Kepler-1681"
+		},
+		{
+			"sy_name": "Kepler-1682"
+		},
+		{
+			"sy_name": "Kepler-1683"
+		},
+		{
+			"sy_name": "Kepler-1684"
+		},
+		{
+			"sy_name": "Kepler-1685"
+		},
+		{
+			"sy_name": "Kepler-1686"
+		},
+		{
+			"sy_name": "Kepler-1687"
+		},
+		{
+			"sy_name": "Kepler-1688"
+		},
+		{
+			"sy_name": "Kepler-1689"
+		},
+		{
+			"sy_name": "Kepler-169"
+		},
+		{
+			"sy_name": "Kepler-1690"
+		},
+		{
+			"sy_name": "Kepler-1691"
+		},
+		{
+			"sy_name": "Kepler-1692"
+		},
+		{
+			"sy_name": "Kepler-1693"
+		},
+		{
+			"sy_name": "Kepler-1694"
+		},
+		{
+			"sy_name": "Kepler-1695"
+		},
+		{
+			"sy_name": "Kepler-1696"
+		},
+		{
+			"sy_name": "Kepler-1697"
+		},
+		{
+			"sy_name": "Kepler-1698"
+		},
+		{
+			"sy_name": "Kepler-1699"
+		},
+		{
+			"sy_name": "Kepler-17"
+		},
+		{
+			"sy_name": "Kepler-170"
+		},
+		{
+			"sy_name": "Kepler-1700"
+		},
+		{
+			"sy_name": "Kepler-1701"
+		},
+		{
+			"sy_name": "Kepler-1702"
+		},
+		{
+			"sy_name": "Kepler-1704"
+		},
+		{
+			"sy_name": "Kepler-1705"
+		},
+		{
+			"sy_name": "Kepler-1708"
+		},
+		{
+			"sy_name": "Kepler-1709"
+		},
+		{
+			"sy_name": "Kepler-171"
+		},
+		{
+			"sy_name": "Kepler-1710"
+		},
+		{
+			"sy_name": "Kepler-1711"
+		},
+		{
+			"sy_name": "Kepler-1712"
+		},
+		{
+			"sy_name": "Kepler-1713"
+		},
+		{
+			"sy_name": "Kepler-1714"
+		},
+		{
+			"sy_name": "Kepler-1715"
+		},
+		{
+			"sy_name": "Kepler-1716"
+		},
+		{
+			"sy_name": "Kepler-1717"
+		},
+		{
+			"sy_name": "Kepler-1718"
+		},
+		{
+			"sy_name": "Kepler-1719"
+		},
+		{
+			"sy_name": "Kepler-172"
+		},
+		{
+			"sy_name": "Kepler-1720"
+		},
+		{
+			"sy_name": "Kepler-1721"
+		},
+		{
+			"sy_name": "Kepler-1722"
+		},
+		{
+			"sy_name": "Kepler-1723"
+		},
+		{
+			"sy_name": "Kepler-1724"
+		},
+		{
+			"sy_name": "Kepler-1725"
+		},
+		{
+			"sy_name": "Kepler-1726"
+		},
+		{
+			"sy_name": "Kepler-1727"
+		},
+		{
+			"sy_name": "Kepler-1728"
+		},
+		{
+			"sy_name": "Kepler-1729"
+		},
+		{
+			"sy_name": "Kepler-173"
+		},
+		{
+			"sy_name": "Kepler-1730"
+		},
+		{
+			"sy_name": "Kepler-1731"
+		},
+		{
+			"sy_name": "Kepler-1732"
+		},
+		{
+			"sy_name": "Kepler-1733"
+		},
+		{
+			"sy_name": "Kepler-1734"
+		},
+		{
+			"sy_name": "Kepler-1735"
+		},
+		{
+			"sy_name": "Kepler-1736"
+		},
+		{
+			"sy_name": "Kepler-1737"
+		},
+		{
+			"sy_name": "Kepler-1738"
+		},
+		{
+			"sy_name": "Kepler-1739"
+		},
+		{
+			"sy_name": "Kepler-174"
+		},
+		{
+			"sy_name": "Kepler-1740"
+		},
+		{
+			"sy_name": "Kepler-1741"
+		},
+		{
+			"sy_name": "Kepler-1742"
+		},
+		{
+			"sy_name": "Kepler-1743"
+		},
+		{
+			"sy_name": "Kepler-1744"
+		},
+		{
+			"sy_name": "Kepler-1745"
+		},
+		{
+			"sy_name": "Kepler-1746"
+		},
+		{
+			"sy_name": "Kepler-1747"
+		},
+		{
+			"sy_name": "Kepler-1748"
+		},
+		{
+			"sy_name": "Kepler-1749"
+		},
+		{
+			"sy_name": "Kepler-175"
+		},
+		{
+			"sy_name": "Kepler-1750"
+		},
+		{
+			"sy_name": "Kepler-1751"
+		},
+		{
+			"sy_name": "Kepler-1752"
+		},
+		{
+			"sy_name": "Kepler-1753"
+		},
+		{
+			"sy_name": "Kepler-1754"
+		},
+		{
+			"sy_name": "Kepler-1755"
+		},
+		{
+			"sy_name": "Kepler-1756"
+		},
+		{
+			"sy_name": "Kepler-1757"
+		},
+		{
+			"sy_name": "Kepler-1758"
+		},
+		{
+			"sy_name": "Kepler-1759"
+		},
+		{
+			"sy_name": "Kepler-176"
+		},
+		{
+			"sy_name": "Kepler-1760"
+		},
+		{
+			"sy_name": "Kepler-1761"
+		},
+		{
+			"sy_name": "Kepler-1762"
+		},
+		{
+			"sy_name": "Kepler-1763"
+		},
+		{
+			"sy_name": "Kepler-1764"
+		},
+		{
+			"sy_name": "Kepler-1765"
+		},
+		{
+			"sy_name": "Kepler-1766"
+		},
+		{
+			"sy_name": "Kepler-1767"
+		},
+		{
+			"sy_name": "Kepler-1768"
+		},
+		{
+			"sy_name": "Kepler-1769"
+		},
+		{
+			"sy_name": "Kepler-177"
+		},
+		{
+			"sy_name": "Kepler-1770"
+		},
+		{
+			"sy_name": "Kepler-1771"
+		},
+		{
+			"sy_name": "Kepler-1772"
+		},
+		{
+			"sy_name": "Kepler-1773"
+		},
+		{
+			"sy_name": "Kepler-1774"
+		},
+		{
+			"sy_name": "Kepler-1775"
+		},
+		{
+			"sy_name": "Kepler-1776"
+		},
+		{
+			"sy_name": "Kepler-1777"
+		},
+		{
+			"sy_name": "Kepler-1778"
+		},
+		{
+			"sy_name": "Kepler-1779"
+		},
+		{
+			"sy_name": "Kepler-178"
+		},
+		{
+			"sy_name": "Kepler-1780"
+		},
+		{
+			"sy_name": "Kepler-1781"
+		},
+		{
+			"sy_name": "Kepler-1782"
+		},
+		{
+			"sy_name": "Kepler-1783"
+		},
+		{
+			"sy_name": "Kepler-1784"
+		},
+		{
+			"sy_name": "Kepler-1785"
+		},
+		{
+			"sy_name": "Kepler-1786"
+		},
+		{
+			"sy_name": "Kepler-1787"
+		},
+		{
+			"sy_name": "Kepler-1788"
+		},
+		{
+			"sy_name": "Kepler-1789"
+		},
+		{
+			"sy_name": "Kepler-179"
+		},
+		{
+			"sy_name": "Kepler-1790"
+		},
+		{
+			"sy_name": "Kepler-1791"
+		},
+		{
+			"sy_name": "Kepler-1792"
+		},
+		{
+			"sy_name": "Kepler-1793"
+		},
+		{
+			"sy_name": "Kepler-1794"
+		},
+		{
+			"sy_name": "Kepler-1795"
+		},
+		{
+			"sy_name": "Kepler-1796"
+		},
+		{
+			"sy_name": "Kepler-1797"
+		},
+		{
+			"sy_name": "Kepler-1798"
+		},
+		{
+			"sy_name": "Kepler-1799"
+		},
+		{
+			"sy_name": "Kepler-18"
+		},
+		{
+			"sy_name": "Kepler-180"
+		},
+		{
+			"sy_name": "Kepler-1800"
+		},
+		{
+			"sy_name": "Kepler-1801"
+		},
+		{
+			"sy_name": "Kepler-1802"
+		},
+		{
+			"sy_name": "Kepler-1804"
+		},
+		{
+			"sy_name": "Kepler-1805"
+		},
+		{
+			"sy_name": "Kepler-1806"
+		},
+		{
+			"sy_name": "Kepler-1807"
+		},
+		{
+			"sy_name": "Kepler-1808"
+		},
+		{
+			"sy_name": "Kepler-1809"
+		},
+		{
+			"sy_name": "Kepler-181"
+		},
+		{
+			"sy_name": "Kepler-1810"
+		},
+		{
+			"sy_name": "Kepler-1811"
+		},
+		{
+			"sy_name": "Kepler-1812"
+		},
+		{
+			"sy_name": "Kepler-1813"
+		},
+		{
+			"sy_name": "Kepler-1814"
+		},
+		{
+			"sy_name": "Kepler-1815"
+		},
+		{
+			"sy_name": "Kepler-1816"
+		},
+		{
+			"sy_name": "Kepler-1817"
+		},
+		{
+			"sy_name": "Kepler-1818"
+		},
+		{
+			"sy_name": "Kepler-1819"
+		},
+		{
+			"sy_name": "Kepler-182"
+		},
+		{
+			"sy_name": "Kepler-1820"
+		},
+		{
+			"sy_name": "Kepler-1821"
+		},
+		{
+			"sy_name": "Kepler-1822"
+		},
+		{
+			"sy_name": "Kepler-1823"
+		},
+		{
+			"sy_name": "Kepler-1824"
+		},
+		{
+			"sy_name": "Kepler-1825"
+		},
+		{
+			"sy_name": "Kepler-1826"
+		},
+		{
+			"sy_name": "Kepler-1827"
+		},
+		{
+			"sy_name": "Kepler-1828"
+		},
+		{
+			"sy_name": "Kepler-1829"
+		},
+		{
+			"sy_name": "Kepler-183"
+		},
+		{
+			"sy_name": "Kepler-1830"
+		},
+		{
+			"sy_name": "Kepler-1831"
+		},
+		{
+			"sy_name": "Kepler-1832"
+		},
+		{
+			"sy_name": "Kepler-1833"
+		},
+		{
+			"sy_name": "Kepler-1834"
+		},
+		{
+			"sy_name": "Kepler-1835"
+		},
+		{
+			"sy_name": "Kepler-1836"
+		},
+		{
+			"sy_name": "Kepler-1837"
+		},
+		{
+			"sy_name": "Kepler-1838"
+		},
+		{
+			"sy_name": "Kepler-1839"
+		},
+		{
+			"sy_name": "Kepler-184"
+		},
+		{
+			"sy_name": "Kepler-1840"
+		},
+		{
+			"sy_name": "Kepler-1841"
+		},
+		{
+			"sy_name": "Kepler-1842"
+		},
+		{
+			"sy_name": "Kepler-1843"
+		},
+		{
+			"sy_name": "Kepler-1844"
+		},
+		{
+			"sy_name": "Kepler-1845"
+		},
+		{
+			"sy_name": "Kepler-1846"
+		},
+		{
+			"sy_name": "Kepler-1847"
+		},
+		{
+			"sy_name": "Kepler-1848"
+		},
+		{
+			"sy_name": "Kepler-1849"
+		},
+		{
+			"sy_name": "Kepler-185"
+		},
+		{
+			"sy_name": "Kepler-1850"
+		},
+		{
+			"sy_name": "Kepler-1851"
+		},
+		{
+			"sy_name": "Kepler-1852"
+		},
+		{
+			"sy_name": "Kepler-1853"
+		},
+		{
+			"sy_name": "Kepler-1854"
+		},
+		{
+			"sy_name": "Kepler-1855"
+		},
+		{
+			"sy_name": "Kepler-1856"
+		},
+		{
+			"sy_name": "Kepler-1857"
+		},
+		{
+			"sy_name": "Kepler-1858"
+		},
+		{
+			"sy_name": "Kepler-1859"
+		},
+		{
+			"sy_name": "Kepler-186"
+		},
+		{
+			"sy_name": "Kepler-1860"
+		},
+		{
+			"sy_name": "Kepler-1861"
+		},
+		{
+			"sy_name": "Kepler-1862"
+		},
+		{
+			"sy_name": "Kepler-1863"
+		},
+		{
+			"sy_name": "Kepler-1864"
+		},
+		{
+			"sy_name": "Kepler-1865"
+		},
+		{
+			"sy_name": "Kepler-1866"
+		},
+		{
+			"sy_name": "Kepler-1867"
+		},
+		{
+			"sy_name": "Kepler-1868"
+		},
+		{
+			"sy_name": "Kepler-1869"
+		},
+		{
+			"sy_name": "Kepler-187"
+		},
+		{
+			"sy_name": "Kepler-1870"
+		},
+		{
+			"sy_name": "Kepler-1871"
+		},
+		{
+			"sy_name": "Kepler-1872"
+		},
+		{
+			"sy_name": "Kepler-1873"
+		},
+		{
+			"sy_name": "Kepler-1874"
+		},
+		{
+			"sy_name": "Kepler-1875"
+		},
+		{
+			"sy_name": "Kepler-1876"
+		},
+		{
+			"sy_name": "Kepler-1877"
+		},
+		{
+			"sy_name": "Kepler-1878"
+		},
+		{
+			"sy_name": "Kepler-1879"
+		},
+		{
+			"sy_name": "Kepler-188"
+		},
+		{
+			"sy_name": "Kepler-1880"
+		},
+		{
+			"sy_name": "Kepler-1881"
+		},
+		{
+			"sy_name": "Kepler-1882"
+		},
+		{
+			"sy_name": "Kepler-1883"
+		},
+		{
+			"sy_name": "Kepler-1884"
+		},
+		{
+			"sy_name": "Kepler-1885"
+		},
+		{
+			"sy_name": "Kepler-1886"
+		},
+		{
+			"sy_name": "Kepler-1887"
+		},
+		{
+			"sy_name": "Kepler-1888"
+		},
+		{
+			"sy_name": "Kepler-1889"
+		},
+		{
+			"sy_name": "Kepler-189"
+		},
+		{
+			"sy_name": "Kepler-1890"
+		},
+		{
+			"sy_name": "Kepler-1891"
+		},
+		{
+			"sy_name": "Kepler-1892"
+		},
+		{
+			"sy_name": "Kepler-1893"
+		},
+		{
+			"sy_name": "Kepler-1894"
+		},
+		{
+			"sy_name": "Kepler-1895"
+		},
+		{
+			"sy_name": "Kepler-1896"
+		},
+		{
+			"sy_name": "Kepler-1897"
+		},
+		{
+			"sy_name": "Kepler-1898"
+		},
+		{
+			"sy_name": "Kepler-1899"
+		},
+		{
+			"sy_name": "Kepler-19"
+		},
+		{
+			"sy_name": "Kepler-190"
+		},
+		{
+			"sy_name": "Kepler-1900"
+		},
+		{
+			"sy_name": "Kepler-1901"
+		},
+		{
+			"sy_name": "Kepler-1902"
+		},
+		{
+			"sy_name": "Kepler-1903"
+		},
+		{
+			"sy_name": "Kepler-1904"
+		},
+		{
+			"sy_name": "Kepler-1905"
+		},
+		{
+			"sy_name": "Kepler-1906"
+		},
+		{
+			"sy_name": "Kepler-1907"
+		},
+		{
+			"sy_name": "Kepler-1909"
+		},
+		{
+			"sy_name": "Kepler-191"
+		},
+		{
+			"sy_name": "Kepler-1910"
+		},
+		{
+			"sy_name": "Kepler-1911"
+		},
+		{
+			"sy_name": "Kepler-1912"
+		},
+		{
+			"sy_name": "Kepler-1913"
+		},
+		{
+			"sy_name": "Kepler-1914"
+		},
+		{
+			"sy_name": "Kepler-1915"
+		},
+		{
+			"sy_name": "Kepler-1916"
+		},
+		{
+			"sy_name": "Kepler-1917"
+		},
+		{
+			"sy_name": "Kepler-1918"
+		},
+		{
+			"sy_name": "Kepler-1919"
+		},
+		{
+			"sy_name": "Kepler-192"
+		},
+		{
+			"sy_name": "Kepler-1920"
+		},
+		{
+			"sy_name": "Kepler-1921"
+		},
+		{
+			"sy_name": "Kepler-1922"
+		},
+		{
+			"sy_name": "Kepler-1923"
+		},
+		{
+			"sy_name": "Kepler-1924"
+		},
+		{
+			"sy_name": "Kepler-1925"
+		},
+		{
+			"sy_name": "Kepler-1926"
+		},
+		{
+			"sy_name": "Kepler-1927"
+		},
+		{
+			"sy_name": "Kepler-1928"
+		},
+		{
+			"sy_name": "Kepler-1929"
+		},
+		{
+			"sy_name": "Kepler-193"
+		},
+		{
+			"sy_name": "Kepler-1930"
+		},
+		{
+			"sy_name": "Kepler-1931"
+		},
+		{
+			"sy_name": "Kepler-1932"
+		},
+		{
+			"sy_name": "Kepler-1933"
+		},
+		{
+			"sy_name": "Kepler-1934"
+		},
+		{
+			"sy_name": "Kepler-1935"
+		},
+		{
+			"sy_name": "Kepler-1936"
+		},
+		{
+			"sy_name": "Kepler-1937"
+		},
+		{
+			"sy_name": "Kepler-1938"
+		},
+		{
+			"sy_name": "Kepler-1939"
+		},
+		{
+			"sy_name": "Kepler-194"
+		},
+		{
+			"sy_name": "Kepler-1940"
+		},
+		{
+			"sy_name": "Kepler-1941"
+		},
+		{
+			"sy_name": "Kepler-1942"
+		},
+		{
+			"sy_name": "Kepler-1943"
+		},
+		{
+			"sy_name": "Kepler-1944"
+		},
+		{
+			"sy_name": "Kepler-1945"
+		},
+		{
+			"sy_name": "Kepler-1946"
+		},
+		{
+			"sy_name": "Kepler-1947"
+		},
+		{
+			"sy_name": "Kepler-1948"
+		},
+		{
+			"sy_name": "Kepler-1949"
+		},
+		{
+			"sy_name": "Kepler-195"
+		},
+		{
+			"sy_name": "Kepler-1950"
+		},
+		{
+			"sy_name": "Kepler-1951"
+		},
+		{
+			"sy_name": "Kepler-1952"
+		},
+		{
+			"sy_name": "Kepler-1953"
+		},
+		{
+			"sy_name": "Kepler-1954"
+		},
+		{
+			"sy_name": "Kepler-1955"
+		},
+		{
+			"sy_name": "Kepler-1956"
+		},
+		{
+			"sy_name": "Kepler-1957"
+		},
+		{
+			"sy_name": "Kepler-1958"
+		},
+		{
+			"sy_name": "Kepler-1959"
+		},
+		{
+			"sy_name": "Kepler-196"
+		},
+		{
+			"sy_name": "Kepler-1960"
+		},
+		{
+			"sy_name": "Kepler-1961"
+		},
+		{
+			"sy_name": "Kepler-1962"
+		},
+		{
+			"sy_name": "Kepler-1963"
+		},
+		{
+			"sy_name": "Kepler-1964"
+		},
+		{
+			"sy_name": "Kepler-1965"
+		},
+		{
+			"sy_name": "Kepler-1966"
+		},
+		{
+			"sy_name": "Kepler-1967"
+		},
+		{
+			"sy_name": "Kepler-1968"
+		},
+		{
+			"sy_name": "Kepler-1969"
+		},
+		{
+			"sy_name": "Kepler-197"
+		},
+		{
+			"sy_name": "Kepler-1972"
+		},
+		{
+			"sy_name": "Kepler-1976"
+		},
+		{
+			"sy_name": "Kepler-1977"
+		},
+		{
+			"sy_name": "Kepler-1978"
+		},
+		{
+			"sy_name": "Kepler-1979"
+		},
+		{
+			"sy_name": "Kepler-198"
+		},
+		{
+			"sy_name": "Kepler-1980"
+		},
+		{
+			"sy_name": "Kepler-1981"
+		},
+		{
+			"sy_name": "Kepler-1982"
+		},
+		{
+			"sy_name": "Kepler-1983"
+		},
+		{
+			"sy_name": "Kepler-1984"
+		},
+		{
+			"sy_name": "Kepler-1985"
+		},
+		{
+			"sy_name": "Kepler-1986"
+		},
+		{
+			"sy_name": "Kepler-1987"
+		},
+		{
+			"sy_name": "Kepler-1988"
+		},
+		{
+			"sy_name": "Kepler-1989"
+		},
+		{
+			"sy_name": "Kepler-199"
+		},
+		{
+			"sy_name": "Kepler-1990"
+		},
+		{
+			"sy_name": "Kepler-1991"
+		},
+		{
+			"sy_name": "Kepler-1992"
+		},
+		{
+			"sy_name": "Kepler-1993"
+		},
+		{
+			"sy_name": "Kepler-1994"
+		},
+		{
+			"sy_name": "Kepler-1995"
+		},
+		{
+			"sy_name": "Kepler-1996"
+		},
+		{
+			"sy_name": "Kepler-1997"
+		},
+		{
+			"sy_name": "Kepler-1998"
+		},
+		{
+			"sy_name": "Kepler-1999"
+		},
+		{
+			"sy_name": "Kepler-20"
+		},
+		{
+			"sy_name": "Kepler-200"
+		},
+		{
+			"sy_name": "Kepler-2000"
+		},
+		{
+			"sy_name": "Kepler-2001"
+		},
+		{
+			"sy_name": "Kepler-201"
+		},
+		{
+			"sy_name": "Kepler-202"
+		},
+		{
+			"sy_name": "Kepler-203"
+		},
+		{
+			"sy_name": "Kepler-204"
+		},
+		{
+			"sy_name": "Kepler-205"
+		},
+		{
+			"sy_name": "Kepler-206"
+		},
+		{
+			"sy_name": "Kepler-207"
+		},
+		{
+			"sy_name": "Kepler-208"
+		},
+		{
+			"sy_name": "Kepler-209"
+		},
+		{
+			"sy_name": "Kepler-21"
+		},
+		{
+			"sy_name": "Kepler-210"
+		},
+		{
+			"sy_name": "Kepler-211"
+		},
+		{
+			"sy_name": "Kepler-212"
+		},
+		{
+			"sy_name": "Kepler-213"
+		},
+		{
+			"sy_name": "Kepler-214"
+		},
+		{
+			"sy_name": "Kepler-215"
+		},
+		{
+			"sy_name": "Kepler-216"
+		},
+		{
+			"sy_name": "Kepler-217"
+		},
+		{
+			"sy_name": "Kepler-218"
+		},
+		{
+			"sy_name": "Kepler-219"
+		},
+		{
+			"sy_name": "Kepler-22"
+		},
+		{
+			"sy_name": "Kepler-220"
+		},
+		{
+			"sy_name": "Kepler-221"
+		},
+		{
+			"sy_name": "Kepler-222"
+		},
+		{
+			"sy_name": "Kepler-223"
+		},
+		{
+			"sy_name": "Kepler-224"
+		},
+		{
+			"sy_name": "Kepler-225"
+		},
+		{
+			"sy_name": "Kepler-226"
+		},
+		{
+			"sy_name": "Kepler-227"
+		},
+		{
+			"sy_name": "Kepler-228"
+		},
+		{
+			"sy_name": "Kepler-229"
+		},
+		{
+			"sy_name": "Kepler-23"
+		},
+		{
+			"sy_name": "Kepler-230"
+		},
+		{
+			"sy_name": "Kepler-231"
+		},
+		{
+			"sy_name": "Kepler-232"
+		},
+		{
+			"sy_name": "Kepler-233"
+		},
+		{
+			"sy_name": "Kepler-234"
+		},
+		{
+			"sy_name": "Kepler-235"
+		},
+		{
+			"sy_name": "Kepler-236"
+		},
+		{
+			"sy_name": "Kepler-237"
+		},
+		{
+			"sy_name": "Kepler-238"
+		},
+		{
+			"sy_name": "Kepler-239"
+		},
+		{
+			"sy_name": "Kepler-24"
+		},
+		{
+			"sy_name": "Kepler-240"
+		},
+		{
+			"sy_name": "Kepler-241"
+		},
+		{
+			"sy_name": "Kepler-242"
+		},
+		{
+			"sy_name": "Kepler-243"
+		},
+		{
+			"sy_name": "Kepler-244"
+		},
+		{
+			"sy_name": "Kepler-245"
+		},
+		{
+			"sy_name": "Kepler-246"
+		},
+		{
+			"sy_name": "Kepler-247"
+		},
+		{
+			"sy_name": "Kepler-248"
+		},
+		{
+			"sy_name": "Kepler-249"
+		},
+		{
+			"sy_name": "Kepler-25"
+		},
+		{
+			"sy_name": "Kepler-250"
+		},
+		{
+			"sy_name": "Kepler-251"
+		},
+		{
+			"sy_name": "Kepler-252"
+		},
+		{
+			"sy_name": "Kepler-253"
+		},
+		{
+			"sy_name": "Kepler-254"
+		},
+		{
+			"sy_name": "Kepler-255"
+		},
+		{
+			"sy_name": "Kepler-256"
+		},
+		{
+			"sy_name": "Kepler-257"
+		},
+		{
+			"sy_name": "Kepler-258"
+		},
+		{
+			"sy_name": "Kepler-259"
+		},
+		{
+			"sy_name": "Kepler-26"
+		},
+		{
+			"sy_name": "Kepler-260"
+		},
+		{
+			"sy_name": "Kepler-261"
+		},
+		{
+			"sy_name": "Kepler-262"
+		},
+		{
+			"sy_name": "Kepler-263"
+		},
+		{
+			"sy_name": "Kepler-264"
+		},
+		{
+			"sy_name": "Kepler-265"
+		},
+		{
+			"sy_name": "Kepler-266"
+		},
+		{
+			"sy_name": "Kepler-267"
+		},
+		{
+			"sy_name": "Kepler-268"
+		},
+		{
+			"sy_name": "Kepler-269"
+		},
+		{
+			"sy_name": "Kepler-27"
+		},
+		{
+			"sy_name": "Kepler-270"
+		},
+		{
+			"sy_name": "Kepler-271"
+		},
+		{
+			"sy_name": "Kepler-272"
+		},
+		{
+			"sy_name": "Kepler-273"
+		},
+		{
+			"sy_name": "Kepler-274"
+		},
+		{
+			"sy_name": "Kepler-275"
+		},
+		{
+			"sy_name": "Kepler-276"
+		},
+		{
+			"sy_name": "Kepler-277"
+		},
+		{
+			"sy_name": "Kepler-278"
+		},
+		{
+			"sy_name": "Kepler-279"
+		},
+		{
+			"sy_name": "Kepler-28"
+		},
+		{
+			"sy_name": "Kepler-280"
+		},
+		{
+			"sy_name": "Kepler-281"
+		},
+		{
+			"sy_name": "Kepler-282"
+		},
+		{
+			"sy_name": "Kepler-283"
+		},
+		{
+			"sy_name": "Kepler-284"
+		},
+		{
+			"sy_name": "Kepler-285"
+		},
+		{
+			"sy_name": "Kepler-286"
+		},
+		{
+			"sy_name": "Kepler-287"
+		},
+		{
+			"sy_name": "Kepler-288"
+		},
+		{
+			"sy_name": "Kepler-289"
+		},
+		{
+			"sy_name": "Kepler-29"
+		},
+		{
+			"sy_name": "Kepler-290"
+		},
+		{
+			"sy_name": "Kepler-291"
+		},
+		{
+			"sy_name": "Kepler-292"
+		},
+		{
+			"sy_name": "Kepler-293"
+		},
+		{
+			"sy_name": "Kepler-294"
+		},
+		{
+			"sy_name": "Kepler-295"
+		},
+		{
+			"sy_name": "Kepler-296"
+		},
+		{
+			"sy_name": "Kepler-297"
+		},
+		{
+			"sy_name": "Kepler-298"
+		},
+		{
+			"sy_name": "Kepler-299"
+		},
+		{
+			"sy_name": "Kepler-30"
+		},
+		{
+			"sy_name": "Kepler-300"
+		},
+		{
+			"sy_name": "Kepler-301"
+		},
+		{
+			"sy_name": "Kepler-302"
+		},
+		{
+			"sy_name": "Kepler-303"
+		},
+		{
+			"sy_name": "Kepler-304"
+		},
+		{
+			"sy_name": "Kepler-305"
+		},
+		{
+			"sy_name": "Kepler-306"
+		},
+		{
+			"sy_name": "Kepler-307"
+		},
+		{
+			"sy_name": "Kepler-308"
+		},
+		{
+			"sy_name": "Kepler-309"
+		},
+		{
+			"sy_name": "Kepler-31"
+		},
+		{
+			"sy_name": "Kepler-310"
+		},
+		{
+			"sy_name": "Kepler-311"
+		},
+		{
+			"sy_name": "Kepler-312"
+		},
+		{
+			"sy_name": "Kepler-313"
+		},
+		{
+			"sy_name": "Kepler-314"
+		},
+		{
+			"sy_name": "Kepler-315"
+		},
+		{
+			"sy_name": "Kepler-316"
+		},
+		{
+			"sy_name": "Kepler-317"
+		},
+		{
+			"sy_name": "Kepler-318"
+		},
+		{
+			"sy_name": "Kepler-319"
+		},
+		{
+			"sy_name": "Kepler-32"
+		},
+		{
+			"sy_name": "Kepler-320"
+		},
+		{
+			"sy_name": "Kepler-321"
+		},
+		{
+			"sy_name": "Kepler-322"
+		},
+		{
+			"sy_name": "Kepler-323"
+		},
+		{
+			"sy_name": "Kepler-324"
+		},
+		{
+			"sy_name": "Kepler-325"
+		},
+		{
+			"sy_name": "Kepler-326"
+		},
+		{
+			"sy_name": "Kepler-327"
+		},
+		{
+			"sy_name": "Kepler-328"
+		},
+		{
+			"sy_name": "Kepler-329"
+		},
+		{
+			"sy_name": "Kepler-33"
+		},
+		{
+			"sy_name": "Kepler-330"
+		},
+		{
+			"sy_name": "Kepler-331"
+		},
+		{
+			"sy_name": "Kepler-332"
+		},
+		{
+			"sy_name": "Kepler-333"
+		},
+		{
+			"sy_name": "Kepler-334"
+		},
+		{
+			"sy_name": "Kepler-335"
+		},
+		{
+			"sy_name": "Kepler-336"
+		},
+		{
+			"sy_name": "Kepler-337"
+		},
+		{
+			"sy_name": "Kepler-338"
+		},
+		{
+			"sy_name": "Kepler-339"
+		},
+		{
+			"sy_name": "Kepler-34"
+		},
+		{
+			"sy_name": "Kepler-340"
+		},
+		{
+			"sy_name": "Kepler-341"
+		},
+		{
+			"sy_name": "Kepler-342"
+		},
+		{
+			"sy_name": "Kepler-343"
+		},
+		{
+			"sy_name": "Kepler-344"
+		},
+		{
+			"sy_name": "Kepler-345"
+		},
+		{
+			"sy_name": "Kepler-346"
+		},
+		{
+			"sy_name": "Kepler-347"
+		},
+		{
+			"sy_name": "Kepler-348"
+		},
+		{
+			"sy_name": "Kepler-349"
+		},
+		{
+			"sy_name": "Kepler-35"
+		},
+		{
+			"sy_name": "Kepler-350"
+		},
+		{
+			"sy_name": "Kepler-351"
+		},
+		{
+			"sy_name": "Kepler-352"
+		},
+		{
+			"sy_name": "Kepler-353"
+		},
+		{
+			"sy_name": "Kepler-354"
+		},
+		{
+			"sy_name": "Kepler-355"
+		},
+		{
+			"sy_name": "Kepler-356"
+		},
+		{
+			"sy_name": "Kepler-357"
+		},
+		{
+			"sy_name": "Kepler-358"
+		},
+		{
+			"sy_name": "Kepler-359"
+		},
+		{
+			"sy_name": "Kepler-36"
+		},
+		{
+			"sy_name": "Kepler-360"
+		},
+		{
+			"sy_name": "Kepler-361"
+		},
+		{
+			"sy_name": "Kepler-362"
+		},
+		{
+			"sy_name": "Kepler-363"
+		},
+		{
+			"sy_name": "Kepler-364"
+		},
+		{
+			"sy_name": "Kepler-365"
+		},
+		{
+			"sy_name": "Kepler-366"
+		},
+		{
+			"sy_name": "Kepler-367"
+		},
+		{
+			"sy_name": "Kepler-368"
+		},
+		{
+			"sy_name": "Kepler-369"
+		},
+		{
+			"sy_name": "Kepler-37"
+		},
+		{
+			"sy_name": "Kepler-370"
+		},
+		{
+			"sy_name": "Kepler-371"
+		},
+		{
+			"sy_name": "Kepler-372"
+		},
+		{
+			"sy_name": "Kepler-373"
+		},
+		{
+			"sy_name": "Kepler-374"
+		},
+		{
+			"sy_name": "Kepler-375"
+		},
+		{
+			"sy_name": "Kepler-376"
+		},
+		{
+			"sy_name": "Kepler-377"
+		},
+		{
+			"sy_name": "Kepler-378"
+		},
+		{
+			"sy_name": "Kepler-379"
+		},
+		{
+			"sy_name": "Kepler-38"
+		},
+		{
+			"sy_name": "Kepler-380"
+		},
+		{
+			"sy_name": "Kepler-381"
+		},
+		{
+			"sy_name": "Kepler-382"
+		},
+		{
+			"sy_name": "Kepler-383"
+		},
+		{
+			"sy_name": "Kepler-384"
+		},
+		{
+			"sy_name": "Kepler-385"
+		},
+		{
+			"sy_name": "Kepler-386"
+		},
+		{
+			"sy_name": "Kepler-387"
+		},
+		{
+			"sy_name": "Kepler-388"
+		},
+		{
+			"sy_name": "Kepler-389"
+		},
+		{
+			"sy_name": "Kepler-39"
+		},
+		{
+			"sy_name": "Kepler-390"
+		},
+		{
+			"sy_name": "Kepler-391"
+		},
+		{
+			"sy_name": "Kepler-392"
+		},
+		{
+			"sy_name": "Kepler-393"
+		},
+		{
+			"sy_name": "Kepler-394"
+		},
+		{
+			"sy_name": "Kepler-395"
+		},
+		{
+			"sy_name": "Kepler-396"
+		},
+		{
+			"sy_name": "Kepler-397"
+		},
+		{
+			"sy_name": "Kepler-398"
+		},
+		{
+			"sy_name": "Kepler-399"
+		},
+		{
+			"sy_name": "Kepler-4"
+		},
+		{
+			"sy_name": "Kepler-40"
+		},
+		{
+			"sy_name": "Kepler-400"
+		},
+		{
+			"sy_name": "Kepler-401"
+		},
+		{
+			"sy_name": "Kepler-402"
+		},
+		{
+			"sy_name": "Kepler-403"
+		},
+		{
+			"sy_name": "Kepler-404"
+		},
+		{
+			"sy_name": "Kepler-405"
+		},
+		{
+			"sy_name": "Kepler-406"
+		},
+		{
+			"sy_name": "Kepler-407"
+		},
+		{
+			"sy_name": "Kepler-408"
+		},
+		{
+			"sy_name": "Kepler-409"
+		},
+		{
+			"sy_name": "Kepler-41"
+		},
+		{
+			"sy_name": "Kepler-410"
+		},
+		{
+			"sy_name": "Kepler-411"
+		},
+		{
+			"sy_name": "Kepler-412"
+		},
+		{
+			"sy_name": "Kepler-413"
+		},
+		{
+			"sy_name": "Kepler-414"
+		},
+		{
+			"sy_name": "Kepler-415"
+		},
+		{
+			"sy_name": "Kepler-416"
+		},
+		{
+			"sy_name": "Kepler-417"
+		},
+		{
+			"sy_name": "Kepler-418"
+		},
+		{
+			"sy_name": "Kepler-419"
+		},
+		{
+			"sy_name": "Kepler-42"
+		},
+		{
+			"sy_name": "Kepler-421"
+		},
+		{
+			"sy_name": "Kepler-422"
+		},
+		{
+			"sy_name": "Kepler-423"
+		},
+		{
+			"sy_name": "Kepler-424"
+		},
+		{
+			"sy_name": "Kepler-425"
+		},
+		{
+			"sy_name": "Kepler-426"
+		},
+		{
+			"sy_name": "Kepler-427"
+		},
+		{
+			"sy_name": "Kepler-428"
+		},
+		{
+			"sy_name": "Kepler-43"
+		},
+		{
+			"sy_name": "Kepler-430"
+		},
+		{
+			"sy_name": "Kepler-431"
+		},
+		{
+			"sy_name": "Kepler-432"
+		},
+		{
+			"sy_name": "Kepler-433"
+		},
+		{
+			"sy_name": "Kepler-434"
+		},
+		{
+			"sy_name": "Kepler-435"
+		},
+		{
+			"sy_name": "Kepler-436"
+		},
+		{
+			"sy_name": "Kepler-437"
+		},
+		{
+			"sy_name": "Kepler-438"
+		},
+		{
+			"sy_name": "Kepler-439"
+		},
+		{
+			"sy_name": "Kepler-44"
+		},
+		{
+			"sy_name": "Kepler-440"
+		},
+		{
+			"sy_name": "Kepler-441"
+		},
+		{
+			"sy_name": "Kepler-442"
+		},
+		{
+			"sy_name": "Kepler-443"
+		},
+		{
+			"sy_name": "Kepler-444"
+		},
+		{
+			"sy_name": "Kepler-445"
+		},
+		{
+			"sy_name": "Kepler-446"
+		},
+		{
+			"sy_name": "Kepler-447"
+		},
+		{
+			"sy_name": "Kepler-449"
+		},
+		{
+			"sy_name": "Kepler-45"
+		},
+		{
+			"sy_name": "Kepler-450"
+		},
+		{
+			"sy_name": "Kepler-452"
+		},
+		{
+			"sy_name": "Kepler-453"
+		},
+		{
+			"sy_name": "Kepler-454"
+		},
+		{
+			"sy_name": "Kepler-46"
+		},
+		{
+			"sy_name": "Kepler-461"
+		},
+		{
+			"sy_name": "Kepler-462"
+		},
+		{
+			"sy_name": "Kepler-463"
+		},
+		{
+			"sy_name": "Kepler-464"
+		},
+		{
+			"sy_name": "Kepler-465"
+		},
+		{
+			"sy_name": "Kepler-466"
+		},
+		{
+			"sy_name": "Kepler-467"
+		},
+		{
+			"sy_name": "Kepler-468"
+		},
+		{
+			"sy_name": "Kepler-47"
+		},
+		{
+			"sy_name": "Kepler-471"
+		},
+		{
+			"sy_name": "Kepler-472"
+		},
+		{
+			"sy_name": "Kepler-473"
+		},
+		{
+			"sy_name": "Kepler-474"
+		},
+		{
+			"sy_name": "Kepler-475"
+		},
+		{
+			"sy_name": "Kepler-476"
+		},
+		{
+			"sy_name": "Kepler-477"
+		},
+		{
+			"sy_name": "Kepler-478"
+		},
+		{
+			"sy_name": "Kepler-479"
+		},
+		{
+			"sy_name": "Kepler-48"
+		},
+		{
+			"sy_name": "Kepler-480"
+		},
+		{
+			"sy_name": "Kepler-481"
+		},
+		{
+			"sy_name": "Kepler-482"
+		},
+		{
+			"sy_name": "Kepler-483"
+		},
+		{
+			"sy_name": "Kepler-484"
+		},
+		{
+			"sy_name": "Kepler-485"
+		},
+		{
+			"sy_name": "Kepler-487"
+		},
+		{
+			"sy_name": "Kepler-489"
+		},
+		{
+			"sy_name": "Kepler-49"
+		},
+		{
+			"sy_name": "Kepler-490"
+		},
+		{
+			"sy_name": "Kepler-491"
+		},
+		{
+			"sy_name": "Kepler-493"
+		},
+		{
+			"sy_name": "Kepler-495"
+		},
+		{
+			"sy_name": "Kepler-496"
+		},
+		{
+			"sy_name": "Kepler-497"
+		},
+		{
+			"sy_name": "Kepler-498"
+		},
+		{
+			"sy_name": "Kepler-499"
+		},
+		{
+			"sy_name": "Kepler-5"
+		},
+		{
+			"sy_name": "Kepler-50"
+		},
+		{
+			"sy_name": "Kepler-500"
+		},
+		{
+			"sy_name": "Kepler-501"
+		},
+		{
+			"sy_name": "Kepler-502"
+		},
+		{
+			"sy_name": "Kepler-504"
+		},
+		{
+			"sy_name": "Kepler-505"
+		},
+		{
+			"sy_name": "Kepler-506"
+		},
+		{
+			"sy_name": "Kepler-507"
+		},
+		{
+			"sy_name": "Kepler-508"
+		},
+		{
+			"sy_name": "Kepler-509"
+		},
+		{
+			"sy_name": "Kepler-51"
+		},
+		{
+			"sy_name": "Kepler-510"
+		},
+		{
+			"sy_name": "Kepler-511"
+		},
+		{
+			"sy_name": "Kepler-512"
+		},
+		{
+			"sy_name": "Kepler-513"
+		},
+		{
+			"sy_name": "Kepler-514"
+		},
+		{
+			"sy_name": "Kepler-515"
+		},
+		{
+			"sy_name": "Kepler-516"
+		},
+		{
+			"sy_name": "Kepler-517"
+		},
+		{
+			"sy_name": "Kepler-518"
+		},
+		{
+			"sy_name": "Kepler-519"
+		},
+		{
+			"sy_name": "Kepler-52"
+		},
+		{
+			"sy_name": "Kepler-520"
+		},
+		{
+			"sy_name": "Kepler-521"
+		},
+		{
+			"sy_name": "Kepler-522"
+		},
+		{
+			"sy_name": "Kepler-523"
+		},
+		{
+			"sy_name": "Kepler-524"
+		},
+		{
+			"sy_name": "Kepler-525"
+		},
+		{
+			"sy_name": "Kepler-526"
+		},
+		{
+			"sy_name": "Kepler-527"
+		},
+		{
+			"sy_name": "Kepler-528"
+		},
+		{
+			"sy_name": "Kepler-529"
+		},
+		{
+			"sy_name": "Kepler-53"
+		},
+		{
+			"sy_name": "Kepler-530"
+		},
+		{
+			"sy_name": "Kepler-531"
+		},
+		{
+			"sy_name": "Kepler-532"
+		},
+		{
+			"sy_name": "Kepler-533"
+		},
+		{
+			"sy_name": "Kepler-534"
+		},
+		{
+			"sy_name": "Kepler-535"
+		},
+		{
+			"sy_name": "Kepler-536"
+		},
+		{
+			"sy_name": "Kepler-537"
+		},
+		{
+			"sy_name": "Kepler-538"
+		},
+		{
+			"sy_name": "Kepler-539"
+		},
+		{
+			"sy_name": "Kepler-54"
+		},
+		{
+			"sy_name": "Kepler-540"
+		},
+		{
+			"sy_name": "Kepler-541"
+		},
+		{
+			"sy_name": "Kepler-542"
+		},
+		{
+			"sy_name": "Kepler-543"
+		},
+		{
+			"sy_name": "Kepler-544"
+		},
+		{
+			"sy_name": "Kepler-545"
+		},
+		{
+			"sy_name": "Kepler-546"
+		},
+		{
+			"sy_name": "Kepler-547"
+		},
+		{
+			"sy_name": "Kepler-548"
+		},
+		{
+			"sy_name": "Kepler-549"
+		},
+		{
+			"sy_name": "Kepler-55"
+		},
+		{
+			"sy_name": "Kepler-550"
+		},
+		{
+			"sy_name": "Kepler-551"
+		},
+		{
+			"sy_name": "Kepler-552"
+		},
+		{
+			"sy_name": "Kepler-553"
+		},
+		{
+			"sy_name": "Kepler-554"
+		},
+		{
+			"sy_name": "Kepler-555"
+		},
+		{
+			"sy_name": "Kepler-556"
+		},
+		{
+			"sy_name": "Kepler-557"
+		},
+		{
+			"sy_name": "Kepler-558"
+		},
+		{
+			"sy_name": "Kepler-559"
+		},
+		{
+			"sy_name": "Kepler-56"
+		},
+		{
+			"sy_name": "Kepler-560"
+		},
+		{
+			"sy_name": "Kepler-561"
+		},
+		{
+			"sy_name": "Kepler-562"
+		},
+		{
+			"sy_name": "Kepler-563"
+		},
+		{
+			"sy_name": "Kepler-564"
+		},
+		{
+			"sy_name": "Kepler-565"
+		},
+		{
+			"sy_name": "Kepler-566"
+		},
+		{
+			"sy_name": "Kepler-567"
+		},
+		{
+			"sy_name": "Kepler-568"
+		},
+		{
+			"sy_name": "Kepler-569"
+		},
+		{
+			"sy_name": "Kepler-57"
+		},
+		{
+			"sy_name": "Kepler-570"
+		},
+		{
+			"sy_name": "Kepler-571"
+		},
+		{
+			"sy_name": "Kepler-572"
+		},
+		{
+			"sy_name": "Kepler-573"
+		},
+		{
+			"sy_name": "Kepler-574"
+		},
+		{
+			"sy_name": "Kepler-575"
+		},
+		{
+			"sy_name": "Kepler-576"
+		},
+		{
+			"sy_name": "Kepler-577"
+		},
+		{
+			"sy_name": "Kepler-578"
+		},
+		{
+			"sy_name": "Kepler-579"
+		},
+		{
+			"sy_name": "Kepler-58"
+		},
+		{
+			"sy_name": "Kepler-580"
+		},
+		{
+			"sy_name": "Kepler-581"
+		},
+		{
+			"sy_name": "Kepler-582"
+		},
+		{
+			"sy_name": "Kepler-583"
+		},
+		{
+			"sy_name": "Kepler-584"
+		},
+		{
+			"sy_name": "Kepler-585"
+		},
+		{
+			"sy_name": "Kepler-586"
+		},
+		{
+			"sy_name": "Kepler-587"
+		},
+		{
+			"sy_name": "Kepler-588"
+		},
+		{
+			"sy_name": "Kepler-589"
+		},
+		{
+			"sy_name": "Kepler-59"
+		},
+		{
+			"sy_name": "Kepler-590"
+		},
+		{
+			"sy_name": "Kepler-591"
+		},
+		{
+			"sy_name": "Kepler-592"
+		},
+		{
+			"sy_name": "Kepler-593"
+		},
+		{
+			"sy_name": "Kepler-594"
+		},
+		{
+			"sy_name": "Kepler-595"
+		},
+		{
+			"sy_name": "Kepler-596"
+		},
+		{
+			"sy_name": "Kepler-597"
+		},
+		{
+			"sy_name": "Kepler-598"
+		},
+		{
+			"sy_name": "Kepler-599"
+		},
+		{
+			"sy_name": "Kepler-6"
+		},
+		{
+			"sy_name": "Kepler-60"
+		},
+		{
+			"sy_name": "Kepler-600"
+		},
+		{
+			"sy_name": "Kepler-601"
+		},
+		{
+			"sy_name": "Kepler-602"
+		},
+		{
+			"sy_name": "Kepler-603"
+		},
+		{
+			"sy_name": "Kepler-604"
+		},
+		{
+			"sy_name": "Kepler-605"
+		},
+		{
+			"sy_name": "Kepler-606"
+		},
+		{
+			"sy_name": "Kepler-607"
+		},
+		{
+			"sy_name": "Kepler-608"
+		},
+		{
+			"sy_name": "Kepler-609"
+		},
+		{
+			"sy_name": "Kepler-61"
+		},
+		{
+			"sy_name": "Kepler-610"
+		},
+		{
+			"sy_name": "Kepler-611"
+		},
+		{
+			"sy_name": "Kepler-612"
+		},
+		{
+			"sy_name": "Kepler-613"
+		},
+		{
+			"sy_name": "Kepler-614"
+		},
+		{
+			"sy_name": "Kepler-615"
+		},
+		{
+			"sy_name": "Kepler-616"
+		},
+		{
+			"sy_name": "Kepler-617"
+		},
+		{
+			"sy_name": "Kepler-618"
+		},
+		{
+			"sy_name": "Kepler-619"
+		},
+		{
+			"sy_name": "Kepler-62"
+		},
+		{
+			"sy_name": "Kepler-620"
+		},
+		{
+			"sy_name": "Kepler-621"
+		},
+		{
+			"sy_name": "Kepler-622"
+		},
+		{
+			"sy_name": "Kepler-623"
+		},
+		{
+			"sy_name": "Kepler-624"
+		},
+		{
+			"sy_name": "Kepler-625"
+		},
+		{
+			"sy_name": "Kepler-626"
+		},
+		{
+			"sy_name": "Kepler-627"
+		},
+		{
+			"sy_name": "Kepler-629"
+		},
+		{
+			"sy_name": "Kepler-63"
+		},
+		{
+			"sy_name": "Kepler-630"
+		},
+		{
+			"sy_name": "Kepler-631"
+		},
+		{
+			"sy_name": "Kepler-632"
+		},
+		{
+			"sy_name": "Kepler-633"
+		},
+		{
+			"sy_name": "Kepler-634"
+		},
+		{
+			"sy_name": "Kepler-635"
+		},
+		{
+			"sy_name": "Kepler-636"
+		},
+		{
+			"sy_name": "Kepler-637"
+		},
+		{
+			"sy_name": "Kepler-638"
+		},
+		{
+			"sy_name": "Kepler-639"
+		},
+		{
+			"sy_name": "Kepler-640"
+		},
+		{
+			"sy_name": "Kepler-641"
+		},
+		{
+			"sy_name": "Kepler-642"
+		},
+		{
+			"sy_name": "Kepler-643"
+		},
+		{
+			"sy_name": "Kepler-644"
+		},
+		{
+			"sy_name": "Kepler-645"
+		},
+		{
+			"sy_name": "Kepler-646"
+		},
+		{
+			"sy_name": "Kepler-647"
+		},
+		{
+			"sy_name": "Kepler-648"
+		},
+		{
+			"sy_name": "Kepler-649"
+		},
+		{
+			"sy_name": "Kepler-65"
+		},
+		{
+			"sy_name": "Kepler-650"
+		},
+		{
+			"sy_name": "Kepler-651"
+		},
+		{
+			"sy_name": "Kepler-652"
+		},
+		{
+			"sy_name": "Kepler-653"
+		},
+		{
+			"sy_name": "Kepler-654"
+		},
+		{
+			"sy_name": "Kepler-655"
+		},
+		{
+			"sy_name": "Kepler-656"
+		},
+		{
+			"sy_name": "Kepler-657"
+		},
+		{
+			"sy_name": "Kepler-658"
+		},
+		{
+			"sy_name": "Kepler-659"
+		},
+		{
+			"sy_name": "Kepler-66"
+		},
+		{
+			"sy_name": "Kepler-660"
+		},
+		{
+			"sy_name": "Kepler-661"
+		},
+		{
+			"sy_name": "Kepler-662"
+		},
+		{
+			"sy_name": "Kepler-663"
+		},
+		{
+			"sy_name": "Kepler-664"
+		},
+		{
+			"sy_name": "Kepler-665"
+		},
+		{
+			"sy_name": "Kepler-666"
+		},
+		{
+			"sy_name": "Kepler-667"
+		},
+		{
+			"sy_name": "Kepler-668"
+		},
+		{
+			"sy_name": "Kepler-669"
+		},
+		{
+			"sy_name": "Kepler-67"
+		},
+		{
+			"sy_name": "Kepler-670"
+		},
+		{
+			"sy_name": "Kepler-671"
+		},
+		{
+			"sy_name": "Kepler-672"
+		},
+		{
+			"sy_name": "Kepler-673"
+		},
+		{
+			"sy_name": "Kepler-674"
+		},
+		{
+			"sy_name": "Kepler-675"
+		},
+		{
+			"sy_name": "Kepler-676"
+		},
+		{
+			"sy_name": "Kepler-677"
+		},
+		{
+			"sy_name": "Kepler-678"
+		},
+		{
+			"sy_name": "Kepler-679"
+		},
+		{
+			"sy_name": "Kepler-68"
+		},
+		{
+			"sy_name": "Kepler-680"
+		},
+		{
+			"sy_name": "Kepler-681"
+		},
+		{
+			"sy_name": "Kepler-682"
+		},
+		{
+			"sy_name": "Kepler-683"
+		},
+		{
+			"sy_name": "Kepler-684"
+		},
+		{
+			"sy_name": "Kepler-685"
+		},
+		{
+			"sy_name": "Kepler-686"
+		},
+		{
+			"sy_name": "Kepler-687"
+		},
+		{
+			"sy_name": "Kepler-688"
+		},
+		{
+			"sy_name": "Kepler-689"
+		},
+		{
+			"sy_name": "Kepler-69"
+		},
+		{
+			"sy_name": "Kepler-690"
+		},
+		{
+			"sy_name": "Kepler-691"
+		},
+		{
+			"sy_name": "Kepler-692"
+		},
+		{
+			"sy_name": "Kepler-693"
+		},
+		{
+			"sy_name": "Kepler-694"
+		},
+		{
+			"sy_name": "Kepler-695"
+		},
+		{
+			"sy_name": "Kepler-696"
+		},
+		{
+			"sy_name": "Kepler-697"
+		},
+		{
+			"sy_name": "Kepler-698"
+		},
+		{
+			"sy_name": "Kepler-7"
+		},
+		{
+			"sy_name": "Kepler-700"
+		},
+		{
+			"sy_name": "Kepler-701"
+		},
+		{
+			"sy_name": "Kepler-702"
+		},
+		{
+			"sy_name": "Kepler-703"
+		},
+		{
+			"sy_name": "Kepler-704"
+		},
+		{
+			"sy_name": "Kepler-705"
+		},
+		{
+			"sy_name": "Kepler-707"
+		},
+		{
+			"sy_name": "Kepler-708"
+		},
+		{
+			"sy_name": "Kepler-709"
+		},
+		{
+			"sy_name": "Kepler-710"
+		},
+		{
+			"sy_name": "Kepler-711"
+		},
+		{
+			"sy_name": "Kepler-712"
+		},
+		{
+			"sy_name": "Kepler-713"
+		},
+		{
+			"sy_name": "Kepler-714"
+		},
+		{
+			"sy_name": "Kepler-715"
+		},
+		{
+			"sy_name": "Kepler-716"
+		},
+		{
+			"sy_name": "Kepler-717"
+		},
+		{
+			"sy_name": "Kepler-718"
+		},
+		{
+			"sy_name": "Kepler-719"
+		},
+		{
+			"sy_name": "Kepler-720"
+		},
+		{
+			"sy_name": "Kepler-721"
+		},
+		{
+			"sy_name": "Kepler-722"
+		},
+		{
+			"sy_name": "Kepler-723"
+		},
+		{
+			"sy_name": "Kepler-724"
+		},
+		{
+			"sy_name": "Kepler-725"
+		},
+		{
+			"sy_name": "Kepler-726"
+		},
+		{
+			"sy_name": "Kepler-727"
+		},
+		{
+			"sy_name": "Kepler-728"
+		},
+		{
+			"sy_name": "Kepler-729"
+		},
+		{
+			"sy_name": "Kepler-730"
+		},
+		{
+			"sy_name": "Kepler-731"
+		},
+		{
+			"sy_name": "Kepler-732"
+		},
+		{
+			"sy_name": "Kepler-733"
+		},
+		{
+			"sy_name": "Kepler-734"
+		},
+		{
+			"sy_name": "Kepler-735"
+		},
+		{
+			"sy_name": "Kepler-736"
+		},
+		{
+			"sy_name": "Kepler-737"
+		},
+		{
+			"sy_name": "Kepler-738"
+		},
+		{
+			"sy_name": "Kepler-739"
+		},
+		{
+			"sy_name": "Kepler-74"
+		},
+		{
+			"sy_name": "Kepler-740"
+		},
+		{
+			"sy_name": "Kepler-741"
+		},
+		{
+			"sy_name": "Kepler-742"
+		},
+		{
+			"sy_name": "Kepler-743"
+		},
+		{
+			"sy_name": "Kepler-744"
+		},
+		{
+			"sy_name": "Kepler-745"
+		},
+		{
+			"sy_name": "Kepler-746"
+		},
+		{
+			"sy_name": "Kepler-747"
+		},
+		{
+			"sy_name": "Kepler-748"
+		},
+		{
+			"sy_name": "Kepler-749"
+		},
+		{
+			"sy_name": "Kepler-75"
+		},
+		{
+			"sy_name": "Kepler-750"
+		},
+		{
+			"sy_name": "Kepler-751"
+		},
+		{
+			"sy_name": "Kepler-752"
+		},
+		{
+			"sy_name": "Kepler-753"
+		},
+		{
+			"sy_name": "Kepler-754"
+		},
+		{
+			"sy_name": "Kepler-755"
+		},
+		{
+			"sy_name": "Kepler-756"
+		},
+		{
+			"sy_name": "Kepler-757"
+		},
+		{
+			"sy_name": "Kepler-758"
+		},
+		{
+			"sy_name": "Kepler-759"
+		},
+		{
+			"sy_name": "Kepler-76"
+		},
+		{
+			"sy_name": "Kepler-760"
+		},
+		{
+			"sy_name": "Kepler-761"
+		},
+		{
+			"sy_name": "Kepler-762"
+		},
+		{
+			"sy_name": "Kepler-763"
+		},
+		{
+			"sy_name": "Kepler-764"
+		},
+		{
+			"sy_name": "Kepler-765"
+		},
+		{
+			"sy_name": "Kepler-766"
+		},
+		{
+			"sy_name": "Kepler-767"
+		},
+		{
+			"sy_name": "Kepler-768"
+		},
+		{
+			"sy_name": "Kepler-769"
+		},
+		{
+			"sy_name": "Kepler-77"
+		},
+		{
+			"sy_name": "Kepler-770"
+		},
+		{
+			"sy_name": "Kepler-771"
+		},
+		{
+			"sy_name": "Kepler-772"
+		},
+		{
+			"sy_name": "Kepler-773"
+		},
+		{
+			"sy_name": "Kepler-774"
+		},
+		{
+			"sy_name": "Kepler-775"
+		},
+		{
+			"sy_name": "Kepler-776"
+		},
+		{
+			"sy_name": "Kepler-777"
+		},
+		{
+			"sy_name": "Kepler-778"
+		},
+		{
+			"sy_name": "Kepler-779"
+		},
+		{
+			"sy_name": "Kepler-78"
+		},
+		{
+			"sy_name": "Kepler-780"
+		},
+		{
+			"sy_name": "Kepler-781"
+		},
+		{
+			"sy_name": "Kepler-782"
+		},
+		{
+			"sy_name": "Kepler-783"
+		},
+		{
+			"sy_name": "Kepler-784"
+		},
+		{
+			"sy_name": "Kepler-785"
+		},
+		{
+			"sy_name": "Kepler-786"
+		},
+		{
+			"sy_name": "Kepler-787"
+		},
+		{
+			"sy_name": "Kepler-788"
+		},
+		{
+			"sy_name": "Kepler-789"
+		},
+		{
+			"sy_name": "Kepler-79"
+		},
+		{
+			"sy_name": "Kepler-790"
+		},
+		{
+			"sy_name": "Kepler-791"
+		},
+		{
+			"sy_name": "Kepler-792"
+		},
+		{
+			"sy_name": "Kepler-793"
+		},
+		{
+			"sy_name": "Kepler-794"
+		},
+		{
+			"sy_name": "Kepler-795"
+		},
+		{
+			"sy_name": "Kepler-796"
+		},
+		{
+			"sy_name": "Kepler-797"
+		},
+		{
+			"sy_name": "Kepler-798"
+		},
+		{
+			"sy_name": "Kepler-799"
+		},
+		{
+			"sy_name": "Kepler-8"
+		},
+		{
+			"sy_name": "Kepler-80"
+		},
+		{
+			"sy_name": "Kepler-800"
+		},
+		{
+			"sy_name": "Kepler-801"
+		},
+		{
+			"sy_name": "Kepler-802"
+		},
+		{
+			"sy_name": "Kepler-803"
+		},
+		{
+			"sy_name": "Kepler-804"
+		},
+		{
+			"sy_name": "Kepler-805"
+		},
+		{
+			"sy_name": "Kepler-806"
+		},
+		{
+			"sy_name": "Kepler-808"
+		},
+		{
+			"sy_name": "Kepler-809"
+		},
+		{
+			"sy_name": "Kepler-81"
+		},
+		{
+			"sy_name": "Kepler-810"
+		},
+		{
+			"sy_name": "Kepler-811"
+		},
+		{
+			"sy_name": "Kepler-812"
+		},
+		{
+			"sy_name": "Kepler-813"
+		},
+		{
+			"sy_name": "Kepler-814"
+		},
+		{
+			"sy_name": "Kepler-815"
+		},
+		{
+			"sy_name": "Kepler-816"
+		},
+		{
+			"sy_name": "Kepler-817"
+		},
+		{
+			"sy_name": "Kepler-818"
+		},
+		{
+			"sy_name": "Kepler-819"
+		},
+		{
+			"sy_name": "Kepler-82"
+		},
+		{
+			"sy_name": "Kepler-820"
+		},
+		{
+			"sy_name": "Kepler-821"
+		},
+		{
+			"sy_name": "Kepler-822"
+		},
+		{
+			"sy_name": "Kepler-823"
+		},
+		{
+			"sy_name": "Kepler-824"
+		},
+		{
+			"sy_name": "Kepler-825"
+		},
+		{
+			"sy_name": "Kepler-826"
+		},
+		{
+			"sy_name": "Kepler-827"
+		},
+		{
+			"sy_name": "Kepler-828"
+		},
+		{
+			"sy_name": "Kepler-829"
+		},
+		{
+			"sy_name": "Kepler-83"
+		},
+		{
+			"sy_name": "Kepler-830"
+		},
+		{
+			"sy_name": "Kepler-831"
+		},
+		{
+			"sy_name": "Kepler-832"
+		},
+		{
+			"sy_name": "Kepler-833"
+		},
+		{
+			"sy_name": "Kepler-834"
+		},
+		{
+			"sy_name": "Kepler-835"
+		},
+		{
+			"sy_name": "Kepler-836"
+		},
+		{
+			"sy_name": "Kepler-837"
+		},
+		{
+			"sy_name": "Kepler-838"
+		},
+		{
+			"sy_name": "Kepler-839"
+		},
+		{
+			"sy_name": "Kepler-84"
+		},
+		{
+			"sy_name": "Kepler-841"
+		},
+		{
+			"sy_name": "Kepler-842"
+		},
+		{
+			"sy_name": "Kepler-843"
+		},
+		{
+			"sy_name": "Kepler-844"
+		},
+		{
+			"sy_name": "Kepler-845"
+		},
+		{
+			"sy_name": "Kepler-846"
+		},
+		{
+			"sy_name": "Kepler-847"
+		},
+		{
+			"sy_name": "Kepler-848"
+		},
+		{
+			"sy_name": "Kepler-849"
+		},
+		{
+			"sy_name": "Kepler-85"
+		},
+		{
+			"sy_name": "Kepler-850"
+		},
+		{
+			"sy_name": "Kepler-851"
+		},
+		{
+			"sy_name": "Kepler-852"
+		},
+		{
+			"sy_name": "Kepler-853"
+		},
+		{
+			"sy_name": "Kepler-855"
+		},
+		{
+			"sy_name": "Kepler-856"
+		},
+		{
+			"sy_name": "Kepler-857"
+		},
+		{
+			"sy_name": "Kepler-858"
+		},
+		{
+			"sy_name": "Kepler-859"
+		},
+		{
+			"sy_name": "Kepler-860"
+		},
+		{
+			"sy_name": "Kepler-861"
+		},
+		{
+			"sy_name": "Kepler-862"
+		},
+		{
+			"sy_name": "Kepler-863"
+		},
+		{
+			"sy_name": "Kepler-864"
+		},
+		{
+			"sy_name": "Kepler-865"
+		},
+		{
+			"sy_name": "Kepler-866"
+		},
+		{
+			"sy_name": "Kepler-867"
+		},
+		{
+			"sy_name": "Kepler-868"
+		},
+		{
+			"sy_name": "Kepler-869"
+		},
+		{
+			"sy_name": "Kepler-87"
+		},
+		{
+			"sy_name": "Kepler-870"
+		},
+		{
+			"sy_name": "Kepler-871"
+		},
+		{
+			"sy_name": "Kepler-872"
+		},
+		{
+			"sy_name": "Kepler-873"
+		},
+		{
+			"sy_name": "Kepler-874"
+		},
+		{
+			"sy_name": "Kepler-875"
+		},
+		{
+			"sy_name": "Kepler-876"
+		},
+		{
+			"sy_name": "Kepler-877"
+		},
+		{
+			"sy_name": "Kepler-878"
+		},
+		{
+			"sy_name": "Kepler-879"
+		},
+		{
+			"sy_name": "Kepler-880"
+		},
+		{
+			"sy_name": "Kepler-881"
+		},
+		{
+			"sy_name": "Kepler-882"
+		},
+		{
+			"sy_name": "Kepler-883"
+		},
+		{
+			"sy_name": "Kepler-884"
+		},
+		{
+			"sy_name": "Kepler-885"
+		},
+		{
+			"sy_name": "Kepler-886"
+		},
+		{
+			"sy_name": "Kepler-887"
+		},
+		{
+			"sy_name": "Kepler-888"
+		},
+		{
+			"sy_name": "Kepler-889"
+		},
+		{
+			"sy_name": "Kepler-890"
+		},
+		{
+			"sy_name": "Kepler-891"
+		},
+		{
+			"sy_name": "Kepler-892"
+		},
+		{
+			"sy_name": "Kepler-893"
+		},
+		{
+			"sy_name": "Kepler-894"
+		},
+		{
+			"sy_name": "Kepler-895"
+		},
+		{
+			"sy_name": "Kepler-896"
+		},
+		{
+			"sy_name": "Kepler-897"
+		},
+		{
+			"sy_name": "Kepler-898"
+		},
+		{
+			"sy_name": "Kepler-899"
+		},
+		{
+			"sy_name": "Kepler-9"
+		},
+		{
+			"sy_name": "Kepler-900"
+		},
+		{
+			"sy_name": "Kepler-901"
+		},
+		{
+			"sy_name": "Kepler-902"
+		},
+		{
+			"sy_name": "Kepler-903"
+		},
+		{
+			"sy_name": "Kepler-904"
+		},
+		{
+			"sy_name": "Kepler-905"
+		},
+		{
+			"sy_name": "Kepler-906"
+		},
+		{
+			"sy_name": "Kepler-907"
+		},
+		{
+			"sy_name": "Kepler-908"
+		},
+		{
+			"sy_name": "Kepler-909"
+		},
+		{
+			"sy_name": "Kepler-91"
+		},
+		{
+			"sy_name": "Kepler-910"
+		},
+		{
+			"sy_name": "Kepler-911"
+		},
+		{
+			"sy_name": "Kepler-912"
+		},
+		{
+			"sy_name": "Kepler-913"
+		},
+		{
+			"sy_name": "Kepler-914"
+		},
+		{
+			"sy_name": "Kepler-915"
+		},
+		{
+			"sy_name": "Kepler-916"
+		},
+		{
+			"sy_name": "Kepler-917"
+		},
+		{
+			"sy_name": "Kepler-918"
+		},
+		{
+			"sy_name": "Kepler-919"
+		},
+		{
+			"sy_name": "Kepler-92"
+		},
+		{
+			"sy_name": "Kepler-920"
+		},
+		{
+			"sy_name": "Kepler-921"
+		},
+		{
+			"sy_name": "Kepler-922"
+		},
+		{
+			"sy_name": "Kepler-923"
+		},
+		{
+			"sy_name": "Kepler-924"
+		},
+		{
+			"sy_name": "Kepler-925"
+		},
+		{
+			"sy_name": "Kepler-926"
+		},
+		{
+			"sy_name": "Kepler-927"
+		},
+		{
+			"sy_name": "Kepler-928"
+		},
+		{
+			"sy_name": "Kepler-929"
+		},
+		{
+			"sy_name": "Kepler-93"
+		},
+		{
+			"sy_name": "Kepler-930"
+		},
+		{
+			"sy_name": "Kepler-931"
+		},
+		{
+			"sy_name": "Kepler-932"
+		},
+		{
+			"sy_name": "Kepler-933"
+		},
+		{
+			"sy_name": "Kepler-934"
+		},
+		{
+			"sy_name": "Kepler-935"
+		},
+		{
+			"sy_name": "Kepler-936"
+		},
+		{
+			"sy_name": "Kepler-937"
+		},
+		{
+			"sy_name": "Kepler-938"
+		},
+		{
+			"sy_name": "Kepler-939"
+		},
+		{
+			"sy_name": "Kepler-94"
+		},
+		{
+			"sy_name": "Kepler-940"
+		},
+		{
+			"sy_name": "Kepler-941"
+		},
+		{
+			"sy_name": "Kepler-942"
+		},
+		{
+			"sy_name": "Kepler-943"
+		},
+		{
+			"sy_name": "Kepler-944"
+		},
+		{
+			"sy_name": "Kepler-945"
+		},
+		{
+			"sy_name": "Kepler-946"
+		},
+		{
+			"sy_name": "Kepler-947"
+		},
+		{
+			"sy_name": "Kepler-948"
+		},
+		{
+			"sy_name": "Kepler-949"
+		},
+		{
+			"sy_name": "Kepler-95"
+		},
+		{
+			"sy_name": "Kepler-950"
+		},
+		{
+			"sy_name": "Kepler-951"
+		},
+		{
+			"sy_name": "Kepler-952"
+		},
+		{
+			"sy_name": "Kepler-953"
+		},
+		{
+			"sy_name": "Kepler-954"
+		},
+		{
+			"sy_name": "Kepler-955"
+		},
+		{
+			"sy_name": "Kepler-956"
+		},
+		{
+			"sy_name": "Kepler-957"
+		},
+		{
+			"sy_name": "Kepler-958"
+		},
+		{
+			"sy_name": "Kepler-959"
+		},
+		{
+			"sy_name": "Kepler-96"
+		},
+		{
+			"sy_name": "Kepler-960"
+		},
+		{
+			"sy_name": "Kepler-961"
+		},
+		{
+			"sy_name": "Kepler-962"
+		},
+		{
+			"sy_name": "Kepler-963"
+		},
+		{
+			"sy_name": "Kepler-964"
+		},
+		{
+			"sy_name": "Kepler-965"
+		},
+		{
+			"sy_name": "Kepler-966"
+		},
+		{
+			"sy_name": "Kepler-967"
+		},
+		{
+			"sy_name": "Kepler-968"
+		},
+		{
+			"sy_name": "Kepler-969"
+		},
+		{
+			"sy_name": "Kepler-97"
+		},
+		{
+			"sy_name": "Kepler-970"
+		},
+		{
+			"sy_name": "Kepler-971"
+		},
+		{
+			"sy_name": "Kepler-972"
+		},
+		{
+			"sy_name": "Kepler-973"
+		},
+		{
+			"sy_name": "Kepler-974"
+		},
+		{
+			"sy_name": "Kepler-975"
+		},
+		{
+			"sy_name": "Kepler-976"
+		},
+		{
+			"sy_name": "Kepler-977"
+		},
+		{
+			"sy_name": "Kepler-978"
+		},
+		{
+			"sy_name": "Kepler-979"
+		},
+		{
+			"sy_name": "Kepler-98"
+		},
+		{
+			"sy_name": "Kepler-980"
+		},
+		{
+			"sy_name": "Kepler-981"
+		},
+		{
+			"sy_name": "Kepler-982"
+		},
+		{
+			"sy_name": "Kepler-983"
+		},
+		{
+			"sy_name": "Kepler-984"
+		},
+		{
+			"sy_name": "Kepler-985"
+		},
+		{
+			"sy_name": "Kepler-986"
+		},
+		{
+			"sy_name": "Kepler-987"
+		},
+		{
+			"sy_name": "Kepler-988"
+		},
+		{
+			"sy_name": "Kepler-989"
+		},
+		{
+			"sy_name": "Kepler-99"
+		},
+		{
+			"sy_name": "Kepler-990"
+		},
+		{
+			"sy_name": "Kepler-991"
+		},
+		{
+			"sy_name": "Kepler-992"
+		},
+		{
+			"sy_name": "Kepler-993"
+		},
+		{
+			"sy_name": "Kepler-994"
+		},
+		{
+			"sy_name": "Kepler-995"
+		},
+		{
+			"sy_name": "Kepler-996"
+		},
+		{
+			"sy_name": "Kepler-997"
+		},
+		{
+			"sy_name": "Kepler-998"
+		},
+		{
+			"sy_name": "Kepler-999"
+		},
+		{
+			"sy_name": "L 168-9"
+		},
+		{
+			"sy_name": "L 363-38"
+		},
+		{
+			"sy_name": "L 98-59"
+		},
+		{
+			"sy_name": "LHS 1140"
+		},
+		{
+			"sy_name": "LHS 1478"
+		},
+		{
+			"sy_name": "LHS 1678"
+		},
+		{
+			"sy_name": "LHS 1815"
+		},
+		{
+			"sy_name": "LHS 1903"
+		},
+		{
+			"sy_name": "LHS 3154"
+		},
+		{
+			"sy_name": "LHS 3844"
+		},
+		{
+			"sy_name": "LHS 475"
+		},
+		{
+			"sy_name": "LP 261-75"
+		},
+		{
+			"sy_name": "LP 714-47"
+		},
+		{
+			"sy_name": "LP 791-18"
+		},
+		{
+			"sy_name": "LP 890-9"
+		},
+		{
+			"sy_name": "LSPM J2116+0234"
+		},
+		{
+			"sy_name": "LTT 1445"
+		},
+		{
+			"sy_name": "LTT 3780"
+		},
+		{
+			"sy_name": "LTT 9779"
+		},
+		{
+			"sy_name": "LkCa 15"
+		},
+		{
+			"sy_name": "Luhman 16"
+		},
+		{
+			"sy_name": "Lupus-TR-3"
+		},
+		{
+			"sy_name": "M62H"
+		},
+		{
+			"sy_name": "MASCARA-1"
+		},
+		{
+			"sy_name": "MASCARA-4"
+		},
+		{
+			"sy_name": "MOA-2007-BLG-192L"
+		},
+		{
+			"sy_name": "MOA-2007-BLG-400L"
+		},
+		{
+			"sy_name": "MOA-2008-BLG-310L"
+		},
+		{
+			"sy_name": "MOA-2008-BLG-379L"
+		},
+		{
+			"sy_name": "MOA-2009-BLG-266L"
+		},
+		{
+			"sy_name": "MOA-2009-BLG-319L"
+		},
+		{
+			"sy_name": "MOA-2009-BLG-387L"
+		},
+		{
+			"sy_name": "MOA-2010-BLG-073L"
+		},
+		{
+			"sy_name": "MOA-2010-BLG-117L"
+		},
+		{
+			"sy_name": "MOA-2010-BLG-328L"
+		},
+		{
+			"sy_name": "MOA-2010-BLG-353L"
+		},
+		{
+			"sy_name": "MOA-2010-BLG-477L"
+		},
+		{
+			"sy_name": "MOA-2011-BLG-028L"
+		},
+		{
+			"sy_name": "MOA-2011-BLG-262L"
+		},
+		{
+			"sy_name": "MOA-2011-BLG-291L"
+		},
+		{
+			"sy_name": "MOA-2011-BLG-293L"
+		},
+		{
+			"sy_name": "MOA-2011-BLG-322L"
+		},
+		{
+			"sy_name": "MOA-2012-BLG-006L"
+		},
+		{
+			"sy_name": "MOA-2012-BLG-505L"
+		},
+		{
+			"sy_name": "MOA-2013-BLG-220L"
+		},
+		{
+			"sy_name": "MOA-2013-BLG-605L"
+		},
+		{
+			"sy_name": "MOA-2015-BLG-337L"
+		},
+		{
+			"sy_name": "MOA-2016-BLG-227L"
+		},
+		{
+			"sy_name": "MOA-2016-BLG-319L"
+		},
+		{
+			"sy_name": "MOA-2016-BLG-526L"
+		},
+		{
+			"sy_name": "MOA-2019-BLG-008L"
+		},
+		{
+			"sy_name": "MOA-2020-BLG-135L"
+		},
+		{
+			"sy_name": "MOA-2020-BLG-208L"
+		},
+		{
+			"sy_name": "MOA-2022-BLG-033L"
+		},
+		{
+			"sy_name": "MOA-2022-BLG-091L"
+		},
+		{
+			"sy_name": "MOA-2022-BLG-249L"
+		},
+		{
+			"sy_name": "MOA-2022-BLG-563L"
+		},
+		{
+			"sy_name": "MOA-bin-1L"
+		},
+		{
+			"sy_name": "MOA-bin-29"
+		},
+		{
+			"sy_name": "MWC 758"
+		},
+		{
+			"sy_name": "MXB 1658-298"
+		},
+		{
+			"sy_name": "NGC 2682 Sand 1429"
+		},
+		{
+			"sy_name": "NGC 2682 Sand 978"
+		},
+		{
+			"sy_name": "NGC 2682 YBP 1194"
+		},
+		{
+			"sy_name": "NGC 2682 YBP 1514"
+		},
+		{
+			"sy_name": "NGC 2682 YBP 401"
+		},
+		{
+			"sy_name": "NGTS-1"
+		},
+		{
+			"sy_name": "NGTS-10"
+		},
+		{
+			"sy_name": "NGTS-11"
+		},
+		{
+			"sy_name": "NGTS-12"
+		},
+		{
+			"sy_name": "NGTS-13"
+		},
+		{
+			"sy_name": "NGTS-14"
+		},
+		{
+			"sy_name": "NGTS-15"
+		},
+		{
+			"sy_name": "NGTS-16"
+		},
+		{
+			"sy_name": "NGTS-17"
+		},
+		{
+			"sy_name": "NGTS-18"
+		},
+		{
+			"sy_name": "NGTS-2"
+		},
+		{
+			"sy_name": "NGTS-20"
+		},
+		{
+			"sy_name": "NGTS-21"
+		},
+		{
+			"sy_name": "NGTS-23"
+		},
+		{
+			"sy_name": "NGTS-24"
+		},
+		{
+			"sy_name": "NGTS-25"
+		},
+		{
+			"sy_name": "NGTS-26"
+		},
+		{
+			"sy_name": "NGTS-27"
+		},
+		{
+			"sy_name": "NGTS-3"
+		},
+		{
+			"sy_name": "NGTS-30"
+		},
+		{
+			"sy_name": "NGTS-31"
+		},
+		{
+			"sy_name": "NGTS-32"
+		},
+		{
+			"sy_name": "NGTS-34"
+		},
+		{
+			"sy_name": "NGTS-35"
+		},
+		{
+			"sy_name": "NGTS-4"
+		},
+		{
+			"sy_name": "NGTS-5"
+		},
+		{
+			"sy_name": "NGTS-6"
+		},
+		{
+			"sy_name": "NGTS-8"
+		},
+		{
+			"sy_name": "NGTS-9"
+		},
+		{
+			"sy_name": "NN Ser"
+		},
+		{
+			"sy_name": "NSVS 14256825"
+		},
+		{
+			"sy_name": "NY Vir"
+		},
+		{
+			"sy_name": "OGLE-2003-BLG-235L"
+		},
+		{
+			"sy_name": "OGLE-2005-BLG-071L"
+		},
+		{
+			"sy_name": "OGLE-2005-BLG-169L"
+		},
+		{
+			"sy_name": "OGLE-2005-BLG-390L"
+		},
+		{
+			"sy_name": "OGLE-2006-BLG-109L"
+		},
+		{
+			"sy_name": "OGLE-2006-BLG-284L"
+		},
+		{
+			"sy_name": "OGLE-2007-BLG-349L"
+		},
+		{
+			"sy_name": "OGLE-2007-BLG-368L"
+		},
+		{
+			"sy_name": "OGLE-2008-BLG-092L"
+		},
+		{
+			"sy_name": "OGLE-2008-BLG-355L"
+		},
+		{
+			"sy_name": "OGLE-2011-BLG-0173L"
+		},
+		{
+			"sy_name": "OGLE-2011-BLG-0251L"
+		},
+		{
+			"sy_name": "OGLE-2011-BLG-0265L"
+		},
+		{
+			"sy_name": "OGLE-2012-BLG-0026L"
+		},
+		{
+			"sy_name": "OGLE-2012-BLG-0358L"
+		},
+		{
+			"sy_name": "OGLE-2012-BLG-0406L"
+		},
+		{
+			"sy_name": "OGLE-2012-BLG-0563L"
+		},
+		{
+			"sy_name": "OGLE-2012-BLG-0724L"
+		},
+		{
+			"sy_name": "OGLE-2012-BLG-0838L"
+		},
+		{
+			"sy_name": "OGLE-2012-BLG-0950L"
+		},
+		{
+			"sy_name": "OGLE-2013-BLG-0102L"
+		},
+		{
+			"sy_name": "OGLE-2013-BLG-0132L"
+		},
+		{
+			"sy_name": "OGLE-2013-BLG-0341L"
+		},
+		{
+			"sy_name": "OGLE-2013-BLG-0911L"
+		},
+		{
+			"sy_name": "OGLE-2013-BLG-1721L"
+		},
+		{
+			"sy_name": "OGLE-2013-BLG-1761L"
+		},
+		{
+			"sy_name": "OGLE-2014-BLG-0124L"
+		},
+		{
+			"sy_name": "OGLE-2014-BLG-0221L"
+		},
+		{
+			"sy_name": "OGLE-2014-BLG-0319L"
+		},
+		{
+			"sy_name": "OGLE-2014-BLG-0676L"
+		},
+		{
+			"sy_name": "OGLE-2014-BLG-1722L"
+		},
+		{
+			"sy_name": "OGLE-2014-BLG-1760L"
+		},
+		{
+			"sy_name": "OGLE-2015-BLG-0051L"
+		},
+		{
+			"sy_name": "OGLE-2015-BLG-0954L"
+		},
+		{
+			"sy_name": "OGLE-2015-BLG-0966L"
+		},
+		{
+			"sy_name": "OGLE-2015-BLG-1609L"
+		},
+		{
+			"sy_name": "OGLE-2015-BLG-1649L"
+		},
+		{
+			"sy_name": "OGLE-2015-BLG-1670L"
+		},
+		{
+			"sy_name": "OGLE-2015-BLG-1771L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-0007L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-0263L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-0613L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-1067L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-1093L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-1190L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-1195L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-1227L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-1266L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-1598L"
+		},
+		{
+			"sy_name": "OGLE-2016-BLG-1800L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-0173L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-0364L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-0373L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-0406L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-0448L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-0482L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-0604L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-0640L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-1049L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-1099L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-1140L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-1237L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-1275L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-1375L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-1434L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-1522L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-1691L"
+		},
+		{
+			"sy_name": "OGLE-2017-BLG-1806L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0298L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0383L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0506L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0516L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0532L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0567L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0596L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0677L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0740L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0799L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0932L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0962L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-0977L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-1011L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-1119L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-1126L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-1185L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-1212L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-1269L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-1367L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-1428L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-1647L"
+		},
+		{
+			"sy_name": "OGLE-2018-BLG-1700L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-0249L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-0299L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-0304L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-0362L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-0468L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-0679L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-0954L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-0960L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-1053L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-1180L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-1470L"
+		},
+		{
+			"sy_name": "OGLE-2019-BLG-1492L"
+		},
+		{
+			"sy_name": "OGLE-2023-BLG-0836L"
+		},
+		{
+			"sy_name": "OGLE-TR-10"
+		},
+		{
+			"sy_name": "OGLE-TR-111"
+		},
+		{
+			"sy_name": "OGLE-TR-113"
+		},
+		{
+			"sy_name": "OGLE-TR-132"
+		},
+		{
+			"sy_name": "OGLE-TR-182"
+		},
+		{
+			"sy_name": "OGLE-TR-211"
+		},
+		{
+			"sy_name": "OGLE-TR-56"
+		},
+		{
+			"sy_name": "OGLE2-TR-L9"
+		},
+		{
+			"sy_name": "Oph 11"
+		},
+		{
+			"sy_name": "PDS 70"
+		},
+		{
+			"sy_name": "PH1"
+		},
+		{
+			"sy_name": "PH2"
+		},
+		{
+			"sy_name": "POTS-1"
+		},
+		{
+			"sy_name": "PSR B0329+54"
+		},
+		{
+			"sy_name": "PSR B1257+12"
+		},
+		{
+			"sy_name": "PSR B1620-26"
+		},
+		{
+			"sy_name": "PSR J1719-1438"
+		},
+		{
+			"sy_name": "PSR J2322-2650"
+		},
+		{
+			"sy_name": "PZ Tel"
+		},
+		{
+			"sy_name": "Pr0201"
+		},
+		{
+			"sy_name": "Pr0211"
+		},
+		{
+			"sy_name": "Qatar-1"
+		},
+		{
+			"sy_name": "Qatar-10"
+		},
+		{
+			"sy_name": "Qatar-2"
+		},
+		{
+			"sy_name": "Qatar-3"
+		},
+		{
+			"sy_name": "Qatar-4"
+		},
+		{
+			"sy_name": "Qatar-5"
+		},
+		{
+			"sy_name": "Qatar-6"
+		},
+		{
+			"sy_name": "Qatar-7"
+		},
+		{
+			"sy_name": "Qatar-8"
+		},
+		{
+			"sy_name": "Qatar-9"
+		},
+		{
+			"sy_name": "ROXs 12"
+		},
+		{
+			"sy_name": "ROXs 42"
+		},
+		{
+			"sy_name": "RR Cae"
+		},
+		{
+			"sy_name": "Ross 128"
+		},
+		{
+			"sy_name": "Ross 176"
+		},
+		{
+			"sy_name": "Ross 458"
+		},
+		{
+			"sy_name": "Ross 508"
+		},
+		{
+			"sy_name": "SPECULOOS-3"
+		},
+		{
+			"sy_name": "SR 12"
+		},
+		{
+			"sy_name": "SWEEPS-11"
+		},
+		{
+			"sy_name": "SWEEPS-4"
+		},
+		{
+			"sy_name": "TAP 26"
+		},
+		{
+			"sy_name": "TCP J05074264+2447555"
+		},
+		{
+			"sy_name": "TIC 117642575"
+		},
+		{
+			"sy_name": "TIC 139270665"
+		},
+		{
+			"sy_name": "TIC 139702105"
+		},
+		{
+			"sy_name": "TIC 142589416"
+		},
+		{
+			"sy_name": "TIC 147027702"
+		},
+		{
+			"sy_name": "TIC 153919886"
+		},
+		{
+			"sy_name": "TIC 154870955"
+		},
+		{
+			"sy_name": "TIC 160113658"
+		},
+		{
+			"sy_name": "TIC 161045582"
+		},
+		{
+			"sy_name": "TIC 172900988"
+		},
+		{
+			"sy_name": "TIC 178172313"
+		},
+		{
+			"sy_name": "TIC 183374187"
+		},
+		{
+			"sy_name": "TIC 188624430"
+		},
+		{
+			"sy_name": "TIC 18942729"
+		},
+		{
+			"sy_name": "TIC 198190129"
+		},
+		{
+			"sy_name": "TIC 206466666"
+		},
+		{
+			"sy_name": "TIC 231949697"
+		},
+		{
+			"sy_name": "TIC 237913194"
+		},
+		{
+			"sy_name": "TIC 241249530"
+		},
+		{
+			"sy_name": "TIC 245076932"
+		},
+		{
+			"sy_name": "TIC 24750448"
+		},
+		{
+			"sy_name": "TIC 249022743"
+		},
+		{
+			"sy_name": "TIC 257060897"
+		},
+		{
+			"sy_name": "TIC 260969020"
+		},
+		{
+			"sy_name": "TIC 270471727"
+		},
+		{
+			"sy_name": "TIC 279401253"
+		},
+		{
+			"sy_name": "TIC 290487717"
+		},
+		{
+			"sy_name": "TIC 294329732"
+		},
+		{
+			"sy_name": "TIC 32032563"
+		},
+		{
+			"sy_name": "TIC 320419023"
+		},
+		{
+			"sy_name": "TIC 34085383"
+		},
+		{
+			"sy_name": "TIC 349520724"
+		},
+		{
+			"sy_name": "TIC 356227008"
+		},
+		{
+			"sy_name": "TIC 365102760"
+		},
+		{
+			"sy_name": "TIC 38825265"
+		},
+		{
+			"sy_name": "TIC 38828280"
+		},
+		{
+			"sy_name": "TIC 390586021"
+		},
+		{
+			"sy_name": "TIC 393818343"
+		},
+		{
+			"sy_name": "TIC 423703298"
+		},
+		{
+			"sy_name": "TIC 434398831"
+		},
+		{
+			"sy_name": "TIC 437041147"
+		},
+		{
+			"sy_name": "TIC 445839811"
+		},
+		{
+			"sy_name": "TIC 46432937"
+		},
+		{
+			"sy_name": "TIC 4672985"
+		},
+		{
+			"sy_name": "TIC 62895484"
+		},
+		{
+			"sy_name": "TIC 65612701"
+		},
+		{
+			"sy_name": "TIC 67686059"
+		},
+		{
+			"sy_name": "TIC 77319217"
+		},
+		{
+			"sy_name": "TIC 77552382"
+		},
+		{
+			"sy_name": "TIC 86380416"
+		},
+		{
+			"sy_name": "TIC 87422071"
+		},
+		{
+			"sy_name": "TIC 88692598"
+		},
+		{
+			"sy_name": "TIC 88785435"
+		},
+		{
+			"sy_name": "TOI-1011"
+		},
+		{
+			"sy_name": "TOI-1036"
+		},
+		{
+			"sy_name": "TOI-1052"
+		},
+		{
+			"sy_name": "TOI-1054"
+		},
+		{
+			"sy_name": "TOI-1062"
+		},
+		{
+			"sy_name": "TOI-1064"
+		},
+		{
+			"sy_name": "TOI-1075"
+		},
+		{
+			"sy_name": "TOI-1080"
+		},
+		{
+			"sy_name": "TOI-1105"
+		},
+		{
+			"sy_name": "TOI-1107"
+		},
+		{
+			"sy_name": "TOI-1117"
+		},
+		{
+			"sy_name": "TOI-1130"
+		},
+		{
+			"sy_name": "TOI-1135"
+		},
+		{
+			"sy_name": "TOI-1136"
+		},
+		{
+			"sy_name": "TOI-1173"
+		},
+		{
+			"sy_name": "TOI-1174"
+		},
+		{
+			"sy_name": "TOI-1180"
+		},
+		{
+			"sy_name": "TOI-1181"
+		},
+		{
+			"sy_name": "TOI-1184"
+		},
+		{
+			"sy_name": "TOI-1194"
+		},
+		{
+			"sy_name": "TOI-1199"
+		},
+		{
+			"sy_name": "TOI-1201"
+		},
+		{
+			"sy_name": "TOI-1203"
+		},
+		{
+			"sy_name": "TOI-122"
+		},
+		{
+			"sy_name": "TOI-1221"
+		},
+		{
+			"sy_name": "TOI-1224"
+		},
+		{
+			"sy_name": "TOI-1226"
+		},
+		{
+			"sy_name": "TOI-1227"
+		},
+		{
+			"sy_name": "TOI-1230"
+		},
+		{
+			"sy_name": "TOI-1231"
+		},
+		{
+			"sy_name": "TOI-1232"
+		},
+		{
+			"sy_name": "TOI-1235"
+		},
+		{
+			"sy_name": "TOI-1238"
+		},
+		{
+			"sy_name": "TOI-1243"
+		},
+		{
+			"sy_name": "TOI-1244"
+		},
+		{
+			"sy_name": "TOI-1246"
+		},
+		{
+			"sy_name": "TOI-1248"
+		},
+		{
+			"sy_name": "TOI-1249"
+		},
+		{
+			"sy_name": "TOI-125"
+		},
+		{
+			"sy_name": "TOI-1259"
+		},
+		{
+			"sy_name": "TOI-1260"
+		},
+		{
+			"sy_name": "TOI-1266"
+		},
+		{
+			"sy_name": "TOI-1268"
+		},
+		{
+			"sy_name": "TOI-1269"
+		},
+		{
+			"sy_name": "TOI-1272"
+		},
+		{
+			"sy_name": "TOI-1273"
+		},
+		{
+			"sy_name": "TOI-1278"
+		},
+		{
+			"sy_name": "TOI-1279"
+		},
+		{
+			"sy_name": "TOI-128"
+		},
+		{
+			"sy_name": "TOI-1288"
+		},
+		{
+			"sy_name": "TOI-1291"
+		},
+		{
+			"sy_name": "TOI-1294"
+		},
+		{
+			"sy_name": "TOI-1295"
+		},
+		{
+			"sy_name": "TOI-1296"
+		},
+		{
+			"sy_name": "TOI-1298"
+		},
+		{
+			"sy_name": "TOI-1301"
+		},
+		{
+			"sy_name": "TOI-132"
+		},
+		{
+			"sy_name": "TOI-1333"
+		},
+		{
+			"sy_name": "TOI-1338"
+		},
+		{
+			"sy_name": "TOI-1346"
+		},
+		{
+			"sy_name": "TOI-1347"
+		},
+		{
+			"sy_name": "TOI-1386"
+		},
+		{
+			"sy_name": "TOI-139"
+		},
+		{
+			"sy_name": "TOI-1408"
+		},
+		{
+			"sy_name": "TOI-1410"
+		},
+		{
+			"sy_name": "TOI-1411"
+		},
+		{
+			"sy_name": "TOI-1416"
+		},
+		{
+			"sy_name": "TOI-1420"
+		},
+		{
+			"sy_name": "TOI-1422"
+		},
+		{
+			"sy_name": "TOI-1431"
+		},
+		{
+			"sy_name": "TOI-1437"
+		},
+		{
+			"sy_name": "TOI-1438"
+		},
+		{
+			"sy_name": "TOI-1439"
+		},
+		{
+			"sy_name": "TOI-1442"
+		},
+		{
+			"sy_name": "TOI-1443"
+		},
+		{
+			"sy_name": "TOI-1444"
+		},
+		{
+			"sy_name": "TOI-1448"
+		},
+		{
+			"sy_name": "TOI-1450"
+		},
+		{
+			"sy_name": "TOI-1451"
+		},
+		{
+			"sy_name": "TOI-1452"
+		},
+		{
+			"sy_name": "TOI-1453"
+		},
+		{
+			"sy_name": "TOI-1466"
+		},
+		{
+			"sy_name": "TOI-1467"
+		},
+		{
+			"sy_name": "TOI-1468"
+		},
+		{
+			"sy_name": "TOI-1470"
+		},
+		{
+			"sy_name": "TOI-1472"
+		},
+		{
+			"sy_name": "TOI-1478"
+		},
+		{
+			"sy_name": "TOI-150"
+		},
+		{
+			"sy_name": "TOI-1516"
+		},
+		{
+			"sy_name": "TOI-1518"
+		},
+		{
+			"sy_name": "TOI-157"
+		},
+		{
+			"sy_name": "TOI-159"
+		},
+		{
+			"sy_name": "TOI-1601"
+		},
+		{
+			"sy_name": "TOI-163"
+		},
+		{
+			"sy_name": "TOI-1630"
+		},
+		{
+			"sy_name": "TOI-1634"
+		},
+		{
+			"sy_name": "TOI-1648"
+		},
+		{
+			"sy_name": "TOI-1659"
+		},
+		{
+			"sy_name": "TOI-1669"
+		},
+		{
+			"sy_name": "TOI-1670"
+		},
+		{
+			"sy_name": "TOI-1680"
+		},
+		{
+			"sy_name": "TOI-1683"
+		},
+		{
+			"sy_name": "TOI-1685"
+		},
+		{
+			"sy_name": "TOI-169"
+		},
+		{
+			"sy_name": "TOI-1691"
+		},
+		{
+			"sy_name": "TOI-1693"
+		},
+		{
+			"sy_name": "TOI-1694"
+		},
+		{
+			"sy_name": "TOI-1695"
+		},
+		{
+			"sy_name": "TOI-1696"
+		},
+		{
+			"sy_name": "TOI-1710"
+		},
+		{
+			"sy_name": "TOI-1716"
+		},
+		{
+			"sy_name": "TOI-1718"
+		},
+		{
+			"sy_name": "TOI-172"
+		},
+		{
+			"sy_name": "TOI-1722"
+		},
+		{
+			"sy_name": "TOI-1723"
+		},
+		{
+			"sy_name": "TOI-1728"
+		},
+		{
+			"sy_name": "TOI-1732"
+		},
+		{
+			"sy_name": "TOI-1736"
+		},
+		{
+			"sy_name": "TOI-1739"
+		},
+		{
+			"sy_name": "TOI-1742"
+		},
+		{
+			"sy_name": "TOI-1743"
+		},
+		{
+			"sy_name": "TOI-1744"
+		},
+		{
+			"sy_name": "TOI-1749"
+		},
+		{
+			"sy_name": "TOI-1750"
+		},
+		{
+			"sy_name": "TOI-1751"
+		},
+		{
+			"sy_name": "TOI-1752"
+		},
+		{
+			"sy_name": "TOI-1753"
+		},
+		{
+			"sy_name": "TOI-1756"
+		},
+		{
+			"sy_name": "TOI-1758"
+		},
+		{
+			"sy_name": "TOI-1759"
+		},
+		{
+			"sy_name": "TOI-1768"
+		},
+		{
+			"sy_name": "TOI-1772"
+		},
+		{
+			"sy_name": "TOI-1774"
+		},
+		{
+			"sy_name": "TOI-1775"
+		},
+		{
+			"sy_name": "TOI-1776"
+		},
+		{
+			"sy_name": "TOI-1777"
+		},
+		{
+			"sy_name": "TOI-178"
+		},
+		{
+			"sy_name": "TOI-1782"
+		},
+		{
+			"sy_name": "TOI-1789"
+		},
+		{
+			"sy_name": "TOI-1794"
+		},
+		{
+			"sy_name": "TOI-1798"
+		},
+		{
+			"sy_name": "TOI-1799"
+		},
+		{
+			"sy_name": "TOI-1801"
+		},
+		{
+			"sy_name": "TOI-1803"
+		},
+		{
+			"sy_name": "TOI-1806"
+		},
+		{
+			"sy_name": "TOI-1807"
+		},
+		{
+			"sy_name": "TOI-181"
+		},
+		{
+			"sy_name": "TOI-1811"
+		},
+		{
+			"sy_name": "TOI-1814"
+		},
+		{
+			"sy_name": "TOI-1820"
+		},
+		{
+			"sy_name": "TOI-1823"
+		},
+		{
+			"sy_name": "TOI-1824"
+		},
+		{
+			"sy_name": "TOI-1836"
+		},
+		{
+			"sy_name": "TOI-1839"
+		},
+		{
+			"sy_name": "TOI-1842"
+		},
+		{
+			"sy_name": "TOI-1846"
+		},
+		{
+			"sy_name": "TOI-1853"
+		},
+		{
+			"sy_name": "TOI-1855"
+		},
+		{
+			"sy_name": "TOI-1859"
+		},
+		{
+			"sy_name": "TOI-1860"
+		},
+		{
+			"sy_name": "TOI-1873"
+		},
+		{
+			"sy_name": "TOI-1883"
+		},
+		{
+			"sy_name": "TOI-1898"
+		},
+		{
+			"sy_name": "TOI-1899"
+		},
+		{
+			"sy_name": "TOI-1937"
+		},
+		{
+			"sy_name": "TOI-198"
+		},
+		{
+			"sy_name": "TOI-199"
+		},
+		{
+			"sy_name": "TOI-1994"
+		},
+		{
+			"sy_name": "TOI-2000"
+		},
+		{
+			"sy_name": "TOI-2005"
+		},
+		{
+			"sy_name": "TOI-201"
+		},
+		{
+			"sy_name": "TOI-2010"
+		},
+		{
+			"sy_name": "TOI-2015"
+		},
+		{
+			"sy_name": "TOI-2018"
+		},
+		{
+			"sy_name": "TOI-2019"
+		},
+		{
+			"sy_name": "TOI-2025"
+		},
+		{
+			"sy_name": "TOI-2031"
+		},
+		{
+			"sy_name": "TOI-2046"
+		},
+		{
+			"sy_name": "TOI-2048"
+		},
+		{
+			"sy_name": "TOI-205"
+		},
+		{
+			"sy_name": "TOI-206"
+		},
+		{
+			"sy_name": "TOI-2068"
+		},
+		{
+			"sy_name": "TOI-2071"
+		},
+		{
+			"sy_name": "TOI-2076"
+		},
+		{
+			"sy_name": "TOI-2081"
+		},
+		{
+			"sy_name": "TOI-2084"
+		},
+		{
+			"sy_name": "TOI-2088"
+		},
+		{
+			"sy_name": "TOI-209"
+		},
+		{
+			"sy_name": "TOI-2092"
+		},
+		{
+			"sy_name": "TOI-2093"
+		},
+		{
+			"sy_name": "TOI-2094"
+		},
+		{
+			"sy_name": "TOI-2095"
+		},
+		{
+			"sy_name": "TOI-2096"
+		},
+		{
+			"sy_name": "TOI-2104"
+		},
+		{
+			"sy_name": "TOI-2107"
+		},
+		{
+			"sy_name": "TOI-2109"
+		},
+		{
+			"sy_name": "TOI-2120"
+		},
+		{
+			"sy_name": "TOI-2128"
+		},
+		{
+			"sy_name": "TOI-2133"
+		},
+		{
+			"sy_name": "TOI-2134"
+		},
+		{
+			"sy_name": "TOI-2136"
+		},
+		{
+			"sy_name": "TOI-2141"
+		},
+		{
+			"sy_name": "TOI-2145"
+		},
+		{
+			"sy_name": "TOI-2152"
+		},
+		{
+			"sy_name": "TOI-2154"
+		},
+		{
+			"sy_name": "TOI-2158"
+		},
+		{
+			"sy_name": "TOI-216"
+		},
+		{
+			"sy_name": "TOI-2169"
+		},
+		{
+			"sy_name": "TOI-2180"
+		},
+		{
+			"sy_name": "TOI-2184"
+		},
+		{
+			"sy_name": "TOI-2193"
+		},
+		{
+			"sy_name": "TOI-2194"
+		},
+		{
+			"sy_name": "TOI-2196"
+		},
+		{
+			"sy_name": "TOI-220"
+		},
+		{
+			"sy_name": "TOI-2200"
+		},
+		{
+			"sy_name": "TOI-2202"
+		},
+		{
+			"sy_name": "TOI-2207"
+		},
+		{
+			"sy_name": "TOI-2211"
+		},
+		{
+			"sy_name": "TOI-2227"
+		},
+		{
+			"sy_name": "TOI-2236"
+		},
+		{
+			"sy_name": "TOI-2257"
+		},
+		{
+			"sy_name": "TOI-2260"
+		},
+		{
+			"sy_name": "TOI-2266"
+		},
+		{
+			"sy_name": "TOI-2267"
+		},
+		{
+			"sy_name": "TOI-2274"
+		},
+		{
+			"sy_name": "TOI-2285"
+		},
+		{
+			"sy_name": "TOI-2295"
+		},
+		{
+			"sy_name": "TOI-2322"
+		},
+		{
+			"sy_name": "TOI-2328"
+		},
+		{
+			"sy_name": "TOI-2337"
+		},
+		{
+			"sy_name": "TOI-2338"
+		},
+		{
+			"sy_name": "TOI-2345"
+		},
+		{
+			"sy_name": "TOI-2346"
+		},
+		{
+			"sy_name": "TOI-2364"
+		},
+		{
+			"sy_name": "TOI-2368"
+		},
+		{
+			"sy_name": "TOI-237"
+		},
+		{
+			"sy_name": "TOI-2373"
+		},
+		{
+			"sy_name": "TOI-2374"
+		},
+		{
+			"sy_name": "TOI-2379"
+		},
+		{
+			"sy_name": "TOI-238"
+		},
+		{
+			"sy_name": "TOI-2382"
+		},
+		{
+			"sy_name": "TOI-2384"
+		},
+		{
+			"sy_name": "TOI-2406"
+		},
+		{
+			"sy_name": "TOI-2407"
+		},
+		{
+			"sy_name": "TOI-2411"
+		},
+		{
+			"sy_name": "TOI-2416"
+		},
+		{
+			"sy_name": "TOI-2420"
+		},
+		{
+			"sy_name": "TOI-2421"
+		},
+		{
+			"sy_name": "TOI-2427"
+		},
+		{
+			"sy_name": "TOI-2431"
+		},
+		{
+			"sy_name": "TOI-244"
+		},
+		{
+			"sy_name": "TOI-2443"
+		},
+		{
+			"sy_name": "TOI-2445"
+		},
+		{
+			"sy_name": "TOI-2447"
+		},
+		{
+			"sy_name": "TOI-2449"
+		},
+		{
+			"sy_name": "TOI-2453"
+		},
+		{
+			"sy_name": "TOI-2458"
+		},
+		{
+			"sy_name": "TOI-2459"
+		},
+		{
+			"sy_name": "TOI-2485"
+		},
+		{
+			"sy_name": "TOI-2497"
+		},
+		{
+			"sy_name": "TOI-2498"
+		},
+		{
+			"sy_name": "TOI-251"
+		},
+		{
+			"sy_name": "TOI-2518"
+		},
+		{
+			"sy_name": "TOI-2524"
+		},
+		{
+			"sy_name": "TOI-2525"
+		},
+		{
+			"sy_name": "TOI-2529"
+		},
+		{
+			"sy_name": "TOI-2537"
+		},
+		{
+			"sy_name": "TOI-2545"
+		},
+		{
+			"sy_name": "TOI-2567"
+		},
+		{
+			"sy_name": "TOI-257"
+		},
+		{
+			"sy_name": "TOI-2570"
+		},
+		{
+			"sy_name": "TOI-2580"
+		},
+		{
+			"sy_name": "TOI-2583"
+		},
+		{
+			"sy_name": "TOI-2587"
+		},
+		{
+			"sy_name": "TOI-2589"
+		},
+		{
+			"sy_name": "TOI-260"
+		},
+		{
+			"sy_name": "TOI-261"
+		},
+		{
+			"sy_name": "TOI-262"
+		},
+		{
+			"sy_name": "TOI-2641"
+		},
+		{
+			"sy_name": "TOI-2654"
+		},
+		{
+			"sy_name": "TOI-2669"
+		},
+		{
+			"sy_name": "TOI-269"
+		},
+		{
+			"sy_name": "TOI-270"
+		},
+		{
+			"sy_name": "TOI-2714"
+		},
+		{
+			"sy_name": "TOI-2719"
+		},
+		{
+			"sy_name": "TOI-2768"
+		},
+		{
+			"sy_name": "TOI-277"
+		},
+		{
+			"sy_name": "TOI-2796"
+		},
+		{
+			"sy_name": "TOI-2803"
+		},
+		{
+			"sy_name": "TOI-2818"
+		},
+		{
+			"sy_name": "TOI-283"
+		},
+		{
+			"sy_name": "TOI-2842"
+		},
+		{
+			"sy_name": "TOI-286"
+		},
+		{
+			"sy_name": "TOI-2876"
+		},
+		{
+			"sy_name": "TOI-2886"
+		},
+		{
+			"sy_name": "TOI-2969"
+		},
+		{
+			"sy_name": "TOI-2977"
+		},
+		{
+			"sy_name": "TOI-2981"
+		},
+		{
+			"sy_name": "TOI-2986"
+		},
+		{
+			"sy_name": "TOI-2989"
+		},
+		{
+			"sy_name": "TOI-2992"
+		},
+		{
+			"sy_name": "TOI-3023"
+		},
+		{
+			"sy_name": "TOI-3071"
+		},
+		{
+			"sy_name": "TOI-3082"
+		},
+		{
+			"sy_name": "TOI-3135"
+		},
+		{
+			"sy_name": "TOI-3160"
+		},
+		{
+			"sy_name": "TOI-3235"
+		},
+		{
+			"sy_name": "TOI-3261"
+		},
+		{
+			"sy_name": "TOI-3288"
+		},
+		{
+			"sy_name": "TOI-329"
+		},
+		{
+			"sy_name": "TOI-332"
+		},
+		{
+			"sy_name": "TOI-3321"
+		},
+		{
+			"sy_name": "TOI-333"
+		},
+		{
+			"sy_name": "TOI-3331"
+		},
+		{
+			"sy_name": "TOI-3353"
+		},
+		{
+			"sy_name": "TOI-3362"
+		},
+		{
+			"sy_name": "TOI-3364"
+		},
+		{
+			"sy_name": "TOI-3457"
+		},
+		{
+			"sy_name": "TOI-3464"
+		},
+		{
+			"sy_name": "TOI-3474"
+		},
+		{
+			"sy_name": "TOI-3486"
+		},
+		{
+			"sy_name": "TOI-3493"
+		},
+		{
+			"sy_name": "TOI-3523"
+		},
+		{
+			"sy_name": "TOI-3540"
+		},
+		{
+			"sy_name": "TOI-3568"
+		},
+		{
+			"sy_name": "TOI-3593"
+		},
+		{
+			"sy_name": "TOI-3629"
+		},
+		{
+			"sy_name": "TOI-3682"
+		},
+		{
+			"sy_name": "TOI-3688"
+		},
+		{
+			"sy_name": "TOI-3693"
+		},
+		{
+			"sy_name": "TOI-3714"
+		},
+		{
+			"sy_name": "TOI-375"
+		},
+		{
+			"sy_name": "TOI-3757"
+		},
+		{
+			"sy_name": "TOI-3785"
+		},
+		{
+			"sy_name": "TOI-3807"
+		},
+		{
+			"sy_name": "TOI-3819"
+		},
+		{
+			"sy_name": "TOI-3837"
+		},
+		{
+			"sy_name": "TOI-3856"
+		},
+		{
+			"sy_name": "TOI-3862"
+		},
+		{
+			"sy_name": "TOI-3877"
+		},
+		{
+			"sy_name": "TOI-3884"
+		},
+		{
+			"sy_name": "TOI-3894"
+		},
+		{
+			"sy_name": "TOI-3896"
+		},
+		{
+			"sy_name": "TOI-3912"
+		},
+		{
+			"sy_name": "TOI-3919"
+		},
+		{
+			"sy_name": "TOI-3976"
+		},
+		{
+			"sy_name": "TOI-3980"
+		},
+		{
+			"sy_name": "TOI-3984"
+		},
+		{
+			"sy_name": "TOI-4010"
+		},
+		{
+			"sy_name": "TOI-4029"
+		},
+		{
+			"sy_name": "TOI-4030"
+		},
+		{
+			"sy_name": "TOI-406"
+		},
+		{
+			"sy_name": "TOI-4087"
+		},
+		{
+			"sy_name": "TOI-4127"
+		},
+		{
+			"sy_name": "TOI-4137"
+		},
+		{
+			"sy_name": "TOI-4145"
+		},
+		{
+			"sy_name": "TOI-4153"
+		},
+		{
+			"sy_name": "TOI-4155"
+		},
+		{
+			"sy_name": "TOI-4156"
+		},
+		{
+			"sy_name": "TOI-4184"
+		},
+		{
+			"sy_name": "TOI-4201"
+		},
+		{
+			"sy_name": "TOI-421"
+		},
+		{
+			"sy_name": "TOI-4214"
+		},
+		{
+			"sy_name": "TOI-4308"
+		},
+		{
+			"sy_name": "TOI-431"
+		},
+		{
+			"sy_name": "TOI-4311"
+		},
+		{
+			"sy_name": "TOI-4329"
+		},
+		{
+			"sy_name": "TOI-4336"
+		},
+		{
+			"sy_name": "TOI-4342"
+		},
+		{
+			"sy_name": "TOI-4363"
+		},
+		{
+			"sy_name": "TOI-4364"
+		},
+		{
+			"sy_name": "TOI-4377"
+		},
+		{
+			"sy_name": "TOI-4379"
+		},
+		{
+			"sy_name": "TOI-4405"
+		},
+		{
+			"sy_name": "TOI-4406"
+		},
+		{
+			"sy_name": "TOI-4438"
+		},
+		{
+			"sy_name": "TOI-444"
+		},
+		{
+			"sy_name": "TOI-4443"
+		},
+		{
+			"sy_name": "TOI-4463"
+		},
+		{
+			"sy_name": "TOI-4465"
+		},
+		{
+			"sy_name": "TOI-4479"
+		},
+		{
+			"sy_name": "TOI-4487"
+		},
+		{
+			"sy_name": "TOI-4495"
+		},
+		{
+			"sy_name": "TOI-4504"
+		},
+		{
+			"sy_name": "TOI-4507"
+		},
+		{
+			"sy_name": "TOI-451"
+		},
+		{
+			"sy_name": "TOI-4511"
+		},
+		{
+			"sy_name": "TOI-4513"
+		},
+		{
+			"sy_name": "TOI-4515"
+		},
+		{
+			"sy_name": "TOI-4527"
+		},
+		{
+			"sy_name": "TOI-4529"
+		},
+		{
+			"sy_name": "TOI-4551"
+		},
+		{
+			"sy_name": "TOI-4552"
+		},
+		{
+			"sy_name": "TOI-4559"
+		},
+		{
+			"sy_name": "TOI-4561"
+		},
+		{
+			"sy_name": "TOI-4562"
+		},
+		{
+			"sy_name": "TOI-4578"
+		},
+		{
+			"sy_name": "TOI-4582"
+		},
+		{
+			"sy_name": "TOI-4588"
+		},
+		{
+			"sy_name": "TOI-4600"
+		},
+		{
+			"sy_name": "TOI-4602"
+		},
+		{
+			"sy_name": "TOI-4603"
+		},
+		{
+			"sy_name": "TOI-4633"
+		},
+		{
+			"sy_name": "TOI-4638"
+		},
+		{
+			"sy_name": "TOI-4640"
+		},
+		{
+			"sy_name": "TOI-4641"
+		},
+		{
+			"sy_name": "TOI-4662"
+		},
+		{
+			"sy_name": "TOI-4666"
+		},
+		{
+			"sy_name": "TOI-469"
+		},
+		{
+			"sy_name": "TOI-470"
+		},
+		{
+			"sy_name": "TOI-4734"
+		},
+		{
+			"sy_name": "TOI-4747"
+		},
+		{
+			"sy_name": "TOI-4773"
+		},
+		{
+			"sy_name": "TOI-4791"
+		},
+		{
+			"sy_name": "TOI-4794"
+		},
+		{
+			"sy_name": "TOI-480"
+		},
+		{
+			"sy_name": "TOI-481"
+		},
+		{
+			"sy_name": "TOI-4860"
+		},
+		{
+			"sy_name": "TOI-4898"
+		},
+		{
+			"sy_name": "TOI-4914"
+		},
+		{
+			"sy_name": "TOI-4930"
+		},
+		{
+			"sy_name": "TOI-4940"
+		},
+		{
+			"sy_name": "TOI-4961"
+		},
+		{
+			"sy_name": "TOI-4994"
+		},
+		{
+			"sy_name": "TOI-500"
+		},
+		{
+			"sy_name": "TOI-5005"
+		},
+		{
+			"sy_name": "TOI-5007"
+		},
+		{
+			"sy_name": "TOI-5027"
+		},
+		{
+			"sy_name": "TOI-5076"
+		},
+		{
+			"sy_name": "TOI-5082"
+		},
+		{
+			"sy_name": "TOI-5108"
+		},
+		{
+			"sy_name": "TOI-5110"
+		},
+		{
+			"sy_name": "TOI-512"
+		},
+		{
+			"sy_name": "TOI-5126"
+		},
+		{
+			"sy_name": "TOI-5143"
+		},
+		{
+			"sy_name": "TOI-5153"
+		},
+		{
+			"sy_name": "TOI-5159"
+		},
+		{
+			"sy_name": "TOI-5160"
+		},
+		{
+			"sy_name": "TOI-5174"
+		},
+		{
+			"sy_name": "TOI-5181"
+		},
+		{
+			"sy_name": "TOI-519"
+		},
+		{
+			"sy_name": "TOI-5205"
+		},
+		{
+			"sy_name": "TOI-521"
+		},
+		{
+			"sy_name": "TOI-5210"
+		},
+		{
+			"sy_name": "TOI-5218"
+		},
+		{
+			"sy_name": "TOI-5232"
+		},
+		{
+			"sy_name": "TOI-5238"
+		},
+		{
+			"sy_name": "TOI-5261"
+		},
+		{
+			"sy_name": "TOI-5292"
+		},
+		{
+			"sy_name": "TOI-5293"
+		},
+		{
+			"sy_name": "TOI-530"
+		},
+		{
+			"sy_name": "TOI-5300"
+		},
+		{
+			"sy_name": "TOI-5301"
+		},
+		{
+			"sy_name": "TOI-5319"
+		},
+		{
+			"sy_name": "TOI-532"
+		},
+		{
+			"sy_name": "TOI-5322"
+		},
+		{
+			"sy_name": "TOI-5335"
+		},
+		{
+			"sy_name": "TOI-5340"
+		},
+		{
+			"sy_name": "TOI-5344"
+		},
+		{
+			"sy_name": "TOI-5349"
+		},
+		{
+			"sy_name": "TOI-5350"
+		},
+		{
+			"sy_name": "TOI-5380"
+		},
+		{
+			"sy_name": "TOI-5386"
+		},
+		{
+			"sy_name": "TOI-5388"
+		},
+		{
+			"sy_name": "TOI-5398"
+		},
+		{
+			"sy_name": "TOI-540"
+		},
+		{
+			"sy_name": "TOI-5422"
+		},
+		{
+			"sy_name": "TOI-544"
+		},
+		{
+			"sy_name": "TOI-5486"
+		},
+		{
+			"sy_name": "TOI-5489"
+		},
+		{
+			"sy_name": "TOI-5502"
+		},
+		{
+			"sy_name": "TOI-5515"
+		},
+		{
+			"sy_name": "TOI-5532"
+		},
+		{
+			"sy_name": "TOI-5542"
+		},
+		{
+			"sy_name": "TOI-5573"
+		},
+		{
+			"sy_name": "TOI-558"
+		},
+		{
+			"sy_name": "TOI-559"
+		},
+		{
+			"sy_name": "TOI-5592"
+		},
+		{
+			"sy_name": "TOI-5595"
+		},
+		{
+			"sy_name": "TOI-5599"
+		},
+		{
+			"sy_name": "TOI-5605"
+		},
+		{
+			"sy_name": "TOI-561"
+		},
+		{
+			"sy_name": "TOI-5614"
+		},
+		{
+			"sy_name": "TOI-5616"
+		},
+		{
+			"sy_name": "TOI-5624"
+		},
+		{
+			"sy_name": "TOI-5630"
+		},
+		{
+			"sy_name": "TOI-5634"
+		},
+		{
+			"sy_name": "TOI-564"
+		},
+		{
+			"sy_name": "TOI-5678"
+		},
+		{
+			"sy_name": "TOI-5688"
+		},
+		{
+			"sy_name": "TOI-5704"
+		},
+		{
+			"sy_name": "TOI-5713"
+		},
+		{
+			"sy_name": "TOI-5716"
+		},
+		{
+			"sy_name": "TOI-5720"
+		},
+		{
+			"sy_name": "TOI-5726"
+		},
+		{
+			"sy_name": "TOI-5728"
+		},
+		{
+			"sy_name": "TOI-5734"
+		},
+		{
+			"sy_name": "TOI-5736"
+		},
+		{
+			"sy_name": "TOI-5777"
+		},
+		{
+			"sy_name": "TOI-5786"
+		},
+		{
+			"sy_name": "TOI-5788"
+		},
+		{
+			"sy_name": "TOI-5789"
+		},
+		{
+			"sy_name": "TOI-5795"
+		},
+		{
+			"sy_name": "TOI-5799"
+		},
+		{
+			"sy_name": "TOI-5800"
+		},
+		{
+			"sy_name": "TOI-5803"
+		},
+		{
+			"sy_name": "TOI-5817"
+		},
+		{
+			"sy_name": "TOI-5882"
+		},
+		{
+			"sy_name": "TOI-5916"
+		},
+		{
+			"sy_name": "TOI-5926"
+		},
+		{
+			"sy_name": "TOI-5938"
+		},
+		{
+			"sy_name": "TOI-6000"
+		},
+		{
+			"sy_name": "TOI-6002"
+		},
+		{
+			"sy_name": "TOI-6008"
+		},
+		{
+			"sy_name": "TOI-6016"
+		},
+		{
+			"sy_name": "TOI-6029"
+		},
+		{
+			"sy_name": "TOI-6034"
+		},
+		{
+			"sy_name": "TOI-6038"
+		},
+		{
+			"sy_name": "TOI-6041"
+		},
+		{
+			"sy_name": "TOI-6054"
+		},
+		{
+			"sy_name": "TOI-6080"
+		},
+		{
+			"sy_name": "TOI-6086"
+		},
+		{
+			"sy_name": "TOI-6109"
+		},
+		{
+			"sy_name": "TOI-6130"
+		},
+		{
+			"sy_name": "TOI-615"
+		},
+		{
+			"sy_name": "TOI-620"
+		},
+		{
+			"sy_name": "TOI-622"
+		},
+		{
+			"sy_name": "TOI-6223"
+		},
+		{
+			"sy_name": "TOI-6255"
+		},
+		{
+			"sy_name": "TOI-628"
+		},
+		{
+			"sy_name": "TOI-6281"
+		},
+		{
+			"sy_name": "TOI-6303"
+		},
+		{
+			"sy_name": "TOI-6324"
+		},
+		{
+			"sy_name": "TOI-6330"
+		},
+		{
+			"sy_name": "TOI-6383"
+		},
+		{
+			"sy_name": "TOI-6393"
+		},
+		{
+			"sy_name": "TOI-640"
+		},
+		{
+			"sy_name": "TOI-6420"
+		},
+		{
+			"sy_name": "TOI-6442"
+		},
+		{
+			"sy_name": "TOI-6448"
+		},
+		{
+			"sy_name": "TOI-6478"
+		},
+		{
+			"sy_name": "TOI-654"
+		},
+		{
+			"sy_name": "TOI-6628"
+		},
+		{
+			"sy_name": "TOI-663"
+		},
+		{
+			"sy_name": "TOI-6651"
+		},
+		{
+			"sy_name": "TOI-6677"
+		},
+		{
+			"sy_name": "TOI-669"
+		},
+		{
+			"sy_name": "TOI-6692"
+		},
+		{
+			"sy_name": "TOI-6695"
+		},
+		{
+			"sy_name": "TOI-6699"
+		},
+		{
+			"sy_name": "TOI-6707"
+		},
+		{
+			"sy_name": "TOI-6716"
+		},
+		{
+			"sy_name": "TOI-672"
+		},
+		{
+			"sy_name": "TOI-674"
+		},
+		{
+			"sy_name": "TOI-677"
+		},
+		{
+			"sy_name": "TOI-682"
+		},
+		{
+			"sy_name": "TOI-6894"
+		},
+		{
+			"sy_name": "TOI-6954"
+		},
+		{
+			"sy_name": "TOI-6963"
+		},
+		{
+			"sy_name": "TOI-697"
+		},
+		{
+			"sy_name": "TOI-700"
+		},
+		{
+			"sy_name": "TOI-7008"
+		},
+		{
+			"sy_name": "TOI-7009"
+		},
+		{
+			"sy_name": "TOI-7041"
+		},
+		{
+			"sy_name": "TOI-707"
+		},
+		{
+			"sy_name": "TOI-712"
+		},
+		{
+			"sy_name": "TOI-7149"
+		},
+		{
+			"sy_name": "TOI-715"
+		},
+		{
+			"sy_name": "TOI-7155"
+		},
+		{
+			"sy_name": "TOI-7166"
+		},
+		{
+			"sy_name": "TOI-733"
+		},
+		{
+			"sy_name": "TOI-7333"
+		},
+		{
+			"sy_name": "TOI-7384"
+		},
+		{
+			"sy_name": "TOI-7510"
+		},
+		{
+			"sy_name": "TOI-756"
+		},
+		{
+			"sy_name": "TOI-757"
+		},
+		{
+			"sy_name": "TOI-762"
+		},
+		{
+			"sy_name": "TOI-763"
+		},
+		{
+			"sy_name": "TOI-771"
+		},
+		{
+			"sy_name": "TOI-776"
+		},
+		{
+			"sy_name": "TOI-778"
+		},
+		{
+			"sy_name": "TOI-782"
+		},
+		{
+			"sy_name": "TOI-799"
+		},
+		{
+			"sy_name": "TOI-808"
+		},
+		{
+			"sy_name": "TOI-813"
+		},
+		{
+			"sy_name": "TOI-815"
+		},
+		{
+			"sy_name": "TOI-824"
+		},
+		{
+			"sy_name": "TOI-833"
+		},
+		{
+			"sy_name": "TOI-836"
+		},
+		{
+			"sy_name": "TOI-837"
+		},
+		{
+			"sy_name": "TOI-849"
+		},
+		{
+			"sy_name": "TOI-858"
+		},
+		{
+			"sy_name": "TOI-871"
+		},
+		{
+			"sy_name": "TOI-880"
+		},
+		{
+			"sy_name": "TOI-883"
+		},
+		{
+			"sy_name": "TOI-892"
+		},
+		{
+			"sy_name": "TOI-904"
+		},
+		{
+			"sy_name": "TOI-905"
+		},
+		{
+			"sy_name": "TOI-907"
+		},
+		{
+			"sy_name": "TOI-908"
+		},
+		{
+			"sy_name": "TOI-912"
+		},
+		{
+			"sy_name": "TOI-913"
+		},
+		{
+			"sy_name": "TOI-921"
+		},
+		{
+			"sy_name": "TOI-929"
+		},
+		{
+			"sy_name": "TOI-938"
+		},
+		{
+			"sy_name": "TOI-941"
+		},
+		{
+			"sy_name": "TOI-942"
+		},
+		{
+			"sy_name": "TOI-954"
+		},
+		{
+			"sy_name": "TOI-969"
+		},
+		{
+			"sy_name": "TRAPPIST-1"
+		},
+		{
+			"sy_name": "TWA 7"
+		},
+		{
+			"sy_name": "TYC 0434-04538-1"
+		},
+		{
+			"sy_name": "TYC 1422-614-1"
+		},
+		{
+			"sy_name": "TYC 2187-512-1"
+		},
+		{
+			"sy_name": "TYC 3318-01333-1"
+		},
+		{
+			"sy_name": "TYC 3667-1280-1"
+		},
+		{
+			"sy_name": "TYC 4282-00605-1"
+		},
+		{
+			"sy_name": "TYC 8998-760-1"
+		},
+		{
+			"sy_name": "Teegarden's Star"
+		},
+		{
+			"sy_name": "TrES-1"
+		},
+		{
+			"sy_name": "TrES-2"
+		},
+		{
+			"sy_name": "TrES-3"
+		},
+		{
+			"sy_name": "TrES-4"
+		},
+		{
+			"sy_name": "TrES-5"
+		},
+		{
+			"sy_name": "UCAC3 113-933"
+		},
+		{
+			"sy_name": "UCAC4 328-061594"
+		},
+		{
+			"sy_name": "UKIRT-2017-BLG-001L"
+		},
+		{
+			"sy_name": "USco CTIO 108"
+		},
+		{
+			"sy_name": "USco1556 A"
+		},
+		{
+			"sy_name": "USco1621 A"
+		},
+		{
+			"sy_name": "UZ For"
+		},
+		{
+			"sy_name": "V0391 Peg"
+		},
+		{
+			"sy_name": "V1298 Tau"
+		},
+		{
+			"sy_name": "V2376 Ori"
+		},
+		{
+			"sy_name": "V830 Tau"
+		},
+		{
+			"sy_name": "VHS J125601.92-125723.9"
+		},
+		{
+			"sy_name": "WASP-1"
+		},
+		{
+			"sy_name": "WASP-10"
+		},
+		{
+			"sy_name": "WASP-100"
+		},
+		{
+			"sy_name": "WASP-101"
+		},
+		{
+			"sy_name": "WASP-102"
+		},
+		{
+			"sy_name": "WASP-103"
+		},
+		{
+			"sy_name": "WASP-104"
+		},
+		{
+			"sy_name": "WASP-105"
+		},
+		{
+			"sy_name": "WASP-106"
+		},
+		{
+			"sy_name": "WASP-107"
+		},
+		{
+			"sy_name": "WASP-108"
+		},
+		{
+			"sy_name": "WASP-11"
+		},
+		{
+			"sy_name": "WASP-110"
+		},
+		{
+			"sy_name": "WASP-113"
+		},
+		{
+			"sy_name": "WASP-114"
+		},
+		{
+			"sy_name": "WASP-116"
+		},
+		{
+			"sy_name": "WASP-117"
+		},
+		{
+			"sy_name": "WASP-118"
+		},
+		{
+			"sy_name": "WASP-119"
+		},
+		{
+			"sy_name": "WASP-12"
+		},
+		{
+			"sy_name": "WASP-120"
+		},
+		{
+			"sy_name": "WASP-121"
+		},
+		{
+			"sy_name": "WASP-123"
+		},
+		{
+			"sy_name": "WASP-124"
+		},
+		{
+			"sy_name": "WASP-126"
+		},
+		{
+			"sy_name": "WASP-127"
+		},
+		{
+			"sy_name": "WASP-129"
+		},
+		{
+			"sy_name": "WASP-13"
+		},
+		{
+			"sy_name": "WASP-130"
+		},
+		{
+			"sy_name": "WASP-131"
+		},
+		{
+			"sy_name": "WASP-132"
+		},
+		{
+			"sy_name": "WASP-133"
+		},
+		{
+			"sy_name": "WASP-135"
+		},
+		{
+			"sy_name": "WASP-136"
+		},
+		{
+			"sy_name": "WASP-138"
+		},
+		{
+			"sy_name": "WASP-139"
+		},
+		{
+			"sy_name": "WASP-14"
+		},
+		{
+			"sy_name": "WASP-140"
+		},
+		{
+			"sy_name": "WASP-141"
+		},
+		{
+			"sy_name": "WASP-142"
+		},
+		{
+			"sy_name": "WASP-144"
+		},
+		{
+			"sy_name": "WASP-145"
+		},
+		{
+			"sy_name": "WASP-147"
+		},
+		{
+			"sy_name": "WASP-148"
+		},
+		{
+			"sy_name": "WASP-149"
+		},
+		{
+			"sy_name": "WASP-15"
+		},
+		{
+			"sy_name": "WASP-150"
+		},
+		{
+			"sy_name": "WASP-151"
+		},
+		{
+			"sy_name": "WASP-153"
+		},
+		{
+			"sy_name": "WASP-154"
+		},
+		{
+			"sy_name": "WASP-155"
+		},
+		{
+			"sy_name": "WASP-156"
+		},
+		{
+			"sy_name": "WASP-157"
+		},
+		{
+			"sy_name": "WASP-158"
+		},
+		{
+			"sy_name": "WASP-159"
+		},
+		{
+			"sy_name": "WASP-16"
+		},
+		{
+			"sy_name": "WASP-160"
+		},
+		{
+			"sy_name": "WASP-161"
+		},
+		{
+			"sy_name": "WASP-162"
+		},
+		{
+			"sy_name": "WASP-163"
+		},
+		{
+			"sy_name": "WASP-164"
+		},
+		{
+			"sy_name": "WASP-165"
+		},
+		{
+			"sy_name": "WASP-166"
+		},
+		{
+			"sy_name": "WASP-167"
+		},
+		{
+			"sy_name": "WASP-168"
+		},
+		{
+			"sy_name": "WASP-169"
+		},
+		{
+			"sy_name": "WASP-17"
+		},
+		{
+			"sy_name": "WASP-170"
+		},
+		{
+			"sy_name": "WASP-171"
+		},
+		{
+			"sy_name": "WASP-172"
+		},
+		{
+			"sy_name": "WASP-173"
+		},
+		{
+			"sy_name": "WASP-174"
+		},
+		{
+			"sy_name": "WASP-175"
+		},
+		{
+			"sy_name": "WASP-176"
+		},
+		{
+			"sy_name": "WASP-177"
+		},
+		{
+			"sy_name": "WASP-178"
+		},
+		{
+			"sy_name": "WASP-18"
+		},
+		{
+			"sy_name": "WASP-180"
+		},
+		{
+			"sy_name": "WASP-181"
+		},
+		{
+			"sy_name": "WASP-182"
+		},
+		{
+			"sy_name": "WASP-183"
+		},
+		{
+			"sy_name": "WASP-184"
+		},
+		{
+			"sy_name": "WASP-185"
+		},
+		{
+			"sy_name": "WASP-186"
+		},
+		{
+			"sy_name": "WASP-187"
+		},
+		{
+			"sy_name": "WASP-188"
+		},
+		{
+			"sy_name": "WASP-189"
+		},
+		{
+			"sy_name": "WASP-19"
+		},
+		{
+			"sy_name": "WASP-190"
+		},
+		{
+			"sy_name": "WASP-192"
+		},
+		{
+			"sy_name": "WASP-193"
+		},
+		{
+			"sy_name": "WASP-194"
+		},
+		{
+			"sy_name": "WASP-195"
+		},
+		{
+			"sy_name": "WASP-197"
+		},
+		{
+			"sy_name": "WASP-2"
+		},
+		{
+			"sy_name": "WASP-20"
+		},
+		{
+			"sy_name": "WASP-21"
+		},
+		{
+			"sy_name": "WASP-22"
+		},
+		{
+			"sy_name": "WASP-23"
+		},
+		{
+			"sy_name": "WASP-24"
+		},
+		{
+			"sy_name": "WASP-25"
+		},
+		{
+			"sy_name": "WASP-26"
+		},
+		{
+			"sy_name": "WASP-28"
+		},
+		{
+			"sy_name": "WASP-29"
+		},
+		{
+			"sy_name": "WASP-3"
+		},
+		{
+			"sy_name": "WASP-31"
+		},
+		{
+			"sy_name": "WASP-32"
+		},
+		{
+			"sy_name": "WASP-33"
+		},
+		{
+			"sy_name": "WASP-34"
+		},
+		{
+			"sy_name": "WASP-35"
+		},
+		{
+			"sy_name": "WASP-36"
+		},
+		{
+			"sy_name": "WASP-37"
+		},
+		{
+			"sy_name": "WASP-38"
+		},
+		{
+			"sy_name": "WASP-39"
+		},
+		{
+			"sy_name": "WASP-4"
+		},
+		{
+			"sy_name": "WASP-41"
+		},
+		{
+			"sy_name": "WASP-42"
+		},
+		{
+			"sy_name": "WASP-43"
+		},
+		{
+			"sy_name": "WASP-44"
+		},
+		{
+			"sy_name": "WASP-45"
+		},
+		{
+			"sy_name": "WASP-46"
+		},
+		{
+			"sy_name": "WASP-47"
+		},
+		{
+			"sy_name": "WASP-48"
+		},
+		{
+			"sy_name": "WASP-49"
+		},
+		{
+			"sy_name": "WASP-5"
+		},
+		{
+			"sy_name": "WASP-50"
+		},
+		{
+			"sy_name": "WASP-52"
+		},
+		{
+			"sy_name": "WASP-53"
+		},
+		{
+			"sy_name": "WASP-54"
+		},
+		{
+			"sy_name": "WASP-55"
+		},
+		{
+			"sy_name": "WASP-56"
+		},
+		{
+			"sy_name": "WASP-57"
+		},
+		{
+			"sy_name": "WASP-58"
+		},
+		{
+			"sy_name": "WASP-59"
+		},
+		{
+			"sy_name": "WASP-6"
+		},
+		{
+			"sy_name": "WASP-60"
+		},
+		{
+			"sy_name": "WASP-61"
+		},
+		{
+			"sy_name": "WASP-62"
+		},
+		{
+			"sy_name": "WASP-63"
+		},
+		{
+			"sy_name": "WASP-64"
+		},
+		{
+			"sy_name": "WASP-65"
+		},
+		{
+			"sy_name": "WASP-66"
+		},
+		{
+			"sy_name": "WASP-67"
+		},
+		{
+			"sy_name": "WASP-68"
+		},
+		{
+			"sy_name": "WASP-69"
+		},
+		{
+			"sy_name": "WASP-7"
+		},
+		{
+			"sy_name": "WASP-70"
+		},
+		{
+			"sy_name": "WASP-71"
+		},
+		{
+			"sy_name": "WASP-72"
+		},
+		{
+			"sy_name": "WASP-73"
+		},
+		{
+			"sy_name": "WASP-74"
+		},
+		{
+			"sy_name": "WASP-75"
+		},
+		{
+			"sy_name": "WASP-76"
+		},
+		{
+			"sy_name": "WASP-77"
+		},
+		{
+			"sy_name": "WASP-78"
+		},
+		{
+			"sy_name": "WASP-79"
+		},
+		{
+			"sy_name": "WASP-8"
+		},
+		{
+			"sy_name": "WASP-80"
+		},
+		{
+			"sy_name": "WASP-81"
+		},
+		{
+			"sy_name": "WASP-82"
+		},
+		{
+			"sy_name": "WASP-83"
+		},
+		{
+			"sy_name": "WASP-84"
+		},
+		{
+			"sy_name": "WASP-85"
+		},
+		{
+			"sy_name": "WASP-87"
+		},
+		{
+			"sy_name": "WASP-88"
+		},
+		{
+			"sy_name": "WASP-89"
+		},
+		{
+			"sy_name": "WASP-90"
+		},
+		{
+			"sy_name": "WASP-91"
+		},
+		{
+			"sy_name": "WASP-92"
+		},
+		{
+			"sy_name": "WASP-93"
+		},
+		{
+			"sy_name": "WASP-94"
+		},
+		{
+			"sy_name": "WASP-95"
+		},
+		{
+			"sy_name": "WASP-96"
+		},
+		{
+			"sy_name": "WASP-97"
+		},
+		{
+			"sy_name": "WASP-98"
+		},
+		{
+			"sy_name": "WASP-99"
+		},
+		{
+			"sy_name": "WD 0806-661"
+		},
+		{
+			"sy_name": "WD 1856+534"
+		},
+		{
+			"sy_name": "WISE J033605.05-014350.4"
+		},
+		{
+			"sy_name": "WISEP J121756.91+162640.2 A"
+		},
+		{
+			"sy_name": "WISPIT 1"
+		},
+		{
+			"sy_name": "WISPIT 2"
+		},
+		{
+			"sy_name": "WTS-1"
+		},
+		{
+			"sy_name": "WTS-2"
+		},
+		{
+			"sy_name": "Wendelstein-1"
+		},
+		{
+			"sy_name": "Wendelstein-2"
+		},
+		{
+			"sy_name": "Wolf 1061"
+		},
+		{
+			"sy_name": "Wolf 1069"
+		},
+		{
+			"sy_name": "Wolf 327"
+		},
+		{
+			"sy_name": "Wolf 503"
+		},
+		{
+			"sy_name": "XEST 17-036"
+		},
+		{
+			"sy_name": "XO-1"
+		},
+		{
+			"sy_name": "XO-2"
+		},
+		{
+			"sy_name": "XO-3"
+		},
+		{
+			"sy_name": "XO-4"
+		},
+		{
+			"sy_name": "XO-5"
+		},
+		{
+			"sy_name": "XO-6"
+		},
+		{
+			"sy_name": "XO-7"
+		},
+		{
+			"sy_name": "YZ Cet"
+		},
+		{
+			"sy_name": "ZTF J1230-2655"
+		},
+		{
+			"sy_name": "ZTF J1828+2308"
+		},
+		{
+			"sy_name": "alf Ari"
+		},
+		{
+			"sy_name": "alf Cen"
+		},
+		{
+			"sy_name": "alf Tau"
+		},
+		{
+			"sy_name": "b Cen"
+		},
+		{
+			"sy_name": "bet Cnc"
+		},
+		{
+			"sy_name": "bet Pic"
+		},
+		{
+			"sy_name": "bet UMi"
+		},
+		{
+			"sy_name": "eps CrB"
+		},
+		{
+			"sy_name": "eps Eri"
+		},
+		{
+			"sy_name": "eps Ind"
+		},
+		{
+			"sy_name": "eps Tau"
+		},
+		{
+			"sy_name": "gam Cep"
+		},
+		{
+			"sy_name": "gam Leo"
+		},
+		{
+			"sy_name": "gam Lib"
+		},
+		{
+			"sy_name": "gam Psc"
+		},
+		{
+			"sy_name": "iot Dra"
+		},
+		{
+			"sy_name": "kap And"
+		},
+		{
+			"sy_name": "kap CrB"
+		},
+		{
+			"sy_name": "mu Leo"
+		},
+		{
+			"sy_name": "mu2 Sco"
+		},
+		{
+			"sy_name": "nu Oct"
+		},
+		{
+			"sy_name": "nu Oph"
+		},
+		{
+			"sy_name": "ome Ser"
+		},
+		{
+			"sy_name": "omi CrB"
+		},
+		{
+			"sy_name": "omi UMa"
+		},
+		{
+			"sy_name": "psi1 Dra"
+		},
+		{
+			"sy_name": "rho CrB"
+		},
+		{
+			"sy_name": "tau Boo"
+		},
+		{
+			"sy_name": "tau Cet"
+		},
+		{
+			"sy_name": "tau Gem"
+		},
+		{
+			"sy_name": "ups And"
+		},
+		{
+			"sy_name": "ups Leo"
+		},
+		{
+			"sy_name": "xi Aql"
+		}
+	]
+}

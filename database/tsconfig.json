@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"rewriteRelativeImportExtensions": true,
+		"allowJs": true,
+		"checkJs": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"sourceMap": true,
+		"strict": true,
+		"noImplicitAny": false,
+		"moduleResolution": "bundler"
+	},
+	"include": [
+		"*.ts",
+		"**/*.ts",
+		"*.d.ts",
+		"**/*.d.ts",
+		"../types/*.d.ts",
+		"../types/**/.d.ts"
+	]
+}

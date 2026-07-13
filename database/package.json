@@ -1,0 +1,25 @@
+{
+	"name": "database",
+	"version": "1.0.0",
+	"description": "",
+	"license": "ISC",
+	"author": "",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {
+		"planets": "tsx downloader/planets.ts",
+		"stars": "tsx downloader/stars.ts",
+		"systems": "tsx downloader/systems.ts",
+		"preprocess": "tsx downloader/preprocess.ts",
+		"sync": "tsx downloader/sync.ts"
+	},
+	"dependencies": {
+		"dotenv": "^17.4.2",
+		"neo4j-driver": "^6.1.0",
+		"tsx": "^4.22.4",
+		"typescript": "^6.0.3"
+	},
+	"devDependencies": {
+		"@types/node": "^26.0.1"
+	}
+}
