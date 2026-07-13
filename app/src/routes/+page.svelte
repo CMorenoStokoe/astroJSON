@@ -1,72 +1,66 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import {
+		BufferGeometry,
+		Float32BufferAttribute,
+		Points,
+		PointsMaterial,
 		Scene,
 		PerspectiveCamera,
-		WebGLRenderer,
-		BoxGeometry,
-		MeshBasicMaterial,
-		Mesh
+		WebGLRenderer
 	} from 'three';
 
-	// Bind directly to the canvas element, typed correctly
-	let canvasElement: HTMLCanvasElement;
-	let animationFrameId: number;
+	let canvas: HTMLCanvasElement;
+	let frame = 0;
 
 	onMount(() => {
-		// 1. Create the Scene
-		const scene = new Scene();
+		let geometry: BufferGeometry;
+		let material: PointsMaterial;
+		let renderer: WebGLRenderer;
 
-		// 2. Setup the Camera (Get dimensions from the canvas parent or window)
-		const width = canvasElement.parentElement?.clientWidth || window.innerWidth;
-		const height = canvasElement.parentElement?.clientHeight || window.innerHeight;
-		const camera = new PerspectiveCamera(75, width / height, 0.1, 1000);
-		camera.position.z = 5;
+		const run = async () => {
+			const data = await fetch('/api/simulation/v1?start=sol').then((r) => r.json());
 
-		// 3. Setup the Renderer using Svelte's canvas node directly
-		const renderer = new WebGLRenderer({
-			canvas: canvasElement, // <-- Safe: No DOM manipulation required
-			antialias: true
-		});
-		renderer.setSize(width, height);
-		renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+			const scene = new Scene();
+			const camera = new PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 5000);
+			camera.position.z = 120;
 
-		// 4. Add an Object
-		const geometry = new BoxGeometry(2, 2, 2);
-		const material = new MeshBasicMaterial({ color: 0x00ffcc, wireframe: true });
-		const cube = new Mesh(geometry, material);
-		scene.add(cube);
+			renderer = new WebGLRenderer({ canvas, antialias: true });
+			renderer.setSize(window.innerWidth, window.innerHeight);
 
-		// 5. Animation Loop
-		const animate = () => {
-			animationFrameId = requestAnimationFrame(animate);
+			const positions: number[] = [];
+			for (const s of data.systems) positions.push(s.x, s.y, s.z);
 
-			cube.rotation.x += 0.01;
-			cube.rotation.y += 0.01;
+			geometry = new BufferGeometry();
+			geometry.setAttribute('position', new Float32BufferAttribute(positions, 3));
+			material = new PointsMaterial({ size: 2.5, color: '#7dc3ff' });
+			const points = new Points(geometry, material);
+			scene.add(points);
 
-			renderer.render(scene, camera);
+			const loop = () => {
+				frame = requestAnimationFrame(loop);
+				renderer.render(scene, camera);
+			};
+			loop();
 		};
 
-		animate();
+		void run();
 
-		// 6. Handle window resize safely
-		const handleResize = () => {
-			const w = canvasElement.parentElement?.clientWidth || window.innerWidth;
-			const h = canvasElement.parentElement?.clientHeight || window.innerHeight;
-			camera.aspect = w / h;
-			camera.updateProjectionMatrix();
-			renderer.setSize(w, h);
-		};
-
-		window.addEventListener('resize', handleResize);
-
-		// Clean up
 		return () => {
-			window.removeEventListener('resize', handleResize);
-			cancelAnimationFrame(animationFrameId);
+			cancelAnimationFrame(frame);
+			geometry.dispose();
+			material.dispose();
 			renderer.dispose();
 		};
 	});
 </script>
 
-<canvas bind:this={canvasElement} class="h-full w-full"></canvas>
+<canvas bind:this={canvas}></canvas>
+
+<style>
+	canvas {
+		display: block;
+		width: 100vw;
+		height: 100vh;
+	}
+</style>

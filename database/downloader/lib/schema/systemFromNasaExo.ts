@@ -18,7 +18,7 @@ export const systemFromNasaExo = (
 		),
 
 		// Photometry
-		brightness: record.sy_gaiamag ?? record.sy_vmag, // Absolute star brightness (Gaia Magnitude /vmag fallback), will be used to work out apparent brightness (M = m - 5 \log_{10}(d) + 5)
+		brightness: record.sy_vmag - 5 * Math.log10(record.sy_dist) + 5, // Absolute star brightness (from apparent Johnson V-band), will be used to work out apparent brightness (M = m - 5 \log_{10}(d) + 5)
 		color: record.sy_vmag - record.sy_kmag, // Color as a standardized decimal value. High values mean a red/cool system; low/negative values mean a blue/hot system
 		hasDebrisDisk: record.sy_w1mag - record.sy_w4mag > 0.25, // Does this system have a circumstellar disk of heated dust? (deep infrared w4mag)
 	}

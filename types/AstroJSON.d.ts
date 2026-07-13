@@ -79,18 +79,20 @@ export namespace AstroJSON {
 			coords: { x: pc; y: pc; z: pc } // Cartesian 3d coordinates (largely for data handling convenience)
 
 			// Photometry
-			brightness: number // Absolute star brightness (Gaia Magnitude /vmag fallback), will be used to work out apparent brightness (M = m - 5 \log_{10}(d) + 5)
+			brightness: number // Absolute star brightness (vmag), will be used to work out apparent brightness (M = m - 5 \log_{10}(d) + 5)
 			color: number // Color as a standardized decimal value. High values mean a red/cool system; low/negative values mean a blue/hot system
 			hasDebrisDisk: boolean // Does this system have a circumstellar disk of heated dust? (deep infrared w4mag)
 		}
 		type Neighbourhood = {
 			id: string // Unique ID for the neighbourhood (e.g., 'trappist-1-neighbourhood')
-			coords: { x: pc; y: pc; z: pc } // Approximate central cartesian 3d coords for this neighbourhood (often anchor system coords, used for rendering)
-			radius: pc // Approximate radius of the neighbourhood (width in skybox)
+			centrum: { x: pc; y: pc; z: pc } // Approximate central cartesian 3d coords for this neighbourhood (for rending the radius/bbox more accurately)
+			bbox: { min: { x: pc; y: pc; z: pc }; max: { x: pc; y: pc; z: pc } } // Bounding box of the neighbourhood (for rendering the radius/bbox more accurately)
+			radius: pc // Approximate radius of the neighbourhood if it were spheroid (width in skybox)
 
 			// Aggregate properties of all included stars (used for rendering)
 			nSystems: number // Count of systems in this neighbourhood (density)
 			brightness: number // Aggregate absolute star brightness
+			maxBrightness: number // Maximum absolute star brightness (used for quickly determining if an entire neighbourhood is visible to the naked eye)
 			color: number // Aggregate color
 			debrisDiskStrength: number // Proportion 0-1 of stars with circumstellar disks indicating opacity of rendered circumstellar dust
 		}
@@ -137,12 +139,11 @@ export namespace AstroJSON {
 		namespace Edge {
 			// Types of edges
 			type Child = {
+				// hierarchy: Galaxy --> Neighbourhoods --> System --> Bodies (e.g., star, planet)
 				id: string // 'bodyId|systemId' or 'systemId|neighbourhoodId' | 'neighbourhoodId|galaxyId'
 				source: string
 				target: string
 				type: 'in'
-				position: [AU, AU, AU] | [pc, pc, pc] | [Mpc, Mpc, Mpc] // Relative position vector of the child body in the parent body's frame of reference
-				// hierarchy: Galaxy --> Neighbourhoods --> System --> Bodies (e.g., star, planet)
 				details?: Record<string, any>
 			}
 			type Nearby = {
@@ -150,6 +151,18 @@ export namespace AstroJSON {
 				source: string
 				target: string
 				type: 'nearby'
+				distance: pc // Distance between the two systems (pc)
+				direction: { x: number; y: number; z: number } // Directional vector from source to target (unit vector)
+			}
+			type Sees = {
+				// Whether a system within a neighbourhood can see systems within another neighbourhood (via apparent brightness, with a neighbourhood resolution )
+				id: string // 'neighbourhoodId|neighbourhoodId'
+				source: string
+				target: string
+				type: 'sees'
+				distance: pc
+				direction: { x: number; y: number; z: number } // Direction in the skybox from the source neighbourhood to the target neighbourhood (unit vector)
+				apparentBrightness: number // Apparent brightness of the target system from the source system (magnitude)
 			}
 			type Orbit = {
 				id: string // 'bodyId|bodyId'

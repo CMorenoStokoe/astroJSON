@@ -13,106 +13,93 @@
 	} from 'three';
 	import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 
-	type Feature = {
-		type: 'Feature';
-		geometry?: {
-			type?: string;
-			coordinates?: number[];
+	type SimulationSystem = {
+		id?: string;
+		name?: string;
+		type?: string;
+		x?: number;
+		y?: number;
+		z?: number;
+		coords?: {
+			x?: number;
+			y?: number;
+			z?: number;
 		};
-		properties?: Record<string, unknown>;
+		isStart?: boolean;
 	};
 
-	type FeatureCollection = {
-		type: 'FeatureCollection';
-		features: Feature[];
+	type SimulationPayload = {
+		startSystem?: {
+			id?: string;
+			name?: string;
+		};
+		systems?: SimulationSystem[];
+		source?: string;
+	};
+
+	type RenderPoint = {
+		position: [number, number, number];
+		isStar: boolean;
+		isStart: boolean;
 	};
 
 	let canvasElement = $state<HTMLCanvasElement | null>(null);
 	let viewportElement = $state<HTMLDivElement | null>(null);
-	const endpoint = '/api/db/exoplanets';
+	const endpoint = '/api/simulation/v1?start=sol&limit=1200';
 
 	let status = $state<'loading' | 'ready' | 'error'>('loading');
 	let totalCount = $state(0);
 	let starCount = $state(0);
 	let planetCount = $state(0);
+	let startCount = $state(0);
+	let dataSource = $state('');
 
-	const demoData: FeatureCollection = {
-		type: 'FeatureCollection',
-		features: [
-			{
-				type: 'Feature',
-				geometry: { type: 'Point', coordinates: [0, 0, 0] },
-				properties: { name: 'Sol', bodyType: 'star', M: 'J2000' }
-			},
-			{
-				type: 'Feature',
-				geometry: { type: 'Point', coordinates: [84.2, 2.3, 190] },
-				properties: { name: 'Kepler-22 b', bodyType: 'planet', M: 'J2000' }
-			},
-			{
-				type: 'Feature',
-				geometry: { type: 'Point', coordinates: [246.3, -5.1, 12] },
-				properties: { name: 'TRAPPIST-1', bodyType: 'star', M: 'J2000' }
-			},
-			{
-				type: 'Feature',
-				geometry: { type: 'Point', coordinates: [246.1, -4.9, 12.4] },
-				properties: { name: 'TRAPPIST-1 e', bodyType: 'planet', M: 'J2000' }
-			}
-		]
-	};
-
-	const toCartesian = (
-		longitudeDeg: number,
-		latitudeDeg: number,
-		distancePc: number
-	): [number, number, number] => {
-		const lon = (longitudeDeg * Math.PI) / 180;
-		const lat = (latitudeDeg * Math.PI) / 180;
-		const distance = Math.max(0, distancePc) ** 0.7;
-		const x = distance * Math.cos(lat) * Math.cos(lon);
-		const y = distance * Math.sin(lat);
-		const z = distance * Math.cos(lat) * Math.sin(lon);
-		return [x, y, z];
-	};
-
-	const toPoint = (
-		feature: Feature
-	): { position: [number, number, number]; isStar: boolean } | null => {
-		if (feature.geometry?.type !== 'Point' || !Array.isArray(feature.geometry.coordinates)) {
-			return null;
-		}
-
-		const [l, b, d] = feature.geometry.coordinates;
-		if (![l, b, d].every((value) => Number.isFinite(Number(value)))) {
-			return null;
-		}
-
-		return {
-			position: toCartesian(Number(l), Number(b), Number(d)),
-			isStar: String(feature.properties?.['bodyType'] ?? '')
-				.toLowerCase()
-				.includes('star')
-		};
-	};
-
-	const parseFeatureCollection = (payload: unknown): FeatureCollection | null => {
+	const parseSimulationPayload = (payload: unknown): SimulationPayload | null => {
 		if (!payload || typeof payload !== 'object') {
 			return null;
 		}
 
-		const candidate = payload as Partial<FeatureCollection>;
-		if (candidate.type !== 'FeatureCollection' || !Array.isArray(candidate.features)) {
+		const candidate = payload as Partial<SimulationPayload>;
+		if (!Array.isArray(candidate.systems)) {
 			return null;
 		}
 
 		return {
-			type: 'FeatureCollection',
-			features: candidate.features.filter((f): f is Feature => (f as Feature)?.type === 'Feature')
+			startSystem: candidate.startSystem,
+			source: typeof candidate.source === 'string' ? candidate.source : 'unknown',
+			systems: candidate.systems.filter((system): system is SimulationSystem => {
+				if (!system || typeof system !== 'object') {
+					return false;
+				}
+
+				const x = Number((system as SimulationSystem).x ?? (system as SimulationSystem).coords?.x);
+				const y = Number((system as SimulationSystem).y ?? (system as SimulationSystem).coords?.y);
+				const z = Number((system as SimulationSystem).z ?? (system as SimulationSystem).coords?.z);
+				return Number.isFinite(x) && Number.isFinite(y) && Number.isFinite(z);
+			})
 		};
 	};
 
-	const renderScene = (features: Feature[]) => {
+	const toPoint = (system: SimulationSystem): RenderPoint | null => {
+		const x = Number(system.x ?? system.coords?.x);
+		const y = Number(system.y ?? system.coords?.y);
+		const z = Number(system.z ?? system.coords?.z);
+
+		if (![x, y, z].every((value) => Number.isFinite(value))) {
+			return null;
+		}
+
+		const nodeType = String(system.type ?? '').toLowerCase();
+		const name = String(system.name ?? system.id ?? '').toLowerCase();
+
+		return {
+			position: [x, y, z],
+			isStar: nodeType.includes('star') || name.includes('star'),
+			isStart: Boolean(system.isStart)
+		};
+	};
+
+	const renderScene = (systems: SimulationSystem[]) => {
 		if (!canvasElement || !viewportElement) {
 			return () => {};
 		}
@@ -141,20 +128,22 @@
 
 		scene.add(new AmbientLight('#88aaff', 0.4));
 
-		const points = features
-			.map(toPoint)
-			.filter(
-				(value): value is { position: [number, number, number]; isStar: boolean } => value !== null
-			);
+		const points = systems.map(toPoint).filter((value): value is RenderPoint => value !== null);
 
 		totalCount = points.length;
 		starCount = points.filter((point) => point.isStar).length;
 		planetCount = totalCount - starCount;
+		startCount = points.filter((point) => point.isStart).length;
 
 		const starPositions: number[] = [];
 		const planetPositions: number[] = [];
+		const startPositions: number[] = [];
 		for (const point of points) {
-			const target = point.isStar ? starPositions : planetPositions;
+			const target = point.isStart
+				? startPositions
+				: point.isStar
+					? starPositions
+					: planetPositions;
 			target.push(...point.position);
 		}
 
@@ -167,8 +156,10 @@
 
 		const starCloud = makeCloud(starPositions, '#ffe28a', 3.5);
 		const planetCloud = makeCloud(planetPositions, '#63d4ff', 2.2);
+		const startCloud = makeCloud(startPositions, '#ff8f42', 5.2);
 		scene.add(starCloud);
 		scene.add(planetCloud);
+		scene.add(startCloud);
 
 		let rafId = 0;
 		const animate = () => {
@@ -197,8 +188,10 @@
 			controls.dispose();
 			starCloud.geometry.dispose();
 			planetCloud.geometry.dispose();
+			startCloud.geometry.dispose();
 			(starCloud.material as PointsMaterial).dispose();
 			(planetCloud.material as PointsMaterial).dispose();
+			(startCloud.material as PointsMaterial).dispose();
 			renderer.dispose();
 		};
 	};
@@ -209,15 +202,28 @@
 		const loadAndRender = async () => {
 			try {
 				const response = await fetch(endpoint);
-				const payload = response.ok ? await response.json() : null;
-				const collection = parseFeatureCollection(payload) ?? demoData;
+				if (!response.ok) {
+					throw new Error(`Request failed with status ${response.status}`);
+				}
+
+				const payload = await response.json();
+				const simulation = parseSimulationPayload(payload);
+				if (!simulation) {
+					throw new Error('Invalid simulation payload');
+				}
+
+				dataSource = simulation.source ?? 'unknown';
 
 				cleanup();
-				cleanup = renderScene(collection.features);
+				cleanup = renderScene(simulation.systems ?? []);
 				status = 'ready';
 			} catch {
 				cleanup();
-				cleanup = renderScene(demoData.features);
+				totalCount = 0;
+				starCount = 0;
+				planetCount = 0;
+				startCount = 0;
+				dataSource = '';
 				status = 'error';
 			}
 		};
@@ -237,11 +243,13 @@
 
 		<div class="stats">
 			<span>Total: {totalCount}</span>
+			<span>Focus: {startCount}</span>
 			<span>Stars: {starCount}</span>
 			<span>Planets: {planetCount}</span>
 		</div>
 
 		<div class="legend">
+			<span><i class="dot start"></i> Start System</span>
 			<span><i class="dot star"></i> Stars</span>
 			<span><i class="dot planet"></i> Planets</span>
 		</div>
@@ -249,9 +257,9 @@
 		{#if status === 'loading'}
 			<p class="status">Loading AstroJSON data...</p>
 		{:else if status === 'error'}
-			<p class="status error">Using demo data because {endpoint} is unavailable.</p>
+			<p class="status error">Failed to load live simulation data from {endpoint}.</p>
 		{:else if status === 'ready'}
-			<p class="status">Live render ready. Drag to orbit, scroll to zoom.</p>
+			<p class="status">Live render ready from {dataSource}. Drag to orbit, scroll to zoom.</p>
 		{/if}
 	</div>
 
@@ -313,6 +321,10 @@
 
 	.dot.star {
 		background: #ffe28a;
+	}
+
+	.dot.start {
+		background: #ff8f42;
 	}
 
 	.dot.planet {

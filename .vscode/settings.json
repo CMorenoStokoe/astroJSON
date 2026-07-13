@@ -17,4 +17,17 @@
 		"tab.activeBackground": "#000000"
 	},
 	"cSpell.words": ["astrometrics", "Keplerian"]
+	/*
+	"[typescript]": {
+		"editor.quickSuggestions": false,
+		"editor.suggestOnTriggerCharacters": false,
+		"editor.inlineSuggest.enabled": false,
+		"editor.parameterHints.enabled": false
+	},
+	"[typescriptreact]": {
+		"editor.quickSuggestions": false,
+		"editor.suggestOnTriggerCharacters": false,
+		"editor.inlineSuggest.enabled": false,
+		"editor.parameterHints.enabled": false
+	}*/
 }

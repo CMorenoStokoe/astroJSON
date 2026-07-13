@@ -1,7 +1,7 @@
 import { AstroJSON } from '../../../../types/AstroJSON'
 
 // Calculates the crow flight distance between two points in 3d cartesian render space
-export const calculateDirectionalVectorInRenderspace = (
+export const calculateDistanceInRenderspace = (
 	coord1: {
 		x: number
 		y: number
