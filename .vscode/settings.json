@@ -16,18 +16,37 @@
 		"tab.inactiveBackground": "#000000",
 		"tab.activeBackground": "#000000"
 	},
-	"cSpell.words": ["astrometrics", "Keplerian"]
-	/*
+	"js/ts.validate.enabled": false,
+	"eslint.validate": ["javascript", "javascriptreact"],
+	"eslint.rules.customizations": [
+		{
+			"rule": "@typescript-eslint/no-unused-vars",
+			"severity": "off"
+		},
+		{
+			"rule": "no-unused-vars",
+			"severity": "off"
+		}
+	],
+	"cSpell.words": ["astrometrics", "Keplerian"],
 	"[typescript]": {
-		"editor.quickSuggestions": false,
+		"editor.quickSuggestions": {
+			"comments": "off",
+			"strings": "off",
+			"other": "off"
+		},
 		"editor.suggestOnTriggerCharacters": false,
 		"editor.inlineSuggest.enabled": false,
 		"editor.parameterHints.enabled": false
 	},
 	"[typescriptreact]": {
-		"editor.quickSuggestions": false,
+		"editor.quickSuggestions": {
+			"comments": "off",
+			"strings": "off",
+			"other": "off"
+		},
 		"editor.suggestOnTriggerCharacters": false,
 		"editor.inlineSuggest.enabled": false,
 		"editor.parameterHints.enabled": false
-	}*/
+	}
 }
