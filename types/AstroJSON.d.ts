@@ -19,15 +19,36 @@ type LogSolarLuminosities = number // Base-10 Logarithm of Solar Luminosities (a
 
 // Graph database types
 export namespace AstroJSON {
-	// Rendering
+	// Renderer types
 	namespace Renderer {
-		type Quaternion = [number, number, number, number] // [w, x, y, z] where w is the scalar part and (x, y, z) is the vector part
-		type NestedReferenceFrame = {
-			galacticScale: Mpc // Galaxy coord in universe
-			systemScale: pc // System coord in galaxy
-			bodyScale: AU // Body coord in system
+		type System = AstroJSON.Schema.System
+		type Planet = {
+			name: string
+			classification: AstroJSON.Schema.Planet['classification']
+			temperature: number
+			density: number
+			radius: number
+			axialTilt: number
+			hasAtmosphere: boolean
+			discoveryDate: string
+			discoveryReference: string
+			orbit: {
+				distance: AU // Take path.a as the average approximate distance between the two bodies (AU)
+				isCircumbinary: boolean // Is this a circumbinary orbit? (i.e., orbiting a binary star system)
+			} & AstroJSON.Schema.KeplerianOrbitalElements
 		}
-		type RelativePositionVector = [number, number, number, number] // [x, y, z, distance]
+		type Star = AstroJSON.Schema.Star
+		type VisibleSystemInSky = {
+			name: string // System Name (unique key)
+			brightness: number // Absolute star brightness (vmag), will be used to work out apparent brightness (M = m - 5 \log_{10}(d) + 5)
+			color: number // Color as a standardized decimal value. High values mean a red/cool system; low/negative values mean a blue/hot system
+			hasDebrisDisk: boolean // Does this system have a circumstellar disk of heated dust? (deep infrared w4mag)
+			viewpoint: {
+				distance: number
+				direction: AstroJSON.Neo4J.Edge.Sees['direction']
+				apparentBrightness: AstroJSON.Neo4J.Edge.Sees['apparentBrightness']
+			}
+		}
 	}
 
 	// Data schema
@@ -76,7 +97,7 @@ export namespace AstroJSON {
 		type System = {
 			// Identity
 			name: string // System Name (unique key)
-			coords: { x: pc; y: pc; z: pc } // Cartesian 3d coordinates (largely for data handling convenience)
+			coords: [pc, pc, pc] // Cartesian 3d coordinates (largely for data handling convenience)
 
 			// Photometry
 			brightness: number // Absolute star brightness (vmag), will be used to work out apparent brightness (M = m - 5 \log_{10}(d) + 5)
@@ -85,8 +106,8 @@ export namespace AstroJSON {
 		}
 		type Neighbourhood = {
 			id: string // Unique ID for the neighbourhood (e.g., 'trappist-1-neighbourhood')
-			centrum: { x: pc; y: pc; z: pc } // Approximate central cartesian 3d coords for this neighbourhood (for rending the radius/bbox more accurately)
-			bbox: { min: { x: pc; y: pc; z: pc }; max: { x: pc; y: pc; z: pc } } // Bounding box of the neighbourhood (for rendering the radius/bbox more accurately)
+			centrum: [pc, pc, pc] // Approximate central cartesian 3d coords for this neighbourhood (for rending the radius/bbox more accurately)
+			bbox: [pc, pc, pc, pc, pc, pc] // Bounding box of the neighbourhood (for rendering the radius/bbox more accurately)
 			radius: pc // Approximate radius of the neighbourhood if it were spheroid (width in skybox)
 
 			// Aggregate properties of all included stars (used for rendering)
@@ -99,6 +120,26 @@ export namespace AstroJSON {
 		type Galaxy = {
 			// Identity
 			name: string // Standardized galaxy name (e.g., 'Milky Way')
+		}
+		/**
+		 * Keplerian Orbital Elements
+		 * @description Defines the orbital parameters of a body in orbit around another body (e.g., planet around star, moon around planet)
+		 * @see https://en.wikipedia.org/wiki/Orbital_elements
+		 */
+		type KeplerianOrbitalElements = {
+			/** a {AU} - Semi-major axis (defines size) */
+			a?: AU
+			/** e {0-1} - Eccentricity (defines shape, ratio of "oval-ness" from 0 to 1)*/
+			e?: number
+			/** i {Degrees} - Inclination (defines tilt) */
+			i?: Degrees
+			/** w {Degrees} - Argument of periapsis (Degrees, where the an eccentric orbit is closest to the star) */
+			w?: Degrees
+			/** M {Degrees} - Mean anomaly at epoch (defines current phase) */
+			M?: Degrees
+			/** P {Days} - Orbital period (defines speed) */
+			P?: Days
+			// O: number // Longitude of ascending node (not in database)
 		}
 	}
 
@@ -152,7 +193,7 @@ export namespace AstroJSON {
 				target: string
 				type: 'nearby'
 				distance: pc // Distance between the two systems (pc)
-				direction: { x: number; y: number; z: number } // Directional vector from source to target (unit vector)
+				direction: [number, number, number] // Directional vector from source to target (unit vector)
 			}
 			type Sees = {
 				// Whether a system within a neighbourhood can see systems within another neighbourhood (via apparent brightness, with a neighbourhood resolution )
@@ -161,7 +202,7 @@ export namespace AstroJSON {
 				target: string
 				type: 'sees'
 				distance: pc
-				direction: { x: number; y: number; z: number } // Direction in the skybox from the source neighbourhood to the target neighbourhood (unit vector)
+				direction: [number, number, number] // Direction in the skybox from the source neighbourhood to the target neighbourhood (unit vector)
 				apparentBrightness: number // Apparent brightness of the target system from the source system (magnitude)
 			}
 			type Orbit = {

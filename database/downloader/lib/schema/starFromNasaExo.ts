@@ -4,7 +4,10 @@ import { NASA } from '../../../../types/NASA'
 // Creates an AstroJSON schema node for a star from a NASA Minified Exoplanet Archive record
 export const starFromNasaExo = (
 	record: NASA.MinifiedExoplanetArchiveStarRecord,
-): AstroJSON.Neo4J.Node.Star | null => {
+): {
+	starNode: AstroJSON.Neo4J.Node.Star
+	systemMembershipEdge: AstroJSON.Neo4J.Edge.Child
+} | null => {
 	// Parse the record and create a star node
 	const starNode: AstroJSON.Neo4J.Node.Star = {
 		id: record.hostname,
@@ -25,15 +28,25 @@ export const starFromNasaExo = (
 		mass: record.st_mass, // Stellar Mass (Solar masses, for circumbinary systems)
 	}
 
+	// Create system membership record
+	const systemMembershipEdge: AstroJSON.Neo4J.Edge.Child = {
+		id: `${starNode.id}|${record.sy_name}`,
+		source: starNode.id,
+		target: record.sy_name,
+		type: 'in',
+	}
+
 	// Validate records and flag issues
 	const missingNodeFields = Object.entries(starNode).filter(
 		([key, value]) => value === null || value === undefined,
 	)
-	if (missingNodeFields.length)
+	if (missingNodeFields.length) {
 		console.warn(
 			`Star node ${starNode.id} is missing fields: ${missingNodeFields.map(([key]) => key).join(', ')}`,
 			record,
 		)
+		return null
+	}
 
-	return starNode
+	return { starNode, systemMembershipEdge }
 }

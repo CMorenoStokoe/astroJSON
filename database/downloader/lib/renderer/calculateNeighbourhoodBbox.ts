@@ -8,36 +8,43 @@ export const calculateNeighbourhoodBbox = (
 	bbox: AstroJSON.Neo4J.Node.Neighbourhood['bbox']
 } => {
 	let bbox = {
-		min: { x: 0, y: 0, z: 0 },
-		max: { x: 0, y: 0, z: 0 },
+		min: [systems[0].coords[0], systems[0].coords[1], systems[0].coords[2]],
+		max: [systems[0].coords[0], systems[0].coords[1], systems[0].coords[2]],
 	}
 
 	// Aggregate visual and geometric properties of system
 	for (const sys of systems) {
 		// Expand bbox coordinate bounds
-		if (sys.coords.x < bbox.min.x) bbox.min.x = sys.coords.x
-		else if (sys.coords.x > bbox.max.x) bbox.max.x = sys.coords.x
-		if (sys.coords.y < bbox.min.y) bbox.min.y = sys.coords.y
-		else if (sys.coords.y > bbox.max.y) bbox.max.y = sys.coords.y
-		if (sys.coords.z < bbox.min.z) bbox.min.z = sys.coords.z
-		else if (sys.coords.z > bbox.max.z) bbox.max.z = sys.coords.z
+		if (sys.coords[0] < bbox.min[0]) bbox.min[0] = sys.coords[0]
+		else if (sys.coords[0] > bbox.max[0]) bbox.max[0] = sys.coords[0]
+		if (sys.coords[1] < bbox.min[1]) bbox.min[1] = sys.coords[1]
+		else if (sys.coords[1] > bbox.max[1]) bbox.max[1] = sys.coords[1]
+		if (sys.coords[2] < bbox.min[2]) bbox.min[2] = sys.coords[2]
+		else if (sys.coords[2] > bbox.max[2]) bbox.max[2] = sys.coords[2]
 	}
 
 	// Calculate center and radius for rendering as an approximated circle bbox in the skybox
-	const coords = {
-		x: (bbox.min.x + bbox.max.x) / 2,
-		y: (bbox.min.y + bbox.max.y) / 2,
-		z: (bbox.min.z + bbox.max.z) / 2,
-	}
+	const coords = [
+		(bbox.min[0] + bbox.max[0]) / 2, // x
+		(bbox.min[1] + bbox.max[1]) / 2, // y
+		(bbox.min[2] + bbox.max[2]) / 2, // z
+	]
 	const radius = Math.hypot(
-		bbox.max.x - bbox.min.x,
-		bbox.max.y - bbox.min.y,
-		bbox.max.z - bbox.min.z,
+		bbox.max[0] - bbox.min[0],
+		bbox.max[1] - bbox.min[1],
+		bbox.max[2] - bbox.min[2],
 	)
 
 	return {
-		centrum: coords,
+		centrum: [coords[0], coords[1], coords[2]],
 		radius,
-		bbox,
+		bbox: [
+			bbox.min[0],
+			bbox.min[1],
+			bbox.min[2],
+			bbox.max[0],
+			bbox.max[1],
+			bbox.max[2],
+		],
 	}
 }

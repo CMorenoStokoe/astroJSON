@@ -3,11 +3,7 @@ export const convertEquatorialToCartesian = (
 	dist: number,
 	ra: number,
 	dec: number,
-): {
-	x: number
-	y: number
-	z: number
-} => {
+): [number, number, number] => {
 	// Convert from degrees to radians for js Math
 	const raRad = ra * (Math.PI / 180)
 	const decRad = dec * (Math.PI / 180)
@@ -27,5 +23,5 @@ export const convertEquatorialToCartesian = (
 		z: -galacticCoords.y, // Galactic z axis  is the y up/down axis (Three.js is also right-handed)
 	}
 
-	return renderSpaceCoords
+	return [renderSpaceCoords.x, renderSpaceCoords.y, renderSpaceCoords.z]
 }

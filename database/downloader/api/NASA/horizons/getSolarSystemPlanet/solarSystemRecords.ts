@@ -1,0 +1,106 @@
+import { NASA } from '../../../../../../types/NASA'
+
+export const MINIFIED_SYSTEM_FIELDS = [
+	'sy_name',
+	'sy_snum',
+	'sy_pnum',
+	'sy_mnum',
+	'cb_flag',
+	'ra',
+	'dec',
+	'glon',
+	'glat',
+	'sy_dist',
+	'sy_plx',
+	'sy_pm',
+	'sy_pmra',
+	'sy_pmdec',
+	'sy_gaiamag',
+	'sy_tmag',
+	'sy_vmag',
+	'sy_jmag',
+	'sy_kmag',
+	'sy_w1mag',
+	'sy_w4mag',
+] as const satisfies readonly (keyof NASA.MinifiedExoplanetArchiveSystemRecord)[]
+
+export const MINIFIED_STAR_FIELDS = [
+	'hostname',
+	'hostid',
+	'sy_name',
+	'hd_name',
+	'hip_name',
+	'tic_id',
+	'gaia_dr3_id',
+	'st_spectype',
+	'st_teff',
+	'st_rad',
+	'st_mass',
+	'st_lum',
+	'st_dens',
+	'st_logg',
+	'st_age',
+	'st_met',
+	'st_metratio',
+	'st_radv',
+	'st_rotp',
+	'st_vsin',
+	'st_log_rhk',
+] as const satisfies readonly (keyof NASA.MinifiedExoplanetArchiveStarRecord)[]
+
+// One astronomical unit expressed in parsecs.
+const SOLAR_DISTANCE_PC = 1 / 206265
+
+const SOLAR_SYSTEM_RECORD = {
+	sy_name: 'Solar System',
+	sy_snum: 1,
+	sy_pnum: 8,
+	sy_mnum: 0,
+	cb_flag: 0,
+	ra: 0,
+	dec: 0,
+	glon: 0,
+	glat: 0,
+	sy_dist: SOLAR_DISTANCE_PC,
+	sy_plx: 206265000,
+	sy_pm: 0,
+	sy_pmra: 0,
+	sy_pmdec: 0,
+	sy_gaiamag: -26.9,
+	sy_tmag: -26.74,
+	sy_vmag: -26.74,
+	sy_jmag: -26.95,
+	sy_kmag: -28.3,
+	sy_w1mag: -28.0,
+	sy_w4mag: -28.0,
+} satisfies NASA.MinifiedHorizonsSystemRecord
+
+export const SOLAR_SYSTEM_RECORDS: NASA.MinifiedHorizonsSystemRecord[] = [
+	SOLAR_SYSTEM_RECORD,
+]
+
+export const SOLAR_STAR_RECORDS: NASA.MinifiedHorizonsStarRecord[] = [
+	{
+		hostname: 'Sun',
+		hostid: 'sun',
+		sy_name: 'Solar System',
+		hd_name: '',
+		hip_name: '',
+		tic_id: '',
+		gaia_dr3_id: '',
+		st_spectype: 'G2V',
+		st_teff: 5778,
+		st_rad: 1,
+		st_mass: 1,
+		st_lum: 0,
+		st_dens: 1.41,
+		st_logg: 4.44,
+		st_age: 4.6,
+		st_met: 0,
+		st_metratio: '[Fe/H]',
+		st_radv: 0,
+		st_rotp: 25.05,
+		st_vsin: 1.63,
+		st_log_rhk: -4.9,
+	},
+]

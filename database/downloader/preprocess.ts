@@ -52,7 +52,7 @@ const run = async () => {
 	console.log('All API data fetched successfully. Ready for preprocessing.')
 
 	// Exoplanets and their orbits
-	const { planets, orbits } = parseNasaExoplanetArchiveCsv(
+	let { planets, orbits } = parseNasaExoplanetArchiveCsv(
 		[IN_FILE_PLANET_EXO, IN_FILE_PLANET_ENDO],
 		MINIFIED_FIELDS,
 	)
@@ -71,24 +71,61 @@ const run = async () => {
 			},
 		)
 	console.log(`Got ${planets.length} planets and ${orbits.length} orbits...`)
+	const orbitIssues = orbits.reduce((acc, orbit) => {
+		for (const [key, value] of Object.entries(orbit))
+			if (!value) acc[key] = (acc[key] ?? 0) + 1
+		return acc
+	}, {})
+	console.warn(`Orbital diagnostics (n missing values):`, orbitIssues)
 
 	// Stars
-	const stars = parseNasaExoplanetArchiveCsv(
+	let { starNodes, systemMembershipEdges } = parseNasaExoplanetArchiveCsv(
 		[IN_FILE_STAR_EXO, IN_FILE_STAR_ENDO],
 		MINIFIED_STAR_FIELDS,
 	)
 		.map(starFromNasaExo)
 		.filter((x) => x !== null)
-	console.log(`Got ${stars.length} stars...`)
+		.reduce(
+			(acc, { starNode, systemMembershipEdge }) => {
+				acc.starNodes.push(starNode)
+				acc.systemMembershipEdges.push(systemMembershipEdge)
+				return acc
+			},
+			{
+				starNodes: [] as AstroJSON.Neo4J.Node.Star[],
+				systemMembershipEdges: [] as AstroJSON.Neo4J.Edge.Child[],
+			},
+		)
+	console.log(
+		`Got ${starNodes.length} stars (belonging to ${systemMembershipEdges.length} systems)...`,
+	)
 
 	// Systems
-	const systems = parseNasaExoplanetArchiveCsv(
+	let systems = parseNasaExoplanetArchiveCsv(
 		[IN_FILE_SYS_EXO, IN_FILE_SYS_ENDO],
 		MINIFIED_SYSTEM_FIELDS,
 	)
 		.map(systemFromNasaExo)
 		.filter((x) => x !== null)
 	console.log(`Got ${systems.length} systems...`)
+
+	// Dedupe bodies
+	const nodeIds = new Set<string>()
+	const duplicateNodeIds: string[] = []
+	const dedupe = (n, type) =>
+		n.filter(({ id }) => {
+			const key = `${type}:${id}`
+			const exists = nodeIds.has(key)
+			if (exists) duplicateNodeIds.push(key)
+			nodeIds.add(key)
+			return !exists
+		})
+	starNodes = dedupe(starNodes, 'Star')
+	systems = dedupe(systems, 'System')
+	planets = dedupe(planets, 'Planet')
+	console.warn(
+		`Deduped ${duplicateNodeIds.length} duplicate nodes (incl. ${duplicateNodeIds.slice(0, 2)}..) ...`,
+	)
 
 	// Neighbourhoods
 	const nearbySystems: {
@@ -133,8 +170,9 @@ const run = async () => {
 	)
 
 	// Write outputs
-	writeOutFile('stars', stars)
+	writeOutFile('stars', starNodes)
 	writeOutFile('systems', systems)
+	writeOutFile('system-membership', systemMembershipEdges)
 	writeOutFile('planets', planets)
 	writeOutFile('orbits', orbits)
 	writeOutFile('neighbourhoods', neighbourhoodNodes)

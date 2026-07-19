@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+/* Full screen layout */
+html,
+body {
+	height: 100%;
+	width: 100%;
+}

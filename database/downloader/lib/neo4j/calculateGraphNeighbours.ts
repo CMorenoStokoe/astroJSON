@@ -1,8 +1,10 @@
 import { AstroJSON } from '../../../../types/AstroJSON'
+import {
+	NEIGHBOURHOOD_PROPAGATION_MAX_ITERATIONS,
+	NEIGHBOURHOOD_DISTANCE_PENALTY,
+} from '../../config/settings'
 import { aggregateLightEmissions } from '../astronometrics/aggregateLightEmissions'
 import { calculateNeighbourhoodBbox } from '../renderer/calculateNeighbourhoodBbox'
-
-const MAX_ITERATIONS = 10 // Maximum number of iterations for label propagation
 
 // Use a graph label propagation approach to identify neighbourhoods of clustered stars for rendering purposes
 export const calculateGraphNeighbours = (
@@ -12,15 +14,14 @@ export const calculateGraphNeighbours = (
 	neighbourhoodNodes: AstroJSON.Neo4J.Node.Neighbourhood[]
 	neighbourhoodMembershipEdges: AstroJSON.Neo4J.Edge.Child[]
 } => {
-	// Define maps and lookups for population in one-sweep to reduce time complexity
-	const sysMap = new Map<string, Set<string>>()
-	const sysLookup = new Map<string, AstroJSON.Neo4J.Node.System>()
-	const labels = new Map<string, string>() // [star, community]
+	const sysMap = new Map<string, Map<string, number>>() // [starId, label votes]
+	const sysLookup = new Map<string, AstroJSON.Neo4J.Node.System>() // [starId, starNode]
+	const labels = new Map<string, string>() // [starId, communityId]
 
 	// Iterate over nodes once to initialize the system map and lookups
 	for (let i = 0; i < nodes.length; i++) {
 		// Combine iterations for efficiency
-		sysMap.set(nodes[i].id, new Set<string>()) // Initialize an empty set for each star to store its neighbours
+		sysMap.set(nodes[i].id, new Map()) // Initialize an empty set for each star to store its neighbours
 		sysLookup.set(nodes[i].id, nodes[i]) // Store the star node for quick access
 		labels.set(nodes[i].id, nodes[i].id) // Each star starts as its own community (initialise labels)
 	}
@@ -28,13 +29,13 @@ export const calculateGraphNeighbours = (
 	// Iterate over edges once to populate neighbours
 	for (let i = 0; i < edges.length; i++) {
 		if (!sysMap.get(edges[i].source)?.has(edges[i].target))
-			sysMap.get(edges[i].source)!.add(edges[i].target)
+			sysMap.get(edges[i].source)!.set(edges[i].target, edges[i].distance)
 		if (!sysMap.get(edges[i].target)?.has(edges[i].source))
-			sysMap.get(edges[i].target)!.add(edges[i].source)
+			sysMap.get(edges[i].target)!.set(edges[i].source, edges[i].distance)
 	}
 
 	// Propagate topology labels
-	for (let i = 0; i < MAX_ITERATIONS; i++) {
+	for (let i = 0; i < NEIGHBOURHOOD_PROPAGATION_MAX_ITERATIONS; i++) {
 		let changed = false
 
 		// Shuffle nodes each iteration for natural convergence
@@ -52,13 +53,19 @@ export const calculateGraphNeighbours = (
 			let mostFrequentLabel = labels.get(nodeId)!
 
 			// Iterate through each neighbour to count their labels
-			for (const adjId of neighbours) {
+			for (const [adjId, distance] of neighbours) {
 				const adjLabel = labels.get(adjId)!
-				const count = (labelCounts.get(adjLabel) || 0) + 1
-				labelCounts.set(adjLabel, count)
 
-				if (count > maxCount) {
-					maxCount = count
+				// Nearby systems have stronger influence
+				const voteWeight =
+					1 /
+					Math.max(distance, 0.001) ** NEIGHBOURHOOD_DISTANCE_PENALTY
+
+				const score = (labelCounts.get(adjLabel) ?? 0) + voteWeight
+				labelCounts.set(adjLabel, score)
+
+				if (score > maxCount) {
+					maxCount = score
 					mostFrequentLabel = adjLabel
 				}
 			}

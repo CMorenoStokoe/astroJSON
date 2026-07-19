@@ -1,4 +1,5 @@
 import { AstroJSON } from '../../../../types/AstroJSON'
+import { VISIBILITY_APPARENT_BRIGHTNESS_THRESHOLD } from '../../config/settings'
 import { calculateDistanceInRenderspace } from './calculateDistanceInRenderspace'
 
 // Creates edges linking visible systems at an efficient neighbourhood-level resolution
@@ -32,7 +33,7 @@ export const getVisibleNeighbourhoods = (
 				systems[s].brightness + 5 * Math.log10(distance) - 5
 
 			// Record an edge if the star is visible to the neighbourhood (apparent brightness < 6.5)
-			if (apparentBrightness <= 6.5)
+			if (apparentBrightness <= VISIBILITY_APPARENT_BRIGHTNESS_THRESHOLD)
 				edges.push({
 					id: `${neighbourhoods[n].id}|${systems[s].id}`,
 					source: neighbourhoods[n].id,

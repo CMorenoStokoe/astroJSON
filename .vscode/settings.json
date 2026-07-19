@@ -16,6 +16,8 @@
 		"tab.inactiveBackground": "#000000",
 		"tab.activeBackground": "#000000"
 	},
+	/*
+	// Enable for leetcode-like zero-intellisense
 	"js/ts.validate.enabled": false,
 	"eslint.validate": ["javascript", "javascriptreact"],
 	"eslint.rules.customizations": [
@@ -28,6 +30,22 @@
 			"severity": "off"
 		}
 	],
+	"editor.quickSuggestions": {
+		"comments": "off",
+		"strings": "off",
+		"other": "off"
+	},
+	"editor.suggestOnTriggerCharacters": false,
+	"editor.inlineSuggest.enabled": false,
+	"editor.parameterHints.enabled": false,
+	"editor.acceptSuggestionOnCommitCharacter": false,
+	"editor.acceptSuggestionOnEnter": "off",
+	"editor.tabCompletion": "off",
+	"editor.wordBasedSuggestions": "off",
+	"editor.snippetSuggestions": "none",
+	"github.copilot.enable": {
+		"*": false
+	},
 	"cSpell.words": ["astrometrics", "Keplerian"],
 	"[typescript]": {
 		"editor.quickSuggestions": {
@@ -48,5 +66,5 @@
 		"editor.suggestOnTriggerCharacters": false,
 		"editor.inlineSuggest.enabled": false,
 		"editor.parameterHints.enabled": false
-	}
+	}*/
 }

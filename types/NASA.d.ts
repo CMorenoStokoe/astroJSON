@@ -922,4 +922,55 @@ export namespace NASA {
 
 		pl_ndispec: number // Number of direct imaging spectra
 	}
+
+	// # NASA Horizons
+	export type MinifiedHorizonsSystemRecord = Pick<
+		MinifiedExoplanetArchiveSystemRecord,
+		| 'sy_name'
+		| 'sy_snum'
+		| 'sy_pnum'
+		| 'sy_mnum'
+		| 'cb_flag'
+		| 'ra'
+		| 'dec'
+		| 'glon'
+		| 'glat'
+		| 'sy_dist'
+		| 'sy_plx'
+		| 'sy_pm'
+		| 'sy_pmra'
+		| 'sy_pmdec'
+		| 'sy_gaiamag'
+		| 'sy_tmag'
+		| 'sy_vmag'
+		| 'sy_jmag'
+		| 'sy_kmag'
+		| 'sy_w1mag'
+		| 'sy_w4mag'
+	>
+
+	export type MinifiedHorizonsStarRecord = Pick<
+		MinifiedExoplanetArchiveStarRecord,
+		| 'hostname'
+		| 'hostid'
+		| 'sy_name'
+		| 'hd_name'
+		| 'hip_name'
+		| 'tic_id'
+		| 'gaia_dr3_id'
+		| 'st_spectype'
+		| 'st_teff'
+		| 'st_rad'
+		| 'st_mass'
+		| 'st_lum'
+		| 'st_dens'
+		| 'st_logg'
+		| 'st_age'
+		| 'st_met'
+		| 'st_metratio'
+		| 'st_radv'
+		| 'st_rotp'
+		| 'st_vsin'
+		| 'st_log_rhk'
+	>
 }
