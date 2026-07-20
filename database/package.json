@@ -11,11 +11,14 @@
 		"stars": "tsx downloader/stars.ts",
 		"systems": "tsx downloader/systems.ts",
 		"preprocess": "tsx downloader/preprocess.ts",
-		"sync": "tsx downloader/sync.ts"
+		"sync": "tsx downloader/sync.ts",
+		"add-gaia": "tsx downloader/add-gaia.ts",
+		"debug": "tsx downloader/debug.ts"
 	},
 	"dependencies": {
 		"@types/cli-progress": "^3.11.6",
 		"cli-progress": "^3.12.0",
+		"csv-parse": "^7.0.1",
 		"dotenv": "^17.4.2",
 		"neo4j-driver": "^6.1.0",
 		"tsx": "^4.22.4",

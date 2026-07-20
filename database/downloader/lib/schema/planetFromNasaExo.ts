@@ -1,5 +1,5 @@
-import { AstroJSON } from '../../../../types/AstroJSON'
-import { NASA } from '../../../../types/NASA'
+import { AstroJSON } from '$types/AstroJSON'
+import { NASA } from '$types/NASA'
 import { classifyPlanetType } from '../planetology/classifyPlanetType'
 
 // Creates an AstroJSON schema node for a planet from a NASA Minified Exoplanet Archive record

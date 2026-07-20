@@ -1,13 +1,11 @@
-import {
-	IMPUTED_AVERAGE_PLANET_SPIN_RATE,
-	SIMULATION_RATE_DAYS_PER_SECOND
-} from '$lib/config/settings';
 import { TAU } from '../../../constants/TAU';
 import type { Writable } from 'svelte/store';
 
 // Rotate planet
 export const rotatePlanet = (
 	rotationStore: Writable<number>,
+	SIMULATION_RATE_DAYS_PER_SECOND,
+	IMPUTED_AVERAGE_PLANET_SPIN_RATE,
 	// Impute rotation period by sampling from a normal distribution of rotations rates in sol system
 	rotationPeriodDays: number = Math.max(
 		0.01,
@@ -18,8 +16,15 @@ export const rotatePlanet = (
 				Math.cos(TAU * Math.random())
 	)
 ) => {
+	const safeSimulationRate =
+		typeof SIMULATION_RATE_DAYS_PER_SECOND === 'number' &&
+		Number.isFinite(SIMULATION_RATE_DAYS_PER_SECOND) &&
+		SIMULATION_RATE_DAYS_PER_SECOND > 0
+			? SIMULATION_RATE_DAYS_PER_SECOND
+			: 1;
+
 	// Convert rotation period to simulation seconds (e.g., simulate one day per second)
-	const rotationPerSimulationSecond = rotationPeriodDays / SIMULATION_RATE_DAYS_PER_SECOND;
+	const rotationPerSimulationSecond = rotationPeriodDays / safeSimulationRate;
 
 	// Represent as a geometric rotation in radians
 	const radiansPerSecond = (Math.PI * 2) / rotationPerSimulationSecond;

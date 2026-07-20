@@ -1,5 +1,6 @@
 import type { Session } from 'neo4j-driver';
 import type { AstroJSON as AstroJson } from '../../types/AstroJSON';
+import { simulationSettings } from '$lib/config/settings';
 
 // See https://svelte.dev/docs/kit/types#app.d.ts
 // for information about these interfaces
@@ -23,7 +24,9 @@ declare global {
 			stars: AstroJson.Renderer.Star[];
 			visibleSystems: AstroJson.Renderer.VisibleSystemInSky[];
 		}
-		// interface PageState {}
+		interface PageState {
+			settings: typeof simulationSettings;
+		}
 		// interface Platform {}
 	}
 	export import AstroJSON = AstroJson;

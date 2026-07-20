@@ -1,11 +1,13 @@
 import { Vector3 } from 'three';
-import { RENDER_QUALITY_ORBIT_SEGMENTS } from '../../../config/settings';
 import { DEG_TO_RAD } from '../../../constants/DEG_TO_RAD';
 import { TAU } from '../../../constants/TAU';
 import { guaranteeCompleteKeplerianOrbit } from './guaranteeCompleteKeplerianOrbit';
 
 // Draw orbit as a line
-export const drawOrbit = (planet: App.PageData['planets'][number]) => {
+export const drawOrbit = (
+	planet: App.PageData['planets'][number],
+	RENDER_QUALITY_ORBIT_SEGMENTS
+) => {
 	const { a, e, i, w } = guaranteeCompleteKeplerianOrbit(planet.orbit); // Impute any missing values
 
 	// Convert to radians for JS

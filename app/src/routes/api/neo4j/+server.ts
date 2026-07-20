@@ -23,35 +23,43 @@ export const POST = async ({ locals, request }) => {
 	console.log(`Local bodies for system ${systemName}:`, localBodies.length);
 
 	// Get distant bodies system children
-	const visibleSytems = await queryNeo4j(`
+	const remoteSystems = await queryNeo4j(`
         MATCH (:System { id: '${systemName}' })-[:IN]->(neighbourhood:Neighbourhood)
         MATCH (neighbourhood)-[sees:SEES]->(visibleSystem:System)
         RETURN 
 			collect(DISTINCT visibleSystem) AS visibleSystems,
 			collect(DISTINCT sees) AS sees
     `);
-	console.log(`Visible systems in neighbourhood:`, visibleSytems.length);
+	console.log(`Visible systems in neighbourhood:`, remoteSystems[0].visibleSystems.length);
 
-	// Join Neo4j nodes and edges into AstroJSON structure
+	// Get systems and stars from neo4j payload
 	const system: AstroJSON.Schema.System = localBodies[0]?.system.properties;
+	const stars: AstroJSON.Renderer.Star[] = localBodies[0]?.stars.map((node) => node.properties);
+
+	// Join planets with their orbits from neo4j payload
 	const planets: AstroJSON.Renderer.Planet[] = localBodies[0]?.planets.map((node) => ({
 		...node.properties,
 		orbit: localBodies[0]?.orbits.find((edge) => edge.start.equals(node.identity))?.properties
 	}));
-	const stars: AstroJSON.Renderer.Star[] = localBodies[0]?.stars.map((node) => node.properties);
+
+	// Join visible systems with their sees edges from neo4j payload
 	const visibleSystems: AstroJSON.Renderer.VisibleSystemInSky[] =
-		visibleSytems[0]?.visibleSystems.map((node) => ({
+		remoteSystems[0]?.visibleSystems.map((node) => ({
 			...node.properties,
-			orbit: localBodies[0]?.sees.find((edge) => edge.start === node.identity)?.properties
+			viewpoint: remoteSystems[0]?.sees.find((edge) => edge.end?.equals(node.identity))
+				?.properties ?? {
+				distance: 0,
+				direction: [0, 0, 1],
+				apparentBrightness: 99
+			}
 		}));
 
 	console.log('Got AstroJSON system render record', {
 		system: system.name,
 		planets: planets.length,
 		stars: stars.length,
-		visibleSystems: planets.length
+		visibleSystems: visibleSystems.length
 	});
-
 	return json({
 		system,
 		planets,

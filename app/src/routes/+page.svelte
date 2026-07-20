@@ -1,10 +1,19 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import Canvas from '../lib/components/renderer/Canvas.svelte';
+	import Controls from '$lib/components/renderer/Controls.svelte';
+	import SystemSearch from '$lib/components/renderer/SystemSearch.svelte';
+	import { simulationSettings } from '../lib/config/settings';
+	import { setSettings } from '$lib/contexts/settings';
 
 	let pageData = $state<App.PageData>();
 
-	const loadSystem = async (systemName: string) => {
+	// Global settings context
+	let settings = $state<App.PageState['settings']>(simulationSettings);
+	setSettings(settings);
+
+	// Handlers
+	const handleLoadSystem = async (systemName: string) => {
 		const response = await fetch('/api/neo4j', {
 			method: 'POST',
 			body: JSON.stringify({ systemName })
@@ -13,17 +22,17 @@
 		console.log(`Got system data for ${systemName}`, pageData);
 	};
 
+	// Lifecycle
 	onMount(() => {
-		loadSystem('Solar System');
+		handleLoadSystem('Solar System');
 	});
 </script>
 
 <!-- 3d visualisation -->
-<div class="relative h-full w-full">
+<div class="relative h-full max-h-full w-full max-w-full overflow-hidden">
+	<SystemSearch currentSystemName={pageData?.system?.name} {handleLoadSystem} />
 	{#if pageData}
-		<Canvas {pageData} />
+		<Canvas {pageData} {handleLoadSystem} />
+		<Controls />
 	{/if}
 </div>
-
-<!-- GUI -->
-<h1 class="absolute top-0 left-0 text-white">{pageData?.system?.name}</h1>

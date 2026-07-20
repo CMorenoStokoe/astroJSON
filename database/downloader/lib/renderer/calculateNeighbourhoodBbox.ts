@@ -29,11 +29,12 @@ export const calculateNeighbourhoodBbox = (
 		(bbox.min[1] + bbox.max[1]) / 2, // y
 		(bbox.min[2] + bbox.max[2]) / 2, // z
 	]
-	const radius = Math.hypot(
-		bbox.max[0] - bbox.min[0],
-		bbox.max[1] - bbox.min[1],
-		bbox.max[2] - bbox.min[2],
-	)
+	const radius =
+		Math.hypot(
+			bbox.max[0] - bbox.min[0],
+			bbox.max[1] - bbox.min[1],
+			bbox.max[2] - bbox.min[2],
+		) / 2
 
 	return {
 		centrum: [coords[0], coords[1], coords[2]],
