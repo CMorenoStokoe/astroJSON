@@ -114,7 +114,7 @@
     ],
     "brightness": 0.6789537441244473,
     "color": 2.431,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "24 Sex",
@@ -164,8 +164,8 @@
       -25.458593531474765,
       -17.69301215250575
     ],
-    "brightness": -3.015160845160519,
-    "color": -10.404,
+    "brightness": 6.814839154839481,
+    "color": -0.5739999999999998,
     "hasDebrisDisk": true
   },
   {
@@ -190,8 +190,8 @@
       40.47309531327894,
       -95.269238483515
     ],
-    "brightness": -5.348987760601974,
-    "color": -12.533,
+    "brightness": 4.4810122393980265,
+    "color": -2.7029999999999994,
     "hasDebrisDisk": true
   },
   {
@@ -216,21 +216,21 @@
       47.11308789189679,
       -104.42805301361992
     ],
-    "brightness": -5.403565007980626,
-    "color": -13.161,
-    "hasDebrisDisk": false
+    "brightness": 4.426434992019374,
+    "color": -3.3309999999999995,
+    "hasDebrisDisk": true
   },
   {
     "id": "2MASS J11011926-7732383",
     "type": "system",
     "name": "2MASS J11011926-7732383",
     "coords": [
-      0,
-      0,
-      0
+      -208.65648277031823,
+      -976.4622762358338,
+      -54.62504266592355
     ],
-    "brightness": null,
-    "color": -11.632,
+    "brightness": -0.16999999999999993,
+    "color": -1.8019999999999996,
     "hasDebrisDisk": true
   },
   {
@@ -387,7 +387,7 @@
     ],
     "brightness": 12.671396913797883,
     "color": 5.485999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "6 Lyn",
@@ -541,9 +541,9 @@
       463.5025888676469,
       540.0398024175839
     ],
-    "brightness": -10.085166696493902,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -0.25516669649390167,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "AU Mic",
@@ -699,7 +699,7 @@
     ],
     "brightness": 6.023284958408253,
     "color": 2.1129999999999995,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "BD+48 738",
@@ -751,7 +751,7 @@
     ],
     "brightness": 5.776322506834481,
     "color": 2.0490000000000004,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "BD+60 1417",
@@ -881,7 +881,7 @@
     ],
     "brightness": 7.963291702075585,
     "color": 3.3360000000000003,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "BEBOP-3",
@@ -920,7 +920,7 @@
     ],
     "brightness": 13.231842174536855,
     "color": 5.015999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "CD Cet",
@@ -933,7 +933,7 @@
     ],
     "brightness": 14.275703141785709,
     "color": 6.116999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "CD-35 2722",
@@ -957,21 +957,21 @@
       4.102009852017521,
       15.967840661104665
     ],
-    "brightness": -1.8180598994607227,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": 8.011940100539277,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "CFHTWIR-Oph 98",
     "type": "system",
     "name": "CFHTWIR-Oph 98",
     "coords": [
-      0,
-      0,
-      0
+      -357.9674280762067,
+      -406.436069579627,
+      840.6360935512884
     ],
-    "brightness": null,
-    "color": -14.593,
+    "brightness": -0.16999999999999993,
+    "color": -4.763,
     "hasDebrisDisk": true
   },
   {
@@ -983,8 +983,8 @@
       -185.95144915443427,
       -9.440964410310917
     ],
-    "brightness": -6.398038175400796,
-    "color": -10.703,
+    "brightness": 3.4319618245992043,
+    "color": -0.8729999999999993,
     "hasDebrisDisk": true
   },
   {
@@ -1035,9 +1035,9 @@
       -3.922356904379296,
       12.703191018509935
     ],
-    "brightness": -0.7963316554674709,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": 9.03366834453253,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "CoRoT-1",
@@ -1128,7 +1128,7 @@
     ],
     "brightness": 6.728231638165729,
     "color": 3.205,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "CoRoT-17",
@@ -1141,7 +1141,7 @@
     ],
     "brightness": 5.937741823786377,
     "color": 3.8179999999999996,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "CoRoT-18",
@@ -1490,8 +1490,8 @@
       -15.722858555613232,
       -11.012576433019756
     ],
-    "brightness": -1.5871824826754954,
-    "color": -12.062,
+    "brightness": 8.242817517324504,
+    "color": -2.2319999999999993,
     "hasDebrisDisk": true
   },
   {
@@ -1621,8 +1621,8 @@
       -53.908375038244266
     ],
     "brightness": 11.25733646180889,
-    "color": 18.6837,
-    "hasDebrisDisk": false
+    "color": 10.403700000000002,
+    "hasDebrisDisk": true
   },
   {
     "id": "DS Tuc",
@@ -1997,8 +1997,8 @@
       56.52442118358745,
       -110.39387001845748
     ],
-    "brightness": -5.627325756435649,
-    "color": -9.324,
+    "brightness": 4.202674243564351,
+    "color": 0.5060000000000002,
     "hasDebrisDisk": true
   },
   {
@@ -2012,7 +2012,7 @@
     ],
     "brightness": 14.744275755937696,
     "color": 6.205,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "G 196-3",
@@ -2038,7 +2038,7 @@
     ],
     "brightness": 15.618007898594614,
     "color": 6.787000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "G 264-012",
@@ -2051,20 +2051,20 @@
     ],
     "brightness": 12.056178976894973,
     "color": 5.092,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "G 268-110",
     "type": "system",
     "name": "G 268-110",
     "coords": [
-      0,
-      0,
-      0
+      912.535326005192,
+      -311.08785649143783,
+      -265.5251858791564
     ],
-    "brightness": null,
+    "brightness": 4.699999999999999,
     "color": 6.247,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "G 9-40",
@@ -2090,7 +2090,7 @@
     ],
     "brightness": 15.331886864590448,
     "color": 6.321,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 1061",
@@ -2142,7 +2142,7 @@
     ],
     "brightness": 14.234732806152262,
     "color": 6.123,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 1214",
@@ -2168,7 +2168,7 @@
     ],
     "brightness": 11.13472507406796,
     "color": 4.765,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 1265",
@@ -2181,7 +2181,7 @@
     ],
     "brightness": 13.955851110202389,
     "color": 5.895,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 1289",
@@ -2194,7 +2194,7 @@
     ],
     "brightness": 12.871185373061412,
     "color": 5.2540000000000004,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 143",
@@ -2207,7 +2207,7 @@
     ],
     "brightness": 7.016399227910789,
     "color": 2.705,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 15",
@@ -2337,7 +2337,7 @@
     ],
     "brightness": 10.708754394879339,
     "color": 4.589999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 251",
@@ -2376,7 +2376,7 @@
     ],
     "brightness": 10.977828497113718,
     "color": 4.983,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 3021",
@@ -2506,7 +2506,7 @@
     ],
     "brightness": 12.931142931120872,
     "color": 5.730999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 338",
@@ -2519,7 +2519,7 @@
     ],
     "brightness": 8.692103433233486,
     "color": 3.564,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 341",
@@ -2532,7 +2532,7 @@
     ],
     "brightness": 9.393587521191343,
     "color": 3.9030000000000005,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 3470",
@@ -2571,7 +2571,7 @@
     ],
     "brightness": 15.294499702118522,
     "color": 6.5120000000000005,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 357",
@@ -2584,7 +2584,7 @@
     ],
     "brightness": 11.034723716188616,
     "color": 4.4350000000000005,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 3634",
@@ -2610,7 +2610,7 @@
     ],
     "brightness": 10.284445063043723,
     "color": 4.373,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 3779",
@@ -2623,7 +2623,7 @@
     ],
     "brightness": 12.349592267521269,
     "color": 5.082999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 3929",
@@ -2636,7 +2636,7 @@
     ],
     "brightness": 11.680409325441651,
     "color": 4.806000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 393",
@@ -2649,7 +2649,7 @@
     ],
     "brightness": 10.414763182716086,
     "color": 4.339,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 3942",
@@ -2675,7 +2675,7 @@
     ],
     "brightness": 13.646522170680004,
     "color": 5.706,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 3998",
@@ -2701,7 +2701,7 @@
     ],
     "brightness": 8.719874911402975,
     "color": 3.9890000000000003,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 414",
@@ -2727,7 +2727,7 @@
     ],
     "brightness": 11.14729981753018,
     "color": 4.625,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 4274",
@@ -2740,7 +2740,7 @@
     ],
     "brightness": 14.01263925396305,
     "color": 5.9910000000000005,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 4276",
@@ -2792,7 +2792,7 @@
     ],
     "brightness": 10.27618073466134,
     "color": 4.473000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 480",
@@ -2805,7 +2805,7 @@
     ],
     "brightness": 10.723090610332573,
     "color": 4.799,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 486",
@@ -2818,7 +2818,7 @@
     ],
     "brightness": 11.854486349716918,
     "color": 5.0280000000000005,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 504",
@@ -2844,7 +2844,7 @@
     ],
     "brightness": 9.504572709300454,
     "color": 4.055,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 514",
@@ -2857,7 +2857,7 @@
     ],
     "brightness": 9.640857869169313,
     "color": 4.014000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 536",
@@ -2870,7 +2870,7 @@
     ],
     "brightness": 9.622913234741402,
     "color": 4.027000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 581",
@@ -2961,7 +2961,7 @@
     ],
     "brightness": 12.442237815970506,
     "color": 5.334,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 685",
@@ -2974,7 +2974,7 @@
     ],
     "brightness": 9.200967393486541,
     "color": 3.9140000000000006,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 687",
@@ -3000,7 +3000,7 @@
     ],
     "brightness": 8.880300951717459,
     "color": 3.758,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 724",
@@ -3013,7 +3013,7 @@
     ],
     "brightness": 9.490128284752743,
     "color": 4.092,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 740",
@@ -3026,7 +3026,7 @@
     ],
     "brightness": 8.993052563684518,
     "color": 3.8630000000000004,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 806",
@@ -3039,7 +3039,7 @@
     ],
     "brightness": 10.386056120191233,
     "color": 4.256999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 832",
@@ -3104,7 +3104,7 @@
     ],
     "brightness": 9.976140215148126,
     "color": 4.095,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 896",
@@ -3117,7 +3117,7 @@
     ],
     "brightness": 11.067052021561945,
     "color": 4.724000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 900",
@@ -3130,7 +3130,7 @@
     ],
     "brightness": 7.99900484606506,
     "color": 3.5460000000000003,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 9066",
@@ -3143,7 +3143,7 @@
     ],
     "brightness": 14.457976650659841,
     "color": 6.062000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 9404",
@@ -3156,7 +3156,7 @@
     ],
     "brightness": 8.72947377921546,
     "color": 3.823999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 96",
@@ -3182,7 +3182,7 @@
     ],
     "brightness": 8.866952793253073,
     "color": 3.8290000000000006,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 9773",
@@ -3195,7 +3195,7 @@
     ],
     "brightness": 11.023134649252246,
     "color": 4.560999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "GJ 9827",
@@ -3323,9 +3323,9 @@
       -1161.827767485137,
       -242.61112812177657
     ],
-    "brightness": -10.519018604779784,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -0.6890186047797844,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "Gl 378",
@@ -3338,7 +3338,7 @@
     ],
     "brightness": 9.156140514591279,
     "color": 3.869999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Gl 410",
@@ -3377,7 +3377,7 @@
     ],
     "brightness": 10.06227315103137,
     "color": 4.047999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Gl 725",
@@ -3390,7 +3390,7 @@
     ],
     "brightness": 11.206423200513914,
     "color": 4.507999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Gliese 12",
@@ -3403,7 +3403,7 @@
     ],
     "brightness": 12.166421680275587,
     "color": 4.792999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HAT-P-1",
@@ -5652,7 +5652,7 @@
     ],
     "brightness": 7.322309447009919,
     "color": 2.95,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 108236",
@@ -5860,7 +5860,7 @@
     ],
     "brightness": 3.8940439389777017,
     "color": 1.4820000000000002,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 111232",
@@ -5885,8 +5885,8 @@
       22.89874077512423
     ],
     "brightness": 1.129316074623972,
-    "color": 6.417,
-    "hasDebrisDisk": false
+    "color": -1.8629999999999995,
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 111998",
@@ -5912,7 +5912,7 @@
     ],
     "brightness": -0.5693720729393563,
     "color": 4.58415,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 112570",
@@ -6042,7 +6042,7 @@
     ],
     "brightness": 4.476464989638822,
     "color": 1.545,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 11506",
@@ -6198,7 +6198,7 @@
     ],
     "brightness": 3.3709229365677027,
     "color": 1.3865100000000004,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 122562",
@@ -6601,7 +6601,7 @@
     ],
     "brightness": 4.816073901322836,
     "color": 1.4910000000000005,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 136418",
@@ -6613,7 +6613,7 @@
       59.923343171468325
     ],
     "brightness": 2.7395819253185376,
-    "color": 7.849,
+    "color": -0.43099999999999916,
     "hasDebrisDisk": false
   },
   {
@@ -6965,7 +6965,7 @@
     ],
     "brightness": 8.45007103497202,
     "color": 3.656999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 147513",
@@ -7199,7 +7199,7 @@
     ],
     "brightness": 5.281402348949526,
     "color": 1.8319999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 154345",
@@ -7680,7 +7680,7 @@
     ],
     "brightness": 0.8376825039178177,
     "color": 2.0939400000000004,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 168009",
@@ -7940,7 +7940,7 @@
     ],
     "brightness": 6.2010027019630805,
     "color": 2.2,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 177565",
@@ -8057,7 +8057,7 @@
     ],
     "brightness": 10.26184582659612,
     "color": 4.446999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 180902",
@@ -8083,7 +8083,7 @@
     ],
     "brightness": 5.1953241274219195,
     "color": 1.9009999999999998,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 181342",
@@ -8291,7 +8291,7 @@
     ],
     "brightness": 4.80906773539134,
     "color": 1.5629999999999997,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 189733",
@@ -8759,7 +8759,7 @@
     ],
     "brightness": 6.364887986059214,
     "color": 2.263000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 20782",
@@ -8772,7 +8772,7 @@
     ],
     "brightness": 5.700207259317201,
     "color": 1.9270000000000005,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 207832",
@@ -8798,7 +8798,7 @@
     ],
     "brightness": 6.111543603435585,
     "color": 2.057999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 20794",
@@ -8811,7 +8811,7 @@
     ],
     "brightness": 5.368237865543503,
     "color": 1.6239999999999997,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 208487",
@@ -9071,7 +9071,7 @@
     ],
     "brightness": 6.43799264091605,
     "color": 2.334999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 21520",
@@ -9253,7 +9253,7 @@
     ],
     "brightness": 6.494121811569551,
     "color": 2.30811,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 219139",
@@ -9422,7 +9422,7 @@
     ],
     "brightness": 3.7217480354759607,
     "color": 1.6760000000000002,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 222076",
@@ -9461,7 +9461,7 @@
     ],
     "brightness": 6.796560555781499,
     "color": 2.5089999999999995,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 222582",
@@ -9526,7 +9526,7 @@
     ],
     "brightness": 7.903008107010144,
     "color": 3.232,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 22532",
@@ -9812,7 +9812,7 @@
     ],
     "brightness": 0.3007379365401963,
     "color": 2.5567499999999996,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 25912",
@@ -9838,7 +9838,7 @@
     ],
     "brightness": 9.628806018489591,
     "color": 3.7680000000000007,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 26161",
@@ -9890,7 +9890,7 @@
     ],
     "brightness": 3.131259721942534,
     "color": 2.6950000000000003,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 27631",
@@ -10007,7 +10007,7 @@
     ],
     "brightness": 4.690302634467188,
     "color": 1.5749999999999993,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 285507",
@@ -10111,7 +10111,7 @@
     ],
     "brightness": 7.504311984457752,
     "color": 3.008,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 30177",
@@ -10228,7 +10228,7 @@
     ],
     "brightness": 0.9962049310080676,
     "color": 2.5190499999999996,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 32963",
@@ -10449,7 +10449,7 @@
     ],
     "brightness": 6.0925830395649285,
     "color": 2.1960000000000006,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 38283",
@@ -10514,7 +10514,7 @@
     ],
     "brightness": 5.980903121968953,
     "color": 1.9959999999999996,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 39855",
@@ -10644,7 +10644,7 @@
     ],
     "brightness": 4.93877186229145,
     "color": 1.569,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 4308",
@@ -10839,7 +10839,7 @@
     ],
     "brightness": -0.191318496746403,
     "color": 2.867,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 4760",
@@ -10878,7 +10878,7 @@
     ],
     "brightness": 7.44001404239453,
     "color": 2.968,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 4917",
@@ -11359,7 +11359,7 @@
     ],
     "brightness": 6.159337603864733,
     "color": 2.1799999999999997,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 6860",
@@ -11957,7 +11957,7 @@
     ],
     "brightness": 6.329916041194421,
     "color": 2.273999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 86081",
@@ -12009,7 +12009,7 @@
     ],
     "brightness": 4.511006776302601,
     "color": 1.5588799999999998,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 8673",
@@ -12308,7 +12308,7 @@
     ],
     "brightness": 0.6485319473937263,
     "color": 2.3719999999999994,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 95086",
@@ -12438,7 +12438,7 @@
     ],
     "brightness": 4.484882673648183,
     "color": 1.5149999999999997,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 96992",
@@ -12464,7 +12464,7 @@
     ],
     "brightness": 4.2646838539180365,
     "color": 1.5472799999999998,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HD 97048",
@@ -12594,7 +12594,7 @@
     ],
     "brightness": 7.809949374480737,
     "color": 3.148999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 104436",
@@ -12750,7 +12750,7 @@
     ],
     "brightness": 5.754743484732547,
     "color": 2.091,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 14810",
@@ -12854,7 +12854,7 @@
     ],
     "brightness": 6.677879046406529,
     "color": 2.4699999999999998,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 38594",
@@ -13010,7 +13010,7 @@
     ],
     "brightness": 7.2376685872495345,
     "color": 2.6689999999999996,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 57274",
@@ -13049,7 +13049,7 @@
     ],
     "brightness": 8.201496771692948,
     "color": 3.444,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 62039",
@@ -13062,7 +13062,7 @@
     ],
     "brightness": 4.559801099113752,
     "color": 1.63,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 63242",
@@ -13088,7 +13088,7 @@
     ],
     "brightness": 6.297331896630078,
     "color": 2.1196599999999997,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 65",
@@ -13153,7 +13153,7 @@
     ],
     "brightness": 7.502298613586181,
     "color": 3.0679999999999996,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 67522",
@@ -13218,7 +13218,7 @@
     ],
     "brightness": 6.936396451704597,
     "color": 2.5649999999999995,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 71135",
@@ -13270,7 +13270,7 @@
     ],
     "brightness": 5.093252121609599,
     "color": 1.6869999999999994,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 77900",
@@ -13333,9 +13333,9 @@
       -86.1433486757058,
       111.67186770569243
     ],
-    "brightness": -5.8444458681788,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": 3.9855541318211998,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 81375",
@@ -13374,7 +13374,7 @@
     ],
     "brightness": 6.56074256232664,
     "color": 2.372,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 84988",
@@ -13387,7 +13387,7 @@
     ],
     "brightness": 4.7985251445254296,
     "color": 1.5410000000000004,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 8541",
@@ -13413,7 +13413,7 @@
     ],
     "brightness": 10.201160388194584,
     "color": 4.3,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 86221",
@@ -13426,7 +13426,7 @@
     ],
     "brightness": 6.901640864129941,
     "color": 2.9480000000000004,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 90988",
@@ -13478,7 +13478,7 @@
     ],
     "brightness": 7.208842781610589,
     "color": 2.732,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HIP 9618",
@@ -13543,7 +13543,7 @@
     ],
     "brightness": 12.33353946979376,
     "color": 5.372,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "HN Peg",
@@ -13671,8 +13671,8 @@
       -58.77383059924525,
       117.33285828521906
     ],
-    "brightness": -5.739355088108578,
-    "color": -9.837,
+    "brightness": 4.090644911891422,
+    "color": -0.006999999999999673,
     "hasDebrisDisk": true
   },
   {
@@ -13684,8 +13684,8 @@
       59.84743560503937,
       -115.10001286300161
     ],
-    "brightness": -5.673594202501972,
-    "color": -8.95,
+    "brightness": 4.156405797498028,
+    "color": 0.8800000000000008,
     "hasDebrisDisk": true
   },
   {
@@ -14050,7 +14050,7 @@
     ],
     "brightness": 11.41911192161707,
     "color": 4.786999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "K2-13",
@@ -15010,9 +15010,9 @@
       -2409.7403458419108,
       4607.9342516775505
     ],
-    "brightness": -13.580016718173994,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.7500167181739936,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "K2-202",
@@ -16156,7 +16156,7 @@
     ],
     "brightness": 9.783024047515783,
     "color": 4.144,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "K2-289",
@@ -16544,8 +16544,8 @@
       30.327618815319383,
       -83.12462942700263
     ],
-    "brightness": -5.453088790031387,
-    "color": -12.638,
+    "brightness": 4.376911209968613,
+    "color": -2.808,
     "hasDebrisDisk": true
   },
   {
@@ -17612,7 +17612,7 @@
     ],
     "brightness": 13.635905407673508,
     "color": 5.431000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "K2-416",
@@ -17820,7 +17820,7 @@
     ],
     "brightness": 8.327368206991963,
     "color": 3.4670000000000005,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "K2-55",
@@ -17963,7 +17963,7 @@
     ],
     "brightness": 6.417314012151804,
     "color": 2.3660000000000014,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "K2-66",
@@ -18626,7 +18626,7 @@
     ],
     "brightness": 4.711598173658402,
     "color": -0.7829999999999977,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "KIC 10068024",
@@ -18754,9 +18754,9 @@
       -3062.6531508250105,
       5503.423497927233
     ],
-    "brightness": -13.996702747267907,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.166702747267907,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-1105L",
@@ -18767,9 +18767,9 @@
       -2248.1281358969622,
       4546.716583008519
     ],
-    "brightness": -13.529318561419597,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.699318561419597,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-1107L",
@@ -18780,9 +18780,9 @@
       -2918.9238589048487,
       5964.583258192214
     ],
-    "brightness": -14.114434739170754,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.284434739170754,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-1337L",
@@ -18793,9 +18793,9 @@
       -3772.364510928313,
       5800.681642762601
     ],
-    "brightness": -14.200530472283791,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.370530472283791,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-1397L",
@@ -18806,9 +18806,9 @@
       -2774.419963414687,
       5982.063608924821
     ],
-    "brightness": -14.097719677709343,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.2677196777093425,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-1820L",
@@ -18819,9 +18819,9 @@
       -3084.180334612699,
       5446.2501309850995
     ],
-    "brightness": -13.982871666052148,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.152871666052148,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-1836L",
@@ -18832,9 +18832,9 @@
       -3554.3722476141284,
       6143.388396625201
     ],
-    "brightness": -14.256291743595376,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.426291743595376,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-2142L",
@@ -18845,9 +18845,9 @@
       -3439.5895842973828,
       6104.819969548002
     ],
-    "brightness": -14.228590089833293,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.398590089833293,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-2321L",
@@ -18858,9 +18858,9 @@
       -1542.632748632566,
       3213.2279563328166
     ],
-    "brightness": -12.769415133219372,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -2.939415133219372,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-2364L",
@@ -18871,9 +18871,9 @@
       -2967.23467595914,
       5699.718608192971
     ],
-    "brightness": -14.044429336799059,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.214429336799059,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-2397L",
@@ -18884,9 +18884,9 @@
       -1922.5445980433974,
       4475.5379447721725
     ],
-    "brightness": -13.442099110013551,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.612099110013551,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2016-BLG-2605L",
@@ -18897,9 +18897,9 @@
       -2913.2755018146113,
       5722.041128500929
     ],
-    "brightness": -14.03801334958247,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.208013349582471,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-0165L",
@@ -18910,9 +18910,9 @@
       -2136.0316907578585,
       3994.7054955158915
     ],
-    "brightness": -13.28049101006416,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.4504910100641606,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-0428L",
@@ -18923,9 +18923,9 @@
       -2575.8522438502005,
       4744.662382586911
     ],
-    "brightness": -13.661968799114842,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.8319687991148417,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-0673L",
@@ -18936,9 +18936,9 @@
       -2826.5731660176125,
       4203.345123782308
     ],
-    "brightness": -13.529318561419597,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.699318561419597,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-0849L",
@@ -18949,9 +18949,9 @@
       -3083.384010273928,
       6507.085885471244
     ],
-    "brightness": -14.292685987848195,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.462685987848195,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-1003L",
@@ -18962,9 +18962,9 @@
       -2925.973240207714,
       6437.380277196658
     ],
-    "brightness": -14.253231175915332,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.4232311759153315,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-1038L",
@@ -18975,9 +18975,9 @@
       -2549.2764506635845,
       5419.3750144712985
     ],
-    "brightness": -13.89075625191822,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.060756251918219,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-1057L",
@@ -18988,9 +18988,9 @@
       -2470.149894797035,
       5993.70106696974
     ],
-    "brightness": -14.064566783214278,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.234566783214278,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-1146L",
@@ -19001,9 +19001,9 @@
       -3553.6979003689917,
       5441.876285190002
     ],
-    "brightness": -14.064566783214278,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.234566783214278,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-1194L",
@@ -19014,9 +19014,9 @@
       -1813.5987878725678,
       3821.653226658625
     ],
-    "brightness": -13.136829282963664,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.3068292829636636,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-2197L",
@@ -19027,9 +19027,9 @@
       -3918.767194144807,
       6688.12902504177
     ],
-    "brightness": -14.4604730134524,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.6304730134524,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-2331L",
@@ -19040,9 +19040,9 @@
       -3949.428800287896,
       6958.3490986158085
     ],
-    "brightness": -14.523577726393405,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.693577726393405,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2017-BLG-2509L",
@@ -19053,9 +19053,9 @@
       -3121.1101563570905,
       6291.646772193627
     ],
-    "brightness": -14.23786329571056,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.407863295710561,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-0029L",
@@ -19066,9 +19066,9 @@
       -1586.0168951914616,
       2970.8922089706834
     ],
-    "brightness": -12.644583501388272,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -2.814583501388272,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-0030L",
@@ -19079,9 +19079,9 @@
       -3046.331555382515,
       5693.117516277955
     ],
-    "brightness": -14.057875029352967,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.227875029352967,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-0087L",
@@ -19092,9 +19092,9 @@
       -3277.5085078640186,
       6177.52062960776
     ],
-    "brightness": -14.231685560649026,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.401685560649026,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-0247L",
@@ -19105,9 +19105,9 @@
       -3084.7771133933197,
       5988.035194786585
     ],
-    "brightness": -14.149733479708178,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.319733479708178,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-0748L",
@@ -19118,9 +19118,9 @@
       -3721.088416025848,
       6276.085111348356
     ],
-    "brightness": -14.316614300602279,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.4866143006022785,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-0885L",
@@ -19131,9 +19131,9 @@
       -3289.0357772787124,
       6053.297855576716
     ],
-    "brightness": -14.19109610953813,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.3610961095381295,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-1025L",
@@ -19144,9 +19144,9 @@
       -3135.200208053098,
       5926.833362884123
     ],
-    "brightness": -14.131993910938089,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.301993910938089,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-1292L",
@@ -19157,9 +19157,9 @@
       -1910.742694364912,
       2865.5984830066723
     ],
-    "brightness": -12.695380493963885,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -2.865380493963885,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-1743L",
@@ -19170,9 +19170,9 @@
       -2878.4785739663553,
       5792.703257747585
     ],
-    "brightness": -14.05888010801452,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.22888010801452,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-1976L",
@@ -19183,9 +19183,9 @@
       -3407.908039156659,
       4732.952702681589
     ],
-    "brightness": -13.832064235561997,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.002064235561997,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-1988L",
@@ -19196,9 +19196,9 @@
       -2415.498178494461,
       3363.1597562893394
     ],
-    "brightness": -13.090240483560464,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.260240483560464,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-1990L",
@@ -19209,9 +19209,9 @@
       -364.6302776638236,
       895.2852857159776
     ],
-    "brightness": -9.92713237041501,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -0.0971323704150091,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-1996L",
@@ -19222,9 +19222,9 @@
       -2292.157846232725,
       5445.9461436258935
     ],
-    "brightness": -13.857937404406279,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.027937404406279,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2018-BLG-2602L",
@@ -19235,9 +19235,9 @@
       -1612.894319017666,
       3992.708908510547
     ],
-    "brightness": -13.172386350803656,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.3423863508036558,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-0253L",
@@ -19248,9 +19248,9 @@
       -2417.747213112018,
       4259.072875503472
     ],
-    "brightness": -13.45098040014257,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.620980400142569,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-0297L",
@@ -19261,9 +19261,9 @@
       -1496.4237781362424,
       2703.4805265917853
     ],
-    "brightness": -12.449792397124174,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -2.619792397124174,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-0298L",
@@ -19274,9 +19274,9 @@
       -3112.6739414226518,
       5920.618735213933
     ],
-    "brightness": -14.133612600844959,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.303612600844959,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-0335L",
@@ -19287,9 +19287,9 @@
       -3807.202309928397,
       6652.145142944472
     ],
-    "brightness": -14.435271890254782,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.605271890254782,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-0371L",
@@ -19300,9 +19300,9 @@
       -3668.453080113284,
       5971.1113964504375
     ],
-    "brightness": -14.228590089833293,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.398590089833293,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-0414L",
@@ -19313,9 +19313,9 @@
       -1644.5575282911568,
       4091.065920267885
     ],
-    "brightness": -13.222192947339192,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.3921929473391916,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-0578L",
@@ -19326,9 +19326,9 @@
       -3404.0432882126984,
       6457.485252520176
     ],
-    "brightness": -14.316614300602279,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.4866143006022785,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-0842L",
@@ -19339,9 +19339,9 @@
       -1653.845872386834,
       2877.706788283238
     ],
-    "brightness": -12.605690418520183,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -2.775690418520183,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-0953L",
@@ -19352,9 +19352,9 @@
       -3454.813404615791,
       6316.561316815471
     ],
-    "brightness": -14.286662482156341,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.456662482156341,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-1042L",
@@ -19365,9 +19365,9 @@
       -3055.7803258984104,
       5849.7112049586585
     ],
-    "brightness": -14.097719677709343,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.2677196777093425,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-1216L",
@@ -19378,9 +19378,9 @@
       -1576.9475863408445,
       2239.934471811779
     ],
-    "brightness": -12.188752814101939,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -2.3587528141019387,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-1339L",
@@ -19391,9 +19391,9 @@
       -2641.851944231237,
       5505.191139309047
     ],
-    "brightness": -13.933757110727807,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.103757110727807,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-1367L",
@@ -19404,9 +19404,9 @@
       -2318.1951279230684,
       4050.223955981605
     ],
-    "brightness": -13.346584402830562,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.5165844028305617,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-1552L",
@@ -19417,9 +19417,9 @@
       -2128.80914323382,
       4077.6640452571337
     ],
-    "brightness": -13.313789158407868,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.483789158407868,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-1715L",
@@ -19430,9 +19430,9 @@
       -1858.2193941169573,
       3383.214288756472
     ],
-    "brightness": -12.932936523358777,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.1029365233587765,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-1806L",
@@ -19443,9 +19443,9 @@
       -3261.104069466256,
       5783.757918398573
     ],
-    "brightness": -14.11084039684009,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.280840396840089,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-1953L",
@@ -19456,9 +19456,9 @@
       -3326.877701509979,
       6203.573766924179
     ],
-    "brightness": -14.23786329571056,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.407863295710561,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-2783L",
@@ -19469,9 +19469,9 @@
       -3286.722959885507,
       4911.401804445053
     ],
-    "brightness": -13.857937404406279,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.027937404406279,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2019-BLG-2974L",
@@ -19482,9 +19482,9 @@
       -2996.66093356969,
       5309.460264599711
     ],
-    "brightness": -13.926649175053836,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.096649175053836,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2020-BLG-0202L",
@@ -19495,9 +19495,9 @@
       -1590.863696373424,
       3490.299611119025
     ],
-    "brightness": -12.921656121837653,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.0916561218376533,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2020-BLG-0414L",
@@ -19508,9 +19508,9 @@
       -581.8571360976405,
       1071.7081047977692
     ],
-    "brightness": -10.431799153373742,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -0.6017991533737419,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0119L",
@@ -19521,9 +19521,9 @@
       -1552.8678063594248,
       2711.006134374505
     ],
-    "brightness": -12.477721687732242,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -2.6477216877322416,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0171L",
@@ -19534,9 +19534,9 @@
       -2306.467024245444,
       3979.627520388592
     ],
-    "brightness": -13.313789158407868,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.483789158407868,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0192L",
@@ -19547,9 +19547,9 @@
       -2560.6723938689966,
       4431.236940530623
     ],
-    "brightness": -13.546349804879153,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.716349804879153,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0240L",
@@ -19560,9 +19560,9 @@
       -3300.4957297880746,
       5710.372671273339
     ],
-    "brightness": -14.097719677709343,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.2677196777093425,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0320L",
@@ -19573,9 +19573,9 @@
       -3527.8032921054705,
       5987.7386989988345
     ],
-    "brightness": -14.209924022950567,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.379924022950567,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0322L",
@@ -19586,9 +19586,9 @@
       -3260.4558960834925,
       5737.690391471466
     ],
-    "brightness": -14.097719677709343,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.2677196777093425,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0712L",
@@ -19599,9 +19599,9 @@
       -1599.9869678276677,
       2643.3039057157143
     ],
-    "brightness": -12.449792397124174,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -2.619792397124174,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0736L",
@@ -19612,9 +19612,9 @@
       -3469.5285859898727,
       6077.063403980086
     ],
-    "brightness": -14.225490200071285,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.3954902000712845,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0748L",
@@ -19625,9 +19625,9 @@
       -2645.444254185928,
       5480.512622638688
     ],
-    "brightness": -13.923086463164374,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.093086463164374,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0852L",
@@ -19638,9 +19638,9 @@
       -4031.6423277798935,
       5985.684016252411
     ],
-    "brightness": -14.295691486472656,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.465691486472656,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0909L",
@@ -19651,9 +19651,9 @@
       -3006.0803916694576,
       5723.783233733606
     ],
-    "brightness": -14.057875029352967,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.227875029352967,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-0912L",
@@ -19664,9 +19664,9 @@
       -2946.1568002714657,
       4715.245858482383
     ],
-    "brightness": -13.725373957910286,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.8953739579102855,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1077L",
@@ -19677,9 +19677,9 @@
       -4588.990866580813,
       6831.0404178136505
     ],
-    "brightness": -14.57963605848558,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.74963605848558,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1105L",
@@ -19690,9 +19690,9 @@
       -1955.1576688813234,
       4086.071708883378
     ],
-    "brightness": -13.28527926428552,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.4552792642855206,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1150L",
@@ -19703,9 +19703,9 @@
       -1974.9280148801183,
       3245.760376114551
     ],
-    "brightness": -12.89891798308405,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.0689179830840505,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1253L",
@@ -19716,9 +19716,9 @@
       -3247.405281997542,
       5786.706943582217
     ],
-    "brightness": -14.11084039684009,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.280840396840089,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1303L",
@@ -19729,9 +19729,9 @@
       -3071.561026941794,
       5474.684686264037
     ],
-    "brightness": -13.98979821868598,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.15979821868598,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1372L",
@@ -19742,9 +19742,9 @@
       -2816.3875559607495,
       5239.585651038459
     ],
-    "brightness": -13.879871655646845,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.049871655646845,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1391L",
@@ -19755,9 +19755,9 @@
       -2690.7087442452694,
       5047.2626173915405
     ],
-    "brightness": -13.78698014396512,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.9569801439651204,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1547L",
@@ -19768,9 +19768,9 @@
       -2464.4784613219936,
       4426.831043578617
     ],
-    "brightness": -13.525039796666679,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.695039796666679,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1554L",
@@ -19781,9 +19781,9 @@
       -4054.3500167505026,
       6517.832893253849
     ],
-    "brightness": -14.42680610015756,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.5968061001575595,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1689L",
@@ -19794,9 +19794,9 @@
       -3615.7986974801147,
       6226.066854023256
     ],
-    "brightness": -14.286662482156341,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.456662482156341,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1770L",
@@ -19807,9 +19807,9 @@
       -3186.5842144597477,
       6142.463373960073
     ],
-    "brightness": -14.200530472283791,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.370530472283791,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-1898L",
@@ -19820,9 +19820,9 @@
       -3172.7949863866565,
       6109.951998564313
     ],
-    "brightness": -14.194245453686275,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.364245453686275,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-2010L",
@@ -19833,9 +19833,9 @@
       -3785.3936018628588,
       5991.284815062588
     ],
-    "brightness": -14.253231175915332,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.4232311759153315,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-2294L",
@@ -19846,9 +19846,9 @@
       -3256.4007045516955,
       5969.5738676093015
     ],
-    "brightness": -14.162544563531181,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.332544563531181,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-2478L",
@@ -19859,9 +19859,9 @@
       -1444.5052792366998,
       2594.8652446850774
     ],
-    "brightness": -12.363782246586062,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -2.533782246586062,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2021-BLG-2609L",
@@ -19872,9 +19872,9 @@
       -3465.1001855194436,
       6586.622673538354
     ],
-    "brightness": -14.369507989322305,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.5395079893223045,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2022-BLG-0303L",
@@ -19885,9 +19885,9 @@
       -2534.24753545102,
       6057.987086299133
     ],
-    "brightness": -14.087826847798905,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.2578268477989045,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2022-BLG-0371L",
@@ -19898,9 +19898,9 @@
       -4064.519472610986,
       5850.9799967321915
     ],
-    "brightness": -14.268491058880873,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.438491058880873,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2022-BLG-0440L",
@@ -19911,9 +19911,9 @@
       -1869.9908254348377,
       2958.491501922283
     ],
-    "brightness": -12.720340221751378,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -2.8903402217513783,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2022-BLG-1013L",
@@ -19924,9 +19924,9 @@
       -3661.8141501699665,
       6756.019215070144
     ],
-    "brightness": -14.435271890254782,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.605271890254782,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2022-BLG-1551L",
@@ -19937,9 +19937,9 @@
       -3191.6060459578766,
       6096.509946066348
     ],
-    "brightness": -14.194245453686275,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.364245453686275,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2022-BLG-1790L",
@@ -19950,9 +19950,9 @@
       -2945.3596706421786,
       5770.956201500464
     ],
-    "brightness": -14.057875029352967,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.227875029352967,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2022-BLG-1818L",
@@ -19963,9 +19963,9 @@
       -2445.7176701779795,
       4701.507205172665
     ],
-    "brightness": -13.621379348003945,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.791379348003945,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2022-BLG-2076L",
@@ -19976,9 +19976,9 @@
       -2702.7640914161952,
       4867.4976651816605
     ],
-    "brightness": -13.729275975868646,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.8992759758686457,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2022-BLG-2286L",
@@ -19989,9 +19989,9 @@
       -3532.583790162799,
       6410.501370249362
     ],
-    "brightness": -14.322555405291958,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.492555405291958,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-0119L",
@@ -20002,9 +20002,9 @@
       -3069.8727523876273,
       4447.777645527676
     ],
-    "brightness": -13.665986325532845,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.8359863255328452,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-0416L",
@@ -20015,9 +20015,9 @@
       -2500.8637650315072,
       5332.757342990346
     ],
-    "brightness": -13.85426005821072,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.02426005821072,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-0466L",
@@ -20028,9 +20028,9 @@
       -3703.840993624396,
       5702.444719119138
     ],
-    "brightness": -14.162544563531181,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.332544563531181,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-0469L",
@@ -20041,9 +20041,9 @@
       -3396.810151621624,
       6200.198360592074
     ],
-    "brightness": -14.247097068984498,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.417097068984498,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-0548L",
@@ -20054,9 +20054,9 @@
       -3112.0879960152542,
       6079.674962508488
     ],
-    "brightness": -14.172103518407663,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.342103518407663,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-0735L",
@@ -20067,9 +20067,9 @@
       -3117.707433053781,
       5572.822034036157
     ],
-    "brightness": -14.027504290792002,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.197504290792002,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-0830L",
@@ -20080,9 +20080,9 @@
       -3440.738826340326,
       6378.849908646243
     ],
-    "brightness": -14.301690032854967,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.471690032854967,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-0949L",
@@ -20093,9 +20093,9 @@
       -2853.5352902303766,
       5310.892112726976
     ],
-    "brightness": -13.91236312083143,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.082363120831429,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-1431L",
@@ -20106,9 +20106,9 @@
       -3373.645661516662,
       5902.850410129271
     ],
-    "brightness": -14.162544563531181,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.332544563531181,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-1454L",
@@ -20119,9 +20119,9 @@
       -3568.752655405298,
       6270.923194881638
     ],
-    "brightness": -14.292685987848195,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.462685987848195,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-1642L",
@@ -20132,9 +20132,9 @@
       -3390.1992806412304,
       6032.244921418612
     ],
-    "brightness": -14.219277113115805,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.389277113115805,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-1743L",
@@ -20145,9 +20145,9 @@
       -3440.891041511032,
       6244.108575119938
     ],
-    "brightness": -14.265447649259329,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.435447649259329,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-1866L",
@@ -20158,9 +20158,9 @@
       -2958.143416721433,
       5450.09152910843
     ],
-    "brightness": -13.9654580008829,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.135458000882901,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-1896L",
@@ -20171,9 +20171,9 @@
       -2488.8999479744643,
       4892.6182298917865
     ],
-    "brightness": -13.697861722250458,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.867861722250458,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2023-BLG-2209L",
@@ -20184,9 +20184,9 @@
       -2726.3408837097054,
       4856.407738594834
     ],
-    "brightness": -13.729275975868646,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.8992759758686457,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-0176L",
@@ -20197,9 +20197,9 @@
       -4689.0490922011,
       6884.359350597058
     ],
-    "brightness": -14.605830253188692,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.775830253188692,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-0349L",
@@ -20210,9 +20210,9 @@
       -2896.4419715590752,
       4910.985945475855
     ],
-    "brightness": -13.798339223448153,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.9683392234481527,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-0404L",
@@ -20223,9 +20223,9 @@
       -3379.7223049915456,
       6367.520836167254
     ],
-    "brightness": -14.289676323597146,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.4596763235971455,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-1005L",
@@ -20236,9 +20236,9 @@
       -3343.4866781272226,
       6092.878580606962
     ],
-    "brightness": -14.209924022950567,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.379924022950567,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-1044L",
@@ -20249,9 +20249,9 @@
       -3307.1142971631207,
       6325.564461674307
     ],
-    "brightness": -14.268491058880873,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.438491058880873,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-1209L",
@@ -20262,9 +20262,9 @@
       -1852.3206511219971,
       3429.025409774419
     ],
-    "brightness": -12.971962751877133,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.1419627518771325,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-1281L",
@@ -20275,9 +20275,9 @@
       -3880.428095144365,
       6041.056106221289
     ],
-    "brightness": -14.280622221211502,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.450622221211502,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-1870L",
@@ -20288,9 +20288,9 @@
       -2477.8826031357326,
       4883.266697732166
     ],
-    "brightness": -13.693902792421845,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -3.863902792421845,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-2005L",
@@ -20301,9 +20301,9 @@
       -3731.05566934739,
       6755.9138032173405
     ],
-    "brightness": -14.438086501678683,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.608086501678683,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-2059L",
@@ -20314,9 +20314,9 @@
       -2902.700226243226,
       5330.267220802315
     ],
-    "brightness": -13.915943455376286,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.085943455376286,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-2087L",
@@ -20327,9 +20327,9 @@
       -3514.6306701413296,
       6270.142467800199
     ],
-    "brightness": -14.283644451914412,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.453644451914412,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2024-BLG-2242L",
@@ -20340,9 +20340,9 @@
       -3759.246588169068,
       6625.620995572394
     ],
-    "brightness": -14.409774856698004,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.579774856698004,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2025-BLG-0121L",
@@ -20353,9 +20353,9 @@
       -2521.648560358682,
       5657.070068428654
     ],
-    "brightness": -13.96195844749127,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.13195844749127,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2025-BLG-0481L",
@@ -20366,9 +20366,9 @@
       -4505.189661910881,
       6565.003901144093
     ],
-    "brightness": -14.510014456753645,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.680014456753645,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KMT-2025-BLG-1616L",
@@ -20379,9 +20379,9 @@
       -3765.7589080728485,
       6481.193577729095
     ],
-    "brightness": -14.3753063169585,
-    "color": 0,
-    "hasDebrisDisk": false
+    "brightness": -4.5453063169585,
+    "color": 1.5500000000000007,
+    "hasDebrisDisk": true
   },
   {
     "id": "KOI-12",
@@ -22916,7 +22916,7 @@
     ],
     "brightness": 4.131086995184155,
     "color": 1.6049999999999986,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1155",
@@ -24138,7 +24138,7 @@
     ],
     "brightness": 3.7383223945472093,
     "color": 1.0370000000000008,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-124",
@@ -24450,7 +24450,7 @@
     ],
     "brightness": 3.7572161159709374,
     "color": 1.7699999999999996,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1261",
@@ -24528,7 +24528,7 @@
     ],
     "brightness": 6.370663698444853,
     "color": 2.1919999999999984,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1267",
@@ -25269,7 +25269,7 @@
     ],
     "brightness": 7.146398510563953,
     "color": 2.764000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1319",
@@ -25386,7 +25386,7 @@
     ],
     "brightness": 3.6217089402580296,
     "color": 1.1420000000000012,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1327",
@@ -25958,7 +25958,7 @@
     ],
     "brightness": 8.343881375256124,
     "color": 3.7239999999999984,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1367",
@@ -26127,7 +26127,7 @@
     ],
     "brightness": 8.027085725886492,
     "color": 3.221700000000002,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1379",
@@ -26907,7 +26907,7 @@
     ],
     "brightness": 4.348086319630712,
     "color": 1.6440000000000001,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1432",
@@ -28831,7 +28831,7 @@
     ],
     "brightness": 6.384538540849405,
     "color": 2.122,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1566",
@@ -30359,11 +30359,11 @@
     "type": "system",
     "name": "Kepler-1676",
     "coords": [
-      0,
-      0,
-      0
+      214.705733026865,
+      689.204441900577,
+      692.025061301909
     ],
-    "brightness": null,
+    "brightness": 3.4849999999999994,
     "color": 1.5,
     "hasDebrisDisk": true
   },
@@ -30781,7 +30781,7 @@
     ],
     "brightness": 4.734417599355979,
     "color": 2.0650000000000013,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1708",
@@ -31204,11 +31204,11 @@
     "type": "system",
     "name": "Kepler-1737",
     "coords": [
-      0,
-      0,
-      0
+      306.94651496996204,
+      737.1171552254796,
+      602.0316739342634
     ],
-    "brightness": null,
+    "brightness": 5.497999999999999,
     "color": 2.3179999999999996,
     "hasDebrisDisk": true
   },
@@ -31477,11 +31477,11 @@
     "type": "system",
     "name": "Kepler-1756",
     "coords": [
-      0,
-      0,
-      0
+      312.66757854685494,
+      652.3747730698141,
+      690.3956407653185
     ],
-    "brightness": null,
+    "brightness": 5.736000000000001,
     "color": 2.2840000000000007,
     "hasDebrisDisk": true
   },
@@ -31542,11 +31542,11 @@
     "type": "system",
     "name": "Kepler-1760",
     "coords": [
-      0,
-      0,
-      0
+      160.74952551221338,
+      752.703913185865,
+      638.4327757268453
     ],
-    "brightness": null,
+    "brightness": 4.4719999999999995,
     "color": 1.9349999999999987,
     "hasDebrisDisk": true
   },
@@ -32036,11 +32036,11 @@
     "type": "system",
     "name": "Kepler-1795",
     "coords": [
-      0,
-      0,
-      0
+      219.60828079196585,
+      632.9739731560636,
+      742.3719770537031
     ],
-    "brightness": null,
+    "brightness": 6.187999999999999,
     "color": 3.1919999999999984,
     "hasDebrisDisk": true
   },
@@ -32159,7 +32159,7 @@
     ],
     "brightness": 6.885346213843734,
     "color": 3.507999999999999,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1804",
@@ -32296,11 +32296,11 @@
     "type": "system",
     "name": "Kepler-1813",
     "coords": [
-      0,
-      0,
-      0
+      250.73512001696798,
+      749.0889495023202,
+      613.1864686403205
     ],
-    "brightness": null,
+    "brightness": 5.638999999999999,
     "color": 1.9959999999999987,
     "hasDebrisDisk": true
   },
@@ -32894,11 +32894,11 @@
     "type": "system",
     "name": "Kepler-1855",
     "coords": [
-      0,
-      0,
-      0
+      173.5492935758388,
+      662.8312011137716,
+      728.378638847545
     ],
-    "brightness": null,
+    "brightness": 6.556000000000001,
     "color": 4.524000000000001,
     "hasDebrisDisk": true
   },
@@ -33342,7 +33342,7 @@
     ],
     "brightness": 5.501474699606311,
     "color": 1.9220000000000006,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1887",
@@ -33589,7 +33589,7 @@
     ],
     "brightness": 8.428081542990212,
     "color": 3.436,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1903",
@@ -33687,11 +33687,11 @@
     "type": "system",
     "name": "Kepler-1910",
     "coords": [
-      0,
-      0,
-      0
+      336.6837789246644,
+      659.7547025809174,
+      671.839091919615
     ],
-    "brightness": null,
+    "brightness": 6.091999999999999,
     "color": 3.3169999999999984,
     "hasDebrisDisk": true
   },
@@ -34181,11 +34181,11 @@
     "type": "system",
     "name": "Kepler-1945",
     "coords": [
-      0,
-      0,
-      0
+      152.52514945517066,
+      672.829423943105,
+      723.903754003298
     ],
-    "brightness": null,
+    "brightness": 3.5860000000000003,
     "color": 2.2200000000000006,
     "hasDebrisDisk": true
   },
@@ -34252,7 +34252,7 @@
     ],
     "brightness": 5.791592173546192,
     "color": 1.904,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1950",
@@ -34454,11 +34454,11 @@
     "type": "system",
     "name": "Kepler-1964",
     "coords": [
-      0,
-      0,
-      0
+      295.56714275071295,
+      760.161485932587,
+      578.6143615837245
     ],
-    "brightness": null,
+    "brightness": 6.3629999999999995,
     "color": 2.9130000000000003,
     "hasDebrisDisk": true
   },
@@ -34675,11 +34675,11 @@
     "type": "system",
     "name": "Kepler-1984",
     "coords": [
-      0,
-      0,
-      0
+      275.08477425724675,
+      652.4955702186725,
+      706.1004870532586
     ],
-    "brightness": null,
+    "brightness": 6.192,
     "color": 3.612,
     "hasDebrisDisk": true
   },
@@ -34688,11 +34688,11 @@
     "type": "system",
     "name": "Kepler-1985",
     "coords": [
-      0,
-      0,
-      0
+      296.49771837678,
+      670.8484513460494,
+      679.7436710437036
     ],
-    "brightness": null,
+    "brightness": 5.223000000000001,
     "color": 1.6670000000000016,
     "hasDebrisDisk": true
   },
@@ -34720,7 +34720,7 @@
     ],
     "brightness": 6.601923969553971,
     "color": 2.3230000000000004,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-1988",
@@ -34746,7 +34746,7 @@
     ],
     "brightness": 3.800752894958178,
     "color": 1.096,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-199",
@@ -35656,7 +35656,7 @@
     ],
     "brightness": 6.4132612192439655,
     "color": 2.3360000000000003,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-251",
@@ -35669,7 +35669,7 @@
     ],
     "brightness": 5.711171841450177,
     "color": 1.9090000000000007,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-252",
@@ -38022,7 +38022,7 @@
     ],
     "brightness": 7.518626271795689,
     "color": 2.7639999999999993,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-416",
@@ -38035,7 +38035,7 @@
     ],
     "brightness": 4.969178631422714,
     "color": 1.6560000000000006,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-417",
@@ -38269,7 +38269,7 @@
     ],
     "brightness": 4.053684611962074,
     "color": 1.4510000000000005,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-435",
@@ -39049,7 +39049,7 @@
     ],
     "brightness": 4.7883411282487245,
     "color": 1.7360000000000007,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-501",
@@ -40830,7 +40830,7 @@
     ],
     "brightness": 3.9889100822743586,
     "color": 1.4900000000000002,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-626",
@@ -41480,7 +41480,7 @@
     ],
     "brightness": 5.440544316088593,
     "color": 2.016,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-673",
@@ -42260,7 +42260,7 @@
     ],
     "brightness": 4.889047228534928,
     "color": 1.6109999999999989,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-732",
@@ -44691,7 +44691,7 @@
     ],
     "brightness": 4.62125278491682,
     "color": 1.4250000000000007,
-    "hasDebrisDisk": false
+    "hasDebrisDisk": true
   },
   {
     "id": "Kepler-907",
@@ -45716,8 +45716,8 @@
       0,
       0
     ],
-    "brightness": null,
-    "color": 0,
+    "brightness": 4.83,
+    "color": 1.5500000000000007,
     "hasDebrisDisk": false
   }
 ]

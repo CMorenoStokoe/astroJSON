@@ -8,14 +8,13 @@ import neighbourhoods from './neighbourhoods.json';
 import neighbourhoodMemberships from './neighbourhood-membership.json';
 import visibleSystems from './visible-systems.json';
 
+const visibleSystemEdges = visibleSystems as AstroJSON.Neo4J.Edge.Sees[];
+
 // Pre-compiled maps to search with constant time complexity
 const systemsMap = new Map(systems.map((system) => [system.id, system]));
 const starsMap = new Map(stars.map((star) => [star.id, star]));
 const planetsMap = new Map(planets.map((planet) => [planet.id, planet]));
 const neighbourhoodMap = new Map(neighbourhoods.map((n) => [n.id, n]));
-const visibleSystemsMap = new Map(
-	visibleSystems.map((visibleSystem) => [visibleSystem.id, visibleSystem])
-);
 
 // Pre-compiled maps to search with constant time complexity
 const planetsBySystemMap = new Map<string, AstroJSON.Renderer.Planet[]>();
@@ -35,13 +34,27 @@ for (const systemMembership of systemMemberships) {
 const neighbourhoodBySystemMap = new Map(
 	neighbourhoodMemberships.map((membership) => [membership.source, membership.target])
 );
-const visibleSystemsBySystemMap = new Map();
-for (const visibleSystem of visibleSystems) {
-	const system = visibleSystemsMap.get(visibleSystem.target);
-	const neighbourhood = neighbourhoodMap.get(visibleSystem.source)!;
+const visibleSystemsBySystemMap = new Map<string, AstroJSON.Renderer.VisibleSystemInSky[]>();
+for (const visibleSystem of visibleSystemEdges) {
+	const system = systemsMap.get(visibleSystem.target);
+	const neighbourhood = neighbourhoodMap.get(visibleSystem.source);
+	if (!system || !neighbourhood) continue;
+
+	const visibleSystemInSky: AstroJSON.Renderer.VisibleSystemInSky = {
+		name: system.name,
+		brightness: system.brightness ?? 0,
+		color: system.color,
+		hasDebrisDisk: system.hasDebrisDisk,
+		viewpoint: {
+			distance: visibleSystem.distance,
+			direction: visibleSystem.direction,
+			apparentBrightness: visibleSystem.apparentBrightness
+		}
+	};
+
 	if (!visibleSystemsBySystemMap.has(neighbourhood.id)) {
-		visibleSystemsBySystemMap.set(neighbourhood.id, [system]);
-	} else visibleSystemsBySystemMap.get(neighbourhood.id)!.push(system);
+		visibleSystemsBySystemMap.set(neighbourhood.id, [visibleSystemInSky]);
+	} else visibleSystemsBySystemMap.get(neighbourhood.id)!.push(visibleSystemInSky);
 }
 
 // Returns subgraph of systems visible from a given system
@@ -60,18 +73,20 @@ export const POST = async ({ request }) => {
 	const neighbourhoodId = neighbourhoodBySystemMap.get(systemName);
 
 	// Get distant bodies system children
-	const visibleSytems = visibleSystemsBySystemMap.get(neighbourhoodId) ?? [];
+	const visibleSystemsInSky = neighbourhoodId
+		? (visibleSystemsBySystemMap.get(neighbourhoodId) ?? [])
+		: [];
 
 	console.log(`Local bodies for system ${systemName}:
 	systems: ${localBodies.system ? 1 : 0}
 	stars: ${localBodies.stars?.length || 0}
 	neighbourhood: ${neighbourhoodId ? 1 : 0}
 	planets: ${localBodies.planets?.length || 0}
-	Visible systems: ${visibleSytems?.length || 0}
+	Visible systems: ${visibleSystemsInSky?.length || 0}
 		`);
 
 	return json({
 		...localBodies,
-		visibleSystems
+		visibleSystems: visibleSystemsInSky
 	});
 };

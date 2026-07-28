@@ -1,29 +1,29 @@
 [
   {
-    "id": "GJ 900-neighbourhood",
+    "id": "GJ 740-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 849,
+    "nSystems": 809,
     "centrum": [
-      3.4451814259657922,
+      7.210192891253406,
       11.527585703976158,
-      5.310965846380917
+      11.828650717276233
     ],
     "bbox": [
-      -125.46942673521166,
+      -105.14945052053143,
       -133.88502883842455,
-      -127.74608303796252,
-      132.35978958714324,
+      -114.71071329617189,
+      119.56983630303824,
       156.94020024637686,
       138.36801473072435
     ],
-    "radius": 471.0328350474828,
-    "brightness": -5.901431680833815,
-    "maxBrightness": null,
-    "color": 1.525044088000417,
-    "debrisDiskStrength": 0.1696113074204947
+    "radius": 223.1181941944856,
+    "brightness": -4.209251264104067,
+    "maxBrightness": 16.108674984543814,
+    "color": 2.862953332357189,
+    "debrisDiskStrength": 0.2867737948084054
   },
   {
-    "id": "K2-287-neighbourhood",
+    "id": "K2-53-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 29,
     "centrum": [
@@ -39,57 +39,103 @@
       -25.633063037663355,
       159.58682680758866
     ],
-    "radius": 130.81938578717003,
-    "brightness": -6.555272255598665,
+    "radius": 65.40969289358502,
+    "brightness": -1.4227688505376874,
     "maxBrightness": 11.884507632256286,
-    "color": -0.5861224392053321,
-    "debrisDiskStrength": 0.7586206896551724
+    "color": 2.139355738727381,
+    "debrisDiskStrength": 0.7931034482758621
   },
   {
-    "id": "K2-83-neighbourhood",
+    "id": "2MASS J04414489+2301513-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 26,
+    "nSystems": 29,
     "centrum": [
-      71.46859761260694,
+      48.73824774817092,
       75.11067840755769,
       -123.40700968199594
     ],
     "bbox": [
-      23.17005159337208,
+      -22.290648135499953,
       27.868297822851698,
       -167.38945066316398,
       119.76714363184179,
       122.35305899226368,
       -79.4245687008279
     ],
-    "radius": 161.23333632402802,
-    "brightness": -7.028380990760066,
+    "radius": 95.97604747240581,
+    "brightness": 0.38803275915405433,
     "maxBrightness": 10.64175475638526,
-    "color": -4.997448818435039,
-    "debrisDiskStrength": 0.8846153846153846
+    "color": 2.457297419930507,
+    "debrisDiskStrength": 0.896551724137931
   },
   {
-    "id": "Kepler-1809-neighbourhood",
+    "id": "2MASS J11011926-7732383-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 230,
+    "nSystems": 1,
     "centrum": [
-      121.88438176131403,
-      285.1755549050418,
-      293.69290810705195
+      -208.65648277031823,
+      -976.4622762358338,
+      -54.62504266592355
     ],
     "bbox": [
-      51.564022386406315,
-      211.2489304388051,
-      207.6622093499199,
-      192.20474113622174,
-      359.1021793712785,
-      379.723606864184
+      -208.65648277031823,
+      -976.4622762358338,
+      -54.62504266592355,
+      -208.65648277031823,
+      -976.4622762358338,
+      -54.62504266592355
     ],
-    "radius": 266.91856343258377,
-    "brightness": -1.0094573002316514,
+    "radius": 0,
+    "brightness": -0.17,
+    "maxBrightness": 0,
+    "color": -1.8019999999999998,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-108-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 275,
+    "centrum": [
+      93.89313266641025,
+      260.55460692050474,
+      258.3759184031052
+    ],
+    "bbox": [
+      18.70112617770312,
+      178.0458627400603,
+      169.20148730584273,
+      169.0851391551174,
+      343.0633511009492,
+      347.55034950036764
+    ],
+    "radius": 142.8762046932666,
+    "brightness": -0.9133162664726557,
     "maxBrightness": 10.097086682609342,
-    "color": 1.984885633315463,
-    "debrisDiskStrength": 0.9739130434782609
+    "color": 1.7502962841918455,
+    "debrisDiskStrength": 0.9963636363636363
+  },
+  {
+    "id": "HD 10442-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 12,
+    "centrum": [
+      105.22103863018339,
+      1.6784152450883578,
+      -52.46029933782512
+    ],
+    "bbox": [
+      78.08228767322355,
+      -19.042370938806588,
+      -83.99343169949084,
+      132.35978958714324,
+      22.399201428983304,
+      -20.927166976159402
+    ],
+    "radius": 46.477964887900484,
+    "brightness": -0.17980650425278052,
+    "maxBrightness": 10.730740849553786,
+    "color": 2.2746159462869,
+    "debrisDiskStrength": 0.4166666666666667
   },
   {
     "id": "AT2021ueyL-neighbourhood",
@@ -109,10 +155,10 @@
       540.0398024175839
     ],
     "radius": 0,
-    "brightness": -10.085166696493902,
+    "brightness": -0.25516669649390167,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.550000000000001,
+    "debrisDiskStrength": 1
   },
   {
     "id": "BD+03 2562-neighbourhood",
@@ -228,6 +274,29 @@
     "maxBrightness": 0,
     "color": 3.1980000000000013,
     "debrisDiskStrength": 0
+  },
+  {
+    "id": "Kepler-215-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 160,
+    "centrum": [
+      129.55719270247843,
+      360.1838589050186,
+      323.8277494109517
+    ],
+    "bbox": [
+      54.77130642070716,
+      280.38516205276045,
+      258.9581780955173,
+      204.3430789842497,
+      439.98255575727677,
+      388.69732072638607
+    ],
+    "radius": 127.15668322552632,
+    "brightness": -1.0184933328466177,
+    "maxBrightness": 8.343881375256124,
+    "color": 1.8041980067581456,
+    "debrisDiskStrength": 0.9875
   },
   {
     "id": "BD+42 2315-neighbourhood",
@@ -384,11 +453,34 @@
       122.68465310375751,
       57.026083858111
     ],
-    "radius": 23.234764317501018,
+    "radius": 11.617382158750509,
     "brightness": 2.3274010248825356,
     "maxBrightness": 3.463385002577473,
     "color": 1.4790640018890908,
     "debrisDiskStrength": 0.5
+  },
+  {
+    "id": "CFHTWIR-Oph 98-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 2,
+    "centrum": [
+      -365.82505657732224,
+      -422.3966929563629,
+      852.3190427784928
+    ],
+    "bbox": [
+      -373.68268507843777,
+      -438.35731633309894,
+      840.6360935512884,
+      -357.9674280762067,
+      -406.436069579627,
+      864.001992005697
+    ],
+    "radius": 21.28321232523391,
+    "brightness": -0.1742424163122001,
+    "maxBrightness": 5.848155691104953,
+    "color": -1.8675368716328682,
+    "debrisDiskStrength": 1
   },
   {
     "id": "CHXR 73-neighbourhood",
@@ -408,9 +500,9 @@
       -9.440964410310917
     ],
     "radius": 0,
-    "brightness": -6.398038175400797,
-    "maxBrightness": 0,
-    "color": -10.703,
+    "brightness": 3.4319618245992043,
+    "maxBrightness": 3.4319618245992043,
+    "color": -0.8729999999999993,
     "debrisDiskStrength": 1
   },
   {
@@ -476,7 +568,7 @@
       8.015826599306513,
       315.74880294173073
     ],
-    "radius": 17.081966567552772,
+    "radius": 8.540983283776386,
     "brightness": 6.678902426144151,
     "maxBrightness": 7.645938066352436,
     "color": 3.4074130757500227,
@@ -499,7 +591,7 @@
       74.87535079299624,
       640.2213917861641
     ],
-    "radius": 29.45366939748964,
+    "radius": 14.72683469874482,
     "brightness": 3.2043604451898338,
     "maxBrightness": 4.912211864910724,
     "color": 1.7338754638449538,
@@ -595,7 +687,7 @@
     "brightness": 6.728231638165729,
     "maxBrightness": 6.728231638165729,
     "color": 3.205,
-    "debrisDiskStrength": 0
+    "debrisDiskStrength": 1
   },
   {
     "id": "CoRoT-17-neighbourhood",
@@ -618,10 +710,10 @@
     "brightness": 5.937741823786377,
     "maxBrightness": 5.937741823786377,
     "color": 3.8179999999999996,
-    "debrisDiskStrength": 0
+    "debrisDiskStrength": 1
   },
   {
-    "id": "CoRoT-18-neighbourhood",
+    "id": "CoRoT-19-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -637,7 +729,7 @@
       -0.4219147270541696,
       -757.1212682135653
     ],
-    "radius": 30.11273236749195,
+    "radius": 15.056366183745975,
     "brightness": 4.221998748377428,
     "maxBrightness": 5.450007923481438,
     "color": 2.1735321995253303,
@@ -821,14 +913,14 @@
       122.86292675106289,
       1015.8860269589899
     ],
-    "radius": 35.60745776866786,
+    "radius": 17.80372888433393,
     "brightness": 4.867218385131656,
     "maxBrightness": 5.7517912221647,
     "color": 2.4239017527249747,
     "debrisDiskStrength": 1
   },
   {
-    "id": "CoRoT-29-neighbourhood",
+    "id": "CoRoT-28-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -844,7 +936,7 @@
       91.01345449061539,
       791.7022584335
     ],
-    "radius": 42.29649492888193,
+    "radius": 21.148247464440963,
     "brightness": 4.120751503837616,
     "maxBrightness": 5.87495929420721,
     "color": 2.6836978687615907,
@@ -1058,7 +1150,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "HD 13167-neighbourhood",
+    "id": "DMPP-2-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -1074,34 +1166,34 @@
       -62.224164654960106,
       -52.35477452922553
     ],
-    "radius": 28.588281622329283,
+    "radius": 14.294140811164642,
     "brightness": 1.9027131450437607,
     "maxBrightness": 2.8715488917353866,
     "color": 1.4522374296074212,
     "debrisDiskStrength": 0
   },
   {
-    "id": "HD 96063-neighbourhood",
+    "id": "K2-36-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 39,
+    "nSystems": 45,
     "centrum": [
       -131.19985324575038,
       1.803281740614107,
-      20.62719320310105
+      10.821737107350508
     ],
     "bbox": [
       -170.6565386365609,
       -57.968487373653645,
-      -36.125692860925,
+      -55.736605052426086,
       -91.74316785493984,
       61.57505085488186,
       77.3800792671271
     ],
-    "radius": 182.76087635678547,
-    "brightness": -1.191783016275151,
-    "maxBrightness": 12.06287600817596,
-    "color": 2.439077913354768,
-    "debrisDiskStrength": 0.7435897435897436
+    "radius": 97.7727329889915,
+    "brightness": -1.2032845486903023,
+    "maxBrightness": 12.62805335667154,
+    "color": 2.4342473821831625,
+    "debrisDiskStrength": 0.7555555555555555
   },
   {
     "id": "DP Leo-neighbourhood",
@@ -1123,8 +1215,8 @@
     "radius": 0,
     "brightness": 11.25733646180889,
     "maxBrightness": 11.25733646180889,
-    "color": 18.6837,
-    "debrisDiskStrength": 0
+    "color": 10.403700000000002,
+    "debrisDiskStrength": 1
   },
   {
     "id": "EPIC 201427007-neighbourhood",
@@ -1150,7 +1242,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-35-neighbourhood",
+    "id": "K2-10-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 15,
     "centrum": [
@@ -1166,33 +1258,33 @@
       42.80893353951346,
       -12.496649061735795
     ],
-    "radius": 129.98592400970654,
+    "radius": 64.99296200485327,
     "brightness": 1.0124398432096968,
     "maxBrightness": 9.441257353037303,
     "color": 2.4190031158644683,
     "debrisDiskStrength": 0.9333333333333333
   },
   {
-    "id": "K2-255-neighbourhood",
+    "id": "EPIC 201238110-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 21,
+    "nSystems": 14,
     "centrum": [
-      -230.715829458847,
-      -39.55252022061104,
-      54.0480120335672
+      -239.0180077701935,
+      -20.05643782711828,
+      22.738577974938845
     ],
     "bbox": [
       -296.21889410293585,
-      -87.0763456317193,
+      -48.0841808447338,
       -0.20658179031179927,
-      -165.21276481475812,
+      -181.81712143745114,
       7.9713051904972385,
-      108.3026058574462
+      45.68373774018949
     ],
-    "radius": 194.86124715260624,
-    "brightness": 2.212611439842225,
+    "radius": 67.70506725914748,
+    "brightness": 2.513319493802517,
     "maxBrightness": 7.797950607151154,
-    "color": 1.852218272877857,
+    "color": 1.7885408403808776,
     "debrisDiskStrength": 1
   },
   {
@@ -1235,7 +1327,7 @@
       46.64670462403363,
       -16.24238977098793
     ],
-    "radius": 65.92788635895165,
+    "radius": 32.96394317947583,
     "brightness": 5.534129617314126,
     "maxBrightness": 7.367825133269497,
     "color": 2.5030442264274058,
@@ -1258,14 +1350,14 @@
       -57.244634384310665,
       172.38632933747994
     ],
-    "radius": 82.15734589404244,
+    "radius": 41.07867294702122,
     "brightness": 3.449880575451625,
     "maxBrightness": 5.255648789737155,
     "color": 1.6551702303059133,
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-54-neighbourhood",
+    "id": "K2-58-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 14,
     "centrum": [
@@ -1281,11 +1373,11 @@
       -18.978686375978157,
       93.38653171519783
     ],
-    "radius": 114.68748487219408,
+    "radius": 57.34374243609704,
     "brightness": 1.5055177324993183,
     "maxBrightness": 11.850953288442032,
     "color": 1.982634933437165,
-    "debrisDiskStrength": 0.7857142857142857
+    "debrisDiskStrength": 0.8571428571428571
   },
   {
     "id": "HATS-60-neighbourhood",
@@ -1304,7 +1396,7 @@
       -106.30768376451532,
       174.29380497942603
     ],
-    "radius": 50.30115682753852,
+    "radius": 25.15057841376926,
     "brightness": 3.5428150279990067,
     "maxBrightness": 8.315417866534261,
     "color": 1.8182933251560787,
@@ -1334,27 +1426,27 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "EPIC 211945201-neighbourhood",
+    "id": "HIP 41378-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 33,
+    "nSystems": 37,
     "centrum": [
-      -134.83919774827862,
+      -130.6358128465679,
       52.61138163133795,
-      -149.20371303399256
+      -133.2074642996925
     ],
     "bbox": [
       -184.97620667087256,
       21.76151078905057,
       -204.98250097145993,
-      -84.70218882568467,
+      -76.29541902226322,
       83.46125247362534,
-      -93.42492509652517
+      -61.43242762792508
     ],
-    "radius": 162.19380232873309,
-    "brightness": 1.0922439220682154,
+    "radius": 95.1643253598737,
+    "brightness": 0.46883829269830846,
     "maxBrightness": 10.961399494575979,
-    "color": 1.36863885198489,
-    "debrisDiskStrength": 0.9393939393939394
+    "color": 1.75913812795772,
+    "debrisDiskStrength": 0.8918918918918919
   },
   {
     "id": "EPIC 212297394-neighbourhood",
@@ -1419,7 +1511,7 @@
       -10.691239377860441,
       136.82802626855175
     ],
-    "radius": 103.04956923508203,
+    "radius": 51.524784617541016,
     "brightness": 3.3802834928389576,
     "maxBrightness": 7.176688534947679,
     "color": 1.8428759765085192,
@@ -1449,7 +1541,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-113-neighbourhood",
+    "id": "EPIC 220492298-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -1465,7 +1557,7 @@
       76.0304662485955,
       -178.91252385901436
     ],
-    "radius": 31.57106190991368,
+    "radius": 15.78553095495684,
     "brightness": 4.108538989803798,
     "maxBrightness": 5.013296061199327,
     "color": 1.8072578235759935,
@@ -1488,7 +1580,7 @@
       98.32128120715625,
       -47.71279646544132
     ],
-    "radius": 129.9741030097378,
+    "radius": 64.9870515048689,
     "brightness": 0.7147992109679391,
     "maxBrightness": 9.019997396560662,
     "color": 2.4210571295687364,
@@ -1561,6 +1653,29 @@
     "brightness": 3.8944734059918833,
     "maxBrightness": 3.8944734059918833,
     "color": 1.7149999999999999,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "G 268-110-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 1,
+    "centrum": [
+      912.535326005192,
+      -311.08785649143783,
+      -265.5251858791564
+    ],
+    "bbox": [
+      912.535326005192,
+      -311.08785649143783,
+      -265.5251858791564,
+      912.535326005192,
+      -311.08785649143783,
+      -265.5251858791564
+    ],
+    "radius": 0,
+    "brightness": 4.699999999999999,
+    "maxBrightness": 4.699999999999999,
+    "color": 6.247,
     "debrisDiskStrength": 1
   },
   {
@@ -1650,10 +1765,10 @@
       -242.61112812177657
     ],
     "radius": 0,
-    "brightness": -10.519018604779784,
+    "brightness": -0.6890186047797843,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "HAT-P-13-neighbourhood",
@@ -1702,7 +1817,7 @@
     "debrisDiskStrength": 0
   },
   {
-    "id": "HD 5583-neighbourhood",
+    "id": "HAT-P-19-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -1718,7 +1833,7 @@
       153.00608158535786,
       -27.46419002995007
     ],
-    "radius": 42.95734672852976,
+    "radius": 21.47867336426488,
     "brightness": 0.8386751881503454,
     "maxBrightness": 6.2984048252655285,
     "color": 2.3499834890723204,
@@ -1810,7 +1925,7 @@
       127.88473847299801,
       -203.36430851440963
     ],
-    "radius": 41.37179535456916,
+    "radius": 20.68589767728458,
     "brightness": 5.08988712262953,
     "maxBrightness": 5.934504970335622,
     "color": 2.391676767676391,
@@ -1879,7 +1994,7 @@
       246.3540093970622,
       -102.30359970221363
     ],
-    "radius": 36.885952462836876,
+    "radius": 18.442976231418438,
     "brightness": 3.480468981523493,
     "maxBrightness": 4.343285920410379,
     "color": 1.4853995377695455,
@@ -2139,7 +2254,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "HAT-P-43-neighbourhood",
+    "id": "K2-98-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 4,
     "centrum": [
@@ -2155,7 +2270,7 @@
       134.91611875927575,
       -382.29808370805773
     ],
-    "radius": 89.60663266936916,
+    "radius": 44.80331633468458,
     "brightness": 2.699049496402817,
     "maxBrightness": 5.209992606780961,
     "color": 1.5620110065369326,
@@ -2252,29 +2367,6 @@
     "maxBrightness": 2.4824831928519995,
     "color": 0.8589999999999998,
     "debrisDiskStrength": 1
-  },
-  {
-    "id": "Kepler-1741-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 172,
-    "centrum": [
-      68.67743699582628,
-      194.8585088152871,
-      161.54265197252036
-    ],
-    "bbox": [
-      14.417767502054026,
-      126.9613798341831,
-      75.62933833247531,
-      122.93710648959855,
-      262.7556377963911,
-      247.4559656125654
-    ],
-    "radius": 244.4195517389132,
-    "brightness": -1.13402959444307,
-    "maxBrightness": 10.283697879528095,
-    "color": 2.3969031649297126,
-    "debrisDiskStrength": 0.9767441860465116
   },
   {
     "id": "HAT-P-50-neighbourhood",
@@ -2461,7 +2553,30 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "KELT-1-neighbourhood",
+    "id": "Kepler-131-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 127,
+    "centrum": [
+      56.724238482489994,
+      150.06354993428104,
+      132.1764842929826
+    ],
+    "bbox": [
+      14.417767502054026,
+      64.58902900023374,
+      63.195878056710036,
+      99.03070946292596,
+      235.53807086832833,
+      201.15709052925516
+    ],
+    "radius": 117.70325081512,
+    "brightness": -1.5223447247406408,
+    "maxBrightness": 12.667547372181156,
+    "color": 2.2832428442859225,
+    "debrisDiskStrength": 0.905511811023622
+  },
+  {
+    "id": "HAT-P-6-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -2477,7 +2592,7 @@
       185.90861648344563,
       18.501268849762678
     ],
-    "radius": 25.736864260981427,
+    "radius": 12.868432130490714,
     "brightness": 2.6206242154059503,
     "maxBrightness": 3.487844743067159,
     "color": 1.1737194822393033,
@@ -2500,7 +2615,7 @@
       183.91491359455492,
       -67.95131350991439
     ],
-    "radius": 35.438459566496434,
+    "radius": 17.719229783248217,
     "brightness": 0.771582611922049,
     "maxBrightness": 2.88817104492545,
     "color": 2.8000549799837944,
@@ -2760,7 +2875,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "HATS-1-neighbourhood",
+    "id": "HATS-74-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -2776,7 +2891,7 @@
       -100.21860901465304,
       -17.96241918800086
     ],
-    "radius": 68.5741237479692,
+    "radius": 34.2870618739846,
     "brightness": 4.5188651543274,
     "maxBrightness": 9.878820801645883,
     "color": 1.905337617773955,
@@ -2868,14 +2983,14 @@
       -170.0606060196018,
       276.22277369156876
     ],
-    "radius": 33.70979666535675,
+    "radius": 16.854898332678374,
     "brightness": 4.103361972491861,
     "maxBrightness": 5.785183995441921,
     "color": 1.781998481347717,
     "debrisDiskStrength": 1
   },
   {
-    "id": "HATS-62-neighbourhood",
+    "id": "HATS-14-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -2891,7 +3006,7 @@
       -215.27875200372202,
       351.7536150128718
     ],
-    "radius": 17.235574950067072,
+    "radius": 8.617787475033536,
     "brightness": 4.786535268069814,
     "maxBrightness": 5.57821339250269,
     "color": 2.0379228117937167,
@@ -2960,7 +3075,7 @@
       -295.69100350615884,
       56.982946068648076
     ],
-    "radius": 27.154255752326687,
+    "radius": 13.577127876163344,
     "brightness": 3.132828126275342,
     "maxBrightness": 4.389903892996074,
     "color": 1.4336246315043044,
@@ -3174,7 +3289,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "HATS-49-neighbourhood",
+    "id": "HATS-30-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -3190,7 +3305,7 @@
       -270.0357601337976,
       -16.77761171556955
     ],
-    "radius": 27.589368628920745,
+    "radius": 13.794684314460373,
     "brightness": 4.534028367223364,
     "maxBrightness": 7.432508754500116,
     "color": 1.7078551572703935,
@@ -3259,7 +3374,7 @@
       -204.34460396708516,
       128.47249583431787
     ],
-    "radius": 28.170946253274206,
+    "radius": 14.085473126637103,
     "brightness": 4.797803212209805,
     "maxBrightness": 7.121198831854237,
     "color": 1.8476798686979286,
@@ -3332,6 +3447,29 @@
     "brightness": 4.700525427855148,
     "maxBrightness": 4.700525427855148,
     "color": 1.555000000000001,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "K2-279-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 7,
+    "centrum": [
+      -189.72229940384247,
+      -50.93782868133448,
+      87.19308841557705
+    ],
+    "bbox": [
+      -214.23183399292682,
+      -87.0763456317193,
+      66.08357097370792,
+      -165.21276481475812,
+      -14.79931173094965,
+      108.3026058574462
+    ],
+    "radius": 48.50073628075507,
+    "brightness": 3.75344563164278,
+    "maxBrightness": 7.6551683491387355,
+    "color": 2.0305423211679816,
     "debrisDiskStrength": 1
   },
   {
@@ -4225,7 +4363,7 @@
       224.95633197750496,
       -7.72004880701385
     ],
-    "radius": 83.39818003318398,
+    "radius": 41.69909001659199,
     "brightness": -1.968764304791364,
     "maxBrightness": 0.6839134834707865,
     "color": 3.9022215738694053,
@@ -4370,29 +4508,6 @@
     "debrisDiskStrength": 0
   },
   {
-    "id": "Kepler-1049-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 56,
-    "centrum": [
-      55.393783993687485,
-      109.6867280251266,
-      105.48436316262675
-    ],
-    "bbox": [
-      14.577811509745823,
-      64.58902900023374,
-      63.195878056710036,
-      96.20975647762914,
-      154.78442705001945,
-      147.77284826854347
-    ],
-    "radius": 148.16291087452413,
-    "brightness": -0.7059818741940543,
-    "maxBrightness": 12.667547372181156,
-    "color": 1.8668516865985008,
-    "debrisDiskStrength": 0.8392857142857143
-  },
-  {
     "id": "HD 18742-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 1,
@@ -4416,7 +4531,7 @@
     "debrisDiskStrength": 0
   },
   {
-    "id": "HD 24064-neighbourhood",
+    "id": "HD 19615-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -4432,7 +4547,7 @@
       288.7313262232696,
       -55.417277183562824
     ],
-    "radius": 37.82512259606978,
+    "radius": 18.91256129803489,
     "brightness": -1.3547019089273948,
     "maxBrightness": 0,
     "color": 3.559005396925028,
@@ -4531,7 +4646,7 @@
     "debrisDiskStrength": 0
   },
   {
-    "id": "HD 220074-neighbourhood",
+    "id": "HD 240210-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -4547,7 +4662,7 @@
       312.42943668565,
       43.44371753040663
     ],
-    "radius": 56.96607187426035,
+    "radius": 28.483035937130175,
     "brightness": -1.3807999764741972,
     "maxBrightness": 0.4149234835416582,
     "color": 4.318250308952604,
@@ -4715,7 +4830,7 @@
     "debrisDiskStrength": 0
   },
   {
-    "id": "HD 4760-neighbourhood",
+    "id": "K2-282-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -4731,7 +4846,7 @@
       69.02969047458203,
       -114.16420944071898
     ],
-    "radius": 44.90999739809941,
+    "radius": 22.454998699049703,
     "brightness": -1.1453282362227526,
     "maxBrightness": 5.73132675309099,
     "color": 3.515648738723147,
@@ -4754,7 +4869,7 @@
       4.861973533447083,
       -36.72721732469745
     ],
-    "radius": 62.224749300250004,
+    "radius": 31.112374650125002,
     "brightness": 1.4347509738235846,
     "maxBrightness": 6.288537480328646,
     "color": 2.401342048216208,
@@ -4991,7 +5106,7 @@
     "debrisDiskStrength": 0
   },
   {
-    "id": "HIP 65891-neighbourhood",
+    "id": "HIP 63242-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -5007,7 +5122,7 @@
       -128.3697793785762,
       30.042679861926587
     ],
-    "radius": 22.145172009756816,
+    "radius": 11.072586004878408,
     "brightness": 0.12404537531651126,
     "maxBrightness": 0.8880388862410351,
     "color": 2.377515223887205,
@@ -5083,7 +5198,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-11-neighbourhood",
+    "id": "K2-16-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 12,
     "centrum": [
@@ -5099,7 +5214,7 @@
       26.615917750692734,
       22.25507931468021
     ],
-    "radius": 150.59322699434605,
+    "radius": 75.29661349717303,
     "brightness": 2.550931114938118,
     "maxBrightness": 7.974206752623102,
     "color": 1.8035486123754154,
@@ -5122,14 +5237,14 @@
       104.42462600037344,
       -324.6341700108212
     ],
-    "radius": 71.30553050480826,
+    "radius": 35.65276525240413,
     "brightness": 4.162891153865443,
     "maxBrightness": 6.260898188454048,
     "color": 1.8804967877554413,
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-118-neighbourhood",
+    "id": "K2-269-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 16,
     "centrum": [
@@ -5145,14 +5260,14 @@
       131.93502086321087,
       -220.059274352919
     ],
-    "radius": 122.44798493958228,
+    "radius": 61.22399246979114,
     "brightness": 1.9345324007314337,
     "maxBrightness": 7.6219712585573856,
     "color": 1.6443235485020675,
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-378-neighbourhood",
+    "id": "K2-351-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -5168,7 +5283,7 @@
       -132.65296367418833,
       316.6081776462248
     ],
-    "radius": 33.29644734519873,
+    "radius": 16.648223672599364,
     "brightness": 4.435472031817382,
     "maxBrightness": 6.84114302816187,
     "color": 2.016007195290129,
@@ -5214,7 +5329,7 @@
       -58.0672535758235,
       48.5555296654495
     ],
-    "radius": 13.826074988247582,
+    "radius": 6.913037494123791,
     "brightness": 3.6901042303911864,
     "maxBrightness": 5.019621750688408,
     "color": 1.840023592695215,
@@ -5260,14 +5375,14 @@
       18.991582651649292,
       43.088141449854284
     ],
-    "radius": 37.77479252526335,
+    "radius": 18.887396262631675,
     "brightness": 3.2547997050633897,
     "maxBrightness": 4.459871040005581,
     "color": 1.4968457612420445,
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-169-neighbourhood",
+    "id": "K2-172-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 6,
     "centrum": [
@@ -5283,7 +5398,7 @@
       -40.79405466753623,
       112.23566510849267
     ],
-    "radius": 57.96416097283069,
+    "radius": 28.982080486415345,
     "brightness": 3.3549782201774043,
     "maxBrightness": 7.304229088615646,
     "color": 1.625288606657898,
@@ -5313,7 +5428,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-81-neighbourhood",
+    "id": "K2-86-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 8,
     "centrum": [
@@ -5329,7 +5444,7 @@
       99.01251453286264,
       -187.01209157254647
     ],
-    "radius": 78.58611595053914,
+    "radius": 39.29305797526957,
     "brightness": 2.9429740125849335,
     "maxBrightness": 7.304258832195515,
     "color": 1.9961573138261874,
@@ -5451,7 +5566,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-383-neighbourhood",
+    "id": "K2-379-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -5467,7 +5582,7 @@
       -64.25656500516808,
       189.1602155166286
     ],
-    "radius": 51.45461338753364,
+    "radius": 25.72730669376682,
     "brightness": 4.95225517854723,
     "maxBrightness": 6.962174711925524,
     "color": 2.2182580720653187,
@@ -5491,13 +5606,13 @@
       4607.9342516775505
     ],
     "radius": 0,
-    "brightness": -13.580016718173995,
+    "brightness": -3.750016718173994,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
-    "id": "K2-202-neighbourhood",
+    "id": "K2-382-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -5513,7 +5628,7 @@
       -87.30522456892221,
       292.11963610840365
     ],
-    "radius": 62.39759852672245,
+    "radius": 31.198799263361224,
     "brightness": 4.413324956466919,
     "maxBrightness": 5.9655220442573125,
     "color": 2.0245311880682015,
@@ -5543,7 +5658,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-217-neighbourhood",
+    "id": "K2-218-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 7,
     "centrum": [
@@ -5559,14 +5674,14 @@
       67.83780854454271,
       -73.61798123701035
     ],
-    "radius": 89.92043099586338,
+    "radius": 44.96021549793169,
     "brightness": 2.648934279973187,
     "maxBrightness": 6.524523299964631,
     "color": 1.5719279793375156,
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-215-neighbourhood",
+    "id": "K2-386-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -5582,14 +5697,14 @@
       57.969096740211604,
       -126.9986259991935
     ],
-    "radius": 57.726778045719506,
+    "radius": 28.863389022859753,
     "brightness": 4.1592925800174845,
     "maxBrightness": 6.743013682313043,
     "color": 1.8115387972217945,
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-219-neighbourhood",
+    "id": "K2-221-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -5605,7 +5720,7 @@
       56.40018965157952,
       -71.47802885698273
     ],
-    "radius": 23.335350671645223,
+    "radius": 11.667675335822612,
     "brightness": 4.006572429135318,
     "maxBrightness": 5.0533403235078165,
     "color": 1.686516443597056,
@@ -5720,7 +5835,7 @@
       -35.78039446339639,
       35.92622832585444
     ],
-    "radius": 67.764886168994,
+    "radius": 33.882443084497,
     "brightness": 4.85864983533947,
     "maxBrightness": 7.012523382564138,
     "color": 2.148747267699642,
@@ -5842,7 +5957,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-271-neighbourhood",
+    "id": "K2-335-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -5858,14 +5973,14 @@
       158.68459846557724,
       -413.4378544685277
     ],
-    "radius": 39.90711439957918,
+    "radius": 19.95355719978959,
     "brightness": 3.5278759631621948,
     "maxBrightness": 5.086857224941101,
     "color": 1.38936180083248,
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-272-neighbourhood",
+    "id": "K2-341-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -5881,7 +5996,7 @@
       143.55370827038382,
       -296.83330653787294
     ],
-    "radius": 40.1293385596255,
+    "radius": 20.06466927981275,
     "brightness": 3.5152055059065757,
     "maxBrightness": 5.739964510965921,
     "color": 1.6140473875220673,
@@ -5980,7 +6095,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-290-neighbourhood",
+    "id": "K2-289-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -5996,14 +6111,14 @@
       -74.65209882846979,
       242.3162731563037
     ],
-    "radius": 57.39795660954076,
+    "radius": 28.69897830477038,
     "brightness": 3.898055729252847,
     "maxBrightness": 7.618870961977352,
     "color": 1.9662279329301908,
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-294-neighbourhood",
+    "id": "K2-293-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 4,
     "centrum": [
@@ -6019,7 +6134,7 @@
       -41.19139471827584,
       56.94064117742647
     ],
-    "radius": 92.26882842428414,
+    "radius": 46.13441421214207,
     "brightness": 3.570314452393811,
     "maxBrightness": 5.472179702772328,
     "color": 1.8005248709847068,
@@ -6051,24 +6166,24 @@
   {
     "id": "K2-393-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 4,
+    "nSystems": 7,
     "centrum": [
-      254.36391149077548,
-      -7.20176323795997,
-      44.369155377611975
+      256.14817643528266,
+      -24.612011038686045,
+      36.204081667740425
     ],
     "bbox": [
       229.51561310753928,
-      -20.993511213816138,
-      35.796005304862,
-      279.21220987401165,
+      -55.81400681526829,
+      19.465857885118893,
+      282.780739763026,
       6.5899847378961995,
       52.94230545036195
     ],
-    "radius": 59.36831299411374,
-    "brightness": 4.294712021563518,
+    "radius": 44.30605043608869,
+    "brightness": 3.5366035926558714,
     "maxBrightness": 8.728384073547605,
-    "color": 1.9316052579210097,
+    "color": 1.8956848692708947,
     "debrisDiskStrength": 1
   },
   {
@@ -6141,7 +6256,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-358-neighbourhood",
+    "id": "K2-357-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -6157,7 +6272,7 @@
       155.97412280367342,
       -327.83402712790445
     ],
-    "radius": 46.45067392209328,
+    "radius": 23.22533696104664,
     "brightness": 4.480470805422202,
     "maxBrightness": 5.2914054195095375,
     "color": 1.7560980535551516,
@@ -6210,29 +6325,6 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-413-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 3,
-    "centrum": [
-      268.7649881905651,
-      -46.793918236461366,
-      27.81050405166176
-    ],
-    "bbox": [
-      254.7492366181042,
-      -55.81400681526829,
-      19.465857885118893,
-      282.780739763026,
-      -37.773829657654446,
-      36.155150218204625
-    ],
-    "radius": 37.27929236212845,
-    "brightness": 4.283673200230658,
-    "maxBrightness": 7.7375417399958675,
-    "color": 1.8589175389160277,
-    "debrisDiskStrength": 1
-  },
-  {
     "id": "K2-39-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 1,
@@ -6279,7 +6371,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-396-neighbourhood",
+    "id": "K2-395-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -6295,7 +6387,7 @@
       82.27102365433015,
       -253.16210859426621
     ],
-    "radius": 23.35642245441814,
+    "radius": 11.67821122720907,
     "brightness": 5.921710050521493,
     "maxBrightness": 7.8436570462738615,
     "color": 2.852167461139243,
@@ -6417,7 +6509,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-44-neighbourhood",
+    "id": "K2-46-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -6433,7 +6525,7 @@
       -7.112832270083517,
       -44.875822595069344
     ],
-    "radius": 30.470824278750314,
+    "radius": 15.235412139375157,
     "brightness": 3.12761555937634,
     "maxBrightness": 3.8816224081561916,
     "color": 1.4754045006438292,
@@ -6463,29 +6555,6 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-52-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 1,
-    "centrum": [
-      -373.68268507843777,
-      -438.35731633309894,
-      864.001992005697
-    ],
-    "bbox": [
-      -373.68268507843777,
-      -438.35731633309894,
-      864.001992005697,
-      -373.68268507843777,
-      -438.35731633309894,
-      864.001992005697
-    ],
-    "radius": 0,
-    "brightness": 5.848155691104954,
-    "maxBrightness": 5.848155691104953,
-    "color": 4.077000000000001,
-    "debrisDiskStrength": 1
-  },
-  {
     "id": "K2-59-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 1,
@@ -6509,7 +6578,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "K2-64-neighbourhood",
+    "id": "K2-63-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -6525,7 +6594,7 @@
       -95.51146878519101,
       240.72191349920178
     ],
-    "radius": 26.513006348073137,
+    "radius": 13.256503174036569,
     "brightness": 2.777609282447383,
     "maxBrightness": 5.637623410911207,
     "color": 1.3416921318343338,
@@ -6920,33 +6989,33 @@
     "brightness": 4.711598173658402,
     "maxBrightness": 4.711598173658402,
     "color": -0.7829999999999977,
-    "debrisDiskStrength": 0
+    "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-178-neighbourhood",
+    "id": "Kepler-1385-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 31,
+    "nSystems": 34,
     "centrum": [
       135.0554720019229,
-      518.1042180857587,
-      500.8935146629793
+      525.3450858300697,
+      500.3198941684696
     ],
     "bbox": [
       100.01891920667144,
       479.2223564834779,
-      444.0411946488843,
+      442.8939536598649,
       170.09202479717436,
-      556.9860796880396,
+      571.4678151766616,
       557.7458346770743
     ],
-    "radius": 154.55155106848238,
-    "brightness": 1.3402329954931589,
+    "radius": 81.56350187094233,
+    "brightness": 1.234247907330458,
     "maxBrightness": 7.203620145864878,
-    "color": 1.697834877429535,
+    "color": 1.6934122703264123,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-117-neighbourhood",
+    "id": "KIC 10525077-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 5,
     "centrum": [
@@ -6962,7 +7031,7 @@
       1105.4939812088019,
       939.4618843591248
     ],
-    "radius": 103.53269399783476,
+    "radius": 51.76634699891738,
     "brightness": 1.9907124313598545,
     "maxBrightness": 4.768525987993273,
     "color": 1.375858404232042,
@@ -7008,7 +7077,7 @@
       844.0391610311533,
       967.5827511819705
     ],
-    "radius": 140.5198678277297,
+    "radius": 70.25993391386486,
     "brightness": 1.8925100407832853,
     "maxBrightness": 5.502403068661943,
     "color": 1.66700230472788,
@@ -7031,37 +7100,37 @@
       954.2377393426754,
       881.9859284652999
     ],
-    "radius": 27.40567074383482,
+    "radius": 13.70283537191741,
     "brightness": 2.295583885706237,
     "maxBrightness": 5.185335021352001,
     "color": 1.2238938561087425,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1042-neighbourhood",
+    "id": "Kepler-262-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 144,
+    "nSystems": 163,
     "centrum": [
       174.5792561817869,
-      429.54230203139565,
-      462.0779854191446
+      428.7078208015603,
+      449.6485690044552
     ],
     "bbox": [
       90.2144286490145,
-      359.08628996373886,
-      400.39625402788755,
+      357.41732750406806,
+      375.5374211985088,
       258.94408371455927,
       499.99831409905244,
       523.7597168104016
     ],
-    "radius": 252.0802233300773,
-    "brightness": -0.5520632734715876,
-    "maxBrightness": 7.277152366362332,
-    "color": 1.5870101522152673,
-    "debrisDiskStrength": 0.9791666666666666
+    "radius": 133.012107675764,
+    "brightness": -0.7318574252508268,
+    "maxBrightness": 7.381414551648165,
+    "color": 1.5674216860118166,
+    "debrisDiskStrength": 1
   },
   {
-    "id": "KIC 9663113-neighbourhood",
+    "id": "Kepler-1305-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -7077,7 +7146,7 @@
       1153.4957056525477,
       980.7806685537361
     ],
-    "radius": 20.308703761288356,
+    "radius": 10.154351880644178,
     "brightness": 2.829513501951233,
     "maxBrightness": 4.8472801286158465,
     "color": 1.5596217782730526,
@@ -7101,10 +7170,10 @@
       5503.423497927233
     ],
     "radius": 0,
-    "brightness": -13.996702747267909,
+    "brightness": -4.166702747267907,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2016-BLG-1105L-neighbourhood",
@@ -7124,10 +7193,10 @@
       4546.716583008519
     ],
     "radius": 0,
-    "brightness": -13.529318561419599,
+    "brightness": -3.6993185614195974,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2016-BLG-1107L-neighbourhood",
@@ -7147,10 +7216,10 @@
       5964.583258192214
     ],
     "radius": 0,
-    "brightness": -14.114434739170756,
+    "brightness": -4.284434739170754,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2016-BLG-1337L-neighbourhood",
@@ -7170,10 +7239,10 @@
       5800.681642762601
     ],
     "radius": 0,
-    "brightness": -14.200530472283791,
+    "brightness": -4.370530472283791,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2016-BLG-1397L-neighbourhood",
@@ -7193,10 +7262,10 @@
       5982.063608924821
     ],
     "radius": 0,
-    "brightness": -14.097719677709344,
+    "brightness": -4.2677196777093425,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2016-BLG-1820L-neighbourhood",
@@ -7216,10 +7285,10 @@
       5446.2501309850995
     ],
     "radius": 0,
-    "brightness": -13.982871666052148,
+    "brightness": -4.152871666052148,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2016-BLG-1836L-neighbourhood",
@@ -7239,10 +7308,10 @@
       6143.388396625201
     ],
     "radius": 0,
-    "brightness": -14.256291743595376,
+    "brightness": -4.426291743595376,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0736L-neighbourhood",
@@ -7261,11 +7330,11 @@
       -3439.5895842973828,
       6104.819969548002
     ],
-    "radius": 46.99320118174708,
-    "brightness": -14.979616240425317,
+    "radius": 23.49660059087354,
+    "brightness": -5.149616240425317,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2016-BLG-2321L-neighbourhood",
@@ -7285,10 +7354,10 @@
       3213.2279563328166
     ],
     "radius": 0,
-    "brightness": -12.769415133219372,
+    "brightness": -2.939415133219372,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2016-BLG-2364L-neighbourhood",
@@ -7308,10 +7377,10 @@
       5699.718608192971
     ],
     "radius": 0,
-    "brightness": -14.04442933679906,
+    "brightness": -4.214429336799059,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2016-BLG-2397L-neighbourhood",
@@ -7331,10 +7400,10 @@
       4475.5379447721725
     ],
     "radius": 0,
-    "brightness": -13.442099110013553,
+    "brightness": -3.6120991100135513,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2016-BLG-2605L-neighbourhood",
@@ -7354,10 +7423,10 @@
       5722.041128500929
     ],
     "radius": 0,
-    "brightness": -14.038013349582473,
+    "brightness": -4.208013349582471,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-0165L-neighbourhood",
@@ -7377,10 +7446,10 @@
       3994.7054955158915
     ],
     "radius": 0,
-    "brightness": -13.28049101006416,
+    "brightness": -3.4504910100641606,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-0428L-neighbourhood",
@@ -7400,10 +7469,10 @@
       4744.662382586911
     ],
     "radius": 0,
-    "brightness": -13.661968799114844,
+    "brightness": -3.831968799114842,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-0673L-neighbourhood",
@@ -7423,10 +7492,10 @@
       4203.345123782308
     ],
     "radius": 0,
-    "brightness": -13.529318561419599,
+    "brightness": -3.6993185614195974,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-0849L-neighbourhood",
@@ -7446,10 +7515,10 @@
       6507.085885471244
     ],
     "radius": 0,
-    "brightness": -14.292685987848195,
+    "brightness": -4.462685987848195,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-1003L-neighbourhood",
@@ -7469,10 +7538,10 @@
       6437.380277196658
     ],
     "radius": 0,
-    "brightness": -14.253231175915333,
+    "brightness": -4.4232311759153315,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-1038L-neighbourhood",
@@ -7492,10 +7561,10 @@
       5419.3750144712985
     ],
     "radius": 0,
-    "brightness": -13.89075625191822,
+    "brightness": -4.060756251918219,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-1057L-neighbourhood",
@@ -7515,10 +7584,10 @@
       5993.70106696974
     ],
     "radius": 0,
-    "brightness": -14.064566783214278,
+    "brightness": -4.234566783214278,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-1146L-neighbourhood",
@@ -7538,10 +7607,10 @@
       5441.876285190002
     ],
     "radius": 0,
-    "brightness": -14.064566783214278,
+    "brightness": -4.234566783214278,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-1194L-neighbourhood",
@@ -7561,10 +7630,10 @@
       3821.653226658625
     ],
     "radius": 0,
-    "brightness": -13.136829282963664,
+    "brightness": -3.3068292829636636,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-2197L-neighbourhood",
@@ -7584,10 +7653,10 @@
       6688.12902504177
     ],
     "radius": 0,
-    "brightness": -14.460473013452402,
+    "brightness": -4.6304730134524,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-2331L-neighbourhood",
@@ -7607,10 +7676,10 @@
       6958.3490986158085
     ],
     "radius": 0,
-    "brightness": -14.523577726393405,
+    "brightness": -4.693577726393405,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2017-BLG-2509L-neighbourhood",
@@ -7630,10 +7699,10 @@
       6291.646772193627
     ],
     "radius": 0,
-    "brightness": -14.237863295710563,
+    "brightness": -4.407863295710561,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-0029L-neighbourhood",
@@ -7653,10 +7722,10 @@
       2970.8922089706834
     ],
     "radius": 0,
-    "brightness": -12.644583501388274,
+    "brightness": -2.814583501388272,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-0030L-neighbourhood",
@@ -7676,10 +7745,10 @@
       5693.117516277955
     ],
     "radius": 0,
-    "brightness": -14.057875029352969,
+    "brightness": -4.227875029352967,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-0087L-neighbourhood",
@@ -7699,10 +7768,10 @@
       6177.52062960776
     ],
     "radius": 0,
-    "brightness": -14.231685560649028,
+    "brightness": -4.401685560649026,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-0247L-neighbourhood",
@@ -7722,10 +7791,10 @@
       5988.035194786585
     ],
     "radius": 0,
-    "brightness": -14.14973347970818,
+    "brightness": -4.319733479708178,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-0748L-neighbourhood",
@@ -7745,10 +7814,10 @@
       6276.085111348356
     ],
     "radius": 0,
-    "brightness": -14.316614300602279,
+    "brightness": -4.4866143006022785,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-0885L-neighbourhood",
@@ -7768,10 +7837,10 @@
       6053.297855576716
     ],
     "radius": 0,
-    "brightness": -14.19109610953813,
+    "brightness": -4.3610961095381295,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-1025L-neighbourhood",
@@ -7791,10 +7860,10 @@
       5926.833362884123
     ],
     "radius": 0,
-    "brightness": -14.131993910938089,
+    "brightness": -4.301993910938089,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-1292L-neighbourhood",
@@ -7814,10 +7883,10 @@
       2865.5984830066723
     ],
     "radius": 0,
-    "brightness": -12.695380493963885,
+    "brightness": -2.865380493963885,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-1743L-neighbourhood",
@@ -7837,10 +7906,10 @@
       5792.703257747585
     ],
     "radius": 0,
-    "brightness": -14.058880108014522,
+    "brightness": -4.22888010801452,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-1976L-neighbourhood",
@@ -7860,10 +7929,10 @@
       4732.952702681589
     ],
     "radius": 0,
-    "brightness": -13.832064235561997,
+    "brightness": -4.002064235561997,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-1988L-neighbourhood",
@@ -7883,10 +7952,10 @@
       3363.1597562893394
     ],
     "radius": 0,
-    "brightness": -13.090240483560464,
+    "brightness": -3.260240483560464,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-1990L-neighbourhood",
@@ -7906,10 +7975,10 @@
       895.2852857159776
     ],
     "radius": 0,
-    "brightness": -9.92713237041501,
+    "brightness": -0.0971323704150091,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-1996L-neighbourhood",
@@ -7929,10 +7998,10 @@
       5445.9461436258935
     ],
     "radius": 0,
-    "brightness": -13.857937404406279,
+    "brightness": -4.027937404406279,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2018-BLG-2602L-neighbourhood",
@@ -7952,10 +8021,10 @@
       3992.708908510547
     ],
     "radius": 0,
-    "brightness": -13.172386350803658,
+    "brightness": -3.342386350803656,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-0253L-neighbourhood",
@@ -7975,10 +8044,10 @@
       4259.072875503472
     ],
     "radius": 0,
-    "brightness": -13.45098040014257,
+    "brightness": -3.620980400142569,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-0297L-neighbourhood",
@@ -7998,10 +8067,10 @@
       2703.4805265917853
     ],
     "radius": 0,
-    "brightness": -12.449792397124176,
+    "brightness": -2.619792397124174,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-0298L-neighbourhood",
@@ -8021,10 +8090,10 @@
       5920.618735213933
     ],
     "radius": 0,
-    "brightness": -14.13361260084496,
+    "brightness": -4.303612600844959,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-0335L-neighbourhood",
@@ -8044,10 +8113,10 @@
       6652.145142944472
     ],
     "radius": 0,
-    "brightness": -14.435271890254784,
+    "brightness": -4.605271890254782,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-0371L-neighbourhood",
@@ -8067,10 +8136,10 @@
       5971.1113964504375
     ],
     "radius": 0,
-    "brightness": -14.228590089833295,
+    "brightness": -4.398590089833293,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-0414L-neighbourhood",
@@ -8090,10 +8159,10 @@
       4091.065920267885
     ],
     "radius": 0,
-    "brightness": -13.222192947339193,
+    "brightness": -3.392192947339192,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-0578L-neighbourhood",
@@ -8113,10 +8182,10 @@
       6457.485252520176
     ],
     "radius": 0,
-    "brightness": -14.316614300602279,
+    "brightness": -4.4866143006022785,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-0842L-neighbourhood",
@@ -8136,10 +8205,10 @@
       2877.706788283238
     ],
     "radius": 0,
-    "brightness": -12.605690418520183,
+    "brightness": -2.775690418520183,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-0953L-neighbourhood",
@@ -8159,10 +8228,10 @@
       6316.561316815471
     ],
     "radius": 0,
-    "brightness": -14.286662482156343,
+    "brightness": -4.456662482156341,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-1042L-neighbourhood",
@@ -8182,10 +8251,10 @@
       5849.7112049586585
     ],
     "radius": 0,
-    "brightness": -14.097719677709344,
+    "brightness": -4.2677196777093425,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-1216L-neighbourhood",
@@ -8205,10 +8274,10 @@
       2239.934471811779
     ],
     "radius": 0,
-    "brightness": -12.188752814101939,
+    "brightness": -2.3587528141019387,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-1339L-neighbourhood",
@@ -8228,10 +8297,10 @@
       5505.191139309047
     ],
     "radius": 0,
-    "brightness": -13.933757110727809,
+    "brightness": -4.103757110727807,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-1367L-neighbourhood",
@@ -8251,10 +8320,10 @@
       4050.223955981605
     ],
     "radius": 0,
-    "brightness": -13.346584402830564,
+    "brightness": -3.516584402830562,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-1552L-neighbourhood",
@@ -8274,10 +8343,10 @@
       4077.6640452571337
     ],
     "radius": 0,
-    "brightness": -13.31378915840787,
+    "brightness": -3.4837891584078684,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-1715L-neighbourhood",
@@ -8297,10 +8366,10 @@
       3383.214288756472
     ],
     "radius": 0,
-    "brightness": -12.932936523358778,
+    "brightness": -3.102936523358777,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-1806L-neighbourhood",
@@ -8320,10 +8389,10 @@
       5783.757918398573
     ],
     "radius": 0,
-    "brightness": -14.11084039684009,
+    "brightness": -4.280840396840089,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-1953L-neighbourhood",
@@ -8343,10 +8412,10 @@
       6203.573766924179
     ],
     "radius": 0,
-    "brightness": -14.237863295710563,
+    "brightness": -4.407863295710561,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-2783L-neighbourhood",
@@ -8366,10 +8435,10 @@
       4911.401804445053
     ],
     "radius": 0,
-    "brightness": -13.857937404406279,
+    "brightness": -4.027937404406279,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2019-BLG-2974L-neighbourhood",
@@ -8389,10 +8458,10 @@
       5309.460264599711
     ],
     "radius": 0,
-    "brightness": -13.926649175053836,
+    "brightness": -4.096649175053836,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2020-BLG-0202L-neighbourhood",
@@ -8412,10 +8481,10 @@
       3490.299611119025
     ],
     "radius": 0,
-    "brightness": -12.921656121837655,
+    "brightness": -3.0916561218376537,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2020-BLG-0414L-neighbourhood",
@@ -8435,10 +8504,10 @@
       1071.7081047977692
     ],
     "radius": 0,
-    "brightness": -10.431799153373742,
+    "brightness": -0.6017991533737419,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0119L-neighbourhood",
@@ -8458,10 +8527,10 @@
       2711.006134374505
     ],
     "radius": 0,
-    "brightness": -12.477721687732242,
+    "brightness": -2.6477216877322416,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0171L-neighbourhood",
@@ -8481,10 +8550,10 @@
       3979.627520388592
     ],
     "radius": 0,
-    "brightness": -13.31378915840787,
+    "brightness": -3.4837891584078684,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0192L-neighbourhood",
@@ -8504,10 +8573,10 @@
       4431.236940530623
     ],
     "radius": 0,
-    "brightness": -13.546349804879155,
+    "brightness": -3.7163498048791532,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0240L-neighbourhood",
@@ -8527,10 +8596,10 @@
       5710.372671273339
     ],
     "radius": 0,
-    "brightness": -14.097719677709344,
+    "brightness": -4.2677196777093425,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0320L-neighbourhood",
@@ -8550,10 +8619,10 @@
       5987.7386989988345
     ],
     "radius": 0,
-    "brightness": -14.209924022950569,
+    "brightness": -4.379924022950567,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0322L-neighbourhood",
@@ -8573,10 +8642,10 @@
       5737.690391471466
     ],
     "radius": 0,
-    "brightness": -14.097719677709344,
+    "brightness": -4.2677196777093425,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0712L-neighbourhood",
@@ -8596,10 +8665,10 @@
       2643.3039057157143
     ],
     "radius": 0,
-    "brightness": -12.449792397124176,
+    "brightness": -2.619792397124174,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0748L-neighbourhood",
@@ -8619,10 +8688,10 @@
       5480.512622638688
     ],
     "radius": 0,
-    "brightness": -13.923086463164376,
+    "brightness": -4.093086463164374,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0852L-neighbourhood",
@@ -8642,10 +8711,10 @@
       5985.684016252411
     ],
     "radius": 0,
-    "brightness": -14.295691486472657,
+    "brightness": -4.465691486472656,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0909L-neighbourhood",
@@ -8665,10 +8734,10 @@
       5723.783233733606
     ],
     "radius": 0,
-    "brightness": -14.057875029352969,
+    "brightness": -4.227875029352967,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-0912L-neighbourhood",
@@ -8688,10 +8757,10 @@
       4715.245858482383
     ],
     "radius": 0,
-    "brightness": -13.725373957910287,
+    "brightness": -3.895373957910286,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1077L-neighbourhood",
@@ -8711,10 +8780,10 @@
       6831.0404178136505
     ],
     "radius": 0,
-    "brightness": -14.579636058485582,
+    "brightness": -4.74963605848558,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1105L-neighbourhood",
@@ -8734,10 +8803,10 @@
       4086.071708883378
     ],
     "radius": 0,
-    "brightness": -13.28527926428552,
+    "brightness": -3.4552792642855206,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1150L-neighbourhood",
@@ -8757,10 +8826,10 @@
       3245.760376114551
     ],
     "radius": 0,
-    "brightness": -12.89891798308405,
+    "brightness": -3.0689179830840505,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1253L-neighbourhood",
@@ -8780,10 +8849,10 @@
       5786.706943582217
     ],
     "radius": 0,
-    "brightness": -14.11084039684009,
+    "brightness": -4.280840396840089,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1303L-neighbourhood",
@@ -8803,10 +8872,10 @@
       5474.684686264037
     ],
     "radius": 0,
-    "brightness": -13.98979821868598,
+    "brightness": -4.15979821868598,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1372L-neighbourhood",
@@ -8826,10 +8895,10 @@
       5239.585651038459
     ],
     "radius": 0,
-    "brightness": -13.879871655646845,
+    "brightness": -4.049871655646845,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1391L-neighbourhood",
@@ -8849,10 +8918,10 @@
       5047.2626173915405
     ],
     "radius": 0,
-    "brightness": -13.786980143965122,
+    "brightness": -3.956980143965121,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1547L-neighbourhood",
@@ -8872,10 +8941,10 @@
       4426.831043578617
     ],
     "radius": 0,
-    "brightness": -13.52503979666668,
+    "brightness": -3.6950397966666793,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1554L-neighbourhood",
@@ -8895,10 +8964,10 @@
       6517.832893253849
     ],
     "radius": 0,
-    "brightness": -14.426806100157561,
+    "brightness": -4.5968061001575595,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1689L-neighbourhood",
@@ -8918,10 +8987,10 @@
       6226.066854023256
     ],
     "radius": 0,
-    "brightness": -14.286662482156343,
+    "brightness": -4.456662482156341,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1770L-neighbourhood",
@@ -8941,10 +9010,10 @@
       6142.463373960073
     ],
     "radius": 0,
-    "brightness": -14.200530472283791,
+    "brightness": -4.370530472283791,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-1898L-neighbourhood",
@@ -8964,10 +9033,10 @@
       6109.951998564313
     ],
     "radius": 0,
-    "brightness": -14.194245453686277,
+    "brightness": -4.364245453686275,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-2010L-neighbourhood",
@@ -8987,10 +9056,10 @@
       5991.284815062588
     ],
     "radius": 0,
-    "brightness": -14.253231175915333,
+    "brightness": -4.4232311759153315,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-2294L-neighbourhood",
@@ -9010,10 +9079,10 @@
       5969.5738676093015
     ],
     "radius": 0,
-    "brightness": -14.162544563531183,
+    "brightness": -4.332544563531181,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-2478L-neighbourhood",
@@ -9033,10 +9102,10 @@
       2594.8652446850774
     ],
     "radius": 0,
-    "brightness": -12.363782246586064,
+    "brightness": -2.533782246586062,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2021-BLG-2609L-neighbourhood",
@@ -9056,10 +9125,10 @@
       6586.622673538354
     ],
     "radius": 0,
-    "brightness": -14.369507989322305,
+    "brightness": -4.5395079893223045,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2022-BLG-0303L-neighbourhood",
@@ -9079,10 +9148,10 @@
       6057.987086299133
     ],
     "radius": 0,
-    "brightness": -14.087826847798905,
+    "brightness": -4.2578268477989045,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2022-BLG-0371L-neighbourhood",
@@ -9102,10 +9171,10 @@
       5850.9799967321915
     ],
     "radius": 0,
-    "brightness": -14.268491058880874,
+    "brightness": -4.438491058880873,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2022-BLG-0440L-neighbourhood",
@@ -9125,10 +9194,10 @@
       2958.491501922283
     ],
     "radius": 0,
-    "brightness": -12.720340221751378,
+    "brightness": -2.8903402217513783,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2022-BLG-1013L-neighbourhood",
@@ -9148,10 +9217,10 @@
       6756.019215070144
     ],
     "radius": 0,
-    "brightness": -14.435271890254784,
+    "brightness": -4.605271890254782,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2022-BLG-1551L-neighbourhood",
@@ -9171,10 +9240,10 @@
       6096.509946066348
     ],
     "radius": 0,
-    "brightness": -14.194245453686277,
+    "brightness": -4.364245453686275,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2022-BLG-1790L-neighbourhood",
@@ -9194,10 +9263,10 @@
       5770.956201500464
     ],
     "radius": 0,
-    "brightness": -14.057875029352969,
+    "brightness": -4.227875029352967,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2022-BLG-1818L-neighbourhood",
@@ -9217,10 +9286,10 @@
       4701.507205172665
     ],
     "radius": 0,
-    "brightness": -13.621379348003945,
+    "brightness": -3.791379348003945,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2022-BLG-2076L-neighbourhood",
@@ -9240,10 +9309,10 @@
       4867.4976651816605
     ],
     "radius": 0,
-    "brightness": -13.729275975868646,
+    "brightness": -3.8992759758686457,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2022-BLG-2286L-neighbourhood",
@@ -9263,10 +9332,10 @@
       6410.501370249362
     ],
     "radius": 0,
-    "brightness": -14.32255540529196,
+    "brightness": -4.492555405291958,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-0119L-neighbourhood",
@@ -9286,10 +9355,10 @@
       4447.777645527676
     ],
     "radius": 0,
-    "brightness": -13.665986325532845,
+    "brightness": -3.8359863255328452,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-0416L-neighbourhood",
@@ -9309,10 +9378,10 @@
       5332.757342990346
     ],
     "radius": 0,
-    "brightness": -13.854260058210722,
+    "brightness": -4.02426005821072,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-0466L-neighbourhood",
@@ -9332,10 +9401,10 @@
       5702.444719119138
     ],
     "radius": 0,
-    "brightness": -14.162544563531183,
+    "brightness": -4.332544563531181,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-0469L-neighbourhood",
@@ -9355,10 +9424,10 @@
       6200.198360592074
     ],
     "radius": 0,
-    "brightness": -14.2470970689845,
+    "brightness": -4.417097068984498,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-0548L-neighbourhood",
@@ -9378,10 +9447,10 @@
       6079.674962508488
     ],
     "radius": 0,
-    "brightness": -14.172103518407663,
+    "brightness": -4.342103518407663,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-0735L-neighbourhood",
@@ -9401,10 +9470,10 @@
       5572.822034036157
     ],
     "radius": 0,
-    "brightness": -14.027504290792002,
+    "brightness": -4.197504290792002,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-0830L-neighbourhood",
@@ -9424,10 +9493,10 @@
       6378.849908646243
     ],
     "radius": 0,
-    "brightness": -14.301690032854967,
+    "brightness": -4.471690032854967,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-0949L-neighbourhood",
@@ -9447,10 +9516,10 @@
       5310.892112726976
     ],
     "radius": 0,
-    "brightness": -13.91236312083143,
+    "brightness": -4.082363120831429,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-1431L-neighbourhood",
@@ -9470,10 +9539,10 @@
       5902.850410129271
     ],
     "radius": 0,
-    "brightness": -14.162544563531183,
+    "brightness": -4.332544563531181,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-1454L-neighbourhood",
@@ -9493,10 +9562,10 @@
       6270.923194881638
     ],
     "radius": 0,
-    "brightness": -14.292685987848195,
+    "brightness": -4.462685987848195,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-1642L-neighbourhood",
@@ -9516,10 +9585,10 @@
       6032.244921418612
     ],
     "radius": 0,
-    "brightness": -14.219277113115805,
+    "brightness": -4.389277113115805,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-1743L-neighbourhood",
@@ -9539,10 +9608,10 @@
       6244.108575119938
     ],
     "radius": 0,
-    "brightness": -14.26544764925933,
+    "brightness": -4.435447649259329,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-1866L-neighbourhood",
@@ -9562,10 +9631,10 @@
       5450.09152910843
     ],
     "radius": 0,
-    "brightness": -13.965458000882903,
+    "brightness": -4.135458000882901,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-1896L-neighbourhood",
@@ -9585,10 +9654,10 @@
       4892.6182298917865
     ],
     "radius": 0,
-    "brightness": -13.69786172225046,
+    "brightness": -3.8678617222504585,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000003,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2023-BLG-2209L-neighbourhood",
@@ -9608,10 +9677,10 @@
       4856.407738594834
     ],
     "radius": 0,
-    "brightness": -13.729275975868646,
+    "brightness": -3.8992759758686457,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-0176L-neighbourhood",
@@ -9631,10 +9700,10 @@
       6884.359350597058
     ],
     "radius": 0,
-    "brightness": -14.605830253188694,
+    "brightness": -4.775830253188692,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-0349L-neighbourhood",
@@ -9654,10 +9723,10 @@
       4910.985945475855
     ],
     "radius": 0,
-    "brightness": -13.798339223448153,
+    "brightness": -3.9683392234481527,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-0404L-neighbourhood",
@@ -9677,10 +9746,10 @@
       6367.520836167254
     ],
     "radius": 0,
-    "brightness": -14.289676323597147,
+    "brightness": -4.4596763235971455,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-1005L-neighbourhood",
@@ -9700,10 +9769,10 @@
       6092.878580606962
     ],
     "radius": 0,
-    "brightness": -14.209924022950569,
+    "brightness": -4.379924022950567,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-1044L-neighbourhood",
@@ -9723,10 +9792,10 @@
       6325.564461674307
     ],
     "radius": 0,
-    "brightness": -14.268491058880874,
+    "brightness": -4.438491058880873,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-1209L-neighbourhood",
@@ -9746,10 +9815,10 @@
       3429.025409774419
     ],
     "radius": 0,
-    "brightness": -12.971962751877133,
+    "brightness": -3.1419627518771325,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-1281L-neighbourhood",
@@ -9769,10 +9838,10 @@
       6041.056106221289
     ],
     "radius": 0,
-    "brightness": -14.280622221211503,
+    "brightness": -4.450622221211502,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-1870L-neighbourhood",
@@ -9792,10 +9861,10 @@
       4883.266697732166
     ],
     "radius": 0,
-    "brightness": -13.693902792421845,
+    "brightness": -3.863902792421845,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-2005L-neighbourhood",
@@ -9815,10 +9884,10 @@
       6755.9138032173405
     ],
     "radius": 0,
-    "brightness": -14.438086501678685,
+    "brightness": -4.608086501678683,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-2059L-neighbourhood",
@@ -9838,10 +9907,10 @@
       5330.267220802315
     ],
     "radius": 0,
-    "brightness": -13.915943455376286,
+    "brightness": -4.085943455376286,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-2087L-neighbourhood",
@@ -9861,10 +9930,10 @@
       6270.142467800199
     ],
     "radius": 0,
-    "brightness": -14.283644451914412,
+    "brightness": -4.453644451914412,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000016,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2024-BLG-2242L-neighbourhood",
@@ -9884,10 +9953,10 @@
       6625.620995572394
     ],
     "radius": 0,
-    "brightness": -14.409774856698006,
+    "brightness": -4.579774856698004,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2025-BLG-0121L-neighbourhood",
@@ -9907,10 +9976,10 @@
       5657.070068428654
     ],
     "radius": 0,
-    "brightness": -13.961958447491272,
+    "brightness": -4.13195844749127,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2025-BLG-0481L-neighbourhood",
@@ -9930,10 +9999,10 @@
       6565.003901144093
     ],
     "radius": 0,
-    "brightness": -14.510014456753646,
+    "brightness": -4.680014456753645,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
+    "color": 1.5500000000000007,
+    "debrisDiskStrength": 1
   },
   {
     "id": "KMT-2025-BLG-1616L-neighbourhood",
@@ -9953,132 +10022,109 @@
       6481.193577729095
     ],
     "radius": 0,
-    "brightness": -14.3753063169585,
+    "brightness": -4.5453063169585,
     "maxBrightness": 0,
-    "color": 0,
-    "debrisDiskStrength": 0
-  },
-  {
-    "id": "Kepler-1480-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 24,
-    "centrum": [
-      94.9289317811629,
-      386.0954483687952,
-      336.31751348203113
-    ],
-    "bbox": [
-      64.90434759430222,
-      350.01222825767894,
-      301.19656585937093,
-      124.9535159680236,
-      422.17866847991144,
-      371.4384611046914
-    ],
-    "radius": 117.25110474694543,
-    "brightness": 0.39338554269287296,
-    "maxBrightness": 8.266779383470748,
-    "color": 1.0739276596813956,
-    "debrisDiskStrength": 0.9583333333333334
-  },
-  {
-    "id": "Kepler-1497-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 28,
-    "centrum": [
-      325.0331154525709,
-      821.0655731122723,
-      713.0694884113443
-    ],
-    "bbox": [
-      229.7803769635099,
-      777.8605702138382,
-      652.4875654976639,
-      420.2858539416319,
-      864.2705760107065,
-      773.6514113250246
-    ],
-    "radius": 241.74305242582054,
-    "brightness": 0.8880292883650552,
-    "maxBrightness": 6.136734153224317,
-    "color": 1.644399445079479,
+    "color": 1.5500000000000016,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1420-neighbourhood",
+    "id": "Kepler-1413-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 20,
+    "nSystems": 23,
     "centrum": [
-      373.47814900072785,
-      721.3952992895297,
+      350.13319811651223,
+      863.0662552369931,
+      778.3363689158616
+    ],
+    "bbox": [
+      305.8890530526478,
+      815.0244280967925,
+      715.6042559458735,
+      394.37734318037667,
+      911.1080823771937,
+      841.0684818858496
+    ],
+    "radius": 90.55870761600197,
+    "brightness": 0.9249437663775852,
+    "maxBrightness": 6.136734153224317,
+    "color": 1.5650867652512126,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-1289-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 18,
+    "centrum": [
+      367.11857369951673,
+      720.845118271118,
       713.2377568061397
     ],
     "bbox": [
       326.02832661413316,
-      672.5886940562352,
+      679.9775674721513,
       670.6844524254622,
-      420.9279713873226,
-      770.2019045228243,
+      408.2088207849003,
+      761.7126690700846,
       755.7910611868173
     ],
-    "radius": 160.55346863437902,
-    "brightness": 1.3209297483228457,
+    "radius": 71.89818375702257,
+    "brightness": 1.3735290020127522,
     "maxBrightness": 6.1836936003553244,
-    "color": 1.7040162698701162,
-    "debrisDiskStrength": 0.95
-  },
-  {
-    "id": "Kepler-610-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 109,
-    "centrum": [
-      228.08274447365,
-      600.9435088936025,
-      547.4853093945849
-    ],
-    "bbox": [
-      137.86014878353356,
-      533.3313696814677,
-      470.72527744337475,
-      318.30534016376646,
-      668.5556481057374,
-      624.2453413457949
-    ],
-    "radius": 272.79018052015084,
-    "brightness": -0.5814301157284545,
-    "maxBrightness": 6.685394530621592,
-    "color": 1.6691352963743622,
-    "debrisDiskStrength": 0.981651376146789
-  },
-  {
-    "id": "Kepler-1543-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 20,
-    "centrum": [
-      279.6562165276548,
-      683.9301070263446,
-      549.0151418929256
-    ],
-    "bbox": [
-      230.60988434485537,
-      625.4333245924535,
-      524.066759063495,
-      328.70254871045427,
-      742.4268894602357,
-      573.963524722356
-    ],
-    "radius": 160.62176765939694,
-    "brightness": 1.1209256351342014,
-    "maxBrightness": 6.014711602743111,
-    "color": 1.6335304564719977,
+    "color": 1.6899892434261456,
     "debrisDiskStrength": 1
   },
   {
-    "id": "KOI-2513-neighbourhood",
+    "id": "Kepler-384-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 13,
+    "nSystems": 47,
     "centrum": [
-      367.34176067187946,
+      171.78930064194526,
+      676.0757902559967,
+      586.8301534504711
+    ],
+    "bbox": [
+      121.02592107441293,
+      601.4969663897145,
+      511.3441259757038,
+      222.55268020947756,
+      750.654614122279,
+      662.3161809252385
+    ],
+    "radius": 117.63104189930752,
+    "brightness": 0.39448157235028974,
+    "maxBrightness": 6.5657411864064965,
+    "color": 1.6252342064896894,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-1986-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 25,
+    "centrum": [
+      277.4816584970522,
+      634.0216471219078,
+      611.5113332929569
+    ],
+    "bbox": [
+      231.96489528530662,
+      578.1702990923203,
+      573.5147788061333,
+      322.9984217087977,
+      689.8729951514954,
+      649.5078877797805
+    ],
+    "radius": 81.45481546763443,
+    "brightness": 1.2025554468045898,
+    "maxBrightness": 6.4500706576811435,
+    "color": 1.8640100080410584,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-1557-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 16,
+    "centrum": [
+      387.07044747563134,
       969.5588164895053,
       852.2565267732159
     ],
@@ -10086,66 +10132,89 @@
       327.1656912923684,
       930.2748814779578,
       803.0144139290703,
-      407.5178300513905,
+      446.9752036588943,
       1008.8427515010528,
       901.4986396173614
     ],
-    "radius": 149.42730377189216,
-    "brightness": 1.6159007579304019,
+    "radius": 86.92866639218177,
+    "brightness": 1.448086119231886,
     "maxBrightness": 5.22381649913315,
-    "color": 1.5746443072856409,
+    "color": 1.5790917931921873,
     "debrisDiskStrength": 1
   },
   {
-    "id": "KOI-3680-neighbourhood",
+    "id": "Kepler-377-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 10,
+    "nSystems": 56,
     "centrum": [
-      239.6600774456748,
-      672.1853499647292,
-      613.4730841064833
+      265.1255827669659,
+      546.8010600387564,
+      624.961874169885
     ],
     "bbox": [
-      201.86891635843057,
-      654.497704777963,
-      585.8214601626128,
-      277.45123853291904,
-      689.8729951514954,
-      641.1247080503538
+      207.07445933786823,
+      487.2572787813308,
+      552.8860552199134,
+      323.1767061960636,
+      606.344841296182,
+      697.0376931198567
     ],
-    "radius": 100.11267562717936,
-    "brightness": 2.2621969251469807,
-    "maxBrightness": 6.09759692249766,
-    "color": 1.6053539688917762,
+    "radius": 110.04689225562701,
+    "brightness": -0.059147574153821325,
+    "maxBrightness": 6.877616455251539,
+    "color": 1.4885527192328487,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-770-neighbourhood",
+    "id": "Kepler-1699-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 14,
+    "nSystems": 34,
     "centrum": [
-      203.21673000365448,
-      569.7007305934577,
-      687.2715174083723
+      187.78351295294905,
+      621.9279491377924,
+      495.93294043327467
     ],
     "bbox": [
-      178.79335105200983,
-      523.7572302836039,
-      645.1551556945882,
+      137.86014878353356,
+      575.3002501698476,
+      455.24940510047844,
+      237.70687712236455,
+      668.5556481057374,
+      536.6164757660708
+    ],
+    "radius": 79.50870800240843,
+    "brightness": 0.709122828330315,
+    "maxBrightness": 6.685394530621592,
+    "color": 1.7446497270824937,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-1060-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 8,
+    "centrum": [
+      211.6848228248329,
+      596.6378379987208,
+      706.9099671738486
+    ],
+    "bbox": [
+      195.7295366943667,
+      577.6314450941301,
+      684.4320552255407,
       227.64010895529913,
       615.6442309033115,
       729.3878791221564
     ],
-    "radius": 133.88195672522082,
-    "brightness": 1.5779923977736399,
-    "maxBrightness": 5.920744035123114,
-    "color": 1.7375444826446822,
+    "radius": 33.48239316871786,
+    "brightness": 2.1527052086256675,
+    "maxBrightness": 5.775829797718242,
+    "color": 1.7054481133991652,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1508-neighbourhood",
+    "id": "Kepler-899-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 8,
+    "nSystems": 7,
     "centrum": [
       438.95904459912913,
       843.2280989387816,
@@ -10159,14 +10228,14 @@
       896.5228051337194,
       846.7874321037004
     ],
-    "radius": 131.54157031218233,
-    "brightness": 1.9026947602480695,
-    "maxBrightness": 5.425802864913264,
-    "color": 1.5863850825822894,
+    "radius": 65.77078515609116,
+    "brightness": 1.9458550692244754,
+    "maxBrightness": 5.23466053312303,
+    "color": 1.571483981382328,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-412-neighbourhood",
+    "id": "Kepler-1273-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 11,
     "centrum": [
@@ -10182,7 +10251,7 @@
       799.5083189375434,
       770.5033645988336
     ],
-    "radius": 97.03797490804664,
+    "radius": 48.51898745402332,
     "brightness": 1.533559431474529,
     "maxBrightness": 5.830296374592578,
     "color": 1.4131204403539592,
@@ -10212,53 +10281,30 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1175-neighbourhood",
+    "id": "Kepler-1633-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 21,
+    "nSystems": 17,
     "centrum": [
       258.9566502498205,
-      842.196254534426,
-      772.7948925681687
+      816.0459964401176,
+      750.7073557677004
     ],
     "bbox": [
       218.05195502779813,
       780.4563544323642,
       710.247799106799,
       299.8613454718428,
-      903.9361546364878,
-      835.3419860295386
+      851.6356384478711,
+      791.1669124286018
     ],
-    "radius": 193.87777857489948,
-    "brightness": 0.9479514538684174,
+    "radius": 67.65199505294191,
+    "brightness": 1.135013509100461,
     "maxBrightness": 5.877808849625996,
-    "color": 1.4899282035469754,
+    "color": 1.4559534801385854,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1588-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 29,
-    "centrum": [
-      171.35403747047081,
-      700.6925968157514,
-      555.7837662940846
-    ],
-    "bbox": [
-      121.02592107441293,
-      650.7305795092237,
-      511.3441259757038,
-      221.6821538665287,
-      750.654614122279,
-      600.2234066124654
-    ],
-    "radius": 167.37985667265906,
-    "brightness": 0.8163776582700026,
-    "maxBrightness": 6.220519934208529,
-    "color": 1.623553357866679,
-    "debrisDiskStrength": 1
-  },
-  {
-    "id": "Kepler-843-neighbourhood",
+    "id": "Kepler-1004-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 13,
     "centrum": [
@@ -10274,18 +10320,18 @@
       971.531001974205,
       743.4710441746159
     ],
-    "radius": 173.11970611341374,
+    "radius": 86.55985305670687,
     "brightness": 1.7470887871464456,
     "maxBrightness": 5.446893867531864,
     "color": 1.9841445903283685,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-892-neighbourhood",
+    "id": "Kepler-1604-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 36,
+    "nSystems": 34,
     "centrum": [
-      124.41361176440051,
+      117.47221180140473,
       361.84483037403083,
       403.33788037047236
     ],
@@ -10293,41 +10339,18 @@
       81.39686424744545,
       325.9549554624125,
       376.0878631492839,
-      167.43035928135558,
+      153.547559355364,
       397.73470528564917,
       430.5878975916608
     ],
-    "radius": 124.59674356361225,
-    "brightness": 1.2796533073342695,
+    "radius": 57.7241479873513,
+    "brightness": 1.3359557498886874,
     "maxBrightness": 7.4515184886786265,
-    "color": 1.74886159156921,
+    "color": 1.752103293178028,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-563-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 132,
-    "centrum": [
-      150.50103429498182,
-      424.38568831871146,
-      375.18785882810755
-    ],
-    "bbox": [
-      69.87970291793901,
-      351.3770291904261,
-      311.51169716707324,
-      231.12236567202464,
-      497.3943474469968,
-      438.8640204891418
-    ],
-    "radius": 252.06917260624544,
-    "brightness": -0.5250081824234067,
-    "maxBrightness": 7.5487947864587,
-    "color": 1.5842138809207214,
-    "debrisDiskStrength": 0.9772727272727273
-  },
-  {
-    "id": "Kepler-553-neighbourhood",
+    "id": "Kepler-1390-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 11,
     "centrum": [
@@ -10343,62 +10366,62 @@
       559.22522754148,
       461.4632466457432
     ],
-    "radius": 78.64770409067854,
+    "radius": 39.32385204533927,
     "brightness": 2.4691186700125782,
     "maxBrightness": 5.957313805438314,
     "color": 1.7416867798830022,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1968-neighbourhood",
+    "id": "Kepler-1030-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 59,
+    "nSystems": 27,
     "centrum": [
-      179.70523611511757,
-      560.0609663769886,
-      502.50770438921035
+      215.09552051774705,
+      540.7466550035589,
+      488.51233631112416
     ],
     "bbox": [
-      110.78731949552652,
+      181.56788830078546,
       508.2545900137988,
-      442.8939536598649,
+      452.7583945946688,
       248.62315273470864,
-      611.8673427401785,
-      562.1214551185558
+      573.2387199933189,
+      524.2662780275796
     ],
-    "radius": 209.64139991032226,
-    "brightness": 0.31495938895598313,
+    "radius": 58.806298622157136,
+    "brightness": 1.2357133903167443,
     "maxBrightness": 8.075356070979906,
-    "color": 1.564127528108261,
-    "debrisDiskStrength": 0.9830508474576272
-  },
-  {
-    "id": "Kepler-1287-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 14,
-    "centrum": [
-      192.8911943360965,
-      724.9348239702404,
-      647.5943602819867
-    ],
-    "bbox": [
-      161.76673762682103,
-      686.479924021623,
-      601.9455559522415,
-      224.01565104537198,
-      763.3897239188577,
-      693.2431646117319
-    ],
-    "radius": 134.63022650565657,
-    "brightness": 2.1074994767864377,
-    "maxBrightness": 6.221159189923556,
-    "color": 1.654870341066029,
+    "color": 1.6292433416992296,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-208-neighbourhood",
+    "id": "Kepler-1580-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 48,
+    "nSystems": 24,
+    "centrum": [
+      187.95987700102316,
+      677.6528928024122,
+      707.4811120594914
+    ],
+    "bbox": [
+      135.5495525624088,
+      630.3841935930608,
+      641.1247080503538,
+      240.37020143963753,
+      724.9215920117636,
+      773.8375160686289
+    ],
+    "radius": 96.87282583742896,
+    "brightness": 0.8266827343465742,
+    "maxBrightness": 6.556000000000001,
+    "color": 1.7220728046840588,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-625-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 47,
     "centrum": [
       224.7343831551706,
       500.79148157524037,
@@ -10412,60 +10435,106 @@
       547.9051727572394,
       634.1346661771771
     ],
-    "radius": 222.53778252095822,
-    "brightness": 0.3329340464248829,
+    "radius": 111.26889126047911,
+    "brightness": 0.423947333456064,
     "maxBrightness": 6.966841752367195,
-    "color": 1.5951061238854458,
-    "debrisDiskStrength": 0.9583333333333334
+    "color": 1.6313297396628361,
+    "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1776-neighbourhood",
+    "id": "Kepler-586-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 25,
+    "nSystems": 26,
     "centrum": [
       189.1826493015689,
-      516.9112034009763,
-      416.9517967701097
+      514.8678755042067,
+      409.1728566344368
     ],
     "bbox": [
       135.45917508932862,
-      482.4565453731122,
-      386.2061317471037,
+      478.36988957957317,
+      370.64825147575795,
       242.90612351380915,
       551.3658614288404,
       447.6974617931157
     ],
-    "radius": 141.68459420779945,
-    "brightness": 1.340431310727435,
+    "radius": 75.51463342041797,
+    "brightness": 1.3251744893026998,
     "maxBrightness": 6.7235216615079825,
-    "color": 1.6771219774589496,
+    "color": 1.6824499604072845,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1128-neighbourhood",
+    "id": "Kepler-1985-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 11,
+    "nSystems": 69,
     "centrum": [
-      307.88774487778517,
-      688.9924850576076,
-      802.8449151392578
+      316.8277652420125,
+      650.838386821476,
+      725.3752318208401
     ],
     "bbox": [
-      275.96818203046945,
-      659.6831554354709,
-      755.3767628128696,
-      339.8073077251009,
+      263.21535570259294,
+      583.3749589632077,
+      600.4373961760344,
+      370.44017478143206,
       718.3018146797442,
       850.3130674656459
     ],
-    "radius": 128.54759088437217,
-    "brightness": 1.9634540043719801,
-    "maxBrightness": 6.090053356671538,
-    "color": 1.7581127911704912,
+    "radius": 151.77307841188008,
+    "brightness": -0.08001908420155249,
+    "maxBrightness": 6.4253811147461715,
+    "color": 1.5893107483718034,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1835-neighbourhood",
+    "id": "Kepler-219-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 26,
+    "centrum": [
+      151.47816013065767,
+      581.9494300225983,
+      513.336151740298
+    ],
+    "bbox": [
+      110.78731949552652,
+      552.0315173050182,
+      464.55084836204026,
+      192.16900076578884,
+      611.8673427401785,
+      562.1214551185558
+    ],
+    "radius": 70.21988207537119,
+    "brightness": 1.0472637216613339,
+    "maxBrightness": 6.371988509013507,
+    "color": 1.4810182152020428,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-1953-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 35,
+    "centrum": [
+      121.07394361943884,
+      452.22590887741046,
+      394.8559653325247
+    ],
+    "bbox": [
+      69.87970291793901,
+      407.0574703078242,
+      350.8479101759076,
+      172.26818432093867,
+      497.3943474469968,
+      438.8640204891418
+    ],
+    "radius": 81.22651686786432,
+    "brightness": 0.898664250311884,
+    "maxBrightness": 7.313356189239432,
+    "color": 1.5729531721008514,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-1730-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -10481,33 +10550,33 @@
       1022.1470000501172,
       1009.282314172081
     ],
-    "radius": 83.15934995249913,
+    "radius": 41.579674976249564,
     "brightness": 3.7572468466782585,
     "maxBrightness": 5.370938951125851,
     "color": 1.7498440456408924,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1315-neighbourhood",
+    "id": "Kepler-1161-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 28,
+    "nSystems": 27,
     "centrum": [
-      140.6068791820005,
-      359.96449496625047,
-      291.91380170954926
+      207.6435020506256,
+      426.0919911876258,
+      389.21395931154586
     ],
     "bbox": [
-      106.35147894880716,
-      330.06015139130415,
-      258.9581780955173,
-      174.86227941519385,
-      389.8688385411968,
-      324.86942532358114
+      184.16463842922656,
+      379.93034071686105,
+      357.2504151083526,
+      231.12236567202464,
+      472.2536416583905,
+      421.17750351473916
     ],
-    "radius": 112.31696822073562,
-    "brightness": 1.2640347063047817,
-    "maxBrightness": 7.864334627983721,
-    "color": 1.6021701541579076,
+    "radius": 60.85904344603848,
+    "brightness": 1.46795089211754,
+    "maxBrightness": 7.210474492807366,
+    "color": 1.6608272466495255,
     "debrisDiskStrength": 1
   },
   {
@@ -10527,125 +10596,102 @@
       1192.2020327799196,
       917.4177372615724
     ],
-    "radius": 144.58548275697748,
+    "radius": 72.29274137848874,
     "brightness": 1.8164562738927565,
     "maxBrightness": 4.979360108377348,
     "color": 1.6356706318814729,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1606-neighbourhood",
+    "id": "Kepler-1881-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 30,
     "centrum": [
-      153.20055566069752,
-      620.8436214678215,
-      629.8972649139316
-    ],
-    "bbox": [
-      115.47348663312938,
-      552.5188747782288,
-      580.1833047979089,
-      190.92762468826567,
-      689.1683681574144,
-      679.6112250299542
-    ],
-    "radius": 185.07382935494047,
-    "brightness": 1.3180397461245965,
-    "maxBrightness": 6.5657411864064965,
-    "color": 1.7435132001979272,
-    "debrisDiskStrength": 0.9666666666666667
-  },
-  {
-    "id": "Kepler-1641-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 28,
-    "centrum": [
-      276.5970259879378,
-      539.8691935465515,
-      596.8779874277241
-    ],
-    "bbox": [
-      230.01734577981196,
-      487.2572787813308,
-      552.8860552199134,
-      323.1767061960636,
-      592.4811083117721,
-      640.8699196355346
-    ],
-    "radius": 165.80675840183017,
-    "brightness": 1.0155748810458698,
-    "maxBrightness": 6.877616455251539,
-    "color": 1.534033502015796,
-    "debrisDiskStrength": 1
-  },
-  {
-    "id": "Kepler-1106-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 18,
-    "centrum": [
-      255.99405034405595,
-      728.304228341098,
-      739.2593464008316
+      281.157916943623,
+      739.4047021197539,
+      703.5205904013258
     ],
     "bbox": [
       207.92933006620788,
       689.4424683718868,
-      701.3236670919216,
-      304.05877062190405,
-      767.1659883103092,
+      629.8461550929098,
+      354.38650382103805,
+      789.3669358676211,
       777.1950257097418
     ],
-    "radius": 145.04577881373643,
-    "brightness": 1.435018459427439,
+    "radius": 115.26739849217391,
+    "brightness": 1.02843662191735,
     "maxBrightness": 6.208261895606384,
-    "color": 1.688336780496685,
+    "color": 1.7066900735146346,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-226-neighbourhood",
+    "id": "Kepler-1072-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 52,
+    "nSystems": 55,
     "centrum": [
-      282.3201205065495,
-      756.2691101680921,
+      245.79723487986587,
+      752.0127422559267,
       635.657860386707
     ],
     "bbox": [
-      210.25373719206087,
+      160.74952551221338,
       700.6904801279836,
       572.5677662072699,
-      354.38650382103805,
-      811.8477402082007,
+      330.84494424751836,
+      803.3350043838697,
       698.747954566144
     ],
-    "radius": 221.47602763943817,
-    "brightness": 0.3094389916275913,
-    "maxBrightness": 6.048088810151931,
-    "color": 1.6729486048704008,
-    "debrisDiskStrength": 0.9807692307692307
+    "radius": 117.67517768069959,
+    "brightness": 0.30003384511596143,
+    "maxBrightness": 6.3629999999999995,
+    "color": 1.6801309824882609,
+    "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1469-neighbourhood",
+    "id": "Kepler-315-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 6,
+    "nSystems": 7,
     "centrum": [
-      359.5288445885848,
-      721.0486338744662,
-      819.5251437827292
+      391.9093921583783,
+      783.7319883265628,
+      749.7313044660244
     ],
     "bbox": [
-      354.1133557375291,
+      362.890812929434,
+      770.2019045228243,
+      701.425136945214,
+      420.9279713873226,
+      797.2620721303014,
+      798.0374719868348
+    ],
+    "radius": 57.95366190976461,
+    "brightness": 2.7085633332449155,
+    "maxBrightness": 5.807878651615166,
+    "color": 1.8233198438936413,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-276-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 16,
+    "centrum": [
+      315.5366225386156,
+      742.3561044489243,
+      839.5221908351903
+    ],
+    "bbox": [
+      266.1289116375908,
       703.2046531211383,
       793.0581144707813,
       364.9443334396404,
-      738.892614627794,
-      845.9921730946769
+      781.5075557767103,
+      885.9862671995991
     ],
-    "radius": 64.75303264621809,
-    "brightness": 3.387058500962044,
+    "radius": 78.31263263324033,
+    "brightness": 1.640414691499759,
     "maxBrightness": 5.917820820676788,
-    "color": 1.8579168704034865,
+    "color": 1.691910609913025,
     "debrisDiskStrength": 1
   },
   {
@@ -10672,6 +10718,29 @@
     "debrisDiskStrength": 1
   },
   {
+    "id": "Kepler-670-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 8,
+    "centrum": [
+      254.69341990128606,
+      717.7764303315812,
+      544.0598323072999
+    ],
+    "bbox": [
+      230.60988434485537,
+      693.1259712029267,
+      525.4832781317592,
+      278.7769554577168,
+      742.4268894602357,
+      562.6363864828405
+    ],
+    "radius": 39.15035357679574,
+    "brightness": 2.7175157359538797,
+    "maxBrightness": 6.014711602743111,
+    "color": 1.7190628624694186,
+    "debrisDiskStrength": 1
+  },
+  {
     "id": "Kepler-1078-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 1,
@@ -10695,7 +10764,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-590-neighbourhood",
+    "id": "Kepler-1820-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 5,
     "centrum": [
@@ -10711,14 +10780,14 @@
       1095.5992171630764,
       871.172342512764
     ],
-    "radius": 85.97753743713086,
+    "radius": 42.98876871856543,
     "brightness": 2.080982978054808,
     "maxBrightness": 4.989331461875391,
     "color": 1.5114955939844101,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-294-neighbourhood",
+    "id": "Kepler-1085-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 8,
     "centrum": [
@@ -10734,10 +10803,56 @@
       1000.3353119904057,
       920.1501386581878
     ],
-    "radius": 80.74143533926099,
+    "radius": 40.370717669630494,
     "brightness": 2.6739872817567543,
     "maxBrightness": 5.297738500108288,
     "color": 1.657648604618126,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-724-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 59,
+    "centrum": [
+      242.87473948211624,
+      604.5974975930046,
+      556.4394537138455
+    ],
+    "bbox": [
+      167.444138800466,
+      552.3237979662998,
+      501.1157554430974,
+      318.30534016376646,
+      656.8711972197094,
+      611.7631519845936
+    ],
+    "radius": 107.15888568947658,
+    "brightness": 0.25996837839258874,
+    "maxBrightness": 6.673267059209046,
+    "color": 1.6095650762606781,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-1518-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 10,
+    "centrum": [
+      304.38863195170165,
+      651.4761965737335,
+      558.637580614645
+    ],
+    "bbox": [
+      280.07471519294904,
+      625.4333245924535,
+      543.311636506934,
+      328.70254871045427,
+      677.5190685550136,
+      573.963524722356
+    ],
+    "radius": 38.78507821285884,
+    "brightness": 1.4697730030757084,
+    "maxBrightness": 5.340372951607787,
+    "color": 1.5782860290715852,
     "debrisDiskStrength": 1
   },
   {
@@ -10780,7 +10895,7 @@
       1058.2165406600539,
       826.3130420865264
     ],
-    "radius": 122.95896189233552,
+    "radius": 61.47948094616776,
     "brightness": 2.117731634123628,
     "maxBrightness": 4.899578388745544,
     "color": 1.6001513453650609,
@@ -10803,37 +10918,14 @@
       1265.654157675537,
       1001.4850204805975
     ],
-    "radius": 94.87340206589114,
+    "radius": 47.43670103294557,
     "brightness": 2.179961468039357,
     "maxBrightness": 4.821685366773638,
     "color": 1.464143783352324,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-641-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 54,
-    "centrum": [
-      313.17967155597444,
-      646.0479002367497,
-      675.9023629045439
-    ],
-    "bbox": [
-      255.9191683305168,
-      578.1702990923203,
-      600.4373961760344,
-      370.44017478143206,
-      713.9255013811791,
-      751.3673296330535
-    ],
-    "radius": 233.0759118406699,
-    "brightness": 0.14294132925390365,
-    "maxBrightness": 6.4500706576811435,
-    "color": 1.5144949448615617,
-    "debrisDiskStrength": 1
-  },
-  {
-    "id": "Kepler-34-neighbourhood",
+    "id": "Kepler-1119-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -10849,10 +10941,33 @@
       1265.3804889835599,
       1147.3315609676324
     ],
-    "radius": 46.498260860087335,
+    "radius": 23.249130430043667,
     "brightness": 3.1802813715553118,
     "maxBrightness": 4.071856954636477,
     "color": 1.8450499436481078,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-1429-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 17,
+    "centrum": [
+      246.04823010798623,
+      912.3246287259207,
+      774.9316564182091
+    ],
+    "bbox": [
+      197.42703251859538,
+      869.872695501145,
+      714.5213268068794,
+      294.66942769737705,
+      954.7765619506963,
+      835.3419860295386
+    ],
+    "radius": 88.40585621607246,
+    "brightness": 1.4519066764030106,
+    "maxBrightness": 5.630094805640756,
+    "color": 1.866429514305465,
     "debrisDiskStrength": 1
   },
   {
@@ -10879,30 +10994,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-370-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 14,
-    "centrum": [
-      299.15165932758214,
-      757.4489740518759,
-      849.4196684755964
-    ],
-    "bbox": [
-      251.62347749394706,
-      720.9588378908231,
-      812.8530697515937,
-      346.6798411612172,
-      793.9391102129288,
-      885.9862671995991
-    ],
-    "radius": 140.3933651951614,
-    "brightness": 1.3352540785369582,
-    "maxBrightness": 5.571484176086377,
-    "color": 1.6253204889538488,
-    "debrisDiskStrength": 1
-  },
-  {
-    "id": "Kepler-91-neighbourhood",
+    "id": "Kepler-1135-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 6,
     "centrum": [
@@ -10918,14 +11010,14 @@
       942.4866720445298,
       937.6382549201668
     ],
-    "radius": 72.97976301859238,
+    "radius": 36.48988150929619,
     "brightness": 1.7024215121525148,
     "maxBrightness": 5.591461354126212,
     "color": 2.3630659938228247,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-750-neighbourhood",
+    "id": "Kepler-1372-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 6,
     "centrum": [
@@ -10941,7 +11033,7 @@
       918.930159134176,
       891.4331070001565
     ],
-    "radius": 98.46838408838437,
+    "radius": 49.234192044192184,
     "brightness": 2.277920678090539,
     "maxBrightness": 5.0919113185169635,
     "color": 1.6708785178628784,
@@ -10964,37 +11056,14 @@
       1106.9570698666694,
       1143.8741530798502
     ],
-    "radius": 31.034933394816658,
+    "radius": 15.517466697408329,
     "brightness": 3.760346684781506,
     "maxBrightness": 4.515915734813188,
     "color": 1.5415651016161984,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1618-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 15,
-    "centrum": [
-      350.13319811651223,
-      867.322950727957,
-      797.2295488862411
-    ],
-    "bbox": [
-      305.8890530526478,
-      823.5378190787204,
-      753.3906158866326,
-      394.37734318037667,
-      911.1080823771937,
-      841.0684818858496
-    ],
-    "radius": 152.26994677240052,
-    "brightness": 1.3246892550815306,
-    "maxBrightness": 5.450309392089988,
-    "color": 1.5211653595510934,
-    "debrisDiskStrength": 0.8
-  },
-  {
-    "id": "Kepler-1551-neighbourhood",
+    "id": "Kepler-817-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 6,
     "centrum": [
@@ -11010,37 +11079,37 @@
       968.3556922529153,
       1067.8663243070248
     ],
-    "radius": 87.72460287998331,
+    "radius": 43.862301439991654,
     "brightness": 2.1930430538610874,
     "maxBrightness": 5.109157501667816,
     "color": 1.5719000280595625,
-    "debrisDiskStrength": 0.8333333333333334
+    "debrisDiskStrength": 1
   },
   {
     "id": "Kepler-1836-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 9,
+    "nSystems": 3,
     "centrum": [
-      463.6509459193895,
-      1016.5208198726227,
-      1006.9105039297134
+      431.8927367151704,
+      975.640945848038,
+      1034.3348802774435
     ],
     "bbox": [
       420.142287861343,
       962.9945442317381,
-      967.4539929789817,
-      507.159603977436,
-      1070.0470955135072,
-      1046.3670148804451
+      1027.7882950939565,
+      443.6431855689977,
+      988.2873474643379,
+      1040.8814654609305
     ],
-    "radius": 158.93246070455433,
-    "brightness": 1.6196141433964502,
-    "maxBrightness": 4.796809511700165,
-    "color": 1.530853222577741,
+    "radius": 18.46245649072236,
+    "brightness": 2.2016153076402456,
+    "maxBrightness": 4.717546527816701,
+    "color": 1.3433059945697963,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1165-neighbourhood",
+    "id": "Kepler-1851-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -11056,33 +11125,33 @@
       1136.648935506429,
       1070.7392273045039
     ],
-    "radius": 38.90415917185619,
+    "radius": 19.452079585928097,
     "brightness": 3.2131565223775915,
     "maxBrightness": 4.692273878027153,
     "color": 1.531710831528348,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1739-neighbourhood",
+    "id": "Kepler-1622-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 13,
+    "nSystems": 12,
     "centrum": [
-      235.73202208121768,
-      601.2130022209944,
-      463.13804886568425
+      238.30033418617774,
+      597.0747421017265,
+      466.76166911899213
     ],
     "bbox": [
       209.4872068430076,
       579.4291290133211,
       438.44178327401124,
-      261.9768373194278,
-      622.9968754286679,
-      487.83431445735727
+      267.11346152934783,
+      614.7203551901318,
+      495.081554963973
     ],
-    "radius": 84.21954625834138,
-    "brightness": 1.784660917234786,
+    "radius": 44.08605111406768,
+    "brightness": 1.8689616527882935,
     "maxBrightness": 6.561170999651843,
-    "color": 1.5940994388361636,
+    "color": 1.5853536725829502,
     "debrisDiskStrength": 1
   },
   {
@@ -11102,14 +11171,14 @@
       948.0862104535321,
       1041.6258418391376
     ],
-    "radius": 103.34092086245865,
+    "radius": 51.67046043122932,
     "brightness": 2.6618819810583516,
     "maxBrightness": 4.953577939154215,
     "color": 1.6322666047841965,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1180-neighbourhood",
+    "id": "Kepler-1255-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -11125,33 +11194,33 @@
       1104.222798742244,
       1074.4984486403803
     ],
-    "radius": 76.9711246170149,
+    "radius": 38.48556230850745,
     "brightness": 3.036467885504561,
     "maxBrightness": 4.382743522324018,
     "color": 1.5562215778260144,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-887-neighbourhood",
+    "id": "Kepler-1158-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 15,
+    "nSystems": 6,
     "centrum": [
-      248.23736487863886,
-      579.0139115472156,
-      662.3569805078066
+      481.048421648439,
+      1025.8320191523032,
+      1006.9105039297134
     ],
     "bbox": [
-      211.952570883559,
-      551.6829817982491,
-      627.6762678957565,
-      284.52215887371875,
-      606.344841296182,
-      697.0376931198567
+      454.9372393194419,
+      981.6169427910994,
+      967.4539929789817,
+      507.159603977436,
+      1070.0470955135072,
+      1046.3670148804451
     ],
-    "radius": 114.30341768272613,
-    "brightness": 1.0339546930214567,
-    "maxBrightness": 6.496185824519841,
-    "color": 1.4875476870020488,
+    "radius": 64.75788042123085,
+    "brightness": 2.574647811278956,
+    "maxBrightness": 4.796809511700165,
+    "color": 1.750024036966213,
     "debrisDiskStrength": 1
   },
   {
@@ -11178,7 +11247,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-147-neighbourhood",
+    "id": "Kepler-279-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 4,
     "centrum": [
@@ -11194,7 +11263,7 @@
       665.6472925610641,
       769.8918386109066
     ],
-    "radius": 43.64218110841594,
+    "radius": 21.82109055420797,
     "brightness": 3.2593427679109714,
     "maxBrightness": 5.718723831626413,
     "color": 1.7586039831959752,
@@ -11224,7 +11293,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1494-neighbourhood",
+    "id": "Kepler-1192-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -11240,10 +11309,56 @@
       904.2702152973312,
       918.7721001152944
     ],
-    "radius": 41.66233597276222,
+    "radius": 20.83116798638111,
     "brightness": 3.604115780818379,
     "maxBrightness": 5.281295670548751,
     "color": 1.8139621662784928,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-583-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 12,
+    "centrum": [
+      153.20055566069752,
+      587.5073934145905,
+      626.6487668569002
+    ],
+    "bbox": [
+      115.47348663312938,
+      552.5188747782288,
+      580.1833047979089,
+      190.92762468826567,
+      622.4959120509523,
+      673.1142289158917
+    ],
+    "radius": 69.3294117826878,
+    "brightness": 2.105063518636202,
+    "maxBrightness": 6.344133134963785,
+    "color": 1.7118268237409975,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-645-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 4,
+    "centrum": [
+      271.92007610099216,
+      769.7774374057753,
+      822.3397617534742
+    ],
+    "bbox": [
+      251.62347749394706,
+      745.615764598622,
+      812.8530697515937,
+      292.21667470803726,
+      793.9391102129288,
+      831.8264537553548
+    ],
+    "radius": 32.95050337997864,
+    "brightness": 2.3406754909350456,
+    "maxBrightness": 5.099404131461151,
+    "color": 1.5928993078497895,
     "debrisDiskStrength": 1
   },
   {
@@ -11263,7 +11378,7 @@
       1359.9056703249487,
       1034.9469961242178
     ],
-    "radius": 44.5897518072117,
+    "radius": 22.29487590360585,
     "brightness": 3.016109150566149,
     "maxBrightness": 4.393499632463186,
     "color": 1.5922951926282884,
@@ -11316,29 +11431,6 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1918-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 7,
-    "centrum": [
-      302.7685080271501,
-      675.9359184530263,
-      727.5228064310459
-    ],
-    "bbox": [
-      281.0160568900394,
-      659.7316217499147,
-      704.7035028911495,
-      324.5209591642609,
-      692.140215156138,
-      750.3421099709424
-    ],
-    "radius": 70.8934122795848,
-    "brightness": 2.7595090439975243,
-    "maxBrightness": 5.727748852150242,
-    "color": 1.6182060725227922,
-    "debrisDiskStrength": 1
-  },
-  {
     "id": "Kepler-1225-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 7,
@@ -11355,33 +11447,10 @@
       896.4865844195193,
       1056.5887816884526
     ],
-    "radius": 126.66437747457499,
+    "radius": 63.332188737287495,
     "brightness": 2.0185112044549145,
     "maxBrightness": 4.689635230084923,
     "color": 1.6672699157367386,
-    "debrisDiskStrength": 1
-  },
-  {
-    "id": "Kepler-293-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 16,
-    "centrum": [
-      193.97930407698195,
-      677.6528928024122,
-      713.9017884008363
-    ],
-    "bbox": [
-      147.58840671432637,
-      630.3841935930608,
-      653.9660607330435,
-      240.37020143963753,
-      724.9215920117636,
-      773.8375160686289
-    ],
-    "radius": 178.64754948360633,
-    "brightness": 1.1625287599450478,
-    "maxBrightness": 6.048600962554893,
-    "color": 1.5488090149540437,
     "debrisDiskStrength": 1
   },
   {
@@ -11428,7 +11497,7 @@
     "brightness": 3.7383223945472093,
     "maxBrightness": 3.7383223945472093,
     "color": 1.0370000000000008,
-    "debrisDiskStrength": 0
+    "debrisDiskStrength": 1
   },
   {
     "id": "Kepler-1249-neighbourhood",
@@ -11477,6 +11546,29 @@
     "debrisDiskStrength": 1
   },
   {
+    "id": "Kepler-194-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 17,
+    "centrum": [
+      289.750803506051,
+      814.3219419632678,
+      670.5913014644907
+    ],
+    "bbox": [
+      229.7803769635099,
+      786.0526613952852,
+      626.3444635061546,
+      349.7212300485921,
+      842.5912225312505,
+      714.8381394228268
+    ],
+    "radius": 79.70813605170358,
+    "brightness": 1.4229083150584123,
+    "maxBrightness": 5.904322214005397,
+    "color": 1.6160238292313909,
+    "debrisDiskStrength": 1
+  },
+  {
     "id": "Kepler-947-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
@@ -11493,11 +11585,11 @@
       1172.9959430711872,
       1166.9849329255978
     ],
-    "radius": 60.103712239084665,
+    "radius": 30.051856119542332,
     "brightness": 3.148515887029725,
     "maxBrightness": 4.872790659635527,
     "color": 1.870330516405649,
-    "debrisDiskStrength": 0.6666666666666666
+    "debrisDiskStrength": 1
   },
   {
     "id": "Kepler-584-neighbourhood",
@@ -11516,14 +11608,14 @@
       1258.9967778561852,
       1296.4738126591685
     ],
-    "radius": 71.2976351479741,
+    "radius": 35.64881757398705,
     "brightness": 2.932642356134789,
     "maxBrightness": 4.958009207238458,
     "color": 1.6543585512096861,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1270-neighbourhood",
+    "id": "Kepler-1440-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 5,
     "centrum": [
@@ -11539,14 +11631,14 @@
       866.0825890120108,
       732.5903105198117
     ],
-    "radius": 98.9129614167119,
+    "radius": 49.45648070835595,
     "brightness": 2.5127239544036644,
     "maxBrightness": 5.450189819726015,
     "color": 2.027873646362891,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-952-neighbourhood",
+    "id": "Kepler-1599-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 9,
     "centrum": [
@@ -11562,14 +11654,14 @@
       878.1867380687927,
       960.2903681474047
     ],
-    "radius": 185.76953742332765,
+    "radius": 92.88476871166382,
     "brightness": 2.2162896579136726,
     "maxBrightness": 5.513065408680552,
     "color": 1.6552777379257289,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1279-neighbourhood",
+    "id": "Kepler-700-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -11585,7 +11677,7 @@
       989.7520863709765,
       1082.1720586156139
     ],
-    "radius": 36.422043365449376,
+    "radius": 18.211021682724688,
     "brightness": 2.9201664284579083,
     "maxBrightness": 4.3335052109243914,
     "color": 1.5498058521202007,
@@ -11661,7 +11753,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1290-neighbourhood",
+    "id": "Kepler-502-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -11677,14 +11769,14 @@
       1104.2648188352148,
       1075.0429918669995
     ],
-    "radius": 8.348624405974546,
+    "radius": 4.174312202987273,
     "brightness": 3.680252803309112,
     "maxBrightness": 4.858967136803104,
     "color": 1.6214600829433277,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1292-neighbourhood",
+    "id": "Kepler-799-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -11700,7 +11792,7 @@
       1064.8178424017058,
       1039.02385540653
     ],
-    "radius": 51.39208069980544,
+    "radius": 25.69604034990272,
     "brightness": 3.9602959199163745,
     "maxBrightness": 5.46607564409468,
     "color": 1.7918228794568254,
@@ -11730,7 +11822,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-603-neighbourhood",
+    "id": "Kepler-1764-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -11746,7 +11838,7 @@
       1036.0099662747532,
       1077.9981053317802
     ],
-    "radius": 52.47598380227031,
+    "radius": 26.237991901135153,
     "brightness": 2.800520577488887,
     "maxBrightness": 4.031918175898658,
     "color": 1.817889375539106,
@@ -11769,7 +11861,7 @@
       859.8337171373839,
       1071.8968056635167
     ],
-    "radius": 31.950609820927173,
+    "radius": 15.975304910463587,
     "brightness": 3.8692911146132696,
     "maxBrightness": 5.223711112692447,
     "color": 1.7603297266681892,
@@ -11815,33 +11907,10 @@
       1119.666568447864,
       1245.3744400401
     ],
-    "radius": 25.70857278559917,
+    "radius": 12.854286392799585,
     "brightness": 3.4574547435875083,
     "maxBrightness": 4.65011996057452,
     "color": 1.7432437934276073,
-    "debrisDiskStrength": 1
-  },
-  {
-    "id": "Kepler-664-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 5,
-    "centrum": [
-      273.72139161076393,
-      928.630379205584,
-      752.695036427222
-    ],
-    "bbox": [
-      252.77335552415084,
-      902.4841964604716,
-      721.3419363149969,
-      294.66942769737705,
-      954.7765619506963,
-      784.0481365394472
-    ],
-    "radius": 91.7705829702322,
-    "brightness": 3.261003960700734,
-    "maxBrightness": 5.419042663767293,
-    "color": 1.6907909941158192,
     "debrisDiskStrength": 1
   },
   {
@@ -11861,7 +11930,7 @@
       1083.7626461849402,
       927.2499986983032
     ],
-    "radius": 53.09236360875353,
+    "radius": 26.546181804376765,
     "brightness": 2.775839371031601,
     "maxBrightness": 5.359424217641546,
     "color": 1.6410625228793294,
@@ -11884,7 +11953,7 @@
       818.955953106185,
       620.205527580663
     ],
-    "radius": 52.482625764271354,
+    "radius": 26.241312882135677,
     "brightness": 2.1892236233145472,
     "maxBrightness": 5.044847912360236,
     "color": 1.4708888860515186,
@@ -11937,7 +12006,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1375-neighbourhood",
+    "id": "Kepler-1591-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -11953,7 +12022,7 @@
       996.914546791248,
       941.7910378838315
     ],
-    "radius": 46.28278999342658,
+    "radius": 23.14139499671329,
     "brightness": 2.5501325054744295,
     "maxBrightness": 4.636532913886278,
     "color": 1.6148152818857395,
@@ -11983,29 +12052,6 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-618-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 8,
-    "centrum": [
-      217.66919186378615,
-      911.0889303178506,
-      764.7268269648862
-    ],
-    "bbox": [
-      197.42703251859538,
-      888.0980638289052,
-      714.5213268068794,
-      237.91135120897692,
-      934.0797968067958,
-      814.9323271228931
-    ],
-    "radius": 117.6251198168865,
-    "brightness": 2.082805035161467,
-    "maxBrightness": 5.630094805640756,
-    "color": 1.9993381723664885,
-    "debrisDiskStrength": 1
-  },
-  {
     "id": "Kepler-44-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
@@ -12022,7 +12068,7 @@
       877.4252675919681,
       717.0152256979115
     ],
-    "radius": 29.84598971052781,
+    "radius": 14.922994855263905,
     "brightness": 3.399248503981867,
     "maxBrightness": 4.428917796774126,
     "color": 1.8832516452029573,
@@ -12045,7 +12091,7 @@
       973.2907977703599,
       1029.9387110724742
     ],
-    "radius": 74.57197227117966,
+    "radius": 37.28598613558983,
     "brightness": 2.753762738274731,
     "maxBrightness": 4.462027138912118,
     "color": 1.5921717666807895,
@@ -12098,7 +12144,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-565-neighbourhood",
+    "id": "Kepler-299-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 5,
     "centrum": [
@@ -12114,7 +12160,7 @@
       789.0602678944836,
       687.4556622278131
     ],
-    "radius": 74.21611332860158,
+    "radius": 37.10805666430079,
     "brightness": 3.454948594733451,
     "maxBrightness": 6.0713328689585015,
     "color": 1.7145367787522474,
@@ -12206,7 +12252,7 @@
       1165.310017657866,
       878.7157582792278
     ],
-    "radius": 49.55627061956691,
+    "radius": 24.778135309783455,
     "brightness": 2.3729610922461615,
     "maxBrightness": 4.528971155341441,
     "color": 1.6287177778018975,
@@ -12233,7 +12279,7 @@
     "brightness": 4.348086319630712,
     "maxBrightness": 4.348086319630712,
     "color": 1.6440000000000001,
-    "debrisDiskStrength": 0
+    "debrisDiskStrength": 1
   },
   {
     "id": "Kepler-1432-neighbourhood",
@@ -12298,7 +12344,7 @@
       1593.9819742296836,
       1271.252642929575
     ],
-    "radius": 68.84095907075914,
+    "radius": 34.42047953537957,
     "brightness": 2.9630418500406104,
     "maxBrightness": 4.214074566158402,
     "color": 1.599158259320692,
@@ -12328,7 +12374,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1468-neighbourhood",
+    "id": "Kepler-1924-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -12344,7 +12390,7 @@
       1298.9693253358507,
       1308.7465831025143
     ],
-    "radius": 53.217663539632355,
+    "radius": 26.608831769816177,
     "brightness": 2.945268840650272,
     "maxBrightness": 3.718100757963793,
     "color": 1.6463993032406088,
@@ -12374,7 +12420,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1483-neighbourhood",
+    "id": "Kepler-1607-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 5,
     "centrum": [
@@ -12390,7 +12436,7 @@
       876.3493452602796,
       872.2481291033939
     ],
-    "radius": 91.11175017208748,
+    "radius": 45.55587508604374,
     "brightness": 2.1925211486325615,
     "maxBrightness": 4.1895005116479975,
     "color": 1.7248469485060771,
@@ -12436,7 +12482,7 @@
       1260.5340789951704,
       1176.131557369715
     ],
-    "radius": 29.666247449252634,
+    "radius": 14.833123724626317,
     "brightness": 2.9909607116209997,
     "maxBrightness": 4.350993501740177,
     "color": 1.6227114806057226,
@@ -12459,7 +12505,7 @@
       1531.8448100728115,
       1320.720233552036
     ],
-    "radius": 63.65445389792349,
+    "radius": 31.827226948961744,
     "brightness": 2.7888219161480206,
     "maxBrightness": 4.2207793879641144,
     "color": 1.7151794467417245,
@@ -12551,7 +12597,7 @@
       1463.2264189554357,
       1349.095282671862
     ],
-    "radius": 42.19654894360843,
+    "radius": 21.098274471804213,
     "brightness": 3.3844823550265146,
     "maxBrightness": 4.368127928018488,
     "color": 1.6146644359071312,
@@ -12574,14 +12620,14 @@
       1036.7550051181615,
       1030.28176856324
     ],
-    "radius": 43.23896606625966,
+    "radius": 21.61948303312983,
     "brightness": 2.2184377622649123,
     "maxBrightness": 3.299518154731558,
     "color": 1.279752391967505,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1527-neighbourhood",
+    "id": "Kepler-223-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -12597,10 +12643,33 @@
       1366.276305862456,
       1134.696308864339
     ],
-    "radius": 47.54241285530501,
+    "radius": 23.771206427652505,
     "brightness": 3.306524532513746,
     "maxBrightness": 4.342773868209063,
     "color": 1.7710157382752576,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-1535-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 6,
+    "centrum": [
+      190.21996742170424,
+      549.2204723124077,
+      665.5104894787238
+    ],
+    "bbox": [
+      178.79335105200983,
+      523.7572302836039,
+      645.1551556945882,
+      201.64658379139865,
+      574.6837143412114,
+      685.8658232628594
+    ],
+    "radius": 34.54394114372559,
+    "brightness": 2.5433863414651525,
+    "maxBrightness": 5.920744035123114,
+    "color": 1.7819476551614049,
     "debrisDiskStrength": 1
   },
   {
@@ -12643,7 +12712,7 @@
       1054.6823486368435,
       833.8145765524312
     ],
-    "radius": 27.3017863424085,
+    "radius": 13.65089317120425,
     "brightness": 3.1288857450086294,
     "maxBrightness": 4.482068526633235,
     "color": 1.695839587401367,
@@ -12788,30 +12857,30 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1922-neighbourhood",
+    "id": "Kepler-688-neighbourhood",
     "type": "neighbourhood",
-    "nSystems": 7,
+    "nSystems": 4,
     "centrum": [
-      432.7018506908825,
-      860.2846434957917,
-      947.7164446001168
+      447.13196001360694,
+      876.5608974703091,
+      935.1500645200249
     ],
     "bbox": [
-      402.4991308353404,
-      827.5733847826265,
+      431.35934948078926,
+      860.1258927316613,
       915.5184303946587,
       462.9045705464246,
       892.995902208957,
-      979.9144588055748
+      954.781698645391
     ],
-    "radius": 109.88981485191184,
-    "brightness": 2.384648388118359,
+    "radius": 30.071343205975477,
+    "brightness": 2.8791942258892584,
     "maxBrightness": 5.390097741483576,
-    "color": 1.6807112533909325,
+    "color": 1.584555722759134,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1631-neighbourhood",
+    "id": "Kepler-644-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -12827,7 +12896,7 @@
       907.1708020135542,
       863.2163943461162
     ],
-    "radius": 19.810813751207935,
+    "radius": 9.905406875603967,
     "brightness": 3.2186679224852055,
     "maxBrightness": 5.093300742262789,
     "color": 1.5479910822774796,
@@ -12857,7 +12926,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1960-neighbourhood",
+    "id": "Kepler-490-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 4,
     "centrum": [
@@ -12873,7 +12942,7 @@
       1143.9406700104785,
       982.9988963020628
     ],
-    "radius": 78.02689212526295,
+    "radius": 39.01344606263147,
     "brightness": 2.5863943547813073,
     "maxBrightness": 4.423483345266257,
     "color": 1.5525421397430161,
@@ -12900,29 +12969,6 @@
     "brightness": 3.406692134923757,
     "maxBrightness": 3.406692134923757,
     "color": 1.674999999999999,
-    "debrisDiskStrength": 1
-  },
-  {
-    "id": "Kepler-1819-neighbourhood",
-    "type": "neighbourhood",
-    "nSystems": 3,
-    "centrum": [
-      431.89076710423905,
-      979.491510050809,
-      832.5029870540127
-    ],
-    "bbox": [
-      416.8063305495838,
-      962.3311110023305,
-      822.6522857426005,
-      446.9752036588943,
-      996.6519090992874,
-      842.3536883654249
-    ],
-    "radius": 49.76166548664133,
-    "brightness": 3.5581491007735333,
-    "maxBrightness": 5.163552915447022,
-    "color": 1.6053259630101258,
     "debrisDiskStrength": 1
   },
   {
@@ -12969,7 +13015,7 @@
     "brightness": 4.734417599355979,
     "maxBrightness": 4.734417599355979,
     "color": 2.0650000000000013,
-    "debrisDiskStrength": 0
+    "debrisDiskStrength": 1
   },
   {
     "id": "Kepler-1708-neighbourhood",
@@ -13018,7 +13064,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-940-neighbourhood",
+    "id": "Kepler-1044-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -13034,7 +13080,7 @@
       960.4129277439118,
       792.949080668774
     ],
-    "radius": 51.96975916219594,
+    "radius": 25.98487958109797,
     "brightness": 2.5879744719013855,
     "maxBrightness": 5.223803445491393,
     "color": 1.7716149043905665,
@@ -13087,7 +13133,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-177-neighbourhood",
+    "id": "Kepler-611-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 3,
     "centrum": [
@@ -13103,7 +13149,7 @@
       1049.3326483743783,
       974.5528684515288
     ],
-    "radius": 64.95219777667975,
+    "radius": 32.47609888833988,
     "brightness": 3.2396822236448113,
     "maxBrightness": 5.227143580782659,
     "color": 1.7413827075040311,
@@ -13149,7 +13195,7 @@
       919.4417434908465,
       948.4329107035718
     ],
-    "radius": 31.618135261615308,
+    "radius": 15.809067630807654,
     "brightness": 4.185176853009035,
     "maxBrightness": 4.991926611944255,
     "color": 1.9468437414295985,
@@ -13195,14 +13241,14 @@
       1109.2504565931567,
       1312.9769917612257
     ],
-    "radius": 36.909434530685076,
+    "radius": 18.454717265342538,
     "brightness": 3.618875245978903,
     "maxBrightness": 4.713384045678739,
     "color": 1.872409143341389,
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-1847-neighbourhood",
+    "id": "Kepler-832-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -13218,7 +13264,7 @@
       1201.6516476357817,
       1083.4890896986003
     ],
-    "radius": 34.76609138519647,
+    "radius": 17.383045692598234,
     "brightness": 4.1206829878221125,
     "maxBrightness": 4.882612437972405,
     "color": 1.8194776654496327,
@@ -13248,7 +13294,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-708-neighbourhood",
+    "id": "Kepler-302-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 4,
     "centrum": [
@@ -13264,7 +13310,7 @@
       967.7648685615363,
       949.6970680244783
     ],
-    "radius": 77.36759646458412,
+    "radius": 38.68379823229206,
     "brightness": 3.439096637750963,
     "maxBrightness": 4.985248195041644,
     "color": 1.7197236421473385,
@@ -13314,6 +13360,29 @@
     "brightness": 4.209469999265252,
     "maxBrightness": 4.209469999265252,
     "color": 1.475999999999999,
+    "debrisDiskStrength": 1
+  },
+  {
+    "id": "Kepler-1922-neighbourhood",
+    "type": "neighbourhood",
+    "nSystems": 3,
+    "centrum": [
+      415.26252751723825,
+      840.5981261254873,
+      970.7498701433863
+    ],
+    "bbox": [
+      402.4991308353404,
+      827.5733847826265,
+      961.5852814811977,
+      428.02592419913617,
+      853.6228674683481,
+      979.9144588055748
+    ],
+    "radius": 20.409259350966757,
+    "brightness": 3.47634596888948,
+    "maxBrightness": 4.745535160079692,
+    "color": 1.829525027802043,
     "debrisDiskStrength": 1
   },
   {
@@ -13402,7 +13471,7 @@
       1095.8420246496876,
       1228.5593058376376
     ],
-    "radius": 37.2561075871746,
+    "radius": 18.6280537935873,
     "brightness": 3.5943953435218567,
     "maxBrightness": 4.7417815018843985,
     "color": 1.7674534892985616,
@@ -13494,7 +13563,7 @@
       1078.753693459388,
       1269.9773598224167
     ],
-    "radius": 56.9863228169664,
+    "radius": 28.4931614084832,
     "brightness": 3.2184325367475015,
     "maxBrightness": 4.552881888694625,
     "color": 1.7751316902917194,
@@ -13701,7 +13770,7 @@
       982.13389436876,
       987.2112247155441
     ],
-    "radius": 67.34149700747638,
+    "radius": 33.67074850373819,
     "brightness": 2.385826516399666,
     "maxBrightness": 5.008352352829359,
     "color": 1.499680632532597,
@@ -13816,7 +13885,7 @@
       1243.542579989969,
       1076.460903316005
     ],
-    "radius": 50.517662618693166,
+    "radius": 25.258831309346583,
     "brightness": 3.4163181581622637,
     "maxBrightness": 4.262152217081837,
     "color": 1.5644073996812158,
@@ -14099,7 +14168,7 @@
     "debrisDiskStrength": 1
   },
   {
-    "id": "Kepler-729-neighbourhood",
+    "id": "Kepler-730-neighbourhood",
     "type": "neighbourhood",
     "nSystems": 2,
     "centrum": [
@@ -14115,7 +14184,7 @@
       1382.0331645929973,
       1304.7818458996264
     ],
-    "radius": 24.174292454640604,
+    "radius": 12.087146227320302,
     "brightness": 3.49172777881909,
     "maxBrightness": 4.348550265370761,
     "color": 1.5759308377670034,
