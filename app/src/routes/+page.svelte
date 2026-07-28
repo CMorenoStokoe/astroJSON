@@ -6,6 +6,8 @@
 	import { simulationSettings } from '../lib/config/settings';
 	import { setSettings } from '$lib/contexts/settings';
 
+	const DATABASE_DEPLOYMENT_MODE: 'local' | 'neo4j' = 'local';
+
 	let pageData = $state<App.PageData>();
 
 	// Global settings context
@@ -14,12 +16,15 @@
 
 	// Handlers
 	const handleLoadSystem = async (systemName: string) => {
-		const response = await fetch('/api/neo4j', {
-			method: 'POST',
-			body: JSON.stringify({ systemName })
-		});
+		const response = await fetch(
+			DATABASE_DEPLOYMENT_MODE === 'local' ? '/api/local' : '/api/neo4j',
+			{
+				method: 'POST',
+				body: JSON.stringify({ systemName })
+			}
+		);
 		pageData = await response.json();
-		console.log(`Got system data for ${systemName}`, pageData);
+		console.log(`Got system data for ${systemName}`, $state.snapshot(pageData));
 	};
 
 	// Lifecycle
