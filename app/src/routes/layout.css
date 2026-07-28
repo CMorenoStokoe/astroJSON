@@ -41,3 +41,8 @@ body {
 	font-weight: 300;
 	background: black;
 }
+
+/* Keep WebGL transparent/clear fallback from showing white in production */
+:global(canvas) {
+	background: black;
+}

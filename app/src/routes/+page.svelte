@@ -34,7 +34,7 @@
 </script>
 
 <!-- 3d visualisation -->
-<div class="relative h-full max-h-full w-full max-w-full overflow-hidden">
+<div class="relative h-full max-h-full w-full max-w-full overflow-hidden bg-black">
 	<SystemSearch currentSystemName={pageData?.system?.name} {handleLoadSystem} />
 	{#if pageData}
 		<Canvas {pageData} {handleLoadSystem} />

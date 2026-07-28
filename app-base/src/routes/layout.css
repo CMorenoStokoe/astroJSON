@@ -11,4 +11,10 @@ html,
 body {
 	height: 100%;
 	width: 100%;
+	background: black;
+}
+
+/* Keep WebGL transparent/clear fallback from showing white */
+:global(canvas) {
+	background: black;
 }
