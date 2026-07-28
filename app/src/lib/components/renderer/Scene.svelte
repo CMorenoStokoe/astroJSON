@@ -1,13 +1,19 @@
 <script lang="ts">
-	import { T } from '@threlte/core';
+	import { T, useThrelte } from '@threlte/core';
 	import { interactivity, OrbitControls } from '@threlte/extras';
 	import Planet from './planet/Planet.svelte';
 	import Star from './star/Star.svelte';
 	import VisibleSystemsSkybox from './skybox/VisibleSystemsSkybox.svelte';
 	import { getSettings } from '$lib/contexts/settings';
 	import { spaceOutMultiStarSystem } from './common/spaceOutMultiStarSystem';
+	import { Color } from 'three';
 	let settings = getSettings();
 	interactivity();
+
+	const { scene, invalidate } = useThrelte();
+
+	scene.background = new Color('black');
+	invalidate();
 
 	let {
 		pageData,
@@ -29,9 +35,6 @@
 </script>
 
 <!-- ### Canvas utilities ### -->
-
-<!-- Black background -->
-<T.Color attach="background" args={['black']} />
 
 <!-- User perspective camera -->
 <T.PerspectiveCamera

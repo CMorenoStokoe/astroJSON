@@ -8,6 +8,6 @@
 	}: { pageData: App.PageData; handleLoadSystem: (systemId: string) => void } = $props();
 </script>
 
-<Canvas>
+<Canvas renderMode="always">
 	<Scene {pageData} {handleLoadSystem} />
 </Canvas>
